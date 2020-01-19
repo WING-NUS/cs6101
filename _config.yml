@@ -1,9 +1,7 @@
 theme: jekyll-theme-midnight
-
 title: WING Reading Group
 description: Fri 13:00-15:00 @ MR6
 show_downloads: false
 google_analytics:  UA-9594235-3
-
 github:
   is_project_page: false
