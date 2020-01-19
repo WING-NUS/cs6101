@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# WING Reading Group (CS6101-1920)
+
+### Fri 13:00-15:00 @ MR6 (AS6 #05-10)
 
 You can use the [editor on GitHub](https://github.com/WING-NUS/CS6101-1920.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
