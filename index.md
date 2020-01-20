@@ -21,10 +21,6 @@ External guests will be listed here in due course once the course has started. P
 
 ## Schedule
 
-<style type="text/css">
-  td { padding:5px; }
-</style>
-
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="60%">Description</th><th>Deadlines</th></tr></thead>
 <tbody>
