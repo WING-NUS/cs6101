@@ -45,24 +45,25 @@ External guests will be listed here in due course once the course has started. P
 <thead class="thead-inverse"><tr><th>Date</th><th width="60%">Description</th><th>Deadlines</th></tr></thead>
 <tbody>
 <tr>
-  <td><b>Week 1</b><br />15 Aug
+  <td><b>NUS Week 3</b><br />31 Jan
   </td>
   <td>
   <strong>
-Motivation / Likelihood-based Models Part I: Autoregressive Models
-  </strong>
+Topic 1
+    </strong>
 <br />
-  [&nbsp;«&nbsp;<a href="#" data-toggle="#div1">Recording&nbsp;@&nbsp;YouTube&nbsp;</a>&nbsp;]
+<!--  [&nbsp;«&nbsp;<a href="#" data-toggle="#div1">Recording&nbsp;@&nbsp;YouTube&nbsp;</a>&nbsp;]
 <div id="div1" style="display:none">
   <iframe width="700" height="500" src="https://www.youtube.com/embed/i4Y5e9f2gcE" frameborder="0" allow="accelero\
 meter; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
+-->
   </td>
   <td>
   </td>
 </tr>
 <tr>
-  <td><b>Week 2</b><br />22 Aug
+  <td><b>NUS Week 4</b><br />7 Feb
   </td>
   <td>
   <strong>
@@ -79,146 +80,100 @@ meter; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
   </td>
 </tr>
 <tr>
-  <td><b>Week 3</b><br />29 Aug
+  <td><b>NUS Week 5</b><br />14 Feb
   </td>
   <td><strong>
 Lossless Compression / Flow Models
   </strong>
 <br />
-  [&nbsp;«&nbsp;<a href="#" data-toggle="#div3">Recording&nbsp;@&nbsp;YouTube&nbsp;</a>&nbsp;]
-<div id="div3" style="display:none">
-  <iframe width="700" height="500" src="https://www.youtube.com/embed/l9aX_tHJGek" frameborder="0" allow="accelero\
-meter; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
   </td>
   <td>
   </td>
 </tr>
 <tr>
-  <td><b>Week 4</b><br />5 Sep
+  <td><b>NUS Week 6</b><br />21 Feb
   </td>
   <td>
   <strong>
-Lecture 3a: Likelihood-based Models Part II: Flow Models (ctd) (same slides as week 2) /
-Lecture 3b: Latent Variable Models - part 1 
   </strong>
 </td>
   <td>
 </td>
 </tr>
 <tr>
-  <td><b>Week 5</b><br />12 Sep
+  <td><b>NUS Week Recess</b><br />28 Feb
   </td>
   <td>
   <strong>
-Lecture 4a: Latent Variable Models - part 2 /
-Lecture 4b: Bits-Back Coding
   </strong>
   </td>
   <td>
   </td>
 </tr>
 <tr>
-  <td><b>Week 6</b><br />19 Sep
+  <td><b>NUS Week 7</b><br />6 Mar
   </td>
   <td>
   <strong>
-Lecture 5a: Latent Variable Models - wrap-up (same slides as Latent Variable Models - part 2) /
-Lecture 5b: ANS coding (same slides as bits-back coding) / 
-Lecture 5c: Implicit Models / Generative Adversarial Networks
   </strong>
-<td>Preliminary project titles and team members due on Slack's <code>#projects</code></td>
-&lt;/tr&gt;
+<td></td>
 <tr>
-  <td><b>Recess Week</b><br />26 Sep
+  <td><b>NUS Week 8</b><br />13 Mar
   </td>
   <td>
   <strong>
-Lecture 6a: Implicit Models / Generative Adversarial Networks (ctd) (same slides as 5c) /
-Lecture 6b: Non-Generative Representation Learning [UPDATED 3/24]
   </strong>
 </td>
   <td>
   </td>
 </tr>
 <tr>
-  <td><b>Week 7</b><br />3 Oct
+  <td><b>NUS Week 9</b><br />20 Mar
   </td>
   <td>
   <strong>
-Lecture 7: Non-Generative Representation Learning (same slides as 6b)
   </strong>
 </td>
-  <td>Preliminary abstracts due to <code>#projects</code>
-  </td>
+  <td></td>
 </tr>
 <tr>
-  <td><b>Week 8</b><br />10 Oct
+  <td><b>NUS Week 10</b><br />27 Mar
   </td>
   <td>
   <strong>
-Lecture 8a: Strengths/Weaknesses of Unsupervised Learning Methods Covered Thus Far /
-Lecture 8b: Semi-Supervised Learning /
-Lecture 8c: Guest Lecture by Ilya Sutskever
   </strong>
   </td>
   <td>
   </td>
 </tr>
 <tr>
-  <td><b>Week 9</b><br />17 Oct
+  <td><b>NUS Week 11</b><br />3 Apr
   </td>
   <td>
   <strong>
-Lecture 9a: Unsupervised Distribution Alignment /
-Lecture 9b: Guest Lecture by Alyosha Efros
   </strong>
   </td>
   <td>
   </td>
 </tr>
 <tr>
-  <td><b>Week 10</b><br />24 Oct
+  <td><b>NUS Week 12</b><br />10 Apr
   </td>
   <td>
     <strong>
-Lecture 10: Language Models (Alec Radford)
-  </strong>
+    </strong>
 </td>
   <td>
   </td>
 </tr>
 <tr>
-  <td><b>Week 11</b><br />31 Oct
+  <td><b>NUS Week 13</b><br />17 Apr
   </td>
   <td>
-<strong>
-<em>No lecture due to the <a href="https://wing.comp.nus.edu.sg/~ssnlp/">Singapore Symposium on Natural Language Processing</a> (SSNLP '19).</em>
-  </strong>
+    <strong>
+    </strong>
 </td>
   <td>
-  </td>
-</tr>
-<tr>
-  <td><b>Week 12</b><br />7 Nov
-  </td>
-  <td>
-  <strong>
-Lecture 11: Representation Learning in Reinforcement Learning
-  </strong>
-  </td>
-  <td>
-  </td>
-</tr>
-<tr>
-  <td><b>Week 13</b><br />14 Nov
-  </td>
-  <td>
-  <strong>
-  TBA
-  </strong>
-  </td>
-  <td>Participation on evening of 15th STePS
   </td>
 </tr>
 </td></tr></tbody></table>
