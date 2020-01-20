@@ -1,29 +1,15 @@
 # WING Reading Group (CS6101-1920)
 ### Fri 13:00-15:00 @ MR6 (AS6 #05-10)
 
+<!--
 <img title="Photo by Sarah Lee on Unsplash" alt="Photo by Sarah Lee on Unsplash" src="img/hisarahlee.png" class="img-fluid" style="float:left" height="150" /
+-->
 
 Our reading group will be conducted as a group seminar, with class participants nominating themselves and presenting the materials and leading the discussion. 
 
 <a href="http://cs6101.slack.com/">A mandatory discussion group is on Slack</a>. Students and guests, please login when you are free. If you have a @comp.nus.edu.sg, @u.nus.edu, @nus.edu.sg, @a-star.edu.sg, @dsi.a-star.edu.sg or @i2r.a-star.edu.sg. email address you can create your Slack account for the group discussion without needing an invite.
 
 **For interested public participants**, please send Min an email at ```kanmy@comp.nus.edu.sg``` if you need an invite to the Slack group.  The Slack group is being reused from previous semesters.  Once you are in the Slack group, you can consider yourself registered for the course.
-
-1. Embeddings
-1. Pretraining 
-1. Transformer and BERT 
-2. Graph Based Models 
-1. Multimodal Models
-1. Recommendation Systems
-1. Semantic Analysis
-1. Text Summarization
-1. Named Entity Recognition/ Information Extraction
-1. Machine Reading Comprehension
-1. Neural Machine Translation
-1. Dialogue 
-1. Entity Linking 
-1. Knowledge Graph
-1. Neural Question Generation
 
 ## People
 
@@ -39,8 +25,6 @@ External guests will be listed here in due course once the course has started. P
   td { padding:5px; }
 </style>
 
-<h2 id="schedule">Schedule</h2>
-
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="60%">Description</th><th>Deadlines</th></tr></thead>
 <tbody>
@@ -49,7 +33,7 @@ External guests will be listed here in due course once the course has started. P
   </td>
   <td>
   <strong>
-Topic 1
+Embeddings / Pretraining 
     </strong>
 <br />
 <!--  [&nbsp;«&nbsp;<a href="#" data-toggle="#div1">Recording&nbsp;@&nbsp;YouTube&nbsp;</a>&nbsp;]
@@ -66,15 +50,10 @@ meter; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
   <td><b>NUS Week 4</b><br />7 Feb
   </td>
   <td>
-  <strong>
-Likelihood-based Models: Autoregressive Models / Flow Models
-  </strong>
+    <strong>
+    Transformer and BERT 
+    </strong>
 <br />
-  [&nbsp;«&nbsp;<a href="#" data-toggle="#div2">Recording&nbsp;@&nbsp;YouTube&nbsp;</a>&nbsp;]
-<div id="div2" style="display:none">
-  <iframe width="700" height="500" src="https://www.youtube.com/embed/_jm5tdV3CXs" frameborder="0" allow="accelero\
-meter; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
   </td>
   <td>
   </td>
@@ -83,7 +62,7 @@ meter; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
   <td><b>NUS Week 5</b><br />14 Feb
   </td>
   <td><strong>
-Lossless Compression / Flow Models
+    Graph Based Models 
   </strong>
 <br />
   </td>
@@ -95,6 +74,7 @@ Lossless Compression / Flow Models
   </td>
   <td>
   <strong>
+    Multimodal Models
   </strong>
 </td>
   <td>
@@ -104,7 +84,8 @@ Lossless Compression / Flow Models
   <td><b>NUS Week Recess</b><br />28 Feb
   </td>
   <td>
-  <strong>
+  <strong> 
+    Recommendation Systems
   </strong>
   </td>
   <td>
@@ -115,6 +96,7 @@ Lossless Compression / Flow Models
   </td>
   <td>
   <strong>
+    Semantic Analysis
   </strong>
 <td></td>
 <tr>
@@ -122,6 +104,7 @@ Lossless Compression / Flow Models
   </td>
   <td>
   <strong>
+    Text Summarization
   </strong>
 </td>
   <td>
@@ -132,6 +115,7 @@ Lossless Compression / Flow Models
   </td>
   <td>
   <strong>
+    Named Entity Recognition/ Information Extraction
   </strong>
 </td>
   <td></td>
@@ -141,6 +125,7 @@ Lossless Compression / Flow Models
   </td>
   <td>
   <strong>
+    Machine Reading Comprehension
   </strong>
   </td>
   <td>
@@ -151,6 +136,7 @@ Lossless Compression / Flow Models
   </td>
   <td>
   <strong>
+    Neural Machine Translation
   </strong>
   </td>
   <td>
@@ -161,6 +147,7 @@ Lossless Compression / Flow Models
   </td>
   <td>
     <strong>
+      Dialogue and Discourse
     </strong>
 </td>
   <td>
@@ -171,9 +158,12 @@ Lossless Compression / Flow Models
   </td>
   <td>
     <strong>
+      Entity Linking 
     </strong>
 </td>
   <td>
   </td>
 </tr>
 </td></tr></tbody></table>
+
+Other topics: Knowledge Graphs and Neural Question Generation
