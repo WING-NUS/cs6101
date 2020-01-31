@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WING NUS Reading Group"
+# title: "WING NUS Reading Group"
 excerpt: "About me"
 author_profile: true
 redirect_from:

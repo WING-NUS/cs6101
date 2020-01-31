@@ -89,14 +89,14 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=aNVcd3EAAAAJ&hl=en"
   email            : "wing@comp.nus.edu.sg"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "http://wing.comp.nus.edu.sg"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "academicpages"
+  github           : "wing-nus"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "wing_nus"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCK8KLoKYvow7X6pe_di-Gvw"
   wikipedia        :
 
 
