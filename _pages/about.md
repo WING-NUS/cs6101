@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "WING NUS Reading Group"
+title: "Fri 13:00-15:00 @ MR6 (AS6 #05-10)"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,17 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-### Fri 13:00-15:00 @ MR6 (AS6 #05-10)
-
-<!--
-<img title="Photo by Sarah Lee on Unsplash" alt="Photo by Sarah Lee on Unsplash" src="img/hisarahlee.png" class="img-fluid" style="float:left" height="150" /
--->
 
 Our reading group will be conducted as a group seminar, with class participants nominating themselves and presenting the materials and leading the discussion.
 
 <a href="http://cs6101.slack.com/">A mandatory discussion group is on Slack</a>. Students and guests, please login when you are free. If you have a @comp.nus.edu.sg, @u.nus.edu, @nus.edu.sg, @a-star.edu.sg, @dsi.a-star.edu.sg or @i2r.a-star.edu.sg. email address you can create your Slack account for the group discussion without needing an invite.
 
-**For interested public participants**, please send Min an email at ```kanmy@comp.nus.edu.sg``` if you need an invite to the Slack group.  The Slack group is being reused from previous semesters.  Once you are in the Slack group, you can consider yourself registered for the course.
+**For interested public participants**, please send Min an email at ```kanmy@comp.nus.edu.sg``` if you need an invite to the Slack group.  The Slack group is being reused from previous semesters.  Once you are in the Slack group, you can consider yourself registered for the group.
 
 ## People
 
@@ -28,7 +23,10 @@ External guests will be listed here in due course once the course has started. P
 
 **External Guests**: _TBA_
 
+
 ## Schedule
+
+The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
 
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="60%">Description</th><th>Deadlines</th></tr></thead>
@@ -38,7 +36,8 @@ External guests will be listed here in due course once the course has started. P
   </td>
   <td>
   <strong>
-Embeddings / Pretraining
+Canceled due to logistic constraints <br/>
+<s>Embeddings / Pretraining</s>
     </strong>
 <br />
 <!--  [&nbsp;«&nbsp;<a href="#" data-toggle="#div1">Recording&nbsp;@&nbsp;YouTube&nbsp;</a>&nbsp;]
