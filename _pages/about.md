@@ -29,7 +29,7 @@ External guests will be listed here in due course once the course has started. P
 The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
 
 <table class="table table-striped">
-<thead class="thead-inverse"><tr><th>Date</th><th width="60%">Description</th><th>Deadlines</th></tr></thead>
+<thead class="thead-inverse"><tr><th>Date</th><th width="60%">Description</th><th>Other Events</th></tr></thead>
 <tbody>
 <tr>
   <td><b>NUS Week 3</b><br />31 Jan
@@ -154,7 +154,7 @@ meter; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
       Dialogue and Discourse
     </strong>
 </td>
-  <td>
+  <td><em>Tentative</em>: Research Sharing Session and Social Outing
   </td>
 </tr>
 <tr>
