@@ -50,10 +50,13 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     Transfer Learning, Transformers and BERT
     </strong>
     <p>
-      [&nbsp;«&nbsp;<a href="#" data-toggle="#div1">Recording&nbsp;@&nbsp;YouTube&nbsp;</a>&nbsp;]
+<!--      [&nbsp;«&nbsp;<a href="#" data-toggle="#div1">Recording&nbsp;@&nbsp;YouTube&nbsp;</a>&nbsp;]
       <div id="div1" style="display:none">
-        <iframe width="700" height="500" src="https://www.youtube.com/embed/1k7aOtqgTtY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
-      </div>
+-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1k7aOtqgTtY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!--
+</div>
+-->
     </p>
     <p>
       [ <a href="https://drive.google.com/open?id=141WhVD8Em6-T5cVjOjFj5frOrwl_sItjtdWKvvQX5m0">Lecture Slides</a> (.pdf) ]
