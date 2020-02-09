@@ -29,7 +29,7 @@ External guests will be listed here in due course once the course has started. P
 The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
 
 <table class="table table-striped">
-<thead class="thead-inverse"><tr><th>Date</th><th width="60%">Description</th><th>Other Events</th></tr></thead>
+<thead class="thead-inverse"><tr><th>Date</th><th width="60%">Description</th></tr></thead>
 <tbody>
 <tr>
   <td><b>NUS Week 3</b><br />31 Jan
@@ -38,8 +38,6 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <strong>
 Canceled due to logistic constraints imposed by nCov-1<br/>
 <s>Embeddings / Pretraining</s> </strong>
-  </td>
-  <td>
   </td>
 </tr>
 <tr>
@@ -50,13 +48,12 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     Transfer Learning, Transformers and BERT
     </strong>
     <p>
-<!--      [&nbsp;«&nbsp;<a href="#" data-toggle="#div1">Recording&nbsp;@&nbsp;YouTube&nbsp;</a>&nbsp;]
+      [&nbsp;«&nbsp;<a href="#" data-toggle="#div1">Recording&nbsp;@&nbsp;YouTube&nbsp;</a>&nbsp;]
       <div id="div1" style="display:none">
--->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1k7aOtqgTtY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<!--
+
 </div>
--->
     </p>
     <p>
       [ <a href="https://drive.google.com/open?id=141WhVD8Em6-T5cVjOjFj5frOrwl_sItjtdWKvvQX5m0">Lecture Slides</a> (.pdf) ]
@@ -69,8 +66,6 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     </ul>
     </p>
   </td>
-  <td>
-  </td>
 </tr>
 <tr>
   <td><b>NUS Week 5</b><br />14 Feb
@@ -79,8 +74,6 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     Graph Based Models
   </strong>
 <br />
-  </td>
-  <td>
   </td>
 </tr>
 <tr>
@@ -91,8 +84,6 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     Multimodal Models
   </strong>
 </td>
-  <td>
-</td>
 </tr>
 <tr>
   <td><b>NUS Week Recess</b><br />28 Feb
@@ -102,8 +93,6 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     Recommendation Systems
   </strong>
   </td>
-  <td>
-  </td>
 </tr>
 <tr>
   <td><b>NUS Week 7</b><br />6 Mar
@@ -112,7 +101,7 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   <strong>
     Semantic Analysis
   </strong>
-<td></td>
+  </td>
 <tr>
   <td><b>NUS Week 8</b><br />13 Mar
   </td>
@@ -121,8 +110,6 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     Text Summarization
   </strong>
 </td>
-  <td>
-  </td>
 </tr>
 <tr>
   <td><b>NUS Week 9</b><br />20 Mar
@@ -132,7 +119,6 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     Named Entity Recognition/ Information Extraction
   </strong>
 </td>
-  <td></td>
 </tr>
 <tr>
   <td><b>NUS Week 10</b><br />27 Mar
@@ -141,8 +127,6 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   <strong>
     Machine Reading Comprehension
   </strong>
-  </td>
-  <td>
   </td>
 </tr>
 <tr>
@@ -153,8 +137,6 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     Neural Machine Translation
   </strong>
   </td>
-  <td>
-  </td>
 </tr>
 <tr>
   <td><b>NUS Week 12</b><br />10 Apr
@@ -163,9 +145,8 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     <strong>
       Dialogue and Discourse
     </strong>
+  <em>Tentative</em>: Research Sharing Session and Social Outing
 </td>
-  <td><em>Tentative</em>: Research Sharing Session and Social Outing
-  </td>
 </tr>
 <tr>
   <td><b>NUS Week 13</b><br />17 Apr
@@ -175,12 +156,10 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
       Entity Linking
     </strong>
 </td>
-  <td>
-  </td>
 </tr>
 </td></tr></tbody></table>
 
-Other topics: Knowledge Graphs and Neural Question Generation
+Other possible topics: Text Style Transfer, Knowledge Graphs and Neural Question Generation
 
 ## Links
 
