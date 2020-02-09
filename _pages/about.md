@@ -48,6 +48,19 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     Transfer Learning, Transformers and BERT
     </strong>
     <p>
+        <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+    Link with href
+  </a>
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    Button with data-target
+  </button>
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+  </div>
+</div>
+    
       [&nbsp;«&nbsp;<a href="#" data-toggle="#div1">Recording&nbsp;@&nbsp;YouTube&nbsp;</a>&nbsp;]
       <div id="div1" style="display:none">
 
