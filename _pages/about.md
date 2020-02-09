@@ -36,16 +36,8 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </td>
   <td>
   <strong>
-Canceled due to logistic constraints <br/>
-<s>Embeddings / Pretraining</s>
-    </strong>
-<br />
-<!--  [&nbsp;«&nbsp;<a href="#" data-toggle="#div1">Recording&nbsp;@&nbsp;YouTube&nbsp;</a>&nbsp;]
-<div id="div1" style="display:none">
-  <iframe width="700" height="500" src="https://www.youtube.com/embed/i4Y5e9f2gcE" frameborder="0" allow="accelero\
-meter; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
--->
+Canceled due to logistic constraints imposed by nCov-1<br/>
+<s>Embeddings / Pretraining</s> </strong>
   </td>
   <td>
   </td>
@@ -55,18 +47,23 @@ meter; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
   </td>
   <td>
     <strong>
-    Transformer and BERT
+    Transfer Learning, Transformers and BERT
     </strong>
-<br />
+    [&nbsp;«&nbsp;<a href="#" data-toggle="#div1">Recording&nbsp;@&nbsp;YouTube&nbsp;</a>&nbsp;]
+    <div id="div1" style="display:none">
+      <iframe width="700" height="500" src="https://www.youtube.com/embed/1k7aOtqgTtY" frameborder="0" allow="accelero\
+meter; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    </div>
+    <br/>
+    [ <a href="https://drive.google.com/open?id=141WhVD8Em6-T5cVjOjFj5frOrwl_sItjtdWKvvQX5m0">Lecture Slides</a> (.pdf) ]
+    [ <a href="https://docs.google.com/document/d/1W7W85hfr9bP9vjKxsDkHtXdyPsCZOx8pt5CxquzvSbc">Notes</a> (.pdf) ]
+    <p><strong>References</strong>:
+    <ul>
+      <li><a href="https://arxiv.org/abs/1706.03762">Attention is all you need</a></li>
+      <li><a href="https://arxiv.org/abs/1810.04805">BERT</a></li>
+    </ul>
   </td>
   <td>
-    <strong><a href="https://drive.google.com/open?id=141WhVD8Em6-T5cVjOjFj5frOrwl_sItjtdWKvvQX5m0">Lecture Slides</a> (.pdf)</strong><br/>
-    <strong><a href="https://docs.google.com/document/d/1W7W85hfr9bP9vjKxsDkHtXdyPsCZOx8pt5CxquzvSbc"/>Notes<br/> (.pdf)</strong>
-    <strong>References</strong>:
-    <ul>
-      <li><a href=https://arxiv.org/abs/1706.03762>Attention is all you need</a></li>
-      <li><a href=https://arxiv.org/abs/1810.04805>BERT</a></li>
-    </ul>
   </td>
 </tr>
 <tr>
