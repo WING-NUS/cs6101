@@ -60,9 +60,9 @@ meter; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
 <br />
   </td>
   <td>
-    <b><a href=https://drive.google.com/open?id=141WhVD8Em6-T5cVjOjFj5frOrwl_sItjtdWKvvQX5m0>Lecture<br/></a></b>
-    <b><a href=https://docs.google.com/document/d/1W7W85hfr9bP9vjKxsDkHtXdyPsCZOx8pt5CxquzvSbc/>Scribe<br/></b>
-    <b>Important papers</b>:
+    <strong><a href="https://drive.google.com/open?id=141WhVD8Em6-T5cVjOjFj5frOrwl_sItjtdWKvvQX5m0">Lecture Slides</a> (.pdf)</strong><br/>
+    <strong><a href="https://docs.google.com/document/d/1W7W85hfr9bP9vjKxsDkHtXdyPsCZOx8pt5CxquzvSbc"/>Notes<br/> (.pdf)</strong>
+    <strong>References</strong>:
     <ul>
       <li><a href=https://arxiv.org/abs/1706.03762>Attention is all you need</a></li>
       <li><a href=https://arxiv.org/abs/1810.04805>BERT</a></li>
