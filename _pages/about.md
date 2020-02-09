@@ -21,7 +21,15 @@ Welcome. If you are an external visitor and would like to join us, please email 
 
 External guests will be listed here in due course once the course has started. Please refer to our Slack after you have been invited for the most up-to-date information.
 
-**External Guests**: _TBA_
+**Web IR / NLP Group**: 
+
+Facilitator: [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy)
+
+Ph.D. Students:
+
+Undergraduates:
+
+**External Guests**: 
 
 
 ## Schedule
