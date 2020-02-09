@@ -64,7 +64,7 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     </p>
     <p><strong>References</strong>:
     <ul>
-      <li> Vaswani, Ashish, et al.  "<a href="https://arxiv.org/abs/1706.03762">Attention is all you need</a>". Advances in neural information processing systems. (2017).</li> 
+      <li> Vaswani, Ashish, et al. "<a href="https://arxiv.org/abs/1706.03762">Attention is all you need</a>". Advances in neural information processing systems. (2017).</li> 
       <li> Devlin, Jacob, et al. "<a href="https://arxiv.org/abs/1810.04805">Bert: Pre-training of deep bidirectional transformers for language understanding</a>". arXiv preprint arXiv:1810.04805 (2018).</li>
     </ul>
     </p>
@@ -159,10 +159,7 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
       Entity Linking
     </strong>
   </td>
-</tr>
-</tbody></table>
-
-Other possible topics: Text Style Transfer, Knowledge Graphs and Neural Question Generation
+</tr></tbody></table>
 
 ## Links
 
