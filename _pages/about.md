@@ -15,23 +15,6 @@ Our reading group will be conducted as a group seminar, with class participants 
 
 **For interested public participants**, please send Min an email at ```kanmy@comp.nus.edu.sg``` if you need an invite to the Slack group.  The Slack group is being reused from previous semesters.  Once you are in the Slack group, you can consider yourself registered for the group.
 
-## People
-
-Welcome. If you are an external visitor and would like to join us, please email Kan Min-Yen to be added to the class role. Guests from industry, schools and other far-reaching places in SG welcome, pending space and time logistic limitations. The more, the merrier.
-
-External guests will be listed here in due course once the course has started. Please refer to our Slack after you have been invited for the most up-to-date information.
-
-**Web IR / NLP Group**: 
-
-Facilitator: [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy)
-
-Ph.D. Students:
-
-Undergraduates:
-
-**External Guests**: 
-
-
 ## Schedule
 
 The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
@@ -70,97 +53,24 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     </p>
   </td>
 </tr>
-<tr>
-  <td><b>NUS Week 5</b><br />14 Feb
-  </td>
-  <td><strong>
-    Graph Based Models
-  </strong>
-<br />
-  </td>
-</tr>
-<tr>
-  <td><b>NUS Week 6</b><br />21 Feb
-  </td>
-  <td>
-  <strong>
-    Multimodal Models
-  </strong>
-</td>
-</tr>
-<tr>
-  <td><b>NUS Week Recess</b><br />28 Feb
-  </td>
-  <td>
-  <strong>
-    Recommendation Systems
-  </strong>
-  </td>
-</tr>
-<tr>
-  <td><b>NUS Week 7</b><br />6 Mar
-  </td>
-  <td>
-  <strong>
-    Semantic Analysis
-  </strong>
-  </td>
-<tr>
-  <td><b>NUS Week 8</b><br />13 Mar
-  </td>
-  <td>
-  <strong>
-    Text Summarization
-  </strong>
-</td>
-</tr>
-<tr>
-  <td><b>NUS Week 9</b><br />20 Mar
-  </td>
-  <td>
-  <strong>
-    Named Entity Recognition/ Information Extraction
-  </strong>
-</td>
-</tr>
-<tr>
-  <td><b>NUS Week 10</b><br />27 Mar
-  </td>
-  <td>
-  <strong>
-    Machine Reading Comprehension
-  </strong>
-  </td>
-</tr>
-<tr>
-  <td><b>NUS Week 11</b><br />3 Apr
-  </td>
-  <td>
-  <strong>
-    Neural Machine Translation
-  </strong>
-  </td>
-</tr>
-<tr>
-  <td><b>NUS Week 12</b><br />10 Apr
-  </td>
-  <td>
-    <strong>
-      Dialogue and Discourse
-    </strong>
-  <em>Tentative</em>: Research Sharing Session and Social Outing
-  </td>
-  </tr>
-  <tr>
-  <td><b>NUS Week 13</b><br />17 Apr
-  </td>
-  <td>
-    <strong>
-      Entity Linking
-    </strong>
-  </td>
-  </tr>
+
 </tbody></table>
+
+## People
+
+Welcome. If you are an external visitor and would like to join us, please email Kan Min-Yen to be added to the class role. Guests from industry, schools and other far-reaching places in SG welcome, pending space and time logistic limitations. The more, the merrier.
+
+External guests will be listed here in due course once the course has started. Please refer to our Slack after you have been invited for the most up-to-date information.
+
+**Web IR / NLP Group**: 
+
+Facilitator: [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy)
+
+Ph.D. Students:
+
+Undergraduates:
+
+**External Guests**: 
 
 ## Links
 
