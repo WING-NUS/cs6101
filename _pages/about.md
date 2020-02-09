@@ -48,25 +48,7 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     Transfer Learning, Transformers and BERT
     </strong>
     <p>
-        <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-    Link with href
-  </a>
-  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-    Button with data-target
-  </button>
-</p>
-<div class="collapse" id="collapseExample">
-  <div class="card card-body">
-    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
-  </div>
-</div>
-    
-      [&nbsp;«&nbsp;<a href="#" data-toggle="#div1">Recording&nbsp;@&nbsp;YouTube&nbsp;</a>&nbsp;]
-      <div id="div1" style="display:none">
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1k7aOtqgTtY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-</div>
     </p>
     <p>
       [ <a href="https://drive.google.com/open?id=141WhVD8Em6-T5cVjOjFj5frOrwl_sItjtdWKvvQX5m0">Lecture Slides</a> (.pdf) ]
@@ -74,8 +56,8 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     </p>
     <p><strong>References</strong>:
     <ul>
-      <li><a href="https://arxiv.org/abs/1706.03762">Attention is all you need</a></li>
-      <li><a href="https://arxiv.org/abs/1810.04805">BERT</a></li>
+      <li> Vaswani, Ashish, et al.  "<a href="https://arxiv.org/abs/1706.03762">Attention is all you need</a>". Advances in neural information processing systems. (2017).</li> 
+      <li> Devlin, Jacob, et al. "<a href="https://arxiv.org/abs/1810.04805">Bert: Pre-training of deep bidirectional transformers for language understanding</a>". arXiv preprint arXiv:1810.04805 (2018).</li>
     </ul>
     </p>
   </td>
