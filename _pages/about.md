@@ -37,7 +37,7 @@ Undergraduates:
 The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
 
 <table class="table table-striped">
-<thead class="thead-inverse"><tr><th>Date</th><th width="60%">Description</th></tr></thead>
+<thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>
 <tbody>
 <tr>
   <td><b>NUS Week 3</b><br />31 Jan
@@ -160,7 +160,7 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     </strong>
 </td>
 </tr>
-</td></tr></tbody></table>
+</tbody></table>
 
 Other possible topics: Text Style Transfer, Knowledge Graphs and Neural Question Generation
 
