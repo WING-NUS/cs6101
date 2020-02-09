@@ -149,9 +149,9 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
       Dialogue and Discourse
     </strong>
   <em>Tentative</em>: Research Sharing Session and Social Outing
-</td>
-</tr>
-<tr>
+  </td>
+  </tr>
+  <tr>
   <td><b>NUS Week 13</b><br />17 Apr
   </td>
   <td>
@@ -159,7 +159,8 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
       Entity Linking
     </strong>
   </td>
-</tr></tbody></table>
+  </tr>
+</tbody></table>
 
 ## Links
 
