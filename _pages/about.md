@@ -158,7 +158,7 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     <strong>
       Entity Linking
     </strong>
-</td>
+  </td>
 </tr>
 </tbody></table>
 
