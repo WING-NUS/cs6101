@@ -53,7 +53,96 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     </p>
   </td>
 </tr>
-
+<tr>
+  <td><b>NUS Week 5</b><br />14 Feb
+  </td>
+  <td><strong>
+    Graph Based Models
+  </strong>
+  </td>
+</tr>
+<tr>
+  <td><b>NUS Week 6</b><br />21 Feb
+  </td>
+  <td>
+  <strong>
+    Multimodal Models
+  </strong>
+  </td>
+</tr>
+<tr>
+  <td><b>NUS Week Recess</b><br />28 Feb
+  </td>
+  <td>
+  <strong>
+    Recommendation Systems
+  </strong>
+  </td>
+</tr>
+<tr>
+  <td><b>NUS Week 7</b><br />6 Mar
+  </td>
+  <td>
+  <strong>
+    Semantic Analysis
+  </strong>
+  </td>
+</tr>
+<tr>
+  <td><b>NUS Week 8</b><br />13 Mar
+  </td>
+  <td>
+  <strong>
+    Text Summarization
+  </strong>
+  </td>
+</tr>
+<tr>
+  <td><b>NUS Week 9</b><br />20 Mar
+  </td>
+  <td>
+  <strong>
+    Named Entity Recognition/ Information Extraction
+  </strong>
+</td>
+</tr>
+<tr>
+  <td><b>NUS Week 10</b><br />27 Mar
+  </td>
+  <td>
+  <strong>
+    Machine Reading Comprehension
+  </strong>
+  </td>
+</tr>
+<tr>
+  <td><b>NUS Week 11</b><br />3 Apr
+  </td>
+  <td>
+  <strong>
+    Neural Machine Translation
+  </strong>
+  </td>
+</tr>
+<tr>
+  <td><b>NUS Week 12</b><br />10 Apr
+  </td>
+  <td>
+    <strong>
+      Dialogue and Discourse
+    </strong>
+  <em>Tentative</em>: Research Sharing Session and Social Outing
+  </td>
+  </tr>
+  <tr>
+  <td><b>NUS Week 13</b><br />17 Apr
+  </td>
+  <td>
+    <strong>
+      Entity Linking
+    </strong>
+  </td>
+  </tr>
 </tbody></table>
 
 ## People
