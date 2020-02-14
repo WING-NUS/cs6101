@@ -59,6 +59,9 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   <td><strong>
     Graph Based Models
   </strong>
+    <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7A_iuY-fyNg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </p>
   </td>
 </tr>
 <tr>
