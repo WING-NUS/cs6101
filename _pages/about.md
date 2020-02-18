@@ -70,7 +70,7 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     </p>
     <p><strong>References</strong>:
     <ul>
-      <li> Bronstein, Michael, et al. "<a href="https://arxiv.org/abs/1611.08097">Geometric deep learning: going beyond Euclidean data</a>". Neural Information Processing Systems. (2017). [<a href="https://www.youtube.com/watch?v=LvmjbXZyoP0">video</a>]</li> 
+      <li> Bronstein, Michael, et al. "<a href="https://arxiv.org/abs/1611.08097">Geometric deep learning: going beyond Euclidean data</a>". Neural Information Processing Systems. (2017). [ <a href="https://www.youtube.com/watch?v=LvmjbXZyoP0">video</a> ]</li> 
       <li> Thomas N. Kipf and Max Welling "<a href="https://arxiv.org/abs/1609.02907">Semi-Supervised Classification with Graph Convolutional Networks</a>". Int'l Conf. on Learning Representations (2017). </li>
     </ul>
     </p>
