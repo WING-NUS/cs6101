@@ -42,8 +42,9 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1k7aOtqgTtY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </p>
     <p>
-      [ <a href="https://drive.google.com/open?id=141WhVD8Em6-T5cVjOjFj5frOrwl_sItjtdWKvvQX5m0">Lecture Slides</a> (.pdf) ]
-      [ <a href="https://docs.google.com/document/d/1W7W85hfr9bP9vjKxsDkHtXdyPsCZOx8pt5CxquzvSbc">Notes</a> (.pdf) ]
+      Lecturer and Support staff: Abhinav Kashyap, Cara Leong, Samson Tan and Vu Duc Nam<br/>
+      [ <a href="https://drive.google.com/open?id=141WhVD8Em6-T5cVjOjFj5frOrwl_sItjtdWKvvQX5m0">Lecture Slides</a> ]
+      [ <a href="https://docs.google.com/document/d/1W7W85hfr9bP9vjKxsDkHtXdyPsCZOx8pt5CxquzvSbc">Notes</a> ]
     </p>
     <p><strong>References</strong>:
     <ul>
@@ -63,8 +64,9 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7A_iuY-fyNg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </p>
     <p>
-      [ <a href="https://docs.google.com/presentation/d/1hrK0-ixRuTbfg1tLdM58AIZnDwqqripoDXSBwbiu_Z8">Lecture Slides</a> (.pdf) ]
-      [ <a href="https://docs.google.com/document/d/1mdApQ2WGS0dcs7nK1nRPsJidLfxmPLZ5qtPfiXmtceE">Notes</a> (.pdf) ]
+      Lecturer and Support staff: Christopher Hendra, Mun Kar Kin, Nguyen Van Hoang, Hu Hengchang, Guilherme Zagatti<br/>
+      [ <a href="https://docs.google.com/presentation/d/1hrK0-ixRuTbfg1tLdM58AIZnDwqqripoDXSBwbiu_Z8">Lecture Slides</a> ]
+      [ <a href="https://docs.google.com/document/d/1mdApQ2WGS0dcs7nK1nRPsJidLfxmPLZ5qtPfiXmtceE">Notes</a> ]
     </p>
     <p><strong>References</strong>:
     <ul>
@@ -168,11 +170,11 @@ External guests will be listed here in due course once the course has started. P
 
 Facilitator: [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy)
 
-Ph.D. Students:
+WING Ph.D. Students: Abhinav Kashyap, Samson Tan, Hu Hengchang
 
-Undergraduates:
+WING Undergraduates: Cara Leong, Nguyen Van Hoang
 
-**External Guests**: 
+**External Guests**: Vu Duc Nam, Christopher Hendra, Mun Kar Kin,  Guilherme Zagatti
 
 ## Links
 
