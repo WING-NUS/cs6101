@@ -62,6 +62,16 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7A_iuY-fyNg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </p>
+    <p>
+      [ <a href="https://docs.google.com/presentation/d/1hrK0-ixRuTbfg1tLdM58AIZnDwqqripoDXSBwbiu_Z8">Lecture Slides</a> (.pdf) ]
+      [ <a href="https://docs.google.com/document/d/1mdApQ2WGS0dcs7nK1nRPsJidLfxmPLZ5qtPfiXmtceE">Notes</a> (.pdf) ]
+    </p>
+    <p><strong>References</strong>:
+    <ul>
+      <li> Bronstein, Michael, et al. "<a href="https://arxiv.org/abs/1611.08097">Geometric deep learning: going beyond Euclidean data</a>". Neural Information Processing Systems. (2017). [<a href="https://www.youtube.com/watch?v=LvmjbXZyoP0">video</a>]</li> 
+    </ul>
+    </p>
+
   </td>
 </tr>
 <tr>
