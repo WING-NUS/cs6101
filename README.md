@@ -5,3 +5,4 @@
 
 This repo builds the static `github.io` website for the reading group.  Students assigned to the _support_ role are expected to edit this file and the `about.md` file in the `_pages` subdirectory to update both this github.com page and the corresponding github.io pages site.
 
+See the [about.md](https://github.com/WING-NUS/cs6101-1920/blob/master/_pages/about.md) document for the details on the papers reviewed, staff assigned and links to external references, inclusive of the recorded sessions.
