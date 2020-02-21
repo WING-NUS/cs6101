@@ -83,6 +83,9 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   <strong>
     Multimodal Models
   </strong>
+  <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wazbhv91pRs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
   </td>
 </tr>
 <tr>
@@ -170,11 +173,11 @@ External guests will be listed here in due course once the course has started. P
 
 Facilitator: [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy)
 
-WING Ph.D. Students: Abhinav Kashyap, Samson Tan, Hu Hengchang
+WING and NUS Postgraduate Students: Abhinav Kashyap, Samson Tan, Hu Hengchang, Liangming Pan, Taha Aksu, Jiaqi Li, Dogukan Yigit Polat, Weixin Wang Yisong Miao,
 
-WING Undergraduates: Cara Leong, Nguyen Van Hoang
+WING Undergraduates: Cara Leong, Nguyen Van Hoang, Sashankh Kumar, Shi Tian, Calvin Tantio, Ng Kheng Yi
 
-**External Guests**: Vu Duc Nam, Christopher Hendra, Mun Kar Kin,  Guilherme Zagatti
+**External Guests**: Vu Duc Nam, Christopher Hendra, Mun Kar Kin,  Guilherme Zagatti, Saravanan Rajamanickam, Takanori Aoki, Shen Ting Ang, Yap Jia Qing, Shelvia Wongso
 
 ## Links
 
