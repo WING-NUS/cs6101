@@ -86,6 +86,18 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wazbhv91pRs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
+  <p>
+    Lecturer and Support staff: Guilherme Zagatti, Liangming Pan, Yisong Miao, Ng Kheng Yi, Shi Tian<br/>
+    [ <a href="https://docs.google.com/presentation/d/1SuNDu3qfpSIv3vjVuYASZaJcOi_F0nwt95b0DUYEoRk">Lecture Slides</a> ]
+    [ <a href="https://docs.google.com/document/d/1gWiy_JghmNA68ayJAawQtJc64k1kUFnkkhTPyXsa22w">Notes</a> ]
+  </p>
+  <p><strong>References</strong>:
+  <ul>
+    <li> Jenkins, Porter, et al. "<a href="https://dl.acm.org/doi/10.1145/3357384.3358001">Unsupervised Representation Learning of Spatial Data via Multimodal Embedding</a>". Int'l Conf. on Information and Knowledge Management. (2019). </li>
+    <li> Liao, Lizi, et al. "<a href="https://dl.acm.org/doi/10.1145/3240508.3240605">Knowledge-aware Multimodal Dialogue Systems</a>". Int'l Conf. on Multimedia (2018). </li>
+    <li> Yang, Xun, et al. "<a href="https://dl.acm.org/doi/10.1145/3331184.3331242">Interpretable fashion matching with rich attributes</a>". SIGIR Conference on Research and Development in Information Retrieval. (2019). </li>
+  </ul>
+  </p>
   </td>
 </tr>
 <tr>
