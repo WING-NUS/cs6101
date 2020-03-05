@@ -107,6 +107,12 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   <strong>
     Recommendation Systems
   </strong>
+  <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9uqAP8Edo04" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+  <p>
+    Lecturer and Support staff: Takanori Aoki, Hengchang Hu, Mun Kar Kin, Shelvia Wongso, Sashankh Chengavalli Kumar<br/>
+  </p>
   </td>
 </tr>
 <tr>
