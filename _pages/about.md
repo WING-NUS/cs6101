@@ -112,6 +112,8 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   </p>
   <p>
     Lecturer and Support staff: Takanori Aoki, Hengchang Hu, Mun Kar Kin, Shelvia Wongso, Sashankh Chengavalli Kumar<br/>
+    [ <a href="https://docs.google.com/presentation/d/1w-Apjl73klaC94dyGqi6vAZIb56E2sdqHMlkc_7n0Ro/edit?usp=sharing">Lecture Slides</a> ]
+    [ <a href="https://docs.google.com/document/d/1x_OL2FME1P9Q-ZxUURh0jHshOFfLGHSjJc8k1DnExpU/edit?usp=sharing">Notes</a> ]
   </p>
   </td>
 </tr>
