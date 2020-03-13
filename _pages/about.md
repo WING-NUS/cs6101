@@ -133,6 +133,20 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   <strong>
     Text Summarization
   </strong>
+  <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wJWr1PZk4B8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+  <p>
+    Lecturer and Support staff: Taha Aksu, Yigit Polat, Calvin Tantio, Shen Ting Ang<br/>
+    [ <a href="https://docs.google.com/presentation/d/1Js1F2vXZrg58aOpD7ijzBBFTFmLI7LRtQFiEx-4XaDc/edit?usp=sharing">Lecture Slides</a> ]
+    [ <a href="https://docs.google.com/document/d/1tIDbW4C-ZkPkHPQFTgxVKsn_nisNL15zsLMI_Ueynt4/edit?usp=sharing">Notes</a> ]
+  </p>
+  <p><strong>References</strong>:
+  <ul>
+    <li> See, et al. "<a href="https://www.aclweb.org/anthology/P17-1099.pdf">Get To The Point: Summarization with Pointer-Generator Networks</a>". 55th Annual Meeting of the Association for Computational Linguistics. (2017). </li>
+    <li> Chen, et al. "<a href="https://www.aclweb.org/anthology/P18-1063.pdf">Knowledge-aware Multimodal Dialogue Systems</a>". 56th Annual Meeting of the Association for Computational Linguistics (2018). </li>
+  </ul>
+  </p>
   </td>
 </tr>
 <tr>
