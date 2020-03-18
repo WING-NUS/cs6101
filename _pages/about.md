@@ -130,6 +130,9 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   <strong>
     Semantic Analysis
   </strong>
+  <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FYbelCVLhLY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
   </td>
 </tr>
 <tr>
