@@ -121,6 +121,7 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     <li> He, X., Liao, L., Zhang, H., Nie, L., Hu, X., & Chua, T. S. "<a href="https://dl.acm.org/doi/pdf/10.1145/3038912.3052569">Neural Collaborative Filtering</a>". In Proceedings of the 26th international conference on world wide web (pp. 173-182). </li>
     <li> Wang, X., He, X., Wang, M., Feng, F., & Chua, T. S. "<a href="https://dl.acm.org/doi/pdf/10.1145/3331184.3331267">Neural Graph Collaborative Filtering</a>". In Proceedings of the 42nd international ACM SIGIR conference on Research and development in Information Retrieval (pp. 165-174). </li>
   </ul>
+  </p>
   </td>
 </tr>
 <tr>
