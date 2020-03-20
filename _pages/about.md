@@ -166,6 +166,12 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   <strong>
     Named Entity Recognition/ Information Extraction
   </strong>
+  <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLCIH6jACh8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+  <p>
+    Lecturer and Support staff: Calvin Tantio, Yap Jia Qing, Abhinav Kashyap, Low Siow Meng, Miao Yisong <br/>
+    </p>
 </td>
 </tr>
 <tr>
