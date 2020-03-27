@@ -181,6 +181,12 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   <strong>
     Machine Reading Comprehension
   </strong>
+      <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m0qn-Bi95ZU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+  <p>
+    Lecturer and Support staff: Samson Tan, Pan Liangming, Taha Aksu, Van Hoang Nguyen<br/>
+    </p>
   </td>
 </tr>
 <tr>
