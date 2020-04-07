@@ -196,6 +196,12 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   <strong>
     Neural Machine Translation
   </strong>
+      <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pi8dbZ48l2A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+  <p>
+    Lecturer and Support staff: Sashankh Kumar, Ang Shen Ting, Taha Aksu, Abhinav Kashyap, Saravanan Rajamanickam<br/>
+    </p>
   </td>
 </tr>
 <tr>
