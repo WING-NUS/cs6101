@@ -186,7 +186,16 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   </p>
   <p>
     Lecturer and Support staff: Samson Tan, Pan Liangming, Taha Aksu, Van Hoang Nguyen<br/>
+    [ <a href="https://docs.google.com/presentation/d/1OldIC3YmmuUiaWlhE6cL7e1jMwfMlS4ewkMQ0hPECMI/edit#slide=id.g7f4e0822ee_0_74">Lecture Slides Part 1</a> ]
+    [ <a href="http://www.cs.unc.edu/~mbansal/papers/emnlp2019-mrqa-bansal.pdf">Lecture Slides Part 2</a> ]
+    [ <a href="https://docs.google.com/document/d/1KEJwY_4V-wYAO_21C9b1fux0Z3OvSoCQr1IR5xRNtE8/edit?usp=sharing">Notes</a> ]
     </p>
+    <p><strong>References</strong>:
+  <ul>
+    <li> Mohit Bansal "<a href="http://www.cs.unc.edu/~mbansal/papers/emnlp2019-mrqa-bansal.pdf">Interpretability and Robustness for Multi-Hop QA </a>". MRQA-EMNLP 2019 Workshop. </li>
+    <li> Chen, et al. "<a href="https://openreview.net/forum?id=B14TlG-RW">QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension</a>". Sixth International Conference on Learning Representations (2018). </li>
+  </ul>
+  </p>
   </td>
 </tr>
 <tr>
