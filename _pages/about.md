@@ -220,7 +220,12 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
     <strong>
       Dialogue and Discourse
     </strong>
-  <em>Tentative</em>: Research Sharing Session and Social Outing
+      <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8nl03ogFFRo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+  <p>
+    Lecturer and Support staff: Shi Tian, Low Siow Meng, Samson Tan, Dogukan Yigit Polat, Jiaqi Li<br/>
+    </p>
   </td>
   </tr>
   <tr>
