@@ -232,9 +232,9 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   <td><b>NUS Week 13</b><br />17 Apr
   </td>
   <td>
-    <strong>
+    <strong><s>
       Entity Linking
-    </strong>
+      </s> - Canceled</strong>
   </td>
   </tr>
 </tbody></table>
