@@ -178,7 +178,7 @@ collections:
   schedule:
     output: true
     permalink: /:collection/:path/
-  grading:
+  past-semesters:
     output: true
     permalink: /:collection/:path/
   portfolio:
