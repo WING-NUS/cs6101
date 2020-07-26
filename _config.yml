@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : 
+  youtube          :
   wikipedia        :
 
 
@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  projects:
+  people:
     output: true
     permalink: /:collection/:path/
 
