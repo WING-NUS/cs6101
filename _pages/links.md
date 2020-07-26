@@ -2,10 +2,19 @@
 layout: archive
 title: "Other Links"
 permalink: /links/
-author_profile: false
+author_profile: true
 ---
 
-* **[Coursemology](https://www.coursemology.org/courses/1677/)** - The Learning Management System we will use for this course.  Submit your homework assignments here, on time.
-* **[CS3244 AY 19/20](http://www.comp.nus.edu.sg/~kanmy/courses/3244_1910/) and [CS3244 AY 18/19](http://www.comp.nus.edu.sg/~kanmy/courses/3244_1810/)** - The past iterations of this course.  Useful reference for past projects.
-* **[CS3244 @ Facebook](http://www.facebook.com/cs3244/)** - Public group, mostly targeting alumni of the class.  ML in the news, job announcements, and relevant broadcasts from NUS AI, ML, NLP, Vision folks.
-* **[WING Reading Group]()**.  The current deep learning interest group on NLP and IR that Min also runs.  All students from all faculties and years welcomed, as well as external participant.
+General Texts:
+
+1. **Ian Goodfellow, Yoshua Bengio and Aaron Courville _Deep Learning_  - an MIT Press book** <a href="http://www.deeplearningbook.org/">http://www.deeplearningbook.org/</a>
+1. **Michael A. Nielsen, _Neural Networks and Deep Learning_** - free, general e-book - <a href="http://neuralnetworksanddeeplearning.com/">http://neuralnetworksanddeeplearning.com/</a>
+
+Previous CS6101 versions run by Min
+
+1. **Deep Reinforcement Learning** - <a href="http://www.comp.nus.edu.sg/~kanmy/courses/6101_1820/">http://www.comp.nus.edu.sg/~kanmy/courses/6101_1820</a>
+1. **Deep Learning for NLP** (reprise) - <a href="http://www.comp.nus.edu.sg/~kanmy/courses/6101_1810/">http://www.comp.nus.edu.sg/~kanmy/courses/6101_1810</a>
+1. **Deep Learning via Fast.AI** - <a href="http://www.comp.nus.edu.sg/~kanmy/courses/6101_2017_2/">http://www.comp.nus.edu.sg/~kanmy/courses/6101_2017_2/</a>
+1. **Deep Learning for Vision** - <a href="http://www.comp.nus.edu.sg/~kanmy/courses/6101_2017/">http://www.comp.nus.edu.sg/~kanmy/courses/6101_2017/</a>
+1. **Deep Learning for NLP** - <a href="http://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/">http://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/</a>
+1. **MOOC Research** - <a href="http://www.comp.nus.edu.sg/~kanmy/courses/6101_2016/">http://www.comp.nus.edu.sg/~kanmy/courses/6101_2016/</a>

@@ -9,6 +9,8 @@ author_profile: true
 
 ## AY 2019/2020, Semester II (1920)
 
+To see the most current syllabus, click on the top **WING Reading Group (CS6101)** link.
+
 Sessions listed in reverse chronological order, newer ones first.
 
 <table class="table table-striped">
