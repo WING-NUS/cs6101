@@ -6,11 +6,13 @@ main:
 #  - title: "Schedule"
 #    url: /schedule/
 
-#  - title: "Grading"
-#    url: /grading/
+# was "grading"
+  - title: "Past Semesters"
+    url: /past-semesters/
 
-#  - title: "Projects"
-#    url: /projects/
+# was "projects"
+  - title: "People"
+    url: /people/
 
 # Min: 200122 - keep for now but comment out.
 #  - title: "Portfolio"
