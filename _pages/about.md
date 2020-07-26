@@ -202,7 +202,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </p>
     <p><strong>References</strong>:
     <ul>
-      <li> Bronstein, Michael, et al. "<a href="https://arxiv.org/abs/1611.08097">Geometric deep learning: going beyond Euclidean data</a>". Neural Information Processing Systems. (2017). [ <a href="https://www.youtube.com/watch?v=LvmjbXZyoP0">video</a> ]</li> 
+      <li> Bronstein, Michael, et al. "<a href="https://arxiv.org/abs/1611.08097">Geometric deep learning: going beyond Euclidean data</a>". Neural Information Processing Systems. (2017). [ <a href="https://www.youtube.com/watch?v=LvmjbXZyoP0">video</a> ]</li>
       <li> Thomas N. Kipf and Max Welling "<a href="https://arxiv.org/abs/1609.02907">Semi-Supervised Classification with Graph Convolutional Networks</a>". Int'l Conf. on Learning Representations (2017). </li>
     </ul>
     </p>
@@ -225,7 +225,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </p>
     <p><strong>References</strong>:
     <ul>
-      <li> Vaswani, Ashish, et al. "<a href="https://arxiv.org/abs/1706.03762">Attention is all you need</a>". Advances in neural information processing systems. (2017).</li> 
+      <li> Vaswani, Ashish, et al. "<a href="https://arxiv.org/abs/1706.03762">Attention is all you need</a>". Advances in neural information processing systems. (2017).</li>
       <li> Devlin, Jacob, et al. "<a href="https://arxiv.org/abs/1810.04805">Bert: Pre-training of deep bidirectional transformers for language understanding</a>". arXiv preprint arXiv:1810.04805 (2018).</li>
     </ul>
     </p>
@@ -241,22 +241,6 @@ Canceled due to logistic constraints imposed by nCov-1<br/>
   </td>
   </tr>
 </tbody></table>
-
-## People
-
-Welcome. If you are an external visitor and would like to join us, please email Kan Min-Yen to be added to the class role. Guests from industry, schools and other far-reaching places in SG welcome, pending space and time logistic limitations. The more, the merrier.
-
-External guests will be listed here in due course once the course has started. Please refer to our Slack after you have been invited for the most up-to-date information.
-
-**Web IR / NLP Group**: 
-
-Facilitator: [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy)
-
-WING and NUS Postgraduate Students: Abhinav Kashyap, Samson Tan, Hu Hengchang, Liangming Pan, Taha Aksu, Jiaqi Li, Dogukan Yigit Polat, Weixin Wang Yisong Miao,
-
-WING Undergraduates: Cara Leong, Nguyen Van Hoang, Sashankh Kumar, Shi Tian, Calvin Tantio, Ng Kheng Yi
-
-**External Guests**: Vu Duc Nam, Christopher Hendra, Mun Kar Kin,  Guilherme Zagatti, Saravanan Rajamanickam, Takanori Aoki, Shen Ting Ang, Yap Jia Qing, Shelvia Wongso
 
 ## Links
 
