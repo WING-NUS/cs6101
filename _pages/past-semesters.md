@@ -9,6 +9,8 @@ author_profile: true
 
 ## AY 2019/2020, Semester II (1920)
 
+Sessions listed in reverse chronological order, newer ones first.
+
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>
 <tbody>
