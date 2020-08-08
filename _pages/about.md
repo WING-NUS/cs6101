@@ -38,35 +38,35 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 -->
   <tr>
-  <td><b>NUS Week 2</b><br />Fri, 21 Aug
+  <td><b>NUS Week 02</b><br />Fri, 21 Aug
   </td>
   <td>
     <strong>Basic Seq2Seq and Variants, Week 1</strong>
   </td>
   </tr>
   <tr>
-  <td><b>NUS Week 3</b><br />Fri, 28 Aug
+  <td><b>NUS Week 03</b><br />Fri, 28 Aug
   </td>
   <td>
     <strong>Basic Seq2Seq and Variants, Week 2</strong>
   </td>
   </tr>
   <tr>
-  <td><b>NUS Week 4</b><br />Fri, 4 Sep
+  <td><b>NUS Week 04</b><br />Fri, 4 Sep
   </td>
   <td>
     <strong>Natural Language Generation, Week 1</strong>
   </td>
   </tr>
   <tr>
-  <td><b>NUS Week 5</b><br />Fri, 11 Sep
+  <td><b>NUS Week 05</b><br />Fri, 11 Sep
   </td>
   <td>
     <strong>Natural Language Generation, Week 2</strong>
   </td>
   </tr>
   <tr>
-  <td><b>NUS Week 6</b><br />Fri, 18 Sep
+  <td><b>NUS Week 06</b><br />Fri, 18 Sep
   </td>
   <td>
     <strong>Domain Adaptation / Adapting Pretrained Models, Week 1</strong>
@@ -80,21 +80,21 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </td>
   </tr>
   <tr>
-  <td><b>NUS Week 7</b><br />Fri, 2 Oct
+  <td><b>NUS Week 07</b><br />Fri, 2 Oct
   </td>
   <td>
     <strong>Synthetic Data Generation for Machine Reading Comprehension, Week 1</strong>
   </td>
   </tr>
   <tr>
-  <td><b>NUS Week 8</b><br />Fri, 9 Oct
+  <td><b>NUS Week 08</b><br />Fri, 9 Oct
   </td>
   <td>
     <strong>Synthetic Data Generation for Machine Reading Comprehension, Week 2</strong>
   </td>
   </tr>
   <tr>
-  <td><b>NUS Week 9</b><br />Fri, 16 Oct
+  <td><b>NUS Week 09</b><br />Fri, 16 Oct
   </td>
   <td>
     <strong>Conversational Recommender Systems, Week 1</strong>
