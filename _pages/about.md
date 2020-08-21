@@ -50,9 +50,9 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 
 <P>Reading List:
 <UL>
-  <LI>Sutskever, Vinyals, & Le. (2014) “Sequence to sequence learning with neural networks.” : https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf
-  <LI> Gehring, et al. (2017) "Convolutional sequence to sequence learning." : https://arxiv.org/abs/1705.03122
-  <LI> Vaswani, et al. (2017) "Attention is all you need." : https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
+  <LI>Sutskever, Vinyals, & Le. (2014) “Sequence to sequence learning with neural networks.” : <a href="https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf</a></li>
+  <LI> Gehring, et al. (2017) "Convolutional sequence to sequence learning." : <A HREF="https://arxiv.org/abs/1705.03122">https://arxiv.org/abs/1705.03122</a></li>
+  <LI> Vaswani, et al. (2017) "Attention is all you need." : <A href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf</a></li>
   </UL>
     </p>
   </td>
