@@ -20,24 +20,10 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>
 <tbody>
-<!-- Sample Row
-  <tr>
-  <td><b>NUS Week 12</b><br />10 Apr
-  </td>
-  <td>
-    <strong>
-      Dialogue and Discourse
-    </strong>
-      <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8nl03ogFFRo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  </p>
-  <p>
-    Lecturer and Support staff: Shi Tian, Low Siow Meng, Samson Tan, Dogukan Yigit Polat, Jiaqi Li<br/>
-    </p>
-  </td>
-  </tr>
--->
-  <tr>
+<!-- Support Staff ********************************** 
+  Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
+ ************************************************** -->
+<tr>
   <td><b>NUS Week 02</b><br />Fri, 21 Aug
   </td>
   <td>
@@ -50,9 +36,9 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 
 <P>Reading List:
 <UL>
-  <LI> Sutskever, Vinyals, & Le. (2014) “Sequence to sequence learning with neural networks.” : <a href="https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf</a> [ <a href="https://www.youtube.com/watch/Qb8EWcXZu6M?t=29m55s">Video Segment @ 29:55</a>] </li>
-  <LI> Gehring, et al. (2017) "Convolutional sequence to sequence learning." : <A HREF="https://arxiv.org/abs/1705.03122">https://arxiv.org/abs/1705.03122</a> [ <a href="https://www.youtube.com/watch/Qb8EWcXZu6M?t=53m12s">Video Segment @ 53:12</a> ] </li>
-  <LI> Vaswani, et al. (2017) "Attention is all you need." : <A href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf</a> [ <a href="https://www.youtube.com/watch/Qb8EWcXZu6M?t=1h19m35s">Video Segment @ 1:19:35</a> ] </li>
+  <LI> Sutskever, Vinyals, & Le. (2014) “Sequence to sequence learning with neural networks.” : <a href="https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf</a> [ <a href="https://youtu.be/Qb8EWcXZu6M?t=1796">Video Segment @ 29:55</a>] </li>
+  <LI> Gehring, et al. (2017) "Convolutional sequence to sequence learning." : <A HREF="https://arxiv.org/abs/1705.03122">https://arxiv.org/abs/1705.03122</a> [ <a href="https://youtu.be/Qb8EWcXZu6M?t=3193">Video Segment @ 53:12</a> ] </li>
+  <LI> Vaswani, et al. (2017) "Attention is all you need." : <A href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf</a> [ <a href="https://youtu.be/Qb8EWcXZu6M?t=4775">Video Segment @ 1:19:35</a> ] </li>
   </UL>
     </p>
   </td>
