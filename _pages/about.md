@@ -46,13 +46,13 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qb8EWcXZu6M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
   <p>
-    Lecturer and Support staff: Tongyao Zhu, Zijin Kong, Tianyang Zhang, Chenglei Si<br/>
+    Lecturer and Support staff: Tongyao Zhu, Zijin Kong, Tianyang Zhang, Chenglei Si<br/></p>
 
 <P>Reading List:
 <UL>
-  <LI>Sutskever, Vinyals, & Le. (2014) “Sequence to sequence learning with neural networks.” : <a href="https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf</a></li>
-  <LI> Gehring, et al. (2017) "Convolutional sequence to sequence learning." : <A HREF="https://arxiv.org/abs/1705.03122">https://arxiv.org/abs/1705.03122</a></li>
-  <LI> Vaswani, et al. (2017) "Attention is all you need." : <A href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf</a></li>
+  <LI> Sutskever, Vinyals, & Le. (2014) “Sequence to sequence learning with neural networks.” : <a href="https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf</a> [ <a href="https://www.youtube.com/watch/Qb8EWcXZu6M?t=29m55s">Video Segment @ 29:55</a>] </li>
+  <LI> Gehring, et al. (2017) "Convolutional sequence to sequence learning." : <A HREF="https://arxiv.org/abs/1705.03122">https://arxiv.org/abs/1705.03122</a> [ <a href="https://www.youtube.com/watch/Qb8EWcXZu6M?t=53m12s">Video Segment @ 53:12</a> ] </li>
+  <LI> Vaswani, et al. (2017) "Attention is all you need." : <A href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf</a> [ <a href="https://www.youtube.com/watch/Qb8EWcXZu6M?t=1h19m35s">Video Segment @ 1:19:35</a> ] </li>
   </UL>
     </p>
   </td>
