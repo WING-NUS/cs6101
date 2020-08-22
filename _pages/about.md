@@ -34,6 +34,11 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <p>
     Lecturer and Support staff: Tongyao Zhu, Zijin Kong, Tianyang Zhang, Chenglei Si<br/></p>
 
+  <p>
+    [<a href="https://docs.google.com/presentation/d/1Lu_bk8P8rfXEzrLgS0qMbFO0l628Tb4AW3G6M8MK5Gw/edit?usp=sharing">Lecture Slides</a>]
+    [<a href="https://docs.google.com/document/d/1NxFxJRvBopLdiJ2sA4q57MCiR2UIIfl7yGEv1THA918/edit?usp=sharing">Scribe Notes</a>]
+    <br/></p> 
+
 <P>Reading List:
 <UL>
   <LI> Sutskever, Vinyals, & Le. (2014) “Sequence to sequence learning with neural networks.” : <a href="https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf</a> [ <a href="https://youtu.be/Qb8EWcXZu6M?t=1796">Video Segment @ 29:55</a>] </li>
