@@ -35,7 +35,9 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     Lecturer and Support staff: Tongyao Zhu, Zijin Kong, Tianyang Zhang, Chenglei Si<br/></p>
 
   <p>
-    [**[Lecture Slides](https://docs.google.com/presentation/d/1Lu_bk8P8rfXEzrLgS0qMbFO0l628Tb4AW3G6M8MK5Gw/edit?usp=sharing)** **[Scibe Notes](https://docs.google.com/document/d/1NxFxJRvBopLdiJ2sA4q57MCiR2UIIfl7yGEv1THA918/edit?usp=sharing)**]<br/></p> 
+    [<a href="https://docs.google.com/presentation/d/1Lu_bk8P8rfXEzrLgS0qMbFO0l628Tb4AW3G6M8MK5Gw/edit?usp=sharing">Lecture Slides</a>]
+    [<a href="https://docs.google.com/document/d/1NxFxJRvBopLdiJ2sA4q57MCiR2UIIfl7yGEv1THA918/edit?usp=sharing">Scribe Notes</a>]
+    <br/></p> 
 
 <P>Reading List:
 <UL>
