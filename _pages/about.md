@@ -67,10 +67,10 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 
 <P>Reading List:
 <UL>
-  <LI> Attention Mechanism : <a href="https://arxiv.org/abs/1409.0473"> https://arxiv.org/abs/1409.0473 </a>  <a href="https://arxiv.org/abs/1706.03762"> https://arxiv.org/abs/1706.03762 </a>  </li>
-  <LI> Decoding, Beam Search : <A HREF="https://arxiv.org/abs/1409.3215"> https://arxiv.org/abs/1409.3215 </a> </li>
-  <LI> CopyNet : <A HREF="https://arxiv.org/pdf/1603.06393.pdf"> https://arxiv.org/pdf/1603.06393.pdf </a> </li>
-  <LI> Sequicity : <A href="https://www.aclweb.org/anthology/P18-1133.pdf"> https://www.aclweb.org/anthology/P18-1133.pdf </a> </li>
+  <LI> Decoding, Beam Search : <A HREF="https://arxiv.org/abs/1409.3215"> https://arxiv.org/abs/1409.3215 </a> [<a href="https://youtu.be/Zfdfa1a84SI?t=125">Video Segment @ 2:05</a>] </li>
+  <LI> Attention Mechanism : <a href="https://arxiv.org/abs/1409.0473"> https://arxiv.org/abs/1409.0473 </a>  <a href="https://arxiv.org/abs/1706.03762"> https://arxiv.org/abs/1706.03762 </a>  [ <a href="https://youtu.be/Zfdfa1a84SI?t=779">Video Segment @ 12:59</a>] </li>
+  <LI> CopyNet : <A HREF="https://arxiv.org/pdf/1603.06393.pdf"> https://arxiv.org/pdf/1603.06393.pdf </a> [ <a href="https://youtu.be/Zfdfa1a84SI?t=2655">Video Segment @ 44:15</a>] </li>
+  <LI> Sequicity : <A href="https://www.aclweb.org/anthology/P18-1133.pdf"> https://www.aclweb.org/anthology/P18-1133.pdf </a> [ <a href="https://youtu.be/Zfdfa1a84SI?t=4187">Video Segment @ 1:09:47</a>] </li>
   </UL>
     </p>
   </td>
