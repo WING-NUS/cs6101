@@ -80,25 +80,24 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </td>
   <td>
     <strong>Natural Language Generation, Week 1</strong>
-    <p class="unchanged">
-&lt;iframe width="560" height="315" src="<a href="https://www.youtube.com/embed/AW-7Xa96qzI" rel="nofollow">https://www.youtube.com/embed/AW-7Xa96qzI</a>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+    <p>
+<iframe width="560" height="315" src="<a href="https://www.youtube.com/embed/AW-7Xa96qzI" rel="nofollow">https://www.youtube.com/embed/AW-7Xa96qzI</a>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
-  <p class="unchanged">
+  <p>
     Lecturer and Support staff: Pan Liangming, Mingliang Ang, Wu Jiaying, Ding Xu, Zhang Jipeng, Khush Jammu, Brian Formento, Tongyao Zhu, Li Chuang, Rabiul Awal. 
-<br></p>
-  <p class="unchanged">
+</p>
+  <p>
     [<a href="https://drive.google.com/file/d/1L3ViadjnTp5gOhHOrxLDi5_93aiKrtd_/view?usp=sharing" rel="nofollow">Lecture Slides</a>]
     [<a href="https://docs.google.com/document/d/1BTs8szzetXgyYWNsikSQeuUgvbUdaRldKY3HoAvtZWc/view?usp=sharing" rel="nofollow">Scribe Notes</a>]
     <br></p> 
-<p class="unchanged">Reading List:
+<p>Reading List:
 </p>
-<ul class="unchanged">
-  
-  <li class="unchanged"> SeqGAN : <a href="https://arxiv.org/abs/1609.05473" rel="nofollow">https://arxiv.org/abs/1609.05473</a>  [<a href="https://youtu.be/AW-7Xa96qzI?t=273" rel="nofollow">Video Segment @ 4:33</a>] </li>
-   <li class="unchanged"> Improving Sequence-to-Sequence Learning via Optimal Transport : <a href="https://arxiv.org/abs/1609.05473" rel="nofollow">https://arxiv.org/abs/1609.05473</a>  [<a href="https://youtu.be/AW-7Xa96qzI?t=2698" rel="nofollow">Video Segment @ 44:58</a>] </li>
-   <li class="unchanged"> The Curious Case of Neural Text Degeneration : <a href="https://arxiv.org/abs/1904.09751" rel="nofollow">https://arxiv.org/abs/1904.09751</a>  [<a href="https://youtu.be/AW-7Xa96qzI?t=3883" rel="nofollow">Video Segment @ 1:04:43</a>] </li>
-   <li class="unchanged"> MASS: Masked Sequence to Sequence Pre-training for Language Generation : <a href="https://arxiv.org/abs/1905.02450" rel="nofollow">https://arxiv.org/abs/1905.02450</a>  [<a href="https://youtu.be/AW-7Xa96qzI?t=5285" rel="nofollow">Video Segment @ 1:28:05</a>] </li>
-   <li class="unchanged"> Plug and Play Language Models : <a href="https://arxiv.org/abs/1912.02164" rel="nofollow">https://arxiv.org/abs/1905.02450</a>  [<a href="https://youtu.be/AW-7Xa96qzI?t=6618" rel="nofollow">Video Segment @ 1:50:18</a>] </li>
+<ul>  
+   <li> SeqGAN : <a href="https://arxiv.org/abs/1609.05473" rel="nofollow">https://arxiv.org/abs/1609.05473</a>  [<a href="https://youtu.be/AW-7Xa96qzI?t=273" rel="nofollow">Video Segment @ 4:33</a>] </li>
+   <li> Improving Sequence-to-Sequence Learning via Optimal Transport : <a href="https://arxiv.org/abs/1609.05473" rel="nofollow">https://arxiv.org/abs/1609.05473</a>  [<a href="https://youtu.be/AW-7Xa96qzI?t=2698" rel="nofollow">Video Segment @ 44:58</a>] </li>
+   <li> The Curious Case of Neural Text Degeneration : <a href="https://arxiv.org/abs/1904.09751" rel="nofollow">https://arxiv.org/abs/1904.09751</a>  [<a href="https://youtu.be/AW-7Xa96qzI?t=3883" rel="nofollow">Video Segment @ 1:04:43</a>] </li>
+   <li> MASS: Masked Sequence to Sequence Pre-training for Language Generation : <a href="https://arxiv.org/abs/1905.02450" rel="nofollow">https://arxiv.org/abs/1905.02450</a>  [<a href="https://youtu.be/AW-7Xa96qzI?t=5285" rel="nofollow">Video Segment @ 1:28:05</a>] </li>
+   <li> Plug and Play Language Models : <a href="https://arxiv.org/abs/1912.02164" rel="nofollow">https://arxiv.org/abs/1905.02450</a>  [<a href="https://youtu.be/AW-7Xa96qzI?t=6618" rel="nofollow">Video Segment @ 1:50:18</a>] </li>
   </ul>
     <p></p>
   </td>
