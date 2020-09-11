@@ -81,7 +81,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <td>
     <strong>Natural Language Generation, Week 1</strong>
     <p>
-<iframe width="560" height="315" src="<a href="https://www.youtube.com/embed/AW-7Xa96qzI" rel="nofollow">https://www.youtube.com/embed/AW-7Xa96qzI</a>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AW-7Xa96qzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
   <p>
     Lecturer and Support staff: Pan Liangming, Mingliang Ang, Wu Jiaying, Ding Xu, Zhang Jipeng, Khush Jammu, Brian Formento, Tongyao Zhu, Li Chuang, Rabiul Awal. 
