@@ -107,6 +107,25 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </td>
   <td>
     <strong>Natural Language Generation, Week 2</strong>
+    <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/PqjjI2Uro7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+  <p>
+Lecturers and Support Staff: Liangming Pan, Xinyuan Lu, Shreyas Kuthanoor Prakash, Judith Jeyafreeda, Lin Xu, Hengchang Hu, Alexandre Gravier, Romain Iehl, Ming Liang Ang, Jipeng Zhang.
+</p>
+  <p>
+    [<a href="https://drive.google.com/file/d/1L3ViadjnTp5gOhHOrxLDi5_93aiKrtd_/view?usp=sharing" rel="nofollow">Lecture Slides</a>]
+    [<a href="https://docs.google.com/document/d/1BTs8szzetXgyYWNsikSQeuUgvbUdaRldKY3HoAvtZWc/view?usp=sharing" rel="nofollow">Scribe Notes</a>]
+    <br></p> 
+<p>Reading List:
+</p>
+<ul>
+  <li>Wiseman et al. (2018) "Learning Neural Templates for Text Generation" <A HREF="https://arxiv.org/abs/1808.10122">https://arxiv.org/abs/1808.10122</A> EMNLP'18 [ <A HREF="https://www.youtube.com/watch?v=PqjjI2Uro7s&t=343s">Video Segment @ 5:43</a> ]
+  <li>Koncel-Kedziorski et al.  (2019) "Text Generation from Knowledge Graphs with Graph Transformers" <A HREF="https://arxiv.org/abs/1904.02342">https://arxiv.org/abs/1904.02342</A> NAACL'19 53:26 
+  <li>"Pretraining-Based Natural Language Generation for Text Summarization" <A HREF="https://arxiv.org/abs/1902.09243">https://arxiv.org/abs/1902.09243</A> CONLL'19 1:29:00  
+  <li> Chen et al. (2020) "Distilling Knowledge Learned in BERT for Text Generation" <A HREF="https://arxiv.org/abs/1911.03829">https://arxiv.org/abs/1911.03829</A> ACL'20 1:45:46 
+  </ul>
+    <p></p>
   </td>
   </tr>
   <tr>
