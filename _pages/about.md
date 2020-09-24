@@ -133,6 +133,24 @@ Lecturers and Support Staff: Liangming Pan, Xinyuan Lu, Shreyas Kuthanoor Prakas
   </td>
   <td>
     <strong>Domain Adaptation / Adapting Pretrained Models, Week 1</strong>
+    <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5tDCgODhuOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+  <p>
+Lecturers and Support Staff: Abhinav Ramesh Kashyap, Devamanyu Hazarika, Alexandre Gravier, Rabiul Awal, Yisong Miao, Zhang Ruixi, Ding Xu, Lin Xu.
+</p>
+  <p>
+    [<a href="https://docs.google.com/presentation/d/1JQWRXKjh-nlu1vU4CKEJKOBbOhZ8JTYYuPH0iSN2hvE/edit?usp=sharing" rel="nofollow">Lecture Slides</a>]
+    [<a href="https://docs.google.com/document/d/1mqw2kWiW2diG913IFip3EO22Nu_TfyFgxM_m_caDoxg/edit?usp=sharing" rel="nofollow">Scribe Notes</a>]
+    <br></p> 
+<p>Reading List:
+</p>
+<ul>
+  <li>Ganin et al. (2016) "Domain-Adversarial Training of Neural Networks" <A HREF="https://arxiv.org/abs/1808.10122">https://arxiv.org/abs/1505.07818</A> JMLR'16 [ <A HREF="https://youtu.be/5tDCgODhuOs?t=85">Video Segment @ 1:25</a> ]
+  <li>Keneshloo et al. (2019) "Deep Transfer Reinforcement Learning for Text Summarization" <A HREF="https://arxiv.org/abs/1810.06667">https://arxiv.org/abs/1810.06667</A> SDM'19 [ <A HREF="https://youtu.be/5tDCgODhuOs?t=4280">Video Segment @ 1:11:20</a> ]
+  <li>Howard et al. (2018) "Universal Language Model Fine-tuning for Text Classification" <A HREF="https://arxiv.org/abs/1801.06146">https://arxiv.org/abs/1801.06146</A> ACL'18 [ <A HREF="https://youtu.be/5tDCgODhuOs?t=6404">Video Segment @ 1:46:44</A> ]
+  </ul>
+    <p></p>
   </td>
   </tr>
   <tr>
