@@ -156,8 +156,24 @@ Lecturers and Support Staff: Abhinav Ramesh Kashyap, Devamanyu Hazarika, Alexand
   <tr>
   <td><b>NUS Week Recess</b><br />Fri, 25 Sep
   </td>
-  <td>
+ <td>
     <strong>Domain Adaptation / Adapting Pretrained Models, Week 2</strong>
+    <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=9LhC9hOd33o&ab_channel=Min-YenKan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+  <p>
+Lecturers and Support Staff:  Zhang Ruixi, Laiba Mehraz, Zhang Yifan, Khush Jammu, Brian Formento, Taha Aksu, Abhinav Ramesh Kashyap, Shreyas Kutanoor Prakash, Bhavitvya Malik. 
+</p>
+  <p>
+    [<a href="https://docs.google.com/presentation/d/1JGPsKbvK23yTPpxC9XDfKEz7VN6SyccMn8ifWid0LG8/edit?usp=sharing" rel="nofollow">Lecture Slides</a>]
+    [<a href="https://docs.google.com/document/d/1mqw2kWiW2diG913IFip3EO22Nu_TfyFgxM_m_caDoxg/edit?usp=sharing" rel="nofollow">Scribe Notes</a>]
+    <br></p> 
+<p>Reading List:
+</p>
+<ul>
+  <li>Houlsby et al. (2019) "Parameter-Efficient Transfer Learning for NLP" <A HREF="https://arxiv.org/abs/1902.00751">https://arxiv.org/abs/1902.00751</A> PMLR'19 [ <A HREF="https://youtu.be/9LhC9hOd33o?t=4701">Video Segment @ 1:17:14</A> ]</li>
+  </ul>
+    <p></p>
   </td>
   </tr>
   <tr>
