@@ -159,7 +159,7 @@ Lecturers and Support Staff: Abhinav Ramesh Kashyap, Devamanyu Hazarika, Alexand
  <td>
     <strong>Domain Adaptation / Adapting Pretrained Models, Week 2</strong>
     <p>
-    <iframe width="560" height="315" src="https://youtu.be/9LhC9hOd33o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9LhC9hOd33o?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
   <p>
 Lecturers and Support Staff:  Zhang Ruixi, Laiba Mehraz, Zhang Yifan, Khush Jammu, Brian Formento, Taha Aksu, Abhinav Ramesh Kashyap, Shreyas Kutanoor Prakash, Bhavitvya Malik. 
