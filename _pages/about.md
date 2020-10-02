@@ -171,7 +171,14 @@ Lecturers and Support Staff:  Zhang Ruixi, Laiba Mehraz, Zhang Yifan, Khush Jamm
 <p>Reading List:
 </p>
 <ul>
+  <li>Devlin et al. (2019) "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" <A HREF="https://arxiv.org/abs/1810.04805">https://arxiv.org/abs/1810.04805</A> [ <A HREF="https://youtu.be/9LhC9hOd33o?t=8">Video Segment @ 0:00:08</A> ]</li>
+  <li>Sanh et al. (2020) "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter" <A HREF="https://arxiv.org/abs/1910.01108">https://arxiv.org/abs/1910.01108</A> [ <A HREF="https://youtu.be/9LhC9hOd33o?t=543">Video Segment @ 0:09:03</A> ]</li>
+  <li>Lan et al. (2020) "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations" <A HREF="https://arxiv.org/abs/1909.11942">https://arxiv.org/abs/1909.11942</A> ICLR'20 [ <A HREF="https://youtu.be/9LhC9hOd33o?t=596">Video Segment @ 0:09:56</A> ]</li>
+  <li>  Radford et al. (2018) "Improving Language Understanding by Generative Pre-Training" <A HREF="https://openai.com/blog/language-unsupervised/">https://openai.com/blog/language-unsupervised/</A> [ <A HREF="https://youtu.be/9LhC9hOd33o?t=2660">Video Segment @ 0:44:20</A> ]</li>
+  <li>Radford et al. (2019) "Language Models are Unsupervised Multitask Learners" <A HREF="https://openai.com/blog/better-language-models/">https://openai.com/blog/better-language-models/</A> [ <A HREF="https://youtu.be/9LhC9hOd33o?t=2863">Video Segment @ 0:47:43</A> ]</li>
+  <li>Brown et al. (2020) "Language Models are Few-Shot Learners" <A HREF="https://arxiv.org/abs/2005.14165">https://arxiv.org/abs/2005.14165</A> [ <A HREF="https://youtu.be/9LhC9hOd33o?t=3033">Video Segment @ 0:50:33</A> ]</li>
   <li>Houlsby et al. (2019) "Parameter-Efficient Transfer Learning for NLP" <A HREF="https://arxiv.org/abs/1902.00751">https://arxiv.org/abs/1902.00751</A> PMLR'19 [ <A HREF="https://youtu.be/9LhC9hOd33o?t=4701">Video Segment @ 1:17:14</A> ]</li>
+  <li>Yang et al. (2017) "Transfer Learning for Sequence Tagging with Hierarchical Recurrent Network" <A HREF="https://openreview.net/pdf?id=ByxpMd9lx">https://openreview.net/pdf?id=ByxpMd9lx</A> ICLR'17 [ <A HREF="https://youtu.be/9LhC9hOd33o?t=6592">Video Segment @ 1:49:52</A> ]</li>
   </ul>
     <p></p>
   </td>
