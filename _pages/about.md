@@ -188,6 +188,26 @@ Lecturers and Support Staff:  Zhang Ruixi, Laiba Mehraz, Zhang Yifan, Khush Jamm
   </td>
   <td>
     <strong>Synthetic Data Generation for Machine Reading Comprehension, Week 1</strong>
+    <p>
+      <iframe width="949" height="534" src="https://www.youtube.com/embed/8-l4r9dZs24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+  <p>
+Lecturers and Support Staff:  Shuang Gao, Anab Maulana Barik, Si Chenglei, Li Xinze, Zhao Zirui, Devamanyu Hazarika, Wu Jiaying, Feng Xiachong and Fiona Tan.
+Slide Link: 
+</p>
+  <p>
+    [<a href="https://docs.google.com/presentation/d/1kUL_7hwqheZNFqJKn_Ci4S21Rsxx_kcMOub1Y3a-DY0/edit?usp=sharing" rel="nofollow">Lecture Slides</a>]
+    [<a href="https://docs.google.com/document/d/1hlchhRxPTdSDCYZz5jDi80vWEfYcmAshmvvZZBA5QU8/edit?usp=sharing" rel="nofollow">Scribe Notes</a>]
+    <br></p> 
+<p>Reading List:
+</p>
+<ul>
+  <li>Yadav et al. (2020) "Unsupervised Alignment-based Iterative Evidence Retrieval for Multi-hop Question Answering" <A HREF="https://arxiv.org/abs/2005.01218">https://arxiv.org/abs/2005.01218</A> [ <A HREF="https://youtu.be/8-l4r9dZs24?t=227">Video Segment @ 0:03:47</A> ]</li>
+  <li>Lewis et al. (2019) "Unsupervised Question Answering by Cloze Translation" <A HREF="https://arxiv.org/abs/1906.04980">https://arxiv.org/abs/1906.04980</A> [ <A HREF="https://youtu.be/8-l4r9dZs24?t=2489">Video Segment @ 0:41:29</A> ]</li>
+  <li>Li et al. (2020) "Harvesting and Refining Question-Answer Pairs for Unsupervised QA." <A HREF="https://arxiv.org/abs/2005.02925">https://arxiv.org/abs/2005.02925</A> ICLR'20 [ <A HREF="https://youtu.be/8-l4r9dZs24?t=4431">Video Segment @ 1:13:51</A> ]</li>
+  <li>Asai et al. (2020) " Logic-Guided Data Augmentation and Regularization for Consistent Question Answering" <A HREF="https://arxiv.org/abs/2004.10157">https://arxiv.org/abs/2004.10157</A> [ <A HREF="https://youtu.be/8-l4r9dZs24?t=6068">Video Segment @ 1:41:08</A> ]</li>
+  </ul>
+    <p></p>
   </td>
   </tr>
   <tr>
