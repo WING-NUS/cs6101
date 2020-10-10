@@ -215,6 +215,26 @@ Slide Link:
   </td>
   <td>
     <strong>Synthetic Data Generation for Machine Reading Comprehension, Week 2</strong>
+        <p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/OT0mwF6tY1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+    <p>
+Lecturers and Support Staff:  Alex Foo Da Weng, Taha Aksu, Luong Quoc Trung, Yang Yajing, Xu Yiqing, Hiray Shruti Shivram, Yifan Jhang, Samson Tan, and Liu Jiahao.
+Slide Link: 
+</p>
+  <p>
+    [<a href="https://docs.google.com/presentation/d/1g_kXF_odCQ5bhepeAA-J-CiNJD4vVDPwjkCKaqNDaFE/edit?usp=sharing" rel="nofollow">Lecture Slides</a>]
+    [<a href="https://docs.google.com/document/d/1hlchhRxPTdSDCYZz5jDi80vWEfYcmAshmvvZZBA5QU8/edit?usp=sharing" rel="nofollow">Scribe Notes</a>]
+    <br></p> 
+<p>Reading List:
+</p>
+<ul>
+  <li>Cao et al. (2020) "Unsupervised Domain Adaptation on Reading Comprehension" <A HREF="https://arxiv.org/abs/2005.01218">https://arxiv.org/abs/1911.06137</A> [ <A HREF="https://youtu.be/OT0mwF6tY1k?t=430">Video Segment @ 0:07:10</A> ]</li>
+   <li>Wang et al. (2019) "Adversarial Domain Adaptation for Machine Reading Comprehension" <A HREF="https://arxiv.org/abs/1908.09209">https://arxiv.org/abs/1911.06137</A> [ <A HREF="https://youtu.be/OT0mwF6tY1k?t=2026">Video Segment @ 0:33:46</A> ]</li>
+  <li>Puri et al. (2020) "Training Question Answering Models From Synthetic Data" <A HREF="https://arxiv.org/abs/2002.09599">https://arxiv.org/abs/1911.06137</A> [ <A HREF="https://youtu.be/OT0mwF6tY1k?t=3465">Video Segment @ 0:57:45</A> ]</li>
+    <li>Liu et al. (2020) "Asking Questions the Human Way: Scalable Question-Answer Generation from Text Corpus" <A HREF="https://dl.acm.org/doi/abs/10.1145/3366423.3380270">https://arxiv.org/abs/1911.06137</A> [ <A HREF="https://youtu.be/OT0mwF6tY1k?t=4888">Video Segment @ 1:21:28</A> ]</li>
+  </ul>
+    <p></p>
   </td>
   </tr>
   <tr>
