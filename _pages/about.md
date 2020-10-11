@@ -219,7 +219,7 @@ Slide Link:
       <iframe width="560" height="315" src="https://www.youtube.com/embed/OT0mwF6tY1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
     <p>
-Lecturers and Support Staff:  Alex Foo Da Weng, Taha Aksu, Luong Quoc Trung, Yang Yajing, Xu Yiqing, Hiray Shruti Shivram, Yifan Jhang, Samson Tan, and Liu Jiahao.
+Lecturers and Support Staff:  Alex Foo Da Weng, Taha Aksu, Luong Quoc Trung, Yang Yajing, Xu Yiqing, Hiray Shruti Shivram, Yifan Zhang, Samson Tan, and Liu Jiahao.
 Slide Link: 
 </p>
   <p>
