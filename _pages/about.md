@@ -242,6 +242,28 @@ Slide Link:
   </td>
   <td>
     <strong>Conversational Recommender Systems, Week 1</strong>
+            <p>
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=L0m0ITmS4M0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+    <p>
+Lecturers and Support Staff:  Henghchang Hu, Victor Li, Jiaqi Zheng, Jiahao Liu, Hansheng Ren, Zijin Kong, Yajing Yang, Yiqing Xu, Sunil Kumar Yadav, Yiding Ran.
+Slide Link: 
+</p>
+  <p>
+    [<a href="https://docs.google.com/presentation/d/1OsE1TCXbxZDY82Uou5nHWy3XaNXdrv8K6sQj-ABZZgI/edit?usp=sharing" rel="nofollow">Lecture Slides</a>]
+    [<a href="https://docs.google.com/document/d/1KVQ_R-CGNv4TWYr3PrRt9CI2bNK_Sl7bUIwX2B4Rf3M/edit?usp=sharing" rel="nofollow">Scribe Notes</a>]
+    <br></p> 
+<p>Reading List:
+</p>
+<ul>
+  <li>Introduction to Conversational Recommender Systems [ <A HREF="https://www.youtube.com/watch?v=L0m0ITmS4M0&t=405s">Video Segment @ 0:06:45</A> ]</li>
+  <li>Christakopoulou et al.(2018) "Q&R: A Two-Stage Approach toward Interactive Recommendation"<A HREF="http://alexbeutel.com/papers/q-and-r-kdd2018.pdf">http://alexbeutel.com/papers/q-and-r-kdd2018.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=L0m0ITmS4M0&t=755s">Video Segment @ 0:12:35</A> ]</li>
+   <li>Zou et al. (2020) "Towards Question-based Recommender Systems"<A HREF="https://arxiv.org/pdf/2005.14255.pdf">https://arxiv.org/pdf/2005.14255.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=L0m0ITmS4M0&t=1941s">Video Segment @ 0:32:21</A> ]</li>
+  <li> Lei et al. (2020) "Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems"<A HREF="https://dl.acm.org/doi/pdf/10.1145/3336191.3371769">https://dl.acm.org/doi/pdf/10.1145/3336191.3371769</A> [ <A HREF="https://www.youtube.com/watch?v=L0m0ITmS4M0&t=3611s">Video Segment @ 1:00:11</A> ]</li>
+  <li>Zeng et al. (2020) "Dynamic Online Conversation Recommendation"<A HREF="http://www4.comp.polyu.edu.hk/~jing1li/publication/zeng2020dynamic.pdf">http://www4.comp.polyu.edu.hk/~jing1li/publication/zeng2020dynamic.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=L0m0ITmS4M0&t=5918s">Video Segment @ 1:38:38</A> ]</li>
+  <li>Chen, Z. (2020) "Towards Explainable Conversational Recommendation."<A HREF="https://www.ijcai.org/Proceedings/2020/0414.pdf">https://www.ijcai.org/Proceedings/2020/0414.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=L0m0ITmS4M0&t=7171s">Video Segment @ 1:59:31</A> ]</li>
+  </ul>
+    <p></p>
   </td>
   </tr>
   <tr>
