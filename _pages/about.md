@@ -243,7 +243,7 @@ Slide Link:
   <td>
     <strong>Conversational Recommender Systems, Week 1</strong>
             <p>
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=L0m0ITmS4M0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/L0m0ITmS4M0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
     <p>
 Lecturers and Support Staff:  Henghchang Hu, Victor Li, Jiaqi Zheng, Jiahao Liu, Hansheng Ren, Zijin Kong, Yajing Yang, Yiqing Xu, Sunil Kumar Yadav, Yiding Ran.
