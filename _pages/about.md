@@ -272,7 +272,7 @@ Lecturers and Support Staff:  Henghchang Hu, Victor Li, Jiaqi Zheng, Jiahao Liu,
       <iframe width="560" height="315" src="https://www.youtube.com/embed/V5xU_pkedSo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
     <p>
-Lecturers and Support Staff:  Sunil Kumar Yadav, Hannan Cao, Cai Yu Fan, Yisong MiaoXinyuan Lu, Anab Maulana Barik, Jiaqi Zheng, Hansheng Ren, Zitai Chen.
+Lecturers and Support Staff:  Sunil Kumar Yadav, Hannan Cao, Cai Yu Fan, Yisong Miao，Xinyuan Lu, Anab Maulana Barik, Jiaqi Zheng, Hansheng Ren, Zitai Chen.
 </p>
   <p>
     [<a href="https://docs.google.com/presentation/d/1MeY74HTIrPDskgnIAGJBx1PMWr28VC90JqkTpwPh7i0/edit?usp=sharing" rel="nofollow">Lecture Slides</a>]
