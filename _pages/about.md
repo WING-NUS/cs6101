@@ -193,7 +193,6 @@ Lecturers and Support Staff:  Zhang Ruixi, Laiba Mehraz, Zhang Yifan, Khush Jamm
   </p>
   <p>
 Lecturers and Support Staff:  Shuang Gao, Anab Maulana Barik, Si Chenglei, Li Xinze, Zhao Zirui, Devamanyu Hazarika, Wu Jiaying, Feng Xiachong and Fiona Tan.
-Slide Link: 
 </p>
   <p>
     [<a href="https://docs.google.com/presentation/d/1kUL_7hwqheZNFqJKn_Ci4S21Rsxx_kcMOub1Y3a-DY0/edit?usp=sharing" rel="nofollow">Lecture Slides</a>]
@@ -220,7 +219,6 @@ Slide Link:
   </p>
     <p>
 Lecturers and Support Staff:  Alex Foo Da Weng, Taha Aksu, Luong Quoc Trung, Yang Yajing, Xu Yiqing, Hiray Shruti Shivram, Yifan Zhang, Samson Tan, and Liu Jiahao.
-Slide Link: 
 </p>
   <p>
     [<a href="https://docs.google.com/presentation/d/1g_kXF_odCQ5bhepeAA-J-CiNJD4vVDPwjkCKaqNDaFE/edit?usp=sharing" rel="nofollow">Lecture Slides</a>]
@@ -247,7 +245,6 @@ Slide Link:
   </p>
     <p>
 Lecturers and Support Staff:  Henghchang Hu, Victor Li, Jiaqi Zheng, Jiahao Liu, Hansheng Ren, Zijin Kong, Yajing Yang, Yiqing Xu, Sunil Kumar Yadav, Yiding Ran.
-Slide Link: 
 </p>
   <p>
     [<a href="https://docs.google.com/presentation/d/1OsE1TCXbxZDY82Uou5nHWy3XaNXdrv8K6sQj-ABZZgI/edit?usp=sharing" rel="nofollow">Lecture Slides</a>]
@@ -271,6 +268,25 @@ Slide Link:
   </td>
   <td>
     <strong>Conversational Recommender Systems, Week 2</strong>
+   <p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/V5xU_pkedSo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+    <p>
+Lecturers and Support Staff:  Sunil Kumar Yadav, Hannan Cao, Cai Yu Fan, Yisong MiaoXinyuan Lu, Anab Maulana Barik, Jiaqi Zheng, Hansheng Ren, Zitai Chen.
+</p>
+  <p>
+    [<a href="https://docs.google.com/presentation/d/1MeY74HTIrPDskgnIAGJBx1PMWr28VC90JqkTpwPh7i0/edit?usp=sharing" rel="nofollow">Lecture Slides</a>]
+    [<a href="https://docs.google.com/document/d/1KVQ_R-CGNv4TWYr3PrRt9CI2bNK_Sl7bUIwX2B4Rf3M/edit?usp=sharing" rel="nofollow">Scribe Notes</a>]
+    <br></p> 
+<p>Reading List:
+</p>
+<ul>
+  <li>Zhang et al.(2020) "Conversational Contextual Bandit: Algorithm and Application"<A HREF="https://arxiv.org/pdf/1906.01219.pdf">https://arxiv.org/pdf/1906.01219.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=V5xU_pkedSo&t=260s">Video Segment @ 0:04:20</A> ]</li>
+  <li>Lei et al.(2020) "Interactive Path Reasoning on Graph for Conversational Recommendation"<A HREF="https://arxiv.org/pdf/2007.00194.pdf ">https://arxiv.org/pdf/2007.00194.pdf </A> [ <A HREF="https://www.youtube.com/watch?v=V5xU_pkedSo&t=3015s">Video Segment @ 0:50:15</A> ]</li>
+  <li>Liu et al.(2020) "Towards Conversational Recommendation over Multi-Type Dialogs"<A HREF="https://arxiv.org/pdf/2005.03954.pdf ">https://arxiv.org/pdf/2005.03954.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=V5xU_pkedSo&t=4690s">Video Segment @ 1:18:10</A> ]</li>
+   <li>Chen et al.(2019) "Towards Knowledge-Based Recommender Dialog System"<A HREF="https://www.aclweb.org/anthology/D19-1189.pdf ">https://www.aclweb.org/anthology/D19-1189.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=V5xU_pkedSo&t=6590s">Video Segment @ 1:49:50</A> ]</li>
+  </ul>
+    <p></p>
   </td>
   </tr>
   <tr>
