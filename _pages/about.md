@@ -294,6 +294,25 @@ Lecturers and Support Staff:  Sunil Kumar Yadav, Hannan Cao, Cai Yu Fan, Yisong 
   </td>
   <td>
     <strong>Fairness in NLP, Week 1</strong>
+    <p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/COPLeSQ6OAw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+    <p>
+Lecturers and Support Staff: Samson Tan, Hiray Shruti Shivram, Fiona Tan,  Bhavitvya Malik, Abdul Waheed, Judith Jeyafreeda, Li Xinze, Alex Foo Da Weng
+</p>
+  <p>
+    [<a href="https://docs.google.com/presentation/d/1m1mkviExdo1t4jqvKnG3HBTdS8kTfI38nPpSThhI0eA/edit?usp=sharing" rel="nofollow">Lecture Slides</a>]
+    [<a href="https://docs.google.com/document/d/1UOQy38eJvlsSAiwgjXljTKmxo-T7bAhfk-c2g_XAFFc/edit?usp=sharing" rel="nofollow">Scribe Notes</a>]
+    <br></p> 
+<p>Reading List:
+</p>
+<ul>
+  <li>Suresh and Guttag (2019) "A Framework for Understanding Unintended Consequences of Machine Learning"<A HREF="http://arxiv.org/pdf/1901.10002.pdf">http://arxiv.org/pdf/1901.10002.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=COPLeSQ6OAw&t=35s">Video Segment @ 0:00:35</A> ]</li>
+  <li>Bolukbasi et al. (2016) "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings"<A HREF="https://proceedings.neurips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf">https://proceedings.neurips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=COPLeSQ6OAw&t=2750s">Video Segment @ 0:45:50</A> ]</li>
+  <li>Maudslay et al. (2019) "It’s All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution"<A HREF="https://www.aclweb.org/anthology/D19-1530/">https://www.aclweb.org/anthology/D19-1530/</A> [ <A HREF="https://www.youtube.com/watch?v=COPLeSQ6OAw&t=4708s">Video Segment @ 1:18:28</A> ]</li>
+   <li>Saunders and Byrne (2020) "Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem"<A HREF="https://www.aclweb.org/anthology/2020.acl-main.690/">https://www.aclweb.org/anthology/2020.acl-main.690/</A> [ <A HREF="https://www.youtube.com/watch?v=COPLeSQ6OAw&t=6652s">Video Segment @ 1:50:52</A> ]</li>
+  </ul>
+    <p></p>
   </td>
   </tr>
   <tr>
