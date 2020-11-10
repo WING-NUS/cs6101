@@ -320,13 +320,32 @@ Lecturers and Support Staff: Samson Tan, Hiray Shruti Shivram, Fiona Tan,  Bhavi
   </td>
   <td>
     <strong>Fairness in NLP, Week 2</strong>
+    <p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/-v-Tu8yTO1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+    <p>
+Lecturers and Support Staff: Zitai Chen, Zirui Zhao , Samson Tan, Shuang Gao, Hannan Cao, Laiba Mehnaz
+</p>
+  <p>
+    [<a href="https://docs.google.com/presentation/d/1FQGTBIx9CuXmYh5smMka7p7EWOexbrczPEVrElSfipk/edit?usp=sharing" rel="nofollow">Lecture Slides</a>]
+    [<a href="https://docs.google.com/document/d/1UOQy38eJvlsSAiwgjXljTKmxo-T7bAhfk-c2g_XAFFc/edit?usp=sharing" rel="nofollow">Scribe Notes</a>]
+    <br></p> 
+<p>Reading List:
+</p>
+<ul>
+  <li>Liang et al. (2020) "Towards Debiasing Sentence Representations"<A HREF="https://www.aclweb.org/anthology/2020.acl-main.488.pdf">https://www.aclweb.org/anthology/2020.acl-main.488.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=-v-Tu8yTO1U&t=373s">Video Segment @ 0:06:13</A> ]</li>
+  <li>Wang et al. (2020) "Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation"<A HREF="https://arxiv.org/pdf/2005.00965.pdf">https://arxiv.org/pdf/2005.00965.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=-v-Tu8yTO1U&t=2460s">Video Segment @ 0:41:00</A> ]</li>
+  <li>Blodgett et al. (2020) "Language (Technology) is Power: A Critical Survey of `Bias` in NLP"<A HREF="https://arxiv.org/pdf/2005.14050.pdf">https://arxiv.org/pdf/2005.14050.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=-v-Tu8yTO1U&t=4454s">Video Segment @ 1:14:14</A> ]</li>
+  </ul>
+    <p></p>
   </td>
   </tr>
   <tr>
   <td><b>NUS Week 13</b><br />Fri, 13 Nov
   </td>
   <td>
-    <strong></strong>
+    <strong> STEPS Presentation </strong>
+    <p>[<a href="https://isteps.comp.nus.edu.sg/event/17th-steps/module/CS6101"> 17TH STEPS Program</a>]</p>
   </td>
   </tr>
 </tbody></table>
