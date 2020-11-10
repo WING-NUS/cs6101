@@ -294,6 +294,25 @@ Lecturers and Support Staff:  Sunil Kumar Yadav, Hannan Cao, Cai Yu Fan, Yisong 
   </td>
   <td>
     <strong>Fairness in NLP, Week 1</strong>
+    <p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/COPLeSQ6OAw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+    <p>
+Lecturers and Support Staff: Samson Tan, Hiray Shruti Shivram, Fiona Tan,  Bhavitvya Malik, Abdul Waheed, Judith Jeyafreeda, Li Xinze, Alex Foo Da Weng
+</p>
+  <p>
+    [<a href="https://docs.google.com/presentation/d/1m1mkviExdo1t4jqvKnG3HBTdS8kTfI38nPpSThhI0eA/edit?usp=sharing" rel="nofollow">Lecture Slides</a>]
+    [<a href="https://docs.google.com/document/d/1UOQy38eJvlsSAiwgjXljTKmxo-T7bAhfk-c2g_XAFFc/edit?usp=sharing" rel="nofollow">Scribe Notes</a>]
+    <br></p> 
+<p>Reading List:
+</p>
+<ul>
+  <li>Suresh and Guttag (2019) "A Framework for Understanding Unintended Consequences of Machine Learning"<A HREF="http://arxiv.org/pdf/1901.10002.pdf">http://arxiv.org/pdf/1901.10002.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=COPLeSQ6OAw&t=35s">Video Segment @ 0:00:35</A> ]</li>
+  <li>Bolukbasi et al. (2016) "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings"<A HREF="https://proceedings.neurips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf">https://proceedings.neurips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=COPLeSQ6OAw&t=2750s">Video Segment @ 0:45:50</A> ]</li>
+  <li>Maudslay et al. (2019) "It’s All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution"<A HREF="https://www.aclweb.org/anthology/D19-1530/">https://www.aclweb.org/anthology/D19-1530/</A> [ <A HREF="https://www.youtube.com/watch?v=COPLeSQ6OAw&t=4708s">Video Segment @ 1:18:28</A> ]</li>
+   <li>Saunders and Byrne (2020) "Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem"<A HREF="https://www.aclweb.org/anthology/2020.acl-main.690/">https://www.aclweb.org/anthology/2020.acl-main.690/</A> [ <A HREF="https://www.youtube.com/watch?v=COPLeSQ6OAw&t=6652s">Video Segment @ 1:50:52</A> ]</li>
+  </ul>
+    <p></p>
   </td>
   </tr>
   <tr>
@@ -301,13 +320,32 @@ Lecturers and Support Staff:  Sunil Kumar Yadav, Hannan Cao, Cai Yu Fan, Yisong 
   </td>
   <td>
     <strong>Fairness in NLP, Week 2</strong>
+    <p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/-v-Tu8yTO1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+    <p>
+Lecturers and Support Staff: Zitai Chen, Zirui Zhao , Samson Tan, Shuang Gao, Hannan Cao, Laiba Mehnaz
+</p>
+  <p>
+    [<a href="https://docs.google.com/presentation/d/1FQGTBIx9CuXmYh5smMka7p7EWOexbrczPEVrElSfipk/edit?usp=sharing" rel="nofollow">Lecture Slides</a>]
+    [<a href="https://docs.google.com/document/d/1UOQy38eJvlsSAiwgjXljTKmxo-T7bAhfk-c2g_XAFFc/edit?usp=sharing" rel="nofollow">Scribe Notes</a>]
+    <br></p> 
+<p>Reading List:
+</p>
+<ul>
+  <li>Liang et al. (2020) "Towards Debiasing Sentence Representations"<A HREF="https://www.aclweb.org/anthology/2020.acl-main.488.pdf">https://www.aclweb.org/anthology/2020.acl-main.488.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=-v-Tu8yTO1U&t=373s">Video Segment @ 0:06:13</A> ]</li>
+  <li>Wang et al. (2020) "Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation"<A HREF="https://arxiv.org/pdf/2005.00965.pdf">https://arxiv.org/pdf/2005.00965.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=-v-Tu8yTO1U&t=2460s">Video Segment @ 0:41:00</A> ]</li>
+  <li>Blodgett et al. (2020) "Language (Technology) is Power: A Critical Survey of `Bias` in NLP"<A HREF="https://arxiv.org/pdf/2005.14050.pdf">https://arxiv.org/pdf/2005.14050.pdf</A> [ <A HREF="https://www.youtube.com/watch?v=-v-Tu8yTO1U&t=4454s">Video Segment @ 1:14:14</A> ]</li>
+  </ul>
+    <p></p>
   </td>
   </tr>
   <tr>
   <td><b>NUS Week 13</b><br />Fri, 13 Nov
   </td>
   <td>
-    <strong></strong>
+    <strong> STEPS Presentation </strong>
+    <p>[<a href="https://isteps.comp.nus.edu.sg/event/17th-steps/module/CS6101"> 17TH STEPS Program</a>]</p>
   </td>
   </tr>
 </tbody></table>
