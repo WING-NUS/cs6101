@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Our reading group will be conducted as a group seminar, with class participants nominating themselves and presenting the materials and leading the discussion. There will be a total of 8 sessions for Sem II AY2020/2021 every biweekly Friday 1-3 pm. Please see the detailed schedule in the below table. On the alternate Thursdays 1-3 pm, we will have project consultations sessions.
+Our reading group will be conducted as a group seminar, with class participants nominating themselves and presenting the materials and leading the discussion. 
+In the Sem II of AY2020/2021, there will be 7 reading sessions, which will be held from 1 pm to 3 pm on Friday biweekly. On alternate Thursdays 1-3 pm, we will have project consultation sessions. Please see the detailed schedule in the table.
 
 <a href="http://cs6101.slack.com/">A mandatory discussion group is on Slack</a>. Students and guests, please login when you are free. If you have a @comp.nus.edu.sg, @u.nus.edu, @nus.edu.sg, @a-star.edu.sg, @dsi.a-star.edu.sg or @i2r.a-star.edu.sg. email address you can create your Slack account for the group discussion without needing an invite.
 
@@ -24,7 +25,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
  ************************************************** -->
 <tr>
-  <td><b>NUS Week 02</b><br />Fri, 22 January
+  <td><b>NUS Week 02</b><br />Fri, 22 Jan
   </td>
   <td>
     <strong>Topics on RecSys, Week 1</strong>
@@ -48,6 +49,15 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 -->
   </td>
   </tr>
+  
+  <tr>
+  <td><b>NUS Week 03</b><br />Thur, 28 Jan
+  </td>
+  <td>
+    <strong>Project Consultation session 1 </strong>
+  </td>
+  </tr>
+  
   <tr>
   <td><b>NUS Week 04</b><br />Fri, 5 Feb
   </td>
@@ -56,44 +66,85 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 
   </td>
   </tr>
+  
+  <tr>
+  <td><b>NUS Week 05</b><br />Thur, 11 Feb
+  </td>
+  <td>
+    <strong>Project Consultation session 2 </strong>
+  </td>
+  </tr>
+  
   <tr>
   <td><b>NUS Week 06</b><br />Fri, 19 Feb
   </td>
   <td>
-    <strong>Natural Language Generation, Week 1</strong>
-   
+    <strong>Natural Language Generation, Week 1</strong> 
   </td>
   </tr>
+  
+   <tr>
+  <td><b>NUS Week Recess</b><br />Thur, 25 Feb
+  </td>
+  <td>
+    <strong>Project Consultation session 3 </strong>
+  </td>
+  </tr>
+  
   <tr>
-  <td><b>NUS Week 07</b><br />Fri, 6 March
+  <td><b>NUS Week 07</b><br />Fri, 6 Mar
   </td>
   <td>
     <strong>Natural Language Generation, Week 2</strong>
     
   </td>
   </tr>
+  
+   <tr>
+  <td><b>NUS Week 08</b><br />Thur, 11 Mar 
+  </td>
+  <td>
+    <strong>Project Consultation session 4 </strong>
+  </td>
+  </tr>
+  
   <tr>
-  <td><b>NUS Week 09</b><br />Fri, 19 March
+  <td><b>NUS Week 09</b><br />Fri, 19 Mar
   </td>
   <td>
     <strong>Domain Adaptation / Adapting Pretrained Models, Week 1</strong>
-  
   </td>
   </tr>
+  
+   <tr>
+  <td><b>NUS Week 10</b><br />Thur, 25 Mar 
+  </td>
+  <td>
+    <strong>Project Consultation session 5 </strong>
+  </td>
+  </tr>
+  
   <tr>
-  <td><b>NUS Week 11</b><br />Fri, 2 April
+  <td><b>NUS Week 11</b><br />Fri, 2 Apr
   </td>
  <td>
     <strong>Domain Adaptation / Adapting Pretrained Models, Week 2</strong>
-  
   </td>
   </tr>
+  
+   <tr>
+  <td><b>NUS Week 12</b><br />Thur, 8 Apr 
+  </td>
+  <td>
+    <strong>Project Consultation session 6 </strong>
+  </td>
+  </tr>
+  
   <tr>
-  <td><b>NUS Week 13</b><br />Fri, 6 April
+  <td><b>NUS Week 13</b><br />Fri, 16 April
   </td>
   <td>
     <strong>Synthetic Data Generation for Machine Reading Comprehension, Week 1</strong>
-  
   </td>
   </tr>
   <tr>
