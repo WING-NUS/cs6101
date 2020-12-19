@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Fri 13:00-15:00 @ Zoom"
+title: "Biweekly Fri 13:00-15:00 @ Zoom"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-Our reading group will be conducted as a group seminar, with class participants nominating themselves and presenting the materials and leading the discussion.
+Our reading group will be conducted as a group seminar, with class participants nominating themselves and presenting the materials and leading the discussion. There will be a total of 8 sessions for Sem II 2020 every biweekly Friday from 1pm to 3pm. On the alternate Thursdays,we will have project consultations at the same timing.
 
 <a href="http://cs6101.slack.com/">A mandatory discussion group is on Slack</a>. Students and guests, please login when you are free. If you have a @comp.nus.edu.sg, @u.nus.edu, @nus.edu.sg, @a-star.edu.sg, @dsi.a-star.edu.sg or @i2r.a-star.edu.sg. email address you can create your Slack account for the group discussion without needing an invite.
 
