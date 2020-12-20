@@ -10,7 +10,16 @@ author_profile: true
 <!-- Content Table for 2010****
 ******** -->
 
-## AY 2020/20201, Semester I (2010)
+## **Table of Contents:**
+
+| Semester                         | Topic                                             |
+| -------------------------------- | ------------------------------------------------- |
+| AY 2020/2021 Semester 1 (2010)   | [Advanced General NLP Topics II](#my-anchor-2010) |
+| AY 2019/2020, Semester II (1920) | [Advanced General NLP Topics I](#my-anchor-1920)  |
+
+
+
+## AY 2020/2021, Semester I (2010) {#my-anchor-2010}
 
 To see the most current syllabus, click on the top **WING Reading Group (CS6101)** link.
 
@@ -353,7 +362,7 @@ Lecturers and Support Staff: Zitai Chen, Zirui Zhao , Samson Tan, Shuang Gao, Ha
 <!-- Content Table for 2010****
 ******** -->
 
-## AY 2019/2020, Semester II (1920)
+## AY 2019/2020, Semester II (1920) {#my-anchor-1920}
 
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>
