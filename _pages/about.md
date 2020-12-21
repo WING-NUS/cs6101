@@ -63,7 +63,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <td><b>NUS Week 04</b><br />Fri, 5 Feb
   </td>
   <td>
-    <strong>Topics on ConvSys, Week 2</strong> [Same Reading List as Last Week](paper-ConvSys)
+    <strong>Topics on ConvSys, Week 2</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Same Reading List as Last Week</a>
 
   </td>
   </tr>
@@ -80,7 +80,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <td><b>NUS Week 06</b><br />Fri, 19 Feb
   </td>
   <td>
-    <strong>Topics on RecSys, Week 1</strong>  [Reading List for Surveys and Research Papers](paper-RecSys) 
+    <strong>Topics on RecSys, Week 1</strong>  <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Reading List for Surveys and Research Papers</a>
   </td>
   </tr>
 
@@ -96,7 +96,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <td><b>NUS Week 07</b><br />Fri, 6 Mar
   </td>
   <td>
-    <strong>Topics on RecSys, Week 2</strong> [Same Reading List as Last Week](paper-RecSys)
+    <strong>Topics on RecSys, Week 2</strong> <a href="https://wing-nus.github.io/cs6101/paper-RecSys">Same Reading List as Last Week</a>
     
   </td>
   </tr>
@@ -113,7 +113,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <td><b>NUS Week 09</b><br />Fri, 19 Mar
   </td>
   <td>
-    <strong>Topics on ConvRecSys, Week 1</strong> [Reading List for Surveys and Research Papers](paper-ConvRecSys)
+    <strong>Topics on ConvRecSys, Week 1</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Reading List for Surveys and Research Papers</a>
   </td>
   </tr>
 
@@ -129,7 +129,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <td><b>NUS Week 11</b><br />Fri, 2 Apr
   </td>
  <td>
-    <strong>Topics on ConvRecSys, Week 2</strong>  [Same Reading List as Last Week](paper-ConvRecSys)
+    <strong>Topics on ConvRecSys, Week 2</strong>  <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Same Reading List as Last Week</a>
   </td>
   </tr>
 
@@ -145,7 +145,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <td><b>NUS Week 13</b><br />Fri, 16 April
   </td>
   <td>
-    <strong>Topics on ConvRecSys, Week 3</strong>  [Same Reading List as Last Week](paper-ConvRecSys)
+    <strong>Topics on ConvRecSys, Week 3</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Same Reading List as Last Week</a>
   </td>
   </tr>
   <tr>
