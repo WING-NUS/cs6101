@@ -11,8 +11,16 @@ author_profile: true
 
 ## Surveys
 
-TODO
+- <u>A Survey on Dialogue Systems: Recent Advances and New Frontiers.</u> Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang SIGKDD '17 [PDF@arXiv](https://arxiv.org/pdf/1711.01731.pdf)
 
 
 
 ## Research Papers
+
+[Note on 21st Dec 2020] Dear participants: our team is still in discussion for the strucutre of this section. It will be updated and furnitured by late this year!
+
+### Task-Oriented Dialogue System
+
+TODO
+
+### Non-Task-Oriented Dialogue System

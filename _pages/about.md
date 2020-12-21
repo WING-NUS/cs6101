@@ -80,7 +80,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <td><b>NUS Week 06</b><br />Fri, 19 Feb
   </td>
   <td>
-    <strong>Topics on RecSys, Week 1</strong>  <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Reading List for Surveys and Research Papers</a>
+    <strong>Topics on RecSys, Week 1</strong>  <a href="https://wing-nus.github.io/cs6101/paper-RecSys">Reading List for Surveys and Research Papers</a>
   </td>
   </tr>
 

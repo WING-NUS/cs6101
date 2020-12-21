@@ -27,7 +27,11 @@ Dear participants: This paper list is collected by our organizers' team. Feel fr
 
 ## Research Papers
 
-We follow the categorization in SIGIR 2020 Tutorial to recommend following research papers:
+[Note on 21st Dec 2020] Dear participants: our team is still in discussion for the strucutre of this section. It will be updated and furnitured by late this year!
+
+
+
+We currently follow the categorization in SIGIR 2020 Tutorial to recommend following research papers:
 
 ### Question-Driven Approaches:
 
@@ -56,9 +60,9 @@ We follow the categorization in SIGIR 2020 Tutorial to recommend following resea
 
 
 
-We also list other papers that could not be listed within the category of the SIGIR '20 Tutorial:
-
 ### Others:
+
+We also list other papers that could not be listed within the category of the SIGIR '20 Tutorial:
 
 - <u>An Visual Dialog Augmented Interactive Recommender System</u>. Tong Yu, Yilin Shen, and Hongxia Jin. SIGKDD '19 [PDF@acm.dl](https://dl.acm.org/doi/10.1145/3292500.3330991)
 - <u>Deep Conversational Recommender in Travel</u>. Lizi Liao, Ryuichi Takanobu, Yunshan Ma, Xun Yang, Minlie Huang and Tat-Seng Chua. arXiv '19 [PDF@arXiv](https://arxiv.org/pdf/1907.00710.pdf)
