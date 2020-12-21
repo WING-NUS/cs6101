@@ -13,15 +13,15 @@ Dear participants: This paper list is collected by our organizers' team. Feel fr
 
 ## Surveys
 
-- <u>Deep Conversational Recommender Systems: A New Frontier for Goal-Oriented Dialogue Systems.</u> Dai Hoang Tran, Quan Z. Sheng, Wei Emma Zhang, Salma Abdalla Hamad, Munazza Zaib, Nguyen H. Tran, Lina Yao, Nguyen Lu Dang Khoa. 2020 ArXiv [PDF@arxiv](https://arxiv.org/abs/2004.13245)
-- <u>A Survey on Conversational Recommender Systems.</u> Dietmar Jannach, Ahtsham Manzoor, Wanling Cai, Li Chen. 2020 ArXiv [PDF@arxiv](https://arxiv.org/abs/2004.00646)
+- <u>Deep Conversational Recommender Systems: A New Frontier for Goal-Oriented Dialogue Systems.</u> Dai Hoang Tran, Quan Z. Sheng, Wei Emma Zhang, Salma Abdalla Hamad, Munazza Zaib, Nguyen H. Tran, Lina Yao, Nguyen Lu Dang Khoa.  arXiv '20 [PDF@arxiv](https://arxiv.org/abs/2004.13245)
+- <u>A Survey on Conversational Recommender Systems.</u> Dietmar Jannach, Ahtsham Manzoor, Wanling Cai, Li Chen. arXiv '20 [PDF@arxiv](https://arxiv.org/abs/2004.00646)
 
 
 
 ## Tutorials
 
-- <u>Conversational Recommendation: Formulation, Methods, and Evaluation</u> Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua SIGIR 2020[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir20-tutorial.pdf) [Slides(PDF)](http://staff.ustc.edu.cn/~hexn/slides/sigir20-tutorial-CRS-slides.pdf)
-- <u>Tutorial on Conversational Recommendation Systems</u> Zuohui Fu, Yikun Xian, Yongfeng Zhang, Yi Zhang. In Proceedings of the Fourteenth ACM Conference on Recommender Systems RecSys 2020 [PDF](http://yongfeng.me/attach/fu-recsys2020.pdf) [Slides(PDF)](https://drive.google.com/file/d/14Fvxi--sX-52ZOZLySityXnTdsfWHWRe/view)
+- <u>Conversational Recommendation: Formulation, Methods, and Evaluation</u> Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua SIGIR '20 [PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir20-tutorial.pdf) [Slides(PDF)](http://staff.ustc.edu.cn/~hexn/slides/sigir20-tutorial-CRS-slides.pdf)
+- <u>Tutorial on Conversational Recommendation Systems</u> Zuohui Fu, Yikun Xian, Yongfeng Zhang, Yi Zhang.  RecSys '20 [PDF](http://yongfeng.me/attach/fu-recsys2020.pdf) [Slides(PDF)](https://drive.google.com/file/d/14Fvxi--sX-52ZOZLySityXnTdsfWHWRe/view)
 
 
 
