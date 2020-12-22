@@ -63,7 +63,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <td><b>NUS Week 04</b><br />Fri, 5 Feb
   </td>
   <td>
-    <strong>Topics on ConvSys, Week 2</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Same Reading List as Last Week</a>
+    <strong>Topics on ConvSys, Week 2</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Same Material as Week 02 </a>
 
   </td>
   </tr>
@@ -96,7 +96,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <td><b>NUS Week 07</b><br />Fri, 6 Mar
   </td>
   <td>
-    <strong>Topics on RecSys, Week 2</strong> <a href="https://wing-nus.github.io/cs6101/paper-RecSys">Same Reading List as Last Week</a>
+    <strong>Topics on RecSys, Week 2</strong> <a href="https://wing-nus.github.io/cs6101/paper-RecSys">Same Material as Week 06</a>
     
   </td>
   </tr>
@@ -129,7 +129,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <td><b>NUS Week 11</b><br />Fri, 2 Apr
   </td>
  <td>
-    <strong>Topics on ConvRecSys, Week 2</strong>  <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Same Reading List as Last Week</a>
+    <strong>Topics on ConvRecSys, Week 2</strong>  <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Same Material as Week 09</a>
   </td>
   </tr>
 
@@ -145,7 +145,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <td><b>NUS Week 13</b><br />Fri, 16 April
   </td>
   <td>
-    <strong>Topics on ConvRecSys, Week 3</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Same Reading List as Last Week</a>
+    <strong>Topics on ConvRecSys, Week 3</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Same Material as Week 09</a>
   </td>
   </tr>
   <tr>
