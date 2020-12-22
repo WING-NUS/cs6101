@@ -27,7 +27,7 @@ Dear participants: This paper list is collected by our organizers' team. Feel fr
 
 ## Research Papers
 
-[Note on 21st Dec 2020] Dear participants: our team is still in discussion for the strucutre of this section. It will be updated and furnitured by late this year!
+**[Note on 21st Dec 2020]** Dear participants: our team is still in discussion for the strucutre of this section. It will be updated and furnitured by late this year!
 
 
 
