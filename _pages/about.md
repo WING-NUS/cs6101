@@ -156,7 +156,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 
 ## Organizers {#org}
 
-This version of CS6101 is jointly hosted by [WING@NUS](http://wing.comp.nus.edu.sg/) and [Lab of Data Science @ USTC](http://data-science.ustc.edu.cn/), the latter one is led by our WING alumnus [Xiangnan He](http://staff.ustc.edu.cn/~hexn/). 
+This version of CS6101 is jointly run by [WING@NUS](http://wing.comp.nus.edu.sg/) and [Lab of Data Science @ USTC](http://data-science.ustc.edu.cn/), the latter one is led by our WING alumnus [Xiangnan He](http://staff.ustc.edu.cn/~hexn/). 
 
 Current organizer team includes following members (alphabetical order):
 
