@@ -160,5 +160,5 @@ This version of CS6101 is jointly run by [WING@NUS](http://wing.comp.nus.edu.sg/
 
 Current organizer team includes following members (alphabetical order):
 
-[Jiawei Chen@USTC](https://jiawei-chen.github.io/), [Chongming Gao@USTC](https://chongminggao.me/), [Xiangnan He@USTC](http://staff.ustc.edu.cn/~hexn/), [Hengchang Hu@NUS](http://holdenhu.cn/), Saurabh Jain@NUS, [Min-Yen Kan@NUS](https://www.comp.nus.edu.sg/~kanmy/), Xu Lin@NUS, [Xinyuan Lu@NUS](https://www.linkedin.com/in/xinyuan-lu-34762585/?originalSubdomain=sg), [Yisong Miao@NUS](https://yisong.me/)
+[Jiawei Chen@USTC](https://jiawei-chen.github.io/), [Chongming Gao@USTC](https://chongminggao.me/), [Xiangnan He@USTC](http://staff.ustc.edu.cn/~hexn/), [Hengchang Hu@NUS](http://holdenhu.cn/), [Saurabh Jain@NUS](https://www.linkedin.com/in/100rabhj), [Min-Yen Kan@NUS](https://www.comp.nus.edu.sg/~kanmy/), Xu Lin@NUS, [Xinyuan Lu@NUS](https://www.linkedin.com/in/xinyuan-lu-34762585/?originalSubdomain=sg), [Yisong Miao@NUS](https://yisong.me/)
 
