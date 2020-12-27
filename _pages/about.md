@@ -15,7 +15,7 @@ In the Sem II of AY2020/2021, we will focus on the topics of **Conversational Sy
 
 ## Schedule  {#schedule}
 
-The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
+The schedule below follows the [NUS Academic Calendar](http://nus.edu.sg/registrar/docs/info/calendar/ay2020-2021.pdf). The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
 
 **The schedule below are preliminary by 21st Dec 2020.** We may have slight changes on time allocation for topics and provide alternative suggestions for papers.
 
@@ -93,7 +93,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-  <td><b>NUS Week 07</b><br />Fri, 6 Mar
+  <td><b>NUS Week 07</b><br />Fri, 5 Mar
   </td>
   <td>
     <strong>Topics on RecSys, Week 2</strong> <a href="https://wing-nus.github.io/cs6101/paper-RecSys">Same Material as Week 06</a>
