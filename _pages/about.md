@@ -15,7 +15,7 @@ In the Sem II of AY2020/2021, we will focus on the topics of **Conversational Sy
 
 ## Schedule  {#schedule}
 
-The schedule below follows the [NUS Academic Calendar](http://nus.edu.sg/registrar/docs/info/calendar/ay2020-2021.pdf). The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
+The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
 
 **The schedule below are preliminary by 21st Dec 2020.** We may have slight changes on time allocation for topics and provide alternative suggestions for papers.
 
@@ -26,7 +26,8 @@ The schedule below follows the [NUS Academic Calendar](http://nus.edu.sg/registr
   Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
  ************************************************** -->
 <tr>
-  <td><b>NUS Week 02</b><br />Fri, 22 Jan
+  <td><b>NUS Week 02</b><br />Fri, 22 Jan<br />
+    <a href="http://nus.edu.sg/registrar/docs/info/calendar/ay2020-2021.pdf">NUS Calendar (PDF)</a>
   </td>
   <td>
     <strong>Topics on ConvSys, Week 1</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Reading List for Surveys and Research Papers</a>
