@@ -9,7 +9,7 @@ redirect_from:
 Our reading group will be conducted as a group seminar, with class participants nominating themselves and presenting the materials and leading the discussion. 
 In the Sem II of AY2020/2021, we will focus on the topics of 
 
-**Conversational System**, **Recommender System** and **their intersections**.  
+**Conversational Systems**, **Recommender Systems** and **their intersections**.  
 
 There will be 7 reading sessions, which will be held from 1 pm to 3 pm on Friday biweekly. On alternate Thursdays 1-3 pm, we will have project consultation sessions. Please see the detailed schedule in the table.
 
