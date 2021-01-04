@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 Our reading group will be conducted as a group seminar, with class participants nominating themselves and presenting the materials and leading the discussion. 
-In the Sem II of AY2020/2021, we will focus on the topics of **Conversational System**, **Recommender System** and **their intersections**.  There will be 7 reading sessions, which will be held from 1 pm to 3 pm on Friday biweekly. On alternate Thursdays 1-3 pm, we will have project consultation sessions. Please see the detailed schedule in the table.
+In the Sem II of AY2020/2021, we will focus on the topics of 
+
+**Conversational System**, **Recommender System** and **their intersections**.  
+
+There will be 7 reading sessions, which will be held from 1 pm to 3 pm on Friday biweekly. On alternate Thursdays 1-3 pm, we will have project consultation sessions. Please see the detailed schedule in the table.
 
 <a href="http://cs6101.slack.com/">A mandatory discussion group is on Slack</a>. Students and guests, please login when you are free. If you have a @comp.nus.edu.sg, @u.nus.edu, @nus.edu.sg, @a-star.edu.sg, @dsi.a-star.edu.sg or @i2r.a-star.edu.sg. email address you can create your Slack account for the group discussion without needing an invite.
 
@@ -17,7 +21,7 @@ In the Sem II of AY2020/2021, we will focus on the topics of **Conversational Sy
 
 The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
 
-**The schedule below are preliminary by 21st Dec 2020.** We may have slight changes on time allocation for topics and provide alternative suggestions for papers.
+**The schedule below is preliminary (last updated 4 Jan 2021)** We may make slight changes on the allocation for topics and provide alternative suggestions for papers.
 
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>
@@ -157,9 +161,9 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 
 ## Organizers {#org}
 
-This version of CS6101 is jointly run by [WING@NUS](http://wing.comp.nus.edu.sg/) and [Lab of Data Science @ USTC](http://data-science.ustc.edu.cn/), the latter one is led by our WING alumnus [Xiangnan He](http://staff.ustc.edu.cn/~hexn/). 
+This version of CS6101 is jointly run by [WING@NUS](http://wing.comp.nus.edu.sg/) and [Lab of Data Science @ USTC](http://data-science.ustc.edu.cn/), the latter one is led by Dr [Xiangnan He](http://staff.ustc.edu.cn/~hexn/). 
 
-Current organizer team includes following members (alphabetical order):
+The current organisation team includes following members (alphabetical order):
 
 [Jiawei Chen@USTC](https://jiawei-chen.github.io/), [Chongming Gao@USTC](https://chongminggao.me/), [Xiangnan He@USTC](http://staff.ustc.edu.cn/~hexn/), [Hengchang Hu@NUS](http://holdenhu.cn/), [Saurabh Jain@NUS](https://www.linkedin.com/in/100rabhj), [Min-Yen Kan@NUS](https://www.comp.nus.edu.sg/~kanmy/), Xu Lin@NUS, [Xinyuan Lu@NUS](https://www.linkedin.com/in/xinyuan-lu-34762585/?originalSubdomain=sg), [Yisong Miao@NUS](https://yisong.me/)
 
