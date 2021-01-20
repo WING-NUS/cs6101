@@ -28,11 +28,7 @@ author_profile: true
 
 **[Update on 20th Jan 2021]** 
 
-Dear participants: our team has compiled a non-exhaustive paper list and related material, leaving room for participants to suggest their own interested papers. 
-
-We only choose a small amount papers (~4) to present for each week. 
-
-The following schedule are following NUS calendar [PDF](http://nus.edu.sg/registrar/docs/info/calendar/ay2020-2021.pdf).
+Dear participants: our team has compiled a non-exhaustive paper list and related material, leaving room for participants to suggest their own interested papers. We only choose a small amount papers (~4) to present for each week. The following schedule are following NUS calendar [PDF](http://nus.edu.sg/registrar/docs/info/calendar/ay2020-2021.pdf).
 
 
 
