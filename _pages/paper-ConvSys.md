@@ -46,15 +46,23 @@ Dear participants: our team has compiled a non-exhaustive paper list and related
 
 ### Introduction to Subtasks of Dialogue System (Week 2)
 
-- Natural Language Understanding (intention detection, slot filling), by [TBD]().
+![](/Users/yisong/cs6101/files/dialogue-sys-components.png)
+
+<center>
+  Traditional Pipeline for Task-oriented Systems. Chen et.al. SIGKDD '17  [PDF@arXiv](https://arxiv.org/pdf/1711.01731.pdf)
+ </center>
+
+
+
+- Natural Language Understanding, by [TBD]().
   - <u>DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act Recognition and Sentiment Classification.</u> Libo Qin, Wanxiang Che, Yangming Li, Minheng Ni, Ting Liu. AAAI '20 [PDF@HIT](http://ir.hit.edu.cn/~car/papers/AAAI2020-Qin-dcrnet.pdf)
   - <u>Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling.</u> Bing Liu, Ian Lane. ISCA '16. [PDF@ISCA](https://www.isca-speech.org/archive/Interspeech_2016/pdfs/1352.PDF)
 
-- Dialogue Management (state tracking, policy learning), by [TBD]().
+- Dialogue Management, by [TBD]().
 
   - <u>Towards Universal Dialogue State Tracking.</u> Liliang Ren, Kaige Xie, Lu Chen and Kai Yu. EMNLP '18 [PDF@aclweb](https://www.aclweb.org/anthology/D18-1299.pdf)
 
-- Natural Language Generation (retrieval-based, generation-based), by [TBD]().
+- Natural Language Generation, by [TBD]().
 
   - <u>An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems</u>. Yiping Song, Cheng-Te Li, Jian-Yun Nie, Ming Zhang, Dongyan Zhao, Rui Yan. IJCAI '18 [PDF@IJCAI](https://www.ijcai.org/Proceedings/2018/0609.pdf)
 
