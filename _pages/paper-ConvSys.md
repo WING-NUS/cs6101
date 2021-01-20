@@ -56,7 +56,7 @@ Following are the details:
 
 ### Introduction to Subtasks of Dialogue System (Week 2)
 
-![](https://wing-nus.github.io/cs6101/files/dialogue-sys-components.png)
+<img src="https://wing-nus.github.io/cs6101/files/dialogue-sys-components.png" style="zoom:50%;" />
 
 <center>
   Traditional Pipeline for Task-oriented Systems. Chen et.al. SIGKDD '17
