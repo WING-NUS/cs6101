@@ -46,7 +46,7 @@ Dear participants: our team has compiled a non-exhaustive paper list and related
 
 ### Introduction to Subtasks of Dialogue System (Week 2)
 
-![](/Users/yisong/cs6101/files/dialogue-sys-components.png)
+![](https://wing-nus.github.io/cs6101/files/dialogue-sys-components.png)
 
 <center>
   Traditional Pipeline for Task-oriented Systems. Chen et.al. SIGKDD '17  [PDF@arXiv](https://arxiv.org/pdf/1711.01731.pdf)
