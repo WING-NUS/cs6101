@@ -24,13 +24,23 @@ author_profile: true
 
 
 
-## Research Papers & Schedule
+## Schedule & Research Papers
 
-**[Update on 20th Jan 2021]** 
+| Topic                                       | Presenter                                               | Time   |
+| ------------------------------------------- | ------------------------------------------------------- | ------ |
+| CS6101 Module Logistics                     | Prof [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) | Week 2 |
+| Overview of Dialogue System                 | TBD                                                     | Week 2 |
+| Introduction to Subtasks of Dialogue System | TBD                                                     | Week 2 |
+| End2End Models for Dialogue System          | TBD                                                     | Week 4 |
+| Frontier Topics and Conclusion              | TBD                                                     | Week 4 |
 
-Dear participants: our team has compiled a non-exhaustive paper list and related material, leaving room for participants to suggest their own interested papers. We only choose a small amount papers (~4) to present for each week. The following schedule are following NUS calendar [PDF](http://nus.edu.sg/registrar/docs/info/calendar/ay2020-2021.pdf).
+<center>
+  Agenda for Week 2 and Week 4.
+</center>
 
 
+
+Following are the details:
 
 ### Module Logistics (Week 2)
 
