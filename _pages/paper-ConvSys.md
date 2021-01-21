@@ -17,10 +17,10 @@ author_profile: true
 
 ## Tutorials
 
-- <u>Spoken Dialogue Systems</u>. Sarah Ita Levitan, Julia Hirschberg. Course material at Columbia University, CS6998. 2019. [pptx](http://www.cs.columbia.edu/~julia/courses/CS6998-2019/sds_slides.pptx)
-- <u>Conversational Agents</u>. Dan Jurafsky. Course material at Stanford Univeristy, CS 124/LINGUIST 180. 2020 Winter [Slides](http://web.stanford.edu/class/cs124/lec/chatbot20.pdf)
-- <u>Open-Domain Neural Dialogue System.</u> Yun-Nung Chen, Jianfeng Gao. Tutorial@IJCNLP '17. [Slides](https://www.csie.ntu.edu.tw/~yvchen/doc/OpenDialogue_Tutorial_IJCNLP.pdf)
-- <u>Towards Conversational Artificial Intelligence</u>. Minlie Huang. Tutorial@CAAI '18. [Slides](http://coai.cs.tsinghua.edu.cn/hml/media/files/CAAI-2018-tutorial.pdf)
+- <u>Spoken Dialogue Systems</u>. Sarah Ita Levitan, Julia Hirschberg. Course material at Columbia University, CS6998. 2019. [pptx@ColumbiaU](http://www.cs.columbia.edu/~julia/courses/CS6998-2019/sds_slides.pptx)
+- <u>Conversational Agents</u>. Dan Jurafsky. Course material at Stanford Univeristy, CS 124/LINGUIST 180. 2020 Winter [Slides@Stanford](http://web.stanford.edu/class/cs124/lec/chatbot20.pdf)
+- <u>Open-Domain Neural Dialogue System.</u> Yun-Nung Chen, Jianfeng Gao. Tutorial@IJCNLP '17. [Slides@NTU](https://www.csie.ntu.edu.tw/~yvchen/doc/OpenDialogue_Tutorial_IJCNLP.pdf)
+- <u>Towards Conversational Artificial Intelligence</u>. Minlie Huang. Tutorial@CAAI '18. [Slides@THU](http://coai.cs.tsinghua.edu.cn/hml/media/files/CAAI-2018-tutorial.pdf)
 
 
 
@@ -64,14 +64,14 @@ Following are the details:
 
 
 
-- Natural Language Understanding, by [TBD]().
+- Natural Language Understanding (NLU), by [TBD]().
   - Paper TBD. 
 
 - Dialogue Management, by [Yuxi Xie](https://scholar.google.com/citations?user=LNLECx0AAAAJ&hl=en).
 
-  - <u>Don’t Say ***That***! Making Inconsistent Dialogue Unlikely with Unlikelihood Training.</u> Margaret Li, Stephen Roller, Ilia Kulikov, Sean Welleck, Y-Lan Boureau, Kyunghyun Cho, Jason Weston. ACL '20 [PDF@aclweb](https://www.aclweb.org/anthology/2020.acl-main.428.pdf)
+  - <u>Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training.</u> Margaret Li, Stephen Roller, Ilia Kulikov, Sean Welleck, Y-Lan Boureau, Kyunghyun Cho, Jason Weston. ACL '20 [PDF@aclweb](https://www.aclweb.org/anthology/2020.acl-main.428.pdf)
 
-- Natural Language Generation, by [Xu Lin]().
+- Natural Language Generation (NLG), by [Xu Lin]().
 
   - <u>DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues</u>. Rishabh Joshi, Vidhisha Balachandran, Shikhar Vashishth, Alan Black, Yulia Tsvetkov.  ICLR '21 [PDF@OpenReview](https://openreview.net/forum?id=kDnal_bbb-E)
 
@@ -97,6 +97,6 @@ Following are the details:
 ### Frontier Topics and Conclusion (Week 4)
 
 - Multi-round Dialogue System: Are existing dialogue systems really able to consider previous rounds of conversation?
-- Implication Resolution: Are existing dialogue systems able to reveal hidden meaning beyond given texts.
+- Implication Resolution: Are existing dialogue systems able to reveal hidden meaning beyond given texts?
 - Conversational Recommendation as a special case of task-oriented dialogue system, by [Yisong Miao](https://www.yisong.me).
 
