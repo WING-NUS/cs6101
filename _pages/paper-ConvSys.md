@@ -26,13 +26,13 @@ author_profile: true
 
 ## Schedule & Research Papers
 
-| Topic                                       | Presenter                                                    | Time   |
-| ------------------------------------------- | ------------------------------------------------------------ | ------ |
-| CS6101 Module Logistics                     | Prof [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/)      | Week 2 |
-| Overview of Dialogue System?                | TBD?                                                         | Week 2 |
-| Introduction to Subtasks of Dialogue System | TBD, Xu Lin, [Yuxi Xie](https://scholar.google.com/citations?user=LNLECx0AAAAJ&hl=en) | Week 2 |
-| End2End Models for Dialogue System          | TBD                                                          | Week 4 |
-| Frontier Topics and Conclusion              | TBD                                                          | Week 4 |
+| Topic                                                        | Presenter                                                    | Time   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| CS6101 Module Logistics                                      | Prof [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/)      | Week 2 |
+| Overview of Dialogue System? (TBD whether we keep this section) | TBD?                                                         | Week 2 |
+| Introduction to Subtasks of Dialogue System<br>[[Slides To Come]]() [[Scribing Notes To Come]]() | TBD, Xu Lin, [Yuxi Xie](https://scholar.google.com/citations?user=LNLECx0AAAAJ&hl=en) | Week 2 |
+| End2End Models for Dialogue System                           | TBD                                                          | Week 4 |
+| Frontier Topics and Conclusion                               | TBD                                                          | Week 4 |
 
 <center>
   Agenda for Week 2 and Week 4.
