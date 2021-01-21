@@ -65,16 +65,15 @@ Following are the details:
 
 
 - Natural Language Understanding, by [TBD]().
-  - <u>DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act Recognition and Sentiment Classification.</u> Libo Qin, Wanxiang Che, Yangming Li, Minheng Ni, Ting Liu. AAAI '20 [PDF@HIT](http://ir.hit.edu.cn/~car/papers/AAAI2020-Qin-dcrnet.pdf)
-  - <u>Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling.</u> Bing Liu, Ian Lane. ISCA '16. [PDF@ISCA](https://www.isca-speech.org/archive/Interspeech_2016/pdfs/1352.PDF)
+  - Paper TBD. 
 
-- Dialogue Management, by [TBD]().
+- Dialogue Management, by [Yuxi Xie](https://scholar.google.com/citations?user=LNLECx0AAAAJ&hl=en).
 
-  - <u>Towards Universal Dialogue State Tracking.</u> Liliang Ren, Kaige Xie, Lu Chen and Kai Yu. EMNLP '18 [PDF@aclweb](https://www.aclweb.org/anthology/D18-1299.pdf)
+  - <u>Don’t Say ***That***! Making Inconsistent Dialogue Unlikely with Unlikelihood Training.</u> Margaret Li, Stephen Roller, Ilia Kulikov, Sean Welleck, Y-Lan Boureau, Kyunghyun Cho, Jason Weston. ACL '20 [PDF@aclweb](https://www.aclweb.org/anthology/2020.acl-main.428.pdf)
 
-- Natural Language Generation, by [TBD]().
+- Natural Language Generation, by [Xu Lin]().
 
-  - <u>An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems</u>. Yiping Song, Cheng-Te Li, Jian-Yun Nie, Ming Zhang, Dongyan Zhao, Rui Yan. IJCAI '18 [PDF@IJCAI](https://www.ijcai.org/Proceedings/2018/0609.pdf)
+  - <u>DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues</u>. Rishabh Joshi, Vidhisha Balachandran, Shikhar Vashishth, Alan Black, Yulia Tsvetkov.  ICLR '21 [PDF@OpenReview](https://openreview.net/forum?id=kDnal_bbb-E)
 
     
 
