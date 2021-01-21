@@ -26,13 +26,13 @@ author_profile: true
 
 ## Schedule & Research Papers
 
-| Topic                                       | Presenter                                               | Time   |
-| ------------------------------------------- | ------------------------------------------------------- | ------ |
-| CS6101 Module Logistics                     | Prof [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) | Week 2 |
-| Overview of Dialogue System                 | TBD                                                     | Week 2 |
-| Introduction to Subtasks of Dialogue System | TBD                                                     | Week 2 |
-| End2End Models for Dialogue System          | TBD                                                     | Week 4 |
-| Frontier Topics and Conclusion              | TBD                                                     | Week 4 |
+| Topic                                       | Presenter                                                    | Time   |
+| ------------------------------------------- | ------------------------------------------------------------ | ------ |
+| CS6101 Module Logistics                     | Prof [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/)      | Week 2 |
+| Overview of Dialogue System?                | TBD?                                                         | Week 2 |
+| Introduction to Subtasks of Dialogue System | TBD, Xu Lin, [Yuxi Xie](https://scholar.google.com/citations?user=LNLECx0AAAAJ&hl=en) | Week 2 |
+| End2End Models for Dialogue System          | TBD                                                          | Week 4 |
+| Frontier Topics and Conclusion              | TBD                                                          | Week 4 |
 
 <center>
   Agenda for Week 2 and Week 4.
@@ -66,16 +66,11 @@ Following are the details:
 
 - Natural Language Understanding (NLU), by [TBD]().
   - Paper TBD. 
-
-- Dialogue Management, by [Yuxi Xie](https://scholar.google.com/citations?user=LNLECx0AAAAJ&hl=en).
-
-  - <u>Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training.</u> Margaret Li, Stephen Roller, Ilia Kulikov, Sean Welleck, Y-Lan Boureau, Kyunghyun Cho, Jason Weston. ACL '20 [PDF@aclweb](https://www.aclweb.org/anthology/2020.acl-main.428.pdf)
-
-- Natural Language Generation (NLG), by [Xu Lin]().
-
+- Dialogue Management, by [Xu Lin]().
   - <u>DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues</u>. Rishabh Joshi, Vidhisha Balachandran, Shikhar Vashishth, Alan Black, Yulia Tsvetkov.  ICLR '21 [PDF@OpenReview](https://openreview.net/forum?id=kDnal_bbb-E)
 
-    
+- Natural Language Generation (NLG), by [Yuxi Xie](https://scholar.google.com/citations?user=LNLECx0AAAAJ&hl=en).
+  - <u>Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training.</u> Margaret Li, Stephen Roller, Ilia Kulikov, Sean Welleck, Y-Lan Boureau, Kyunghyun Cho, Jason Weston. ACL '20 [PDF@aclweb](https://www.aclweb.org/anthology/2020.acl-main.428.pdf)
 
 ---
 
