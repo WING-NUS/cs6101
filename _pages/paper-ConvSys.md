@@ -64,8 +64,8 @@ Following are the details:
 
 
 
-- Natural Language Understanding (NLU), by [TBD]().
-  - Paper TBD. 
+- Natural Language Understanding (NLU), by [Prof Min](https://www.comp.nus.edu.sg/~kanmy/index.html).
+  - DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act Recognition and Sentiment Classification. **Libo Qin**, Wanxiang Che, Yangming Li, Minheng Ni, Ting Liu. AAAI '21 [PDF@AAAI](https://ojs.aaai.org//index.php/AAAI/article/view/6391)
 - Dialogue Management, by [Xu Lin]().
   - <u>DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues</u>. Rishabh Joshi, Vidhisha Balachandran, Shikhar Vashishth, Alan Black, Yulia Tsvetkov.  ICLR '21 [PDF@OpenReview](https://openreview.net/forum?id=kDnal_bbb-E)
 
