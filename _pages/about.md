@@ -38,24 +38,24 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cw2hNnDcigc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
     
-  <strong>Topics on Conversational Systems, Week 1</strong>
+  <strong>Topics on Conversational Systems I</strong>
   <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Reading List for Surveys and Research Papers</a>
   <p>
     Lecturers: Min-Yen Kan, Yisong Miao, Lin Xu, Yuxi Xie<br/>
-    Scribers: whole class
+    Support Staff: whole class
 </p>
   <p>
-    [<a href="https://docs.google.com/presentation/d/1e1JLxKbK6aGY0G5CirkLtqMhShApl-Pz4shw4YAT_TU/edit">Lecture Slides</a>]
-    [<a href="https://docs.google.com/document/d/1hGuSyHxZEXO4SK64_TIeIZPPlFoGUe-2_0lh9WUPo34/edit">Scribe Notes</a>]
+    [&nbsp;<a href="https://docs.google.com/presentation/d/1e1JLxKbK6aGY0G5CirkLtqMhShApl-Pz4shw4YAT_TU/edit">Lecture Slides</a>&nbsp;]
+    [&nbsp;<a href="https://docs.google.com/document/d/1hGuSyHxZEXO4SK64_TIeIZPPlFoGUe-2_0lh9WUPo34/edit">Scribe Notes</a>&nbsp;]
     <br/></p> 
 <P>Descriptions:
 <ul>
-  <li>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=0s">00:00</a>]Start - CS6101 / DYC1401 administration, presented by Min-yen Kan </li>
-  <li>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=2160s">36:00</a>]Overview of Dialogue Systems, presented by Yisong Miao </li>
-  <li>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=2711s">45:11</a>]Qin et al. (2020) "DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act
-Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car/papers/AAAI2020-Qin-dcrnet.pdf">PDF</a>] In AAAI'2020, presented by Min-yen Kan </li>
-  <li>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=5205s">1:26:45</a>]Anonymous (n.d.) "DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues" [<a href = "https://openreview.net/pdf?id=kDnal_bbb-E">Unpublished manuscript</a>], presented by Lin Xu </li>
-  <li>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=7680s">2:08:00</a>]Li et al. (2020) "Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training". [<a href = " https://www.aclweb.org/anthology/2020.acl-main.428/">PDF</a>] In ACL'2020, presented by Yuxi Xie </li> 
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=0s">00:00</a>&nbsp;] Start - CS6101 / DYC1401 administration, presented by Min-Yen Kan </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=2160s">36:00</a>&nbsp;] Overview of Dialogue Systems, presented by Yisong Miao </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=2711s">45:11</a>&nbsp;] Qin et al. (2020) "DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act
+Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.cn/~car/papers/AAAI2020-Qin-dcrnet.pdf">PDF</a>&nbsp;] In AAAI'2020, presented by Min-Yen Kan </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=5205s">1:26:45</a>&nbsp;]Anonymous (n.d.) "DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues" [&nbsp;<a href = "https://openreview.net/pdf?id=kDnal_bbb-E">Unpublished manuscript</a>], presented by Lin Xu </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=7680s">2:08:00</a>&nbsp;] Li et al. (2020) "Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training". [&nbsp;<a href = " https://www.aclweb.org/anthology/2020.acl-main.428/">PDF</a>&nbsp;] In ACL'2020, presented by Yuxi Xie </li> 
  </ul>
     </p>
   </td>
@@ -65,7 +65,7 @@ Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car
   <td><b>NUS Week 03</b><br />Thur, 28 Jan
   </td>
   <td>
-    <strong>Project Consultation session 1 </strong>
+    <strong>Project Consultation Session 1 </strong>
   </td>
   </tr>
 
@@ -73,7 +73,7 @@ Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car
   <td><b>NUS Week 04</b><br />Fri, 5 Feb
   </td>
   <td>
-    <strong>Topics on ConvSys, Week 2</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Same Material as Week 02 </a>
+    <strong>Topics on ConvSys II</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Same Material as Week 02 </a>
 
   </td>
   </tr>
@@ -82,7 +82,7 @@ Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car
   <td><b>NUS Week 05</b><br />Thur, 11 Feb
   </td>
   <td>
-    <strong>Project Consultation session 2 </strong>
+    <strong>Project Consultation Session 2 </strong>
   </td>
   </tr>
 
@@ -90,7 +90,7 @@ Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car
   <td><b>NUS Week 06</b><br />Fri, 19 Feb
   </td>
   <td>
-    <strong>Topics on RecSys, Week 1</strong>  <a href="https://wing-nus.github.io/cs6101/paper-RecSys">Reading List for Surveys and Research Papers</a>
+    <strong>Topics on RecSys I</strong>  <a href="https://wing-nus.github.io/cs6101/paper-RecSys">Reading List for Surveys and Research Papers</a>
   </td>
   </tr>
 
@@ -98,7 +98,7 @@ Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car
   <td><b>NUS Week Recess</b><br />Thur, 25 Feb
   </td>
   <td>
-    <strong>Project Consultation session 3 </strong>
+    <strong>Project Consultation Session 3 </strong>
   </td>
   </tr>
 
@@ -106,7 +106,7 @@ Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car
   <td><b>NUS Week 07</b><br />Fri, 5 Mar
   </td>
   <td>
-    <strong>Topics on RecSys, Week 2</strong> <a href="https://wing-nus.github.io/cs6101/paper-RecSys">Same Material as Week 06</a>
+    <strong>Topics on RecSys II</strong> <a href="https://wing-nus.github.io/cs6101/paper-RecSys">Same Material as Week 06</a>
     
   </td>
   </tr>
@@ -115,7 +115,7 @@ Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car
   <td><b>NUS Week 08</b><br />Thur, 11 Mar 
   </td>
   <td>
-    <strong>Project Consultation session 4 </strong>
+    <strong>Project Consultation Session 4 </strong>
   </td>
   </tr>
 
@@ -123,7 +123,7 @@ Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car
   <td><b>NUS Week 09</b><br />Fri, 19 Mar
   </td>
   <td>
-    <strong>Topics on ConvRecSys, Week 1</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Reading List for Surveys and Research Papers</a>
+    <strong>Topics on ConvRecSys I</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Reading List for Surveys and Research Papers</a>
   </td>
   </tr>
 
@@ -131,7 +131,7 @@ Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car
   <td><b>NUS Week 10</b><br />Thur, 25 Mar 
   </td>
   <td>
-    <strong>Project Consultation session 5 </strong>
+    <strong>Project Consultation Session 5 </strong>
   </td>
   </tr>
 
@@ -139,7 +139,7 @@ Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car
   <td><b>NUS Week 11</b><br />Fri, 2 Apr
   </td>
  <td>
-    <strong>Topics on ConvRecSys, Week 2</strong>  <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Same Material as Week 09</a>
+    <strong>Topics on ConvRecSys II</strong>  <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Same Material as Week 09</a>
   </td>
   </tr>
 
@@ -147,7 +147,7 @@ Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car
   <td><b>NUS Week 12</b><br />Thur, 8 Apr 
   </td>
   <td>
-    <strong>Project Consultation session 6 </strong>
+    <strong>Project Consultation Session 6 </strong>
   </td>
   </tr>
 
@@ -155,7 +155,7 @@ Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car
   <td><b>NUS Week 13</b><br />Fri, 16 April
   </td>
   <td>
-    <strong>Topics on ConvRecSys, Week 3</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Same Material as Week 09</a>
+    <strong>Topics on ConvRecSys III</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Same Material as Week 09</a>
   </td>
   </tr>
   <tr>
