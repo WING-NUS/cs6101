@@ -35,24 +35,29 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </td>
   <td>
     <strong>Topics on ConvSys, Week 1</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Reading List for Surveys and Research Papers</a>
- <!--
  <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qb8EWcXZu6M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Cw2hNnDcigc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
   <p>
-    Lecturer and Support staff: xxxxx<br/></p>
+    Lecturer and Support staff: Min-Yen Kan, Yisong Miao, Xu Lin, Yuxi Xie, Xinyuan Lu<br/></p>
+
   <p>
-    [<a href="xxx">Lecture Slides</a>]
-    [<a href="xxx">Scribe Notes</a>]
+    [<a href="https://docs.google.com/presentation/d/1e1JLxKbK6aGY0G5CirkLtqMhShApl-Pz4shw4YAT_TU/edit">Lecture Slides</a>]
+    [<a href="https://docs.google.com/document/d/1hGuSyHxZEXO4SK64_TIeIZPPlFoGUe-2_0lh9WUPo34/edit">Scribe Notes</a>]
     <br/></p> 
-<P>Reading List:
+
+<P>Descriptions:
 <UL>
-  <LI> Sutskever, Vinyals, & Le. (2014) “Sequence to sequence learning with neural networks.” : <a href="https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf</a> [ <a href="https://youtu.be/Qb8EWcXZu6M?t=1796">Video Segment @ 29:55</a>] </li>
-  <LI> Gehring, et al. (2017) "Convolutional sequence to sequence learning." : <A HREF="https://arxiv.org/abs/1705.03122">https://arxiv.org/abs/1705.03122</a> [ <a href="https://youtu.be/Qb8EWcXZu6M?t=3193">Video Segment @ 53:12</a> ] </li>
-  <LI> Vaswani, et al. (2017) "Attention is all you need." : <A href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf</a> [ <a href="https://youtu.be/Qb8EWcXZu6M?t=4775">Video Segment @ 1:19:35</a> ] </li>
-  </UL>
+  <LI>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc">00:00</a>]Start - CS6101 / DYC1401 administration, presented by Min-yen Kan   </li>
+  <LI>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc">36:00</a>]Overview of Dialogue Systems, presented by Yisong Miao </li>
+  <LI>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc">45:11</a>] Qin et al. (2020) "DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act
+Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car/papers/AAAI2020-Qin-dcrnet.pdf"> PDF</a>] In AAAI'2020, presented by Min-yen Kan  </li>
+  </LI>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc">1:26:45</a>]Anonymous (n.d.) "DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues" [<a href = "https://openreview.net/pdf?id=kDnal_bbb-E"> Unpublished manuscript</a>], presented by Lin Xu </li>
+  </LI>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc">2:08:00</a>] Li et al. (2020) "Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training". [<a href = " https://www.aclweb.org/anthology/2020.acl-main.428/">PDF</a>] In ACL'2020, presented by Yuxi Xie </li> 
+ </UL>
     </p>
--->
+    
+    
   </td>
   </tr>
 
