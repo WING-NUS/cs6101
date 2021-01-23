@@ -38,7 +38,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cw2hNnDcigc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
     
-  <strong>Topics on Conversational Systems, Week 1</strong> </br>
+  <strong>Topics on Conversational Systems, Week 1</strong>
   <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Reading List for Surveys and Research Papers</a>
   <p>
     Lecturers: Min-Yen Kan, Yisong Miao, Lin Xu, Yuxi Xie<br/>
