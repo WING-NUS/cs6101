@@ -36,10 +36,13 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <td>
     <strong>Topics on ConvSys, Week 1</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Reading List for Surveys and Research Papers</a>
  <p>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Cw2hNnDcigc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cw2hNnDcigc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
+    
   <p>
-    Lecturer and Support staff: Min-Yen Kan, Yisong Miao, Xu Lin, Yuxi Xie, Xinyuan Lu<br/></p>
+    Lecturers: Min-Yen Kan, Yisong Miao, Xu Lin, Yuxi Xie<br/>
+    Scribers: whole class<br/>
+</p>
 
   <p>
     [<a href="https://docs.google.com/presentation/d/1e1JLxKbK6aGY0G5CirkLtqMhShApl-Pz4shw4YAT_TU/edit">Lecture Slides</a>]
@@ -48,12 +51,12 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 
 <P>Descriptions:
 <ul>
-  <li>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc">00:00</a>]Start - CS6101 / DYC1401 administration, presented by Min-yen Kan </li>
-  <li>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc">36:00</a>]Overview of Dialogue Systems, presented by Yisong Miao </li>
-  <li>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc">45:11</a>] Qin et al. (2020) "DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act
+  <li>[<a href="https://www.youtube.com/embed/Cw2hNnDcigc">@00:00</a>]Start - CS6101 / DYC1401 administration, presented by Min-yen Kan </li>
+  <li>[<a href="https://www.youtube.com/embed/Cw2hNnDcigc">@36:00</a>]Overview of Dialogue Systems, presented by Yisong Miao </li>
+  <li>[<a href="https://www.youtube.com/embed/Cw2hNnDcigc">@45:11</a>] Qin et al. (2020) "DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act
 Recognition and Sentiment Classification". [<a href = "http://ir.hit.edu.cn/~car/papers/AAAI2020-Qin-dcrnet.pdf">PDF</a>] In AAAI'2020, presented by Min-yen Kan </li>
-  <li>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc">1:26:45</a>]Anonymous (n.d.) "DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues" [<a href = "https://openreview.net/pdf?id=kDnal_bbb-E">Unpublished manuscript</a>], presented by Lin Xu </li>
-  <li>[<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc">2:08:00</a>] Li et al. (2020) "Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training". [<a href = " https://www.aclweb.org/anthology/2020.acl-main.428/">PDF</a>] In ACL'2020, presented by Yuxi Xie </li> 
+  <li>[<a href="https://www.youtube.com/embed/Cw2hNnDcigc">@1:26:45</a>]Anonymous (n.d.) "DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues" [<a href = "https://openreview.net/pdf?id=kDnal_bbb-E">Unpublished manuscript</a>], presented by Lin Xu </li>
+  <li>[<a href="https://www.youtube.com/embed/Cw2hNnDcigc">@2:08:00</a>] Li et al. (2020) "Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training". [<a href = " https://www.aclweb.org/anthology/2020.acl-main.428/">PDF</a>] In ACL'2020, presented by Yuxi Xie </li> 
  </ul>
     </p>
   </td>
