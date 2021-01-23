@@ -54,7 +54,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=2160s">36:00</a>&nbsp;] Overview of Dialogue Systems, presented by Yisong Miao </li>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=2711s">45:11</a>&nbsp;] Qin et al. (2020) "DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act
 Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.cn/~car/papers/AAAI2020-Qin-dcrnet.pdf">PDF</a>&nbsp;] In AAAI'2020, presented by Min-Yen Kan </li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=5205s">1:26:45</a>&nbsp;]Anonymous (n.d.) "DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues" [&nbsp;<a href = "https://openreview.net/pdf?id=kDnal_bbb-E">Unpublished manuscript</a>], presented by Lin Xu </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=5205s">1:26:45</a>&nbsp;] Anonymous (n.d.) "DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues" [&nbsp;<a href = "https://openreview.net/pdf?id=kDnal_bbb-E">Unpublished manuscript</a>&nbsp;], presented by Lin Xu </li>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=7680s">2:08:00</a>&nbsp;] Li et al. (2020) "Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training". [&nbsp;<a href = " https://www.aclweb.org/anthology/2020.acl-main.428/">PDF</a>&nbsp;] In ACL'2020, presented by Yuxi Xie </li> 
  </ul>
     </p>
