@@ -87,7 +87,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
 <ul>
   <li>[&nbsp;<a href="">To Come</a>&nbsp;] Lei et al. (2018) "Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures". [&nbsp;<a href = "https://www.aclweb.org/anthology/P18-1133.pdf">PDF</a>&nbsp;] In ACL'2018, presented by Xiong An Lee, Tongyao Zhu</li>
   <li>[&nbsp;<a href="">To Come</a>&nbsp;] Zhang et al. (2020) "DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation" [&nbsp;<a href = "https://www.aclweb.org/anthology/2020.acl-demos.30.pdf">PDF</a>&nbsp;], ACL'2018, presented by Muhd Assyarul Ariffin Bin Omar, Axel Lau</li>
-    <li>[&nbsp;<a href="">To Come</a>&nbsp;] Wu & Xiong (2020) "Probing Task-Oriented Dialogue Representation from Language Models" [&nbsp;<a href = "https://www.aclweb.org/anthology/2020.emnlp-main.409.pdf">PDF</a>&nbsp;], EMNLOP'2020, presented by Abhinav Ramesh Kashyap, Stephen Tan/li>
+    <li>[&nbsp;<a href="">To Come</a>&nbsp;] Wu & Xiong (2020) "Probing Task-Oriented Dialogue Representation from Language Models" [&nbsp;<a href = "https://www.aclweb.org/anthology/2020.emnlp-main.409.pdf">PDF</a>&nbsp;], EMNLOP'2020, presented by Abhinav Ramesh Kashyap, Stephen Tan</li>
  </ul>
     </p>
 
