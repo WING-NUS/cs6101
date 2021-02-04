@@ -78,10 +78,10 @@ Following are the details:
 
 ### End2End Models for Dialogue System (Week 4)
 
-- Seq2Seq Model for Dialogue System
+- Seq2Seq Model for Dialogue System, by Xiong An Lee, Tongyao Zhu.
   - <u>Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures.</u> Wenqiang Lei, Xisen Jin, Min-Yen Kan, Zhaochun Ren, Xiangnan He, Dawei Yin. ACL '18. [PDF@aclweb](https://www.aclweb.org/anthology/P18-1133.pdf)
 
-- Pretrained Language Model for Dialogue System
+- Pretrained Language Model for Dialogue System, by Muhd Assyarul Ariffin Bin Omar, Axel Lau, Abhinav Ramesh Kashyap, Stephen Tan.
 
   - <u>DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation.</u> Yizhe Zhang, Siqi Sun, Michel Galley, Yen-Chun Chen, Chris Brockett, Xiang Gao, Jianfeng Gao, Jingjing Liu, Bill Dolan. Demo@ACL '20 [PDF@aclweb](https://www.aclweb.org/anthology/2020.acl-demos.30.pdf)
 

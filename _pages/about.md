@@ -37,9 +37,9 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
    <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cw2hNnDcigc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
-
   <strong>Topics on Conversational Systems I</strong>
   <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Reading List for Surveys and Research Papers</a>
+
   <p>
     Lecturers: Min-Yen Kan, Yisong Miao, Lin Xu, Yuxi Xie<br/>
     Support Staff: whole class
@@ -74,6 +74,25 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   </td>
   <td>
     <strong>Topics on ConvSys II</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Same Material as Week 02 </a>
+
+  <p>
+    Lecturers: Xiong An Lee, Tongyao Zhu, Muhd Assyarul Ariffin Bin Omar, Axel Lau, Abhinav Ramesh Kashyap, Stephen Tan<br/>
+    Support Staff: TBD
+</p>
+  <p>
+    [&nbsp;<a href="">Lecture Slides (To Come)</a>&nbsp;]
+    [&nbsp;<a href="">Scribe Notes (To Come)</a>&nbsp;]
+    <br/></p> 
+<P>Descriptions:
+<ul>
+  <li>[&nbsp;<a href="">To Come</a>&nbsp;] Lei et al. (2018) "Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures". [&nbsp;<a href = "https://www.aclweb.org/anthology/P18-1133.pdf">PDF</a>&nbsp;] In ACL'2018, presented by Xiong An Lee, Tongyao Zhu</li>
+  <li>[&nbsp;<a href="">To Come</a>&nbsp;] Zhang et al. (2020) "DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation" [&nbsp;<a href = "https://www.aclweb.org/anthology/2020.acl-demos.30.pdf">PDF</a>&nbsp;], ACL'2018, presented by Muhd Assyarul Ariffin Bin Omar, Axel Lau</li>
+    <li>[&nbsp;<a href="">To Come</a>&nbsp;] Wu & Xiong (2020) "Probing Task-Oriented Dialogue Representation from Language Models" [&nbsp;<a href = "https://www.aclweb.org/anthology/2020.emnlp-main.409.pdf">PDF</a>&nbsp;], EMNLOP'2020, presented by Abhinav Ramesh Kashyap, Stephen Tan/li>
+ </ul>
+    </p>
+
+
+
 
   </td>
   </tr>
