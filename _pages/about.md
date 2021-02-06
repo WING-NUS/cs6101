@@ -39,7 +39,6 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </p>
   <strong>Topics on Conversational Systems I</strong>
   <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Reading List for Surveys and Research Papers</a>
-
   <p>
     Lecturers: Min-Yen Kan, Yisong Miao, Lin Xu, Yuxi Xie<br/>
     Support Staff: whole class
@@ -58,6 +57,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=7680s">2:08:00</a>&nbsp;] Li et al. (2020) "Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training". [&nbsp;<a href = " https://www.aclweb.org/anthology/2020.acl-main.428/">PDF</a>&nbsp;] In ACL'2020, presented by Yuxi Xie </li> 
  </ul>
     </p>
+
   </td>
   </tr>
 
@@ -73,23 +73,32 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   <td><b>NUS Week 04</b><br />Fri, 5 Feb
   </td>
   <td>
-    <strong>Topics on ConvSys II</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Same Material as Week 02 </a>
+
+   <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Zna8r6SoP8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+
+​    <strong>Topics on ConvSys II</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Same Material as Week 02 </a>
 
   <p>
     Lecturers: Xiong An Lee, Tongyao Zhu, Muhd Assyarul Ariffin Bin Omar, Axel Lau, Abhinav Ramesh Kashyap, Stephen Tan<br/>
     Support Staff: TBD
 </p>
   <p>
-    [&nbsp;<a href="">Lecture Slides (To Come)</a>&nbsp;]
-    [&nbsp;<a href="">Scribe Notes (To Come)</a>&nbsp;]
+    [&nbsp;<a href="https://docs.google.com/presentation/d/1rqRxDxx47x34H8pgjgivzkvBjFx14-YMiYcEG72DNCg/edit#slide=id.p">Lecture Slides</a>&nbsp;]
+    [&nbsp;<a href="https://docs.google.com/document/d/1hGuSyHxZEXO4SK64_TIeIZPPlFoGUe-2_0lh9WUPo34/edit#heading=h.h9rj9guqwtp">Scribe Notes</a>&nbsp;]
     <br/></p> 
 <P>Descriptions:
 <ul>
-  <li>[&nbsp;<a href="">To Come</a>&nbsp;] Lei et al. (2018) "Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures". [&nbsp;<a href = "https://www.aclweb.org/anthology/P18-1133.pdf">PDF</a>&nbsp;] In ACL'2018, presented by Xiong An Lee, Tongyao Zhu</li>
-  <li>[&nbsp;<a href="">To Come</a>&nbsp;] Zhang et al. (2020) "DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation" [&nbsp;<a href = "https://www.aclweb.org/anthology/2020.acl-demos.30.pdf">PDF</a>&nbsp;], ACL'2020, presented by Muhd Assyarul Ariffin Bin Omar, Axel Lau</li>
-    <li>[&nbsp;<a href="">To Come</a>&nbsp;] Wu & Xiong (2020) "Probing Task-Oriented Dialogue Representation from Language Models" [&nbsp;<a href = "https://www.aclweb.org/anthology/2020.emnlp-main.409.pdf">PDF</a>&nbsp;], EMNLP'2020, presented by Abhinav Ramesh Kashyap, Stephen Tan</li>
+  <li>[&nbsp;<a href="https://youtu.be/7Zna8r6SoP8">00:00</a>&nbsp;] Start - CS6101 / DYC1401 administration, presented by Min-Yen Kan </li>
+
+  <li>[&nbsp;<a href="https://youtu.be/7Zna8r6SoP8?t=752">12:32</a>&nbsp;] Zhang et al. (2020) "DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation" [&nbsp;<a href = "https://www.aclweb.org/anthology/2020.acl-demos.30.pdf">PDF</a>&nbsp;], ACL'2020, presented by Muhd Assyarul Ariffin Bin Omar, Axel Lau</li>
+    <li>[&nbsp;<a href="https://youtu.be/7Zna8r6SoP8?t=1701">28:21</a>&nbsp;] Wu & Xiong (2020) "Probing Task-Oriented Dialogue Representation from Language Models" [&nbsp;<a href = "https://www.aclweb.org/anthology/2020.emnlp-main.409.pdf">PDF</a>&nbsp;], EMNLP'2020, presented by Abhinav Ramesh Kashyap, Stephen Tan</li>
+    <li>[&nbsp;<a href="https://youtu.be/7Zna8r6SoP8?t=5151">1:25:51</a>&nbsp;] Lei et al. (2018) "Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures". [&nbsp;<a href = "https://www.aclweb.org/anthology/P18-1133.pdf">PDF</a>&nbsp;] In ACL'2018, presented by Xiong An Lee, Tongyao Zhu</li>
+
  </ul>
     </p>
+
 
 
 
