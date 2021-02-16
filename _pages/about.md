@@ -65,7 +65,16 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   <td><b>NUS Week 03</b><br />Thur, 28 Jan
   </td>
   <td>
-    <strong>Project Consultation Session 1 </strong>
+    <strong>Project Consultation Session 1, led by KAN Min-Yen </strong>
+      <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xqkS_SlVguY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+    <P>Descriptions:
+<ul>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=xqkS_SlVguY&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=2&t=0s">00:00</a>&nbsp;] Start  </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=xqkS_SlVguY&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=2&t=200s">3:20</a>&nbsp;] Agenda for today </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=xqkS_SlVguY&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=2&t=2147s">35:47</a>&nbsp;] Sprint Descriptions </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=xqkS_SlVguY&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=2&t=4237s">1:10:37</a>&nbsp;] Breakout Room Start / End of Common Video</li>
   </td>
   </tr>
 
