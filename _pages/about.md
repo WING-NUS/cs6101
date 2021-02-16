@@ -65,10 +65,10 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   <td><b>NUS Week 03</b><br />Thur, 28 Jan
   </td>
   <td>
-    <strong>Project Consultation Session 1, led by KAN Min-Yen </strong>
       <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xqkS_SlVguY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
+      <strong>Project Consultation Session 1, led by Min-Yen Kan </strong>
     <P>Descriptions:
 <ul>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=xqkS_SlVguY&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=2&t=0s">00:00</a>&nbsp;] Start  </li>
@@ -118,8 +118,17 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   <tr>
   <td><b>NUS Week 05</b><br />Thur, 11 Feb
   </td>
-  <td>
-    <strong>Project Consultation Session 2 </strong>
+   <td>
+      <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nAUIXD2qCk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+      <strong>Project Consultation Session 2, led by Min-Yen Kan </strong>
+    <P>Descriptions:
+<ul>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=0nAUIXD2qCk&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=4&t=0s">00:00</a>&nbsp;] Start  </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=0nAUIXD2qCk&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=4&t=126s">2:06</a>&nbsp;] Agenda for today </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=0nAUIXD2qCk&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=4&t=555s">9:15</a>&nbsp;] Breakout Rooms Start / Min discusses with Diversifying Dialogue Gen with Non-Conversational Text group</li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=0nAUIXD2qCk&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=4&t=3040s">50:40</a>&nbsp;] Breakout Room Finish / Description of Consultation Session 3</li>
   </td>
   </tr>
 
