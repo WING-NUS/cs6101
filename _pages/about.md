@@ -75,9 +75,12 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=xqkS_SlVguY&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=2&t=200s">3:20</a>&nbsp;] Agenda for today </li>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=xqkS_SlVguY&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=2&t=2147s">35:47</a>&nbsp;] Sprint Descriptions </li>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=xqkS_SlVguY&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=2&t=4237s">1:10:37</a>&nbsp;] Breakout Room Start / End of Common Video</li>
-  <tr>
+
+ </ul>
+    </p>
   </td>
   </tr>
+  <tr>
 
   <td><b>NUS Week 04</b><br />Fri, 5 Feb
   </td>
@@ -129,6 +132,8 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=0nAUIXD2qCk&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=4&t=126s">2:06</a>&nbsp;] Agenda for today </li>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=0nAUIXD2qCk&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=4&t=555s">9:15</a>&nbsp;] Breakout Rooms Start / Min discusses with Diversifying Dialogue Gen with Non-Conversational Text group</li>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=0nAUIXD2qCk&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=4&t=3040s">50:40</a>&nbsp;] Breakout Room Finish / Description of Consultation Session 3</li>
+</ul>
+</p>
   </td>
   </tr>
 
