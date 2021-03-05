@@ -153,7 +153,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
 <P>Descriptions:
 <ul>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Nm06mfRSAPc&t=0s">00:00</a>&nbsp;] Start </li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Nm06mfRSAPc&t=271s">4:31</a>&nbsp;] Zheng et al. (2021) "Disentangling User Interest and Popularity Bias for Recommendation with Causal Embedding" [&nbsp;<a href = "https://arxiv.org/pdf/2006.11011.pdf">PDF</a>&nbsp;], accepted by WWW'2021, presented by presented Yisong Miao and Gabriel Loye</li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Nm06mfRSAPc&t=271s">4:31</a>&nbsp;] Zheng et al. (2021) "Disentangling User Interest and Popularity Bias for Recommendation with Causal Embedding" [&nbsp;<a href = "https://arxiv.org/pdf/2006.11011v1.pdf">PDF</a>&nbsp;], accepted by WWW'2021, presented by presented Yisong Miao and Gabriel Loye</li>
     <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Nm06mfRSAPc&t=3055s">50:55</a>&nbsp;] Saito (2020) "Unbiased Pairwise Learning from Implicit Feedback" [&nbsp;<a href = "https://cpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/a/238/files/2019/12/Id_20_final.pdf">PDF</a>&nbsp;], ICTIR '2020, presented by Takanori Aoki and Aadit Rahul Kamat</li>
     <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Nm06mfRSAPc&t=5777s">1:36:17</a>&nbsp;] Xu et al. (2021) "Causal Collaborative Filtering" [&nbsp;<a href = "https://arxiv.org/pdf/2102.01868.pdf">PDF</a>&nbsp;], ArXiv preprint, presented by Qi Xun, Tian Zhen and Xinyuan Lu</li>
  </ul>
