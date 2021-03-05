@@ -110,11 +110,6 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
 
  </ul>
     </p>
-
-
-
-
-
   </td>
   </tr>
 
@@ -148,7 +143,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   <strong>Topics on RecSys I</strong>  <a href="https://wing-nus.github.io/cs6101/paper-RecSys">Reading List for Surveys and Research Papers</a>
 
   <p>
-    Lecturers: Lecturers: Yisong Miao, Takanori Aoki, Gabriel Loye Hean Yong, Aadit Rahul Kamat, Yeo Qi Xun, Chan Guan Hao, Tian Zhen, Lu Xinyuan<br/>
+    Lecturers: Yisong Miao, Takanori Aoki, Gabriel Loye Hean Yong, Aadit Rahul Kamat, Yeo Qi Xun, Chan Guan Hao, Tian Zhen, Lu Xinyuan<br/>
     Support Staff: Stephen Tan Hin Khai, Axel Lau Wei En, Abhinav Ramesh Kashyap, Clarence Ong, Li Xinze, Ruchen Zhen
 </p>
   <p>
@@ -158,8 +153,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
 <P>Descriptions:
 <ul>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Nm06mfRSAPc&t=0s">00:00</a>&nbsp;] Start </li>
-
-  <li>[&nbsp;<a href="https://youtu.be/7Zna8r6SoP8?t=752">4:31</a>&nbsp;] Zheng et al. (2021) "Disentangling User Interest and Popularity Bias for Recommendation with Causal Embedding" [&nbsp;<a href = "https://arxiv.org/pdf/2006.11011.pdf">PDF</a>&nbsp;], accepted by WWW'2021, presented by presented Yisong Miao and Gabriel Loye</li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Nm06mfRSAPc&t=271s">4:31</a>&nbsp;] Zheng et al. (2021) "Disentangling User Interest and Popularity Bias for Recommendation with Causal Embedding" [&nbsp;<a href = "https://arxiv.org/pdf/2006.11011.pdf">PDF</a>&nbsp;], accepted by WWW'2021, presented by presented Yisong Miao and Gabriel Loye</li>
     <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Nm06mfRSAPc&t=3055s">50:55</a>&nbsp;] Saito (2020) "Unbiased Pairwise Learning from Implicit Feedback" [&nbsp;<a href = "https://cpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/a/238/files/2019/12/Id_20_final.pdf">PDF</a>&nbsp;], ICTIR '2020, presented by Takanori Aoki and Aadit Rahul Kamat</li>
     <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Nm06mfRSAPc&t=5777s">1:36:17</a>&nbsp;] Xu et al. (2021) "Causal Collaborative Filtering" [&nbsp;<a href = "https://arxiv.org/pdf/2102.01868.pdf">PDF</a>&nbsp;], ArXiv preprint, presented by Qi Xun, Tian Zhen and Xinyuan Lu</li>
  </ul>
@@ -170,8 +164,19 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
    <tr>
   <td><b>NUS Week Recess</b><br />Thur, 25 Feb
   </td>
-  <td>
-    <strong>Project Consultation Session 3 </strong>
+   <td>
+      <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=gxAx1EBwJWw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+     <strong>Project Consultation Session 3, led by Min-Yen Kan </strong>
+    <P>Descriptions:
+<ul>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=gxAx1EBwJWw&t=0s">00:00</a>&nbsp;] Start  </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=gxAx1EBwJWw&t=70s">1:10</a>&nbsp;] Agenda for today </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=gxAx1EBwJWw&t=205s">3:25</a>&nbsp;] Yeo Qi Xun, Tian Zhen, Yuxi Xie (CS6101 01 Project) Diversifying Dialogue Generation with Non-Conversational Text </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=gxAx1EBwJWw&t=1740s">29:00</a>&nbsp;] End</li>
+</ul>
+</p>
   </td>
   </tr>
 
