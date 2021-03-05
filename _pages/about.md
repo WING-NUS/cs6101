@@ -166,7 +166,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   </td>
    <td>
       <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v=gxAx1EBwJWw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gxAx1EBwJWw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
      <strong>Project Consultation Session 3, led by Min-Yen Kan </strong>
     <P>Descriptions:
