@@ -180,12 +180,32 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   </td>
   </tr>
 
-  <tr>
+ <tr>
   <td><b>NUS Week 07</b><br />Fri, 5 Mar
   </td>
   <td>
-    <strong>Topics on RecSys II</strong> <a href="https://wing-nus.github.io/cs6101/paper-RecSys">Same Material as Week 06</a>
-    
+   <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vKOZHhXWNVY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+
+ <strong>Topics on RecSys II</strong> <a href="https://wing-nus.github.io/cs6101/paper-RecSys">Same Material as Week 06</a>
+
+  <p>
+    Lecturers: Xu Pengtai, Ran Yiding, Clarence Ong, Sashank C. Kumar, Li Xinze, Chan Guan Hao, and Kong Zijin <br/>
+    Support Staff: Nham Quoc Hung, Li Zihan, Lee Xiong An, Evan Chong and Shreyas Kuthanoor Prakash
+</p>
+  <p>
+    [&nbsp;<a href="https://docs.google.com/presentation/d/18KerwNjXuS01h36_ggczwUERAe7p9WHHxmconB06Qvk/edit?usp=sharing">Lecture Slides</a>&nbsp;]
+    [&nbsp;<a href="https://docs.google.com/document/d/1RnrDj2y04znpxVDO5HnDyLgdDBj1ZJVckvpdgSuDMKQ/edit#heading=h.h9rj9guqwtp">Scribe Notes</a>&nbsp;]
+    <br/></p> 
+<P>Descriptions:
+<ul>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=vKOZHhXWNVY&t=0s">00:00</a>&nbsp;] Start </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Nm06mfRSAPc&t=271s">5:31</a>&nbsp;] Guo et al. (2017) "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction" [&nbsp;<a href = "https://arxiv.org/pdf/1703.04247.pdf">PDF</a>&nbsp;], IJCAI'2017, presented by presented Xu Pengtai and Ran Yiding</li>
+    <li>[&nbsp;<a href="https://www.youtube.com/watch?v=vKOZHhXWNVY&t=3115s">51:55</a>&nbsp;] Zheng et al. (2020) "A Novel Hybrid Deep Recommendation System to Differentiate User’s Preference and Item’s Attractiveness", [&nbsp;<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0020025520300554">Closed Access</a>&nbsp;], Information Sciences, presented by Clarence Ong and Sashank C. Kumar</li>
+    <li>[&nbsp;<a href="https://www.youtube.com/watch?v=vKOZHhXWNVY&t=5760s">1:36:00</a>&nbsp;] Yuan et al. (2019) "A Simple Convolutional Generative Network for Next Item Recommendation" [&nbsp;<a href = "https://arxiv.org/pdf/1808.05163v4.pdf">PDF</a>&nbsp;], WSDM'2019, presented by Li Xinze, Chan Guan Hao, and Kong Zijin</li>
+ </ul>
+    </p>
   </td>
   </tr>
 
