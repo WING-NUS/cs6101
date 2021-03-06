@@ -201,7 +201,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
 <P>Descriptions:
 <ul>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=vKOZHhXWNVY&t=0s">00:00</a>&nbsp;] Start </li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Nm06mfRSAPc&t=271s">5:31</a>&nbsp;] Guo et al. (2017) "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction" [&nbsp;<a href = "https://arxiv.org/pdf/1703.04247.pdf">PDF</a>&nbsp;], IJCAI'2017, presented by presented Xu Pengtai and Ran Yiding</li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=vKOZHhXWNVY&t=331s">5:31</a>&nbsp;] Guo et al. (2017) "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction" [&nbsp;<a href = "https://arxiv.org/pdf/1703.04247.pdf">PDF</a>&nbsp;], IJCAI'2017, presented by presented Xu Pengtai and Ran Yiding</li>
     <li>[&nbsp;<a href="https://www.youtube.com/watch?v=vKOZHhXWNVY&t=3115s">51:55</a>&nbsp;] Zheng et al. (2020) "A Novel Hybrid Deep Recommendation System to Differentiate User’s Preference and Item’s Attractiveness", [&nbsp;<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0020025520300554">Closed Access</a>&nbsp;], Information Sciences, presented by Clarence Ong and Sashank C. Kumar</li>
     <li>[&nbsp;<a href="https://www.youtube.com/watch?v=vKOZHhXWNVY&t=5760s">1:36:00</a>&nbsp;] Yuan et al. (2019) "A Simple Convolutional Generative Network for Next Item Recommendation" [&nbsp;<a href = "https://arxiv.org/pdf/1808.05163v4.pdf">PDF</a>&nbsp;], WSDM'2019, presented by Li Xinze, Chan Guan Hao, and Kong Zijin</li>
  </ul>
