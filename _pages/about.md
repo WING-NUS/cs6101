@@ -209,11 +209,27 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   </td>
   </tr>
 
-   <tr>
-  <td><b>NUS Week 08</b><br />Thur, 11 Mar 
+  <tr>
+ <td><b>NUS Week 08</b><br />Thur, 11 Mar 
   </td>
-  <td>
-    <strong>Project Consultation Session 4 </strong>
+   <td>
+      <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/biCcKUdOv14" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+        <strong>Project Consultation Session 4, led by Min-Yen Kan </strong>
+    <P>Descriptions:
+<ul>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=biCcKUdOv14&t=0s">00:00</a>&nbsp;] START - PART I ****  </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=biCcKUdOv14&t=215s">3:35</a>&nbsp;]  Diversifying Dialogue Generation with Non-Conversational Text by Yeo Qi Xun, Tian Zhen and Xie Yuxi </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=biCcKUdOv14&t=1615s">26:55</a>&nbsp;] Unbiased Recommender / Search Systems by Causal Inference by Takanori Aoki and Aadit Rahul Kamat </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=biCcKUdOv14&t=2590s">43:10</a>&nbsp;] DeepFM: Neural Network for Advertisement Recommendation by Muhammad Assyarul Ariffin, Lee Xiong An and Xu Pengtai</li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=biCcKUdOv14&t=3395s">56:35</a>&nbsp;] Inductive Matrix Completion based on Graph Neural Network (IGCM) by Joel Tan Wan Rong, Chan Guan Hao, Wendi Ren, Stephen Tan Hin Khai and Axel Lau Wei En</li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=biCcKUdOv14&t=4310s">1:11:50</a>&nbsp;] Neural Collaborative Filtering by Clarence Ong, Nham Quoc Hung, Gabriel Loye Hean Yong and Sashankh Chengavalli Kumar</li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=biCcKUdOv14&t=4925s">1:22:05</a>&nbsp;] Causal Estimation by Yisong Miao and Chengxin Wang</li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=biCcKUdOv14&t=5490s">1:31:30</a>&nbsp;] START - PART II **** </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=biCcKUdOv14&t=7170s">1:59:30</a>&nbsp;] Self-Introductions</li>
+</ul>
+</p>
   </td>
   </tr>
 
