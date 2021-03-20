@@ -201,7 +201,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
 <P>Descriptions:
 <ul>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=vKOZHhXWNVY&t=0s">00:00</a>&nbsp;] Start </li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=vKOZHhXWNVY&t=331s">5:31</a>&nbsp;] Guo et al. (2017) "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction" [&nbsp;<a href = "https://arxiv.org/pdf/1703.04247.pdf">PDF</a>&nbsp;], IJCAI'2017, presented by presented Xu Pengtai and Ran Yiding</li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=vKOZHhXWNVY&t=331s">5:31</a>&nbsp;] Guo et al. (2017) "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction" [&nbsp;<a href = "https://arxiv.org/pdf/1703.04247.pdf">PDF</a>&nbsp;], IJCAI'2017, presented by Xu Pengtai and Ran Yiding</li>
     <li>[&nbsp;<a href="https://www.youtube.com/watch?v=vKOZHhXWNVY&t=3115s">51:55</a>&nbsp;] Zheng et al. (2020) "A Novel Hybrid Deep Recommendation System to Differentiate User’s Preference and Item’s Attractiveness", [&nbsp;<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0020025520300554">Closed Access</a>&nbsp;], Information Sciences, presented by Clarence Ong and Sashank C. Kumar</li>
     <li>[&nbsp;<a href="https://www.youtube.com/watch?v=vKOZHhXWNVY&t=5760s">1:36:00</a>&nbsp;] Yuan et al. (2019) "A Simple Convolutional Generative Network for Next Item Recommendation" [&nbsp;<a href = "https://arxiv.org/pdf/1808.05163v4.pdf">PDF</a>&nbsp;], WSDM'2019, presented by Li Xinze, Chan Guan Hao, and Kong Zijin</li>
  </ul>
@@ -233,11 +233,34 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   </td>
   </tr>
 
-  <tr>
+ <tr>
   <td><b>NUS Week 09</b><br />Fri, 19 Mar
   </td>
   <td>
-    <strong>Topics on ConvRecSys I</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Reading List for Surveys and Research Papers</a>
+   <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-68SJ0nd58U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+
+ <strong>Topics on ConvRecSys I</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Reading List for Surveys and Research Papers</a>
+
+  <p>
+   Lecturers: Joel Tan Wan Rong, Nham Quoc Hung, Qiao Rui, Wang Chengxin, Liu Hongfu and Victor Li Chuang <br/>
+   Scribes / Support Staff:  Henry Kasim, Chan Guan Hao, Taha Aksu, Takanori Aoki, Kong Zijin and Liu Yong
+</p>
+  <p>
+    [&nbsp;<a href="https://docs.google.com/presentation/d/1bcp-vitwab_9Bnl4ijmZmxcjN0_f006zhkxAal_Ypv0/edit?usp=sharing">Lecture Slides</a>&nbsp;]
+    [&nbsp;<a href="https://docs.google.com/document/d/1PNCcoHFL1YMkeoNB0Dw_71iYOWCxJplijns5DOHSu6c/edit">Scribe Notes</a>&nbsp;]
+    <br/></p> 
+<P>Descriptions:
+<ul>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=0s">00:00</a>&nbsp;] Start </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=180s">03:00</a>&nbsp;] Introduction to Conversation Recommendation Systems by Victor Li Chuang</li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=780s">13:00</a>&nbsp;] Xu et al. (2020) "User Memory Reasoning for Conversational Recommendation" [&nbsp;<a href = "https://arxiv.org/pdf/2006.00184.pdf">PDF</a>&nbsp;], COLING'2020, presented by Wang Chengxin and Nham Quoc, Slides 2-32</li>
+    <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=3000s">50:00</a>&nbsp;] Chen et al. (2019) "Towards Knowledge-Based Recommender Dialog System" [&nbsp;<a href = "https://www.aclweb.org/anthology/D19-1189.pdf">PDF</a>&nbsp;], EMNLP'2019, presented by presented by Liu Hongfu, Qiao Rui, and Joel, Slides 33–47</li>
+    <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=4800s">1:20:00</a>&nbsp;] Xu et al. (2021)  "Adapting User Preference to Online Feedback
+in Multi-round Conversational Recommendation" [&nbsp;<a href = "https://dl.acm.org/doi/pdf/10.1145/3437963.3441791">PDF</a>&nbsp;], WSDM'2021, presented by Gangyi Zhang and Kong Zijin, Slides 48-68</li>
+ </ul>
+    </p>
   </td>
   </tr>
 
