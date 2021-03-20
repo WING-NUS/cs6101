@@ -254,10 +254,10 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
 <P>Descriptions:
 <ul>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=0s">00:00</a>&nbsp;] Start </li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=180s">03:00</a>&nbsp;] Introduction to Conversation Recommendation Systems by Victor Li Chuang</li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=780s">13:00</a>&nbsp;] Xu et al. (2020) "User Memory Reasoning for Conversational Recommendation" [&nbsp;<a href = "https://arxiv.org/pdf/2006.00184.pdf">PDF</a>&nbsp;], COLING'2020, presented by Wang Chengxin and Nham Quoc, Slides 2-32</li>
-    <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=3000s">50:00</a>&nbsp;] Chen et al. (2019) "Towards Knowledge-Based Recommender Dialog System" [&nbsp;<a href = "https://www.aclweb.org/anthology/D19-1189.pdf">PDF</a>&nbsp;], EMNLP'2019, presented by presented by Liu Hongfu, Qiao Rui, and Joel, Slides 33–47</li>
-    <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=4800s">1:20:00</a>&nbsp;] Xu et al. (2021)  "Adapting User Preference to Online Feedback
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=300s">05:00</a>&nbsp;] Introduction to Conversation Recommendation Systems by Victor Li Chuang</li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=1183s">19:43</a>&nbsp;] Xu et al. (2020) "User Memory Reasoning for Conversational Recommendation" [&nbsp;<a href = "https://arxiv.org/pdf/2006.00184.pdf">PDF</a>&nbsp;], COLING'2020, presented by Wang Chengxin and Nham Quoc, Slides 2-32</li>
+    <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=3912s">1:05:12</a>&nbsp;] Chen et al. (2019) "Towards Knowledge-Based Recommender Dialog System" [&nbsp;<a href = "https://www.aclweb.org/anthology/D19-1189.pdf">PDF</a>&nbsp;], EMNLP'2019, presented by presented by Liu Hongfu, Qiao Rui, and Joel, Slides 33–47</li>
+    <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=5754s">1:35:54</a>&nbsp;] Xu et al. (2021)  "Adapting User Preference to Online Feedback
 in Multi-round Conversational Recommendation" [&nbsp;<a href = "https://dl.acm.org/doi/pdf/10.1145/3437963.3441791">PDF</a>&nbsp;], WSDM'2021, presented by Gangyi Zhang and Kong Zijin, Slides 48-68</li>
  </ul>
     </p>
