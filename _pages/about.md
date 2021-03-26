@@ -265,10 +265,33 @@ in Multi-round Conversational Recommendation" [&nbsp;<a href = "https://dl.acm.o
   </tr>
 
    <tr>
-  <td><b>NUS Week 10</b><br />Thur, 25 Mar 
+ <td><b>NUS Week 10</b><br />Thur, 25 Mar  
   </td>
-  <td>
-    <strong>Project Consultation Session 5 </strong>
+   <td>
+      <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CcaZRlhgx9s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+          <strong>Project Consultation Session 5, led by Min-Yen Kan </strong>
+    <P>Descriptions:
+<ul>
+  <li> Short session to introduce the projects.  Most work conducted in the respective breakout rooms (not recorded). </li>
+  <li> For DYOM / CS6101-1 group (Breakout room 1 – 15 mins each):  <br/>
+      · Counterfactual Recommender/Search Systems (@taka, @Aadit Rahul Kama)  <br/>
+      · IGMC (@Stephen Tan, @Wendi Ren, @Axel Lau, @Joel Tan Wan Rong, @Chan Guan Hao)  <br/>
+      · Causal Estimation (@Yisong, @WANG CHENGXIN’s) 
+  </li>
+  <li> For DYOM / CS6101-1 group (Breakout room 2 – 15 mins each):  <br/>
+       · KGRecSys (@Evan Chong, @Rabiul Awal)  <br/>
+       · Neural Collaborative Filtering (@Gabriel Loye, @Clarence Ong, @Nham Quoc Hung, @Sashankh CK)  <br/>
+       · DeepFM: NN for Ad Recommendation (@Muhd Assyarul Ariffin Bin Omar, @Pengtai, @Lee XA) 
+  </li>
+  <li> For CS6101-2 (Breakout Room 3 - 15 mins each): <br/>
+      · Multimodal Response Generation with Conditional Wasserstein Auto-Encoder (@Liu Ruofan, @Liu Yong, @Liu Hongfu)  <br/>
+      · Feedback-guided Preference Adaptation Network (@Sam Broughton, @Henry Kasim)  <br/>
+      · FiBiNET (@Zihan, @Qiao Rui, @Sng Weicong)
+  </li>
+</ul>
+</p>
   </td>
   </tr>
 
