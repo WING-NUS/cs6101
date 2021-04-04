@@ -256,7 +256,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=0s">00:00</a>&nbsp;] Start </li>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=300s">05:00</a>&nbsp;] Introduction to Conversation Recommendation Systems by Victor Li Chuang</li>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=1183s">19:43</a>&nbsp;] Xu et al. (2020) "User Memory Reasoning for Conversational Recommendation" [&nbsp;<a href = "https://arxiv.org/pdf/2006.00184.pdf">PDF</a>&nbsp;], COLING'2020, presented by Wang Chengxin and Nham Quoc, Slides 2-32</li>
-    <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=3912s">1:05:12</a>&nbsp;] Chen et al. (2019) "Towards Knowledge-Based Recommender Dialog System" [&nbsp;<a href = "https://www.aclweb.org/anthology/D19-1189.pdf">PDF</a>&nbsp;], EMNLP'2019, presented by presented by Liu Hongfu, Qiao Rui, and Joel, Slides 33–47</li>
+    <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=3912s">1:05:12</a>&nbsp;] Chen et al. (2019) "Towards Knowledge-Based Recommender Dialog System" [&nbsp;<a href = "https://www.aclweb.org/anthology/D19-1189.pdf">PDF</a>&nbsp;], EMNLP'2019, presented by Liu Hongfu, Qiao Rui, and Joel, Slides 33–47</li>
     <li>[&nbsp;<a href="https://www.youtube.com/watch?v=-68SJ0nd58U&t=5754s">1:35:54</a>&nbsp;] Xu et al. (2021)  "Adapting User Preference to Online Feedback
 in Multi-round Conversational Recommendation" [&nbsp;<a href = "https://dl.acm.org/doi/pdf/10.1145/3437963.3441791">PDF</a>&nbsp;], WSDM'2021, presented by Gangyi Zhang and Kong Zijin, Slides 48-68</li>
  </ul>
@@ -298,8 +298,30 @@ in Multi-round Conversational Recommendation" [&nbsp;<a href = "https://dl.acm.o
   <tr>
   <td><b>NUS Week 11</b><br />Fri, 2 Apr
   </td>
- <td>
-    <strong>Topics on ConvRecSys II</strong>  <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Same Material as Week 09</a>
+  <td>
+   <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wz-HvFygI94" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+
+  <strong>Topics on ConvRecSys II</strong>  <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Same Material as Week 09</a>
+
+  <p>
+   Lecturers: Hu Hengchang, Taha Ibrahim Aksu, Sam Broughton, Wendi Ren, Zhang Tianyang <br/>
+   Scribes/ Support Staff: Muhd Assyarul, Ran Yiding, Zhu Tongyao, Xu Pengtai, Liu Hongfu
+</p>
+  <p>
+    [&nbsp;<a href="https://docs.google.com/presentation/d/1UxtiNLsd1d4s0GN-wPW0sQBrADmlaQsI9GyeMgu6XEY/edit?usp=sharing">Lecture Slides</a>&nbsp;]
+    [&nbsp;<a href="https://docs.google.com/document/d/1PNCcoHFL1YMkeoNB0Dw_71iYOWCxJplijns5DOHSu6c/edit?usp=sharing">Scribe Notes</a>&nbsp;]
+    <br/></p> 
+<P>Descriptions:
+<ul>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=wz-HvFygI94&t=0s">00:00</a>&nbsp;] Start </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=wz-HvFygI94&t=230s">03:50</a>&nbsp;] Penha and Hauff (2020) "What does BERT know about books, movies and music? Probing BERT for Conversational Recommendation" [&nbsp;<a href = "https://arxiv.org/pdf/2007.15356.pdf">PDF</a>&nbsp;], RecSys'2020, presented by Hengchang and Taha </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=wz-HvFygI94&t=2820s">47:00</a>&nbsp;] Zhou et al. (2020) "Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion" [&nbsp;<a href = "https://arxiv.org/pdf/2007.04032.pdf">PDF</a>&nbsp;], KDD'2020, presented by Sam and Wendi </li>
+    <li>[&nbsp;<a href="https://www.youtube.com/watch?v=wz-HvFygI94&t=5250s">1:27:30</a>&nbsp;] Zhang et al. (2020) "Conversational Contextual Bandit: Algorithm and Application" [&nbsp;<a href = "https://arxiv.org/pdf/1906.01219.pdf">PDF</a>&nbsp;], WWW'2020,  presented by Tianyang and Weicong </li>
+    <li>[&nbsp;<a href="https://www.youtube.com/watch?v=wz-HvFygI94&t=7425s">2:03:45</a>&nbsp;] Kahoot! Run for today's session</li>
+ </ul>
+    </p>
   </td>
   </tr>
 
