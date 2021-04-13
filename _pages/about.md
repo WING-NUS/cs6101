@@ -325,11 +325,23 @@ in Multi-round Conversational Recommendation" [&nbsp;<a href = "https://dl.acm.o
   </td>
   </tr>
 
-   <tr>
-  <td><b>NUS Week 12</b><br />Thur, 8 Apr 
+    <tr>
+   <td><b>NUS Week 12</b><br />Thur, 8 Apr  
   </td>
-  <td>
-    <strong>Project Consultation Session 6 </strong>
+   <td>
+      <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iyIxnl7DtKg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+       <strong>Project Consultation Session 6, led by Min-Yen Kan </strong>
+    <P>Descriptions:
+<ul>
+  <li> Short session to introduce the projects.  Most work conducted in the respective breakout rooms (not recorded) </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=iyIxnl7DtKg&t=0s">00:00</a>&nbsp;] Start - STePS update  </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=biCcKUdOv14&t=215s">5:51</a>&nbsp;]  KGRecSys: Evan Chong, Rabiul Awal </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=iyIxnl7DtKg&t=721s">12:01</a>&nbsp;]  FiBiNET team: Sng Weicong, Qiao Rui, Li Zihan</li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=iyIxnl7DtKg&t=2115s">35:15</a>&nbsp;] DiagWAE: Multimodal Response Generation with Conditional Wasserstein Auto-encoder, Hongfu Liu, Ruofan Liu, Yong Liu</li>
+</ul>
+</p>
   </td>
   </tr>
 
