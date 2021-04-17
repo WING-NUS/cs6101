@@ -345,11 +345,30 @@ in Multi-round Conversational Recommendation" [&nbsp;<a href = "https://dl.acm.o
   </td>
   </tr>
 
-  <tr>
-  <td><b>NUS Week 13</b><br />Fri, 16 April
+ <tr>
+   <td><b>NUS Week 13</b><br />Fri, 16 April
   </td>
   <td>
-    <strong>Topics on ConvRecSys III</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Same Material as Week 09</a>
+   <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HeT1jGAiOaE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+ <strong>Topics on ConvRecSys III</strong> <a href="https://wing-nus.github.io/cs6101/paper-ConvRecSys">Same Material as Week 09</a>
+  <p>
+   Lecturers: Liu Ruofan, Liu Yong, Li Zihan, Henry Kasim, Evan Chong, Shreyas Kuthanoor Prakash <br/>
+   Scribes/ Support Staff:Sashankh Chengavalli Kumar, Wang Chengxin, Sng Weicong, Samuel Broughton, Wendi Ren, Hu Hengchang, Lu Xinyuan, Zhang Tianyang
+</p>
+  <p>
+    [&nbsp;<a href="https://docs.google.com/presentation/d/18jOaGU77jQllEeiOE7GLwuEwGvjDneLVdNX2CE-o0SI/edit?usp=sharing">Lecture Slides</a>&nbsp;]
+    [&nbsp;<a href="https://docs.google.com/document/d/1PNCcoHFL1YMkeoNB0Dw_71iYOWCxJplijns5DOHSu6c/edit?usp=sharing">Scribe Notes</a>&nbsp;]
+    <br/></p> 
+<P>Descriptions:
+<ul>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=HeT1jGAiOaE&t=0s">00:00</a>&nbsp;] Start </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=HeT1jGAiOaE&t=218s">03:38</a>&nbsp;] Chen et al. (2020) "Towards Explainable Conversational Recommendation" [&nbsp;<a href = "https://www.ijcai.org/proceedings/2020/0414.pdf">PDF</a>&nbsp;],  IJCAI'2020, presented by Li Zihan, Henry Kasim, Evan Chong (Slides 1-32)</li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=HeT1jGAiOaE&t=3504s">58:24</a>&nbsp;] Li. et al. (2021) "Seamlessly Unifying Attributes and Items: Conversational Recommendation for Cold-Start Users" [&nbsp;<a href = "https://arxiv.org/pdf/2005.12979.pdf">PDF</a>&nbsp;], In ACM Trans. Online Information Systems, presented by Liu Ruofan, Liu Yong, Shreyas Kuthanoor Prakash (Slides 33-56) </li>
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=HeT1jGAiOaE&t=5910s">1:38:30</a>&nbsp;] Kahoot! Quiz</li>
+ </ul>
+    </p>
   </td>
   </tr>
   <tr>
