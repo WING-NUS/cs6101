@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "projects"
-permalink: /projects
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
+
 
 
 ## STePs
