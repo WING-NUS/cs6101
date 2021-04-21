@@ -13,6 +13,10 @@ main:
 # was "projects"
   - title: "People"
     url: /people/
+    
+ # ADDNEW
+  - title: "Projects"
+    url: /projects/
 
 # Min: 200122 - keep for now but comment out.
 #  - title: "Portfolio"
