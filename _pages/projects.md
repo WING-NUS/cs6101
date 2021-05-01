@@ -20,6 +20,7 @@ In AY20/21 Sem II, CS6101 Conversational Recommendation Systems attended 18th ST
 
 ## Project Showcase
 Below is a listing of the projects from this past semester (2020). The winners are listed out. 
+
 <!-- Team 07-->
 **🏆 1st place, Team 07: Extending Neural Collaborative Filtering**
 
@@ -119,7 +120,7 @@ We explore potential extensions to one of the state-of-the-art recommender syste
 [&nbsp;<a href="https://raw.githubusercontent.com/lizihan97/FiBiNET/main/FiBiNET.png">Poster</a>&nbsp;]
 
 <!-- Team 03-->
-**Team 03:Feedback-guided Preference Adaptation Network (FPAN)**
+**Team 03: Feedback-guided Preference Adaptation Network (FPAN)**
 
 📖 Abstract <BR/>
 Multi-round conversational recommender systems (CRS), which interact with users by asking questions about attributes and recommending items multiple times in one conversation.<BR/>
@@ -128,7 +129,7 @@ Multi-round conversational recommender systems (CRS), which interact with users 
 FPAN uses gating modules to adapt the user embedding and item-level feedback, according to attribute-level feedback. This project looks to improve the offline and online training of FPAN. It does this by conducting a survey into the effectiveness of GraphSAGE convolutions. And, by introducing a function to calculate user & item bias.<BR/>
 
 ☀️ Team Member <BR/>
-- Henry Kasim, NUS Podtgraduate Student [&nbsp;<a href="httpd://www.linkedin.com/in/henrykasim/?originalSubdomain=sg">LinkedIn</a>&nbsp;]
+- Henry Kasim, NUS Podtgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/henrykasim/?originalSubdomain=sg"> LinkedIn</a>&nbsp;]
 - Samuel Broughton, NUS Podtgraduate Student 
 
 📻 Media Links<BR/> 
@@ -136,6 +137,20 @@ FPAN uses gating modules to adapt the user embedding and item-level feedback, ac
 
 <!-- Team 05-->
 **Team 05: Counterfactual Recommender**
+
+📖 Abstract <BR/>
+Relevance Matrix Factorization and Asymmetric Tri-training are employed to build a recommendation system. Its algorithm is evaluated by using Coat dataset to simulate a scenario that we have only “biased” observational data for model training while evaluating on “unbiased” data.<BR/>
+
+✍️ Description <BR/>
+Implicit feedback is easy to collect and can be useful to build a recommendation system in online service. However, the feedback suffered from popularity bias because a user gives feedback to an item only if it is exposed. To build an unbiased recommendation system, counterfactual learning and meta learning approaches are applied to deal with such observational data.<BR/>
+
+☀️ Team Member <BR/>
+- Aadit Rahul Kamat, NUS Undergraduate Student [&nbsp;<a href="https://www.linkedin.com/in/aaditkamat/?originalSubdomain=sg">LinkedIn</a>&nbsp;]
+- Takanori Aoki, External Guest 
+
+📻 Media Links<BR/> 
+[&nbsp;<a href="https://drive.google.com/file/d/1nZ40KXyccOxUJRD53c0m2VcWtBiVWkBb/view">Poster</a>&nbsp;]
+
 <!-- Team 06-->
 **Team 06: Diversifying Dialogue Generation with Non-Conversational Text**
 <!-- Team 08-->
