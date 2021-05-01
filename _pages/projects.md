@@ -153,6 +153,22 @@ Implicit feedback is easy to collect and can be useful to build a recommendation
 
 <!-- Team 06-->
 **Team 06: Diversifying Dialogue Generation with Non-Conversational Text**
+
+📖 Abstract <BR/>
+Implementation for the paper Diversifying Dialogue Generation with Non-Conversational Text on English.<BR/>
+
+✍️ Description <BR/>
+Traditional neural network-based sequence-to-sequence (seq2seq) models strongly suffer from the low diversity problem when it comes to open domain dialogue generation. The authors aim to diversify the dialogue generation with non-conversational text corpus in Chinese language. We attempt to extend this work to conversational and non-conversational datasets in English Analysis on how filtering the non-conversational corpus based on topic affects the result (selected topics: Politics, Attitude & Emotion, Health).<BR/>
+
+☀️ Team Member <BR/>
+- Yeo Qi Xun, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/yeo-qi-xun-8975a114b/?originalSubdomain=sg">LinkedIn</a>&nbsp;]
+- Yuxi Xie, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/yuxi-xie-494265181/">LinkedIn</a>&nbsp;]
+- Tian Zhen, NUS Postgraduate Student
+
+📻 Media Links<BR/> 
+[&nbsp;<a href="https://github.com/YuxiXie/Diversifying-Dialogue-Generation-with-Non-Conversational-Text">Homepage</a>&nbsp;]
+[&nbsp;<a href="https://www.youtube.com/watch?v=PWOr1ay1CNM">Video</a>&nbsp;]
+[&nbsp;<a href="https://i.imgur.com/J3tzCR5.png">Poster</a>&nbsp;]
 <!-- Team 08-->
 **Team 08: NN for Ad Recommendation**
 <!-- Team 10-->
