@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## <a href="https://uvents.nus.edu.sg/event/18th-steps">18th STePs, held on April 14, 2021</a>
-_Warning_ ⚠️: This webpage is still editing. ⚠️
+_Warning_ ⚠️ This webpage is still editing. ⚠️
 
 ## Description
 
@@ -129,7 +129,7 @@ Multi-round conversational recommender systems (CRS), which interact with users 
 FPAN uses gating modules to adapt the user embedding and item-level feedback, according to attribute-level feedback. This project looks to improve the offline and online training of FPAN. It does this by conducting a survey into the effectiveness of GraphSAGE convolutions. And, by introducing a function to calculate user & item bias.<BR/>
 
 ☀️ Team Member <BR/>
-- Henry Kasim, NUS Podtgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/henrykasim/?originalSubdomain=sg"> LinkedIn</a>&nbsp;]
+- Henry Kasim, NUS Podtgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/henrykasim/?originalSubdomain=sg">LinkedIn</a>&nbsp;]
 - Samuel Broughton, NUS Podtgraduate Student 
 
 📻 Media Links<BR/> 
@@ -169,8 +169,23 @@ Traditional neural network-based sequence-to-sequence (seq2seq) models strongly 
 [&nbsp;<a href="https://github.com/YuxiXie/Diversifying-Dialogue-Generation-with-Non-Conversational-Text">Homepage</a>&nbsp;]
 [&nbsp;<a href="https://www.youtube.com/watch?v=PWOr1ay1CNM">Video</a>&nbsp;]
 [&nbsp;<a href="https://i.imgur.com/J3tzCR5.png">Poster</a>&nbsp;]
+
 <!-- Team 08-->
 **Team 08: NN for Ad Recommendation**
+
+📖 Abstract <BR/>
+The project extends the popular DeepFM neural network to better predict users' click-through-rate of advertisements.<BR/>
+
+✍️ Description <BR/>
+DeepFM is a popular click-through-rate (CTR) model developed by Huawei's Noah's Ark Lab. In this project, we modifies the original neural network structure for better CTR predictions. More specifically, we introduced pooling layers to better capture the higher order feature interactions and b. added a linear layer to assign weights to the constituent deep model and factorisation machine (FM) model when combining the outputs. Our experimental results show that both extensions are able to improve the accuracy of the original DeepFM model.<BR/>
+
+☀️ Team Member <BR/>
+- Muhammad Assyarul Ariffin Bin Omar, NUS Undergraduate Student [&nbsp;<a href="https://www.linkedin.com/in/muhd-assyarul-ariffin-bin-omar/?originalSubdomain=sg">LinkedIn</a>&nbsp;]
+- Lee Xiong An, External Guest
+- Xu Pengtai, External Guest
+
+📻 Media Links<BR/> 
+[&nbsp;<a href="https://i.ibb.co/vVzJdLq/WING-Poster-STe-PS-2021-6101-08.jpg">Poster</a>&nbsp;]
 <!-- Team 10-->
 **Team 10: KGRecSys**
 
