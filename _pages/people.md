@@ -27,7 +27,7 @@ WING and NUS Postgraduate Students:
 * Feng Yue (2010)
 * Fengbin Zhu (1910)
 * Fiona Tan (2010)
-* [Henry Kasim](www.linkedin.com/in/henrykasim/?originalSubdomain=sg)(2020)
+* [Henry Kasim](https://www.linkedin.com/in/henrykasim/?originalSubdomain=sg)(2020)
 * Hiray Shruti Shivram (2010)
 * [Hu Hengchang](http://holdenhu.cn) (2020, 2010, 1920, 1910)
 * Jiahao Liu (2010)
