@@ -186,8 +186,23 @@ DeepFM is a popular click-through-rate (CTR) model developed by Huawei's Noah's 
 
 📻 Media Links<BR/> 
 [&nbsp;<a href="https://i.ibb.co/vVzJdLq/WING-Poster-STe-PS-2021-6101-08.jpg">Poster</a>&nbsp;]
+
 <!-- Team 10-->
 **Team 10: KGRecSys**
+
+📖 Abstract <BR/>
+Implementation of the paper "KGAT: Knowledge Graph Attention Network for Recommendation".<BR/>
+
+✍️ Description <BR/>
+In this project, we implement the KGAT model as described in the paper "KGAT: Knowledge Graph Attention Network for Recommendation".<BR/>
+
+☀️ Team Member <BR/>
+- Evan Chong, External Guest
+- Rabiul Awal, External Guest
+
+📻 Media Links<BR/> 
+[&nbsp;<a href="https://github.com/evantkchong/cs6101_kgrecsys">Homepage</a>&nbsp;]
+[&nbsp;<a href="https://raw.githubusercontent.com/evantkchong/cs6101_kgrecsys/main/docs/KGRecSys_poster_STePS_2021.png">Poster</a>&nbsp;]
 
 
 
