@@ -20,7 +20,7 @@ In AY20/21 Sem II, CS6101 Conversational Recommendation Systems attended 18th ST
 
 ## Project Showcase
 Below is a listing of the projects from this past semester (2020). The winners are listed out. 
-
+<!-- Team 07-->
 **🏆 1st place, Team 07: Extending Neural Collaborative Filtering**
 
 📖 Abstract <BR/>
@@ -39,6 +39,7 @@ In our project, we explore the potential extensions to the Neural Collaborative 
 [&nbsp;<a href="https://github.com/gabrielloye/neural_collaborative_filtering">Homepage</a>&nbsp;]
 [&nbsp;<a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png">Poster</a>&nbsp;]
 
+<!-- Team 04-->
 **🥈 2nd place, Team 04: Causal Estimation for Conversational Recommender Systems**
 
 📖 Abstract <BR/>
@@ -55,10 +56,11 @@ We discover (1) conversation can significantly mitigate popularity bias for trad
 [&nbsp;<a href="https://github.com/YisongMiao/cs6101">Homepage</a>&nbsp;]
 [&nbsp;<a href="https://yisong.me/publications/CausalEst-Poster.jpeg">Poster</a>&nbsp;]
 
+<!-- Team 09-->
 **🥉 3rd place, Team 09: Beyond IGMC**
 
 📖 Abstract <BR/>
-We extend the state-of-the-art Inductive Graph Matrix Completion recommender system by introducing Graph Normalization and Layer Aggregation variants, and explore the models' potent transfer learning capabilities<BR/>
+We extend the state-of-the-art Inductive Graph Matrix Completion recommender system by introducing Graph Normalization and Layer Aggregation variants, and explore the models' potent transfer learning capabilities.<BR/>
 
 ✍️ Description <BR/>
 In this project, we investigate how recent advances in Graph Neural Network models can impact and even improve the ability of the state-of-the-art Inductive Graph Matrix Completion (IGMC) recommender system to predict ratings in the setting of only having ratings of each user-item interaction. We show this through measuring the baseline model performance against the extensions using the RMSE scoring. 
@@ -78,15 +80,16 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
 [&nbsp;<a href="https://www.youtube.com/watch?v=pEQxq7r-lgY">Video</a>&nbsp;]
 [&nbsp;<a href="https://drive.google.com/file/d/1Hso_rqGMXnJsRt1V9QmLUUGgbO6OcvZI/view">Poster</a>&nbsp;]
 
+<!-- Team 01-->
 **Team 01: Explore Multiple Response Modalities of DialogWAE**
 
 📖 Abstract <BR/>
-This project is focusing on assessing and interpreting the GMM prior components in DialogWAE<BR/>
+This project is focusing on assessing and interpreting the GMM prior components in DialogWAE.<BR/>
 
 ✍️ Description <BR/>
 Neural response generation is a typical task in NLP community. DialogWAE is a new approach for dialogue modeling and response generation, which achieves SOTA result on popular datasets. In this work, we focus on exploring the various modalities of the generated responses. To be specific, we propose to: 
-•	Analyze how the number K of prior components influences the overall performance 
-•	Explore what each prior component of the Gaussian mixture distribution captures when K > 3<BR/>
+•	Analyze how the number K of prior components influences the overall performance.
+•	Explore what each prior component of the Gaussian mixture distribution captures when K > 3.<BR/>
 
 ☀️ Team Member <BR/>
 - Liu Ruofan, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/ruofanliu/?originalSubdomain=sg">LinkedIn</a>&nbsp;]
@@ -97,6 +100,7 @@ Neural response generation is a typical task in NLP community. DialogWAE is a ne
 [&nbsp;<a href=" https://github.com/lindsey98/DialogWAE">Homepage</a>&nbsp;]
 [&nbsp;<a href="https://postimg.cc/sQN3hscm">Poster</a>&nbsp;]
 
+<!-- Team 02-->
 **Team 02: FiBiNET**
 
 📖 Abstract <BR/>
@@ -113,6 +117,36 @@ We explore potential extensions to one of the state-of-the-art recommender syste
  
 📻 Media Links<BR/> 
 [&nbsp;<a href="https://raw.githubusercontent.com/lizihan97/FiBiNET/main/FiBiNET.png">Poster</a>&nbsp;]
+
+<!-- Team 03-->
+**Team 03:Feedback-guided Preference Adaptation Network (FPAN)**
+
+📖 Abstract <BR/>
+Multi-round conversational recommender systems (CRS), which interact with users by asking questions about attributes and recommending items multiple times in one conversation.<BR/>
+
+✍️ Description <BR/>
+FPAN uses gating modules to adapt the user embedding and item-level feedback, according to attribute-level feedback. This project looks to improve the offline and online training of FPAN. It does this by conducting a survey into the effectiveness of GraphSAGE convolutions. And, by introducing a function to calculate user & item bias.<BR/>
+
+☀️ Team Member <BR/>
+- Henry Kasim, NUS Podtgraduate Student [&nbsp;<a href="httpd://www.linkedin.com/in/henrykasim/?originalSubdomain=sg">LinkedIn</a>&nbsp;]
+- Samuel Broughton, NUS Podtgraduate Student 
+
+📻 Media Links<BR/> 
+[&nbsp;<a href="https://drive.google.com/file/d/1SoAqjjmq48rMtvpQvCt-Wne5dXmiXOkA/view">Poster</a>&nbsp;]
+
+<!-- Team 05-->
+**Team 05: Counterfactual Recommender**
+<!-- Team 06-->
+**Team 06: Diversifying Dialogue Generation with Non-Conversational Text**
+<!-- Team 08-->
+**Team 08: NN for Ad Recommendation**
+<!-- Team 10-->
+**Team 10: KGRecSys**
+
+
+
+
+
  
  
 
