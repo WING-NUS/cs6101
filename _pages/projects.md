@@ -40,7 +40,7 @@ In our project, we explore the potential extensions to the Neural Collaborative 
 [&nbsp;<a href="https://github.com/gabrielloye/neural_collaborative_filtering">Homepage</a>&nbsp;]
 [&nbsp;<a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png">Poster</a>&nbsp;]
 
-<img src="images/Team07_Poster.png" width="200"/> <BR/> 
+<img src="images/Team04_Poster.jpg"/><BR/> 
 
 <!-- Team 04-->
 **🥈 2nd place, Team 04: Causal Estimation for Conversational Recommender Systems**
