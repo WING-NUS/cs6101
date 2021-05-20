@@ -7,16 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-## <a href="https://uvents.nus.edu.sg/event/18th-steps">18th STePs, held on April 14, 2021</a>
-_Warning_ ⚠️ This webpage is still editing. ⚠️
+Here we archive and cross link all of the past projects done by our first year Ph.D. students, undergraduate and external guests that take part in our reading group.  Generally, when students and participants outside of WING join the reading group they must also complete a related project touching on some part of the lecture topics.  These projects often get presented publicly in the forum of our School of Computing's Term Project Showcase (STePS).
 
-## Description
+## Projects from Semester 2020 (AY 20/21, Sem II) featured at <a href="https://uvents.nus.edu.sg/event/18th-steps">18th STePs</A> held on 14 April 2021.
 
-The School of Computing Term Project Showcase <a href="https://uvents.nus.edu.sg/homepage/events">(STePs)</a> is one of the largest event, similar to Trade shows, aims to bring together and present selected student projects/products in the School of Computing (SoC) to facilitate independent peer learning, entrepreneurship and effective employment with modern flipped career-fair approach. In addition, STePS facilitates better assessment model through multi-party assessment of course projects. It's a festive yet serious class showcase, in which students present their projects in all aspects of computer science and information systems to the respective Faculty, Industry guests, Government agencies, Sponsors and Investors for grading, to connect with potential employers and to seek opportunities for further development of their work through collaboration with Industry and Investors. 
+In AY20/21 Sem II, CS6101 was topically oriented on **Conversational Recommendation Systems**.  There were 26 students in 10 teams whose projects focused on recent research on the topics of Conversational Systems, Recommender Systems and their intersections.
 
-In AY20/21 Sem II, CS6101 Conversational Recommendation Systems attended 18th STePs.There are 26 students in 10 teams focus on recent research on the topics of Conversational Systems, Recommender Systems and their intersections.
-
-## <a href = "https://uvents.nus.edu.sg/event/18th-steps/module/CS6101">18th STePs: Conversational Recommendation System Project Showcase Page</a>  
+## <a href = "https://uvents.nus.edu.sg/event/18th-steps/module/CS6101"><i class="fa fa-external-link"></i> 18th STePs: Conversational Recommendation System Project Showcase Page</a>  
 
 ## Project Showcase
 Below is a listing of the projects from this past semester (2020). The winners are listed out. 
