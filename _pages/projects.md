@@ -11,8 +11,10 @@ Here we archive and cross link all of the past projects done by our first year P
 
 ## Projects from Semester 2020 (AY 20/21, Sem II) featured at <a href="https://uvents.nus.edu.sg/event/18th-steps">18th STePs</A>, held on 14 April 2021.
 
-In AY20/21 Sem II, CS6101 was topically oriented on **(Conversational Recommendation Systems)[https://uvents.nus.edu.sg/event/18th-steps/module/CS6101]** <i class="fa fa-external-link" aria-hidden="true"></i>.  There were 26 students in 10 teams whose projects focused on recent research on the topics of Conversational Systems, Recommender Systems and their intersections.
+In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommendation Systems](https://uvents.nus.edu.sg/event/18th-steps/module/CS6101)**.  There were 26 students in 10 teams whose projects focused on recent research on the topics of Conversational Systems, Recommender Systems and their intersections.
 
+<i class='fa fa-home'></i>
+ 
 <!-- Team 07-->
 **🏆 1st place, Team 07: Extending Neural Collaborative Filtering**
 
