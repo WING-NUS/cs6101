@@ -6,7 +6,84 @@ author_profile: true
 ---
 
 {% include base_path %}
+<!-- Table Style-->
+<style>
+    .gridview {
+      border-collapse: collapse;
+      margin: 0px 0px 0px 0;
+      /* box-shadow: 3px 3px 4px #bbb;     */
+    }
 
+    .gridview th {
+      text-align: left;
+      /*font-size: 1.2em;*/
+      font-weight: normal;
+      color: #F9F9F9;
+      background: #337EB5;
+    }
+
+    .gridview th a,
+    .gridview th a:link,
+    .gridview th a:visited,
+    .gridview th a:active {
+      color: #F9F9F9;
+      text-decoration: none;
+    }
+
+    .gridview th a:hover {
+      text-decoration: underline;
+    }
+
+    .gridview tr {
+      background: #F4F9FD;
+    }
+
+    .gridview tr:nth-child(odd) {
+      background-color: #F4F9FD;
+    }
+
+    .gridview tr:nth-child(even) {
+      background-color: #EDF5FC;
+    }
+
+    .gridview td {
+      font-weight: normal;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    .gridview td,
+    table th {
+      padding: 5px 8px;
+    }
+
+    .gridview tfoot td {
+      background-color: #EEEEEE;
+    }
+
+    .gridview tfoot td .page {
+      color: #000000;
+      font-weight: bold;
+    }
+
+    .gridview tr.subfoot,
+    .gridview tr.subfoot td {
+      background-color: #FFFFEC;
+    }
+
+    .gridview tr:hover td,
+    .gridview tbody tr:hover td {
+      background-color: #FFFFD7;
+      color: #696969;
+    }
+
+    .gridview .selected,
+    .gridview tbody .selected {
+      background-color: #6ccbfb;
+      color: #fff;
+    }
+  </style>
+<!-- END of Table Style-->
 Here we archive and cross link all of the past projects done by our first year Ph.D. students, undergraduate and external guests that take part in our reading group.  Generally, when students and participants outside of WING join the reading group they must also complete a related project touching on some part of the lecture topics.  These projects often get presented publicly in the forum of our School of Computing's Term Project Showcase (STePS).
 
 ## Projects from Semester 2020 (AY 20/21, Sem II) featured at <a href="https://uvents.nus.edu.sg/event/18th-steps">18th STePs</A>, held on 14 April 2021.
@@ -14,11 +91,25 @@ Here we archive and cross link all of the past projects done by our first year P
 In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommendation Systems](https://uvents.nus.edu.sg/event/18th-steps/module/CS6101)**.  There were 26 students in 10 teams whose projects focused on recent research on the topics of Conversational Systems, Recommender Systems and their intersections.
 
 <i class='fa fa-home'></i>
- 
-<!-- Team 07-->
-**🏆 1st place, Team 07: Extending Neural Collaborative Filtering**
 
-📖 Abstract <BR/>
+<!--Table Content-->
+<table class="gridview">
+    <tbody>
+      <tr>
+        <th>
+          <font size=4.5 face=Roboto color=black>Projects</font>
+        </th>
+        <th>
+          <font size=4.5 face=Roboto color=black>Posters</font>
+        </th>
+      </tr>
+      <tr id="row1">
+        <td width="80%">
+          <h4>
+            🏆 1st place, Team 07: Extending Neural Collaborative Filtering
+          </h4>
+          <p>
+           📖 Abstract <BR/>
 Extending the Neural Collaborative Filtering Framework to improve model understanding and robustness. Using additional Convolutional layers, Pairwise Loss Function and Auxiliary Information Embedding to explore potential model improvements.<BR/>
 
 ✍️ Description <BR/>
@@ -33,9 +124,15 @@ In our project, we explore the potential extensions to the Neural Collaborative 
  📻 Media Links<BR/> 
 [&nbsp;<a href="https://github.com/gabrielloye/neural_collaborative_filtering">Homepage</a>&nbsp;]
 [&nbsp;<a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png">Poster</a>&nbsp;]
-
-<!--img src="images/Team04_Poster.jpg"/><BR/> 
-
+         </p>
+        </td>
+        <td width="20%">
+          <img src="images/Team07_Poster.jpg" alt="Poster">
+        </td>
+    
+      </tr>
+    </tbody>
+</table>
 <!-- Team 04-->
 **🥈 2nd place, Team 04: Causal Estimation for Conversational Recommender Systems**
 
