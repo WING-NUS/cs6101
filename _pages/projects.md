@@ -93,7 +93,7 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
 <i class='fa fa-home'></i>
 
 <!--Table Content-->
-<table class="gridview">
+<table>
     <tbody>
       <tr>
         <th>
