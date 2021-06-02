@@ -97,10 +97,10 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
     <tbody>
       <tr>
         <th>
-          <font size=4.5 face=Roboto color=black>Projects</font>
+          Projects
         </th>
         <th>
-          <font size=4.5 face=Roboto color=black>Posters</font>
+          Posters
         </th>
       </tr>
       <tr id="row1">
@@ -127,7 +127,7 @@ In our project, we explore the potential extensions to the Neural Collaborative 
          </p>
         </td>
         <td width="20%">
-          <img src="images/Team07_Poster.jpg" alt="Poster">
+          <img src="/images/Team07_Poster.jpg" alt="Poster">
         </td>
     
       </tr>
