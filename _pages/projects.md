@@ -94,19 +94,10 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
 
 <!--Table Content-->
 <table>
-    <tbody>
-      <tr>
-        <th>
-          Projects
-        </th>
-        <th>
-          Posters
-        </th>
-      </tr>
-      <tr id="row1">
-        <td width="80%">
+    <tbody><tr><th>Projects</th><th>Posters</th></tr>
+      <tr id="row1"><td width="80%">
           <h4>
-            🏆 1st place, Team 07: Extending Neural Collaborative Filtering
+          🏆 1st place, Team 07: Extending Neural Collaborative Filtering
           </h4>
           <p>
            📖 Abstract <BR/>
@@ -116,18 +107,18 @@ Extending the Neural Collaborative Filtering Framework to improve model understa
 In our project, we explore the potential extensions to the Neural Collaborative Filtering (NCF) Framework to improve model understanding and robustness. Using additional Convolutional layers, Pairwise Loss Function and Auxiliary Information Embedding, we experiment with the MovieLens-1M dataset to attain better model performance on Hit Rate and NDCG metrics while attempting to improve model understanding through auxiliary embeddings.<BR/>
 
 ☀️ Team Member <BR/>
-- Gabriel Loye, NUS SoC Undergraduate 
-- Clarence Ong, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/clarenceong97/?originalSubdomain=sg">LinkedIn</a>&nbsp;]
-- Nham Quoc Hung, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/quoc-hung-nham/?originalSubdomain=sg">LinkedIn</a>&nbsp;]
-- Sashankh CK, External Guest 
+- Gabriel Loye, NUS SoC Undergraduate <BR/>
+- Clarence Ong, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/clarenceong97/?originalSubdomain=sg">LinkedIn</a>&nbsp;]<BR/>
+- Nham Quoc Hung, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/quoc-hung-nham/?originalSubdomain=sg">LinkedIn</a>&nbsp;]<BR/>
+- Sashankh CK, External Guest <BR/>
 
  📻 Media Links<BR/> 
-[&nbsp;<a href="https://github.com/gabrielloye/neural_collaborative_filtering">Homepage</a>&nbsp;]
+[&nbsp;<a href="https://github.com/gabrielloye/neural_collaborative_filtering">Homepage</a>&nbsp;]<BR/>
 [&nbsp;<a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png">Poster</a>&nbsp;]
          </p>
         </td>
         <td width="20%">
-          <img src="/images/Team07_Poster.jpg" alt="Poster">
+          <img src="poster/Team07_Poster.jpg" alt="Poster">
         </td>
     
       </tr>
