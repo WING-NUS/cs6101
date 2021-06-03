@@ -17,18 +17,16 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
 
 <!--Table START-->
 <table>
-  <!--Table HEAD-->
-  <tr>
-        <th> 
-          Projects
-        </th>
-        <th>
-          Poster
-        </th>
-      </tr>
-  <!--Table CONTENT-->
   <tbody>
-    <!-- Team 07-->
+    <tr align="center">
+      <td >
+         Projects
+       </td>
+      <td>
+         Posters
+       </td>
+    </tr>
+    <!-- ROW 1: Team 07-->
     <tr id="row1">
       <td width="70%">
         <h1>
@@ -52,14 +50,15 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
         [&nbsp;<a href="https://github.com/gabrielloye/neural_collaborative_filtering" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png" style="font-size:18px">Poster</a>&nbsp;]
       </td>
- <!-- Team 07 Poster-->       
+      
+ <!-- ROW 1: Team 07 Poster-->       
       <td width="30%">
         <a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png"><img src="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png" /></a>
-        <p align="center">Click the image to enlarge.</p>
+        <p align="center">Click the image to enlarge</p>
       </td>
     </tr>
     
- <!-- Team 04-->
+ <!-- ROW 2: Team 04-->
     <tr id="row2">
       <td width="70%">
         <h1>
@@ -81,15 +80,15 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
         [&nbsp;<a href="https://github.com/YisongMiao/cs6101">Homepage</a>&nbsp;]
         [&nbsp;<a href="https://yisong.me/publications/CausalEst-Poster.jpeg">Poster</a>&nbsp;]
       </td>
-      <!-- Team 04 Poster-->
+      <!--  ROW 2: Team 04 Poster-->
       <td width="30%">
         <a href="https://yisong.me/publications/CausalEst-Poster.jpeg">
         <img src="https://yisong.me/publications/CausalEst-Poster.jpeg" alt="Poster"/></a>
-        <p align="center">Click the image to enlarge.</p>
+        <p align="center">Click the image to enlarge</p>
       </td>
     </tr>
 
-    <!-- Team 09-->
+    <!-- ROW 3: Team 09-->
     <tr id="row3">
       <td width="70%">
         <h1>
@@ -118,12 +117,47 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
         [&nbsp;<a href="https://www.youtube.com/watch?v=pEQxq7r-lgY">Video</a>&nbsp;]
         [&nbsp;<a href="https://drive.google.com/file/d/1Hso_rqGMXnJsRt1V9QmLUUGgbO6OcvZI/view">Poster</a>&nbsp;]]
       </td>
- <!-- Team 09 Poster-->       
+ <!-- ROW 3: Team 09 Poster-->       
       <td width="30%">
-        <a href="https://drive.google.com/file/d/1Hso_rqGMXnJsRt1V9QmLUUGgbO6OcvZI/view"><img src="https://drive.google.com/file/d/1Hso_rqGMXnJsRt1V9QmLUUGgbO6OcvZI/view" /></a>
+        <a href="https://drive.google.com/file/d/1Hso_rqGMXnJsRt1V9QmLUUGgbO6OcvZI/view">
+        <img src="https://drive.google.com/file/d/1Hso_rqGMXnJsRt1V9QmLUUGgbO6OcvZI/view"/></a>
         <p align="center">Click the image to enlarge.</p>
       </td>
     </tr>
+    
+    <!-- ROW 4: Team 01-->
+    <tr id="row4">
+      <td width="70%">
+        <h1>
+          Team 01: Explore Multiple Response Modalities of DialogWAE
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">This project is focusing on assessing and interpreting the GMM prior components in DialogWAE.<BR/></p>
+
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">Neural response generation is a typical task in NLP community. DialogWAE is a new approach for dialogue modeling and response generation, which achieves SOTA result on popular datasets. In this work, we focus on exploring the various modalities of the generated responses. To be specific, we propose to: 
+•	Analyze how the number K of prior components influences the overall performance.
+•	Explore what each prior component of the Gaussian mixture distribution captures when K > 3.<BR /></p>
+
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>Liu Ruofan, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/ruofanliu/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>Liu Hongfu, NUS Postgraduate Student</li>
+          <li>Liu Yong, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/yong-liu-b1037513/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+        </ul>
+
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href=" https://github.com/lindsey98/DialogWAE">Homepage</a>&nbsp;]
+        [&nbsp;<a href="https://postimg.cc/sQN3hscm">Poster</a>&nbsp;]
+      </td>
+      
+ <!-- ROW 4:  Team 01 Poster-->       
+      <td width="30%">
+        <a href="https://postimg.cc/sQN3hscm"><img src="https://postimg.cc/sQN3hscm" /></a>
+        <p align="center">Click the image to enlarge</p>
+      </td>
+    </tr>
+    
     
   </tbody>
 </table>
