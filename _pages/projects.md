@@ -20,16 +20,16 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
   <tbody>
     <tr id="row1">
       <td width="80%">
-        <h2>
+        <h1>
           🏆 1st place, Team 07: Extending Neural Collaborative Filtering
-        </h2>
-        <h3>📖 Abstract </h3>
+        </h1>
+        <h2>📖 Abstract </h2>
         <p style="font-size:18px">Extending the Neural Collaborative Filtering Framework to improve model understanding and robustness. Using additional Convolutional layers, Pairwise Loss Function and Auxiliary Information Embedding to explore potential model improvements.<BR /></p>
 
-        <h3>✍️ Description </h3>
+        <h2>✍️ Description </h2>
         <p style="font-size:18px">In our project, we explore the potential extensions to the Neural Collaborative Filtering (NCF) Framework to improve model understanding and robustness. Using additional Convolutional layers, Pairwise Loss Function and Auxiliary Information Embedding, we experiment with the MovieLens-1M dataset to attain better model performance on Hit Rate and NDCG metrics while attempting to improve model understanding through auxiliary embeddings.<BR /></p>
 
-        <h3>☀️ Team Member </h3>
+        <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
           <li>Gabriel Loye, NUS SoC Undergraduate</li>
           <li>Clarence Ong, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/clarenceong97/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
@@ -37,12 +37,12 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
           <li>Sashankh CK, External Guest</li>
         </ul>
 
-        <h3>📻 Media Links</h3>
+        <h2>📻 Media Links</h2>
         [&nbsp;<a href="https://github.com/gabrielloye/neural_collaborative_filtering" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png" style="font-size:18px">Poster</a>&nbsp;]
       </td>
       <td width="20%">
-        <img src="images/Team07_Poster.png" alt="Poster">
+        <img src="/images/Team07_Poster.png" alt="Poster">
       </td>
 
     </tr>
