@@ -65,7 +65,7 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
 }
 </style>
 
-<scripts>
+<script>
 // Get the DOM
 var modal = document.getElementById('image-cover-modal');
 var modalImg = document.getElementById("image-cover-image");
@@ -89,7 +89,7 @@ for (i = 0; i < document.images.length; i++) {
         captionText.innerHTML = this.alt;
     }
 }
-</scripts>
+</script>
 
 <!--Table Content-->
 <table>
