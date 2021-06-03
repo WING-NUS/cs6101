@@ -6,84 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-<!-- Table Style-->
-<style>
-    .gridview {
-      border-collapse: collapse;
-      margin: 0px 0px 0px 0;
-      /* box-shadow: 3px 3px 4px #bbb;     */
-    }
 
-    .gridview th {
-      text-align: left;
-      /*font-size: 1.2em;*/
-      font-weight: normal;
-      color: #F9F9F9;
-      background: #337EB5;
-    }
-
-    .gridview th a,
-    .gridview th a:link,
-    .gridview th a:visited,
-    .gridview th a:active {
-      color: #F9F9F9;
-      text-decoration: none;
-    }
-
-    .gridview th a:hover {
-      text-decoration: underline;
-    }
-
-    .gridview tr {
-      background: #F4F9FD;
-    }
-
-    .gridview tr:nth-child(odd) {
-      background-color: #F4F9FD;
-    }
-
-    .gridview tr:nth-child(even) {
-      background-color: #EDF5FC;
-    }
-
-    .gridview td {
-      font-weight: normal;
-      text-align: left;
-      vertical-align: top;
-    }
-
-    .gridview td,
-    table th {
-      padding: 5px 8px;
-    }
-
-    .gridview tfoot td {
-      background-color: #EEEEEE;
-    }
-
-    .gridview tfoot td .page {
-      color: #000000;
-      font-weight: bold;
-    }
-
-    .gridview tr.subfoot,
-    .gridview tr.subfoot td {
-      background-color: #FFFFEC;
-    }
-
-    .gridview tr:hover td,
-    .gridview tbody tr:hover td {
-      background-color: #FFFFD7;
-      color: #696969;
-    }
-
-    .gridview .selected,
-    .gridview tbody .selected {
-      background-color: #6ccbfb;
-      color: #fff;
-    }
-  </style>
-<!-- END of Table Style-->
 Here we archive and cross link all of the past projects done by our first year Ph.D. students, undergraduate and external guests that take part in our reading group.  Generally, when students and participants outside of WING join the reading group they must also complete a related project touching on some part of the lecture topics.  These projects often get presented publicly in the forum of our School of Computing's Term Project Showcase (STePS).
 
 ## Projects from Semester 2020 (AY 20/21, Sem II) featured at <a href="https://uvents.nus.edu.sg/event/18th-steps">18th STePs</A>, held on 14 April 2021.
@@ -96,34 +19,39 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
 <table>
     <tbody><tr><th>Projects</th><th>Posters</th></tr>
       <tr id="row1"><td width="80%">
-          <h4>
+          <h2>
           🏆 1st place, Team 07: Extending Neural Collaborative Filtering
-          </h4>
+          </h2>
           <p>
-           📖 Abstract <BR/>
+          <h3>📖 Abstract </h3>
 Extending the Neural Collaborative Filtering Framework to improve model understanding and robustness. Using additional Convolutional layers, Pairwise Loss Function and Auxiliary Information Embedding to explore potential model improvements.<BR/>
 
-✍️ Description <BR/>
+<h3>✍️ Description </h3>
 In our project, we explore the potential extensions to the Neural Collaborative Filtering (NCF) Framework to improve model understanding and robustness. Using additional Convolutional layers, Pairwise Loss Function and Auxiliary Information Embedding, we experiment with the MovieLens-1M dataset to attain better model performance on Hit Rate and NDCG metrics while attempting to improve model understanding through auxiliary embeddings.<BR/>
 
-☀️ Team Member <BR/>
-- Gabriel Loye, NUS SoC Undergraduate <BR/>
-- Clarence Ong, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/clarenceong97/?originalSubdomain=sg">LinkedIn</a>&nbsp;]<BR/>
-- Nham Quoc Hung, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/quoc-hung-nham/?originalSubdomain=sg">LinkedIn</a>&nbsp;]<BR/>
-- Sashankh CK, External Guest <BR/>
+              
+<h3>☀️ Team Member </h3>
+<ul>
+    <li>Gabriel Loye, NUS SoC Undergraduate</li>
+    <li>Clarence Ong, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/clarenceong97/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+    <li>Nham Quoc Hung, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/quoc-hung-nham/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+    <li>Sashankh CK, External Guest</li>
+</ul>
 
- 📻 Media Links<BR/> 
+ <h3>📻 Media Links</h3> 
 [&nbsp;<a href="https://github.com/gabrielloye/neural_collaborative_filtering">Homepage</a>&nbsp;]<BR/>
 [&nbsp;<a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png">Poster</a>&nbsp;]
          </p>
         </td>
-        <td width="20%">
-          <img src="poster/Team07_Poster.jpg" alt="Poster">
-        </td>
+<td width="20%">
+  <img src="poster/Team07_Poster.jpg" alt="Poster">
+</td>
     
       </tr>
     </tbody>
 </table>
+
+
 <!-- Team 04-->
 **🥈 2nd place, Team 04: Causal Estimation for Conversational Recommender Systems**
 
