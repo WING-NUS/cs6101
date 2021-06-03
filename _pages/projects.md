@@ -42,7 +42,7 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
         [&nbsp;<a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png" style="font-size:18px">Poster</a>&nbsp;]
       </td>
       <td width="20%">
-        <img src="./Team07_Poster.png" alt="Poster">
+        <img src="Team07_Poster.png" alt="Poster">
       </td>
 
     </tr>
