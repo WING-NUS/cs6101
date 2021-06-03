@@ -324,5 +324,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
         <p align="center">Click the image to enlarge</p>
       </td>
     </tr>
+     <tr>
+  </tr>
   </tbody>
 </table>
