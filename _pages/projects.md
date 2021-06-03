@@ -15,9 +15,26 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
 
 <i class='fa fa-home'></i>
 
+<head>
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+</head>
+
+<!--Introduce the necessary js file-->
+<script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.js"></script>
+<script src="dist/bootstrap.viewer.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $('.viewer').bootstrapViewer();//The default image source file path is the src attribute of the img tag.
+    })
+</script>
+
+<img src="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png" width="400" class="viewer img-responsive"/>
+
 <!--Table Content-->
 <table>
   <tbody>
+    <!-- Team 07-->
     <tr id="row1">
       <td width="60%">
         <h1>
@@ -46,27 +63,36 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
       </td>
 
     </tr>
+ <!-- Team 04-->
+    <tr id="row2">
+      <td width="60%">
+        <h1>
+          🥈 2nd place, Team 04: Causal Estimation for Conversational Recommender Systems
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">In this project, we study popularity bias in Recommender System (RecSys), Conversational Recsys, and their interplays.<BR /></p>
 
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">We discover (1) conversation can significantly mitigate popularity bias for traditional RecSys; (2) Conversation RecSys suffers from popularity bias itself. We propose a method to mitigate popularity bias in Conversational RecSys. Please refer to our poster for technical details. Our experiment is still WIP, we will update on this github repo: https://github.com/YisongMiao/cs6101 <BR/></p>
+
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>Yisong Miao, NUS Postgraduate Student  [&nbsp;<a href="https://yisong.me/">Personal Website</a>&nbsp;]</li>
+          <li>Chenxin Wang, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/chengxin-wang-086304113/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+        </ul>
+
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="https://github.com/YisongMiao/cs6101">Homepage</a>&nbsp;]
+        [&nbsp;<a href="https://yisong.me/publications/CausalEst-Poster.jpeg">Poster</a>&nbsp;]
+      </td>
+      <td width="40%">
+        <img src="https://yisong.me/publications/CausalEst-Poster.jpeg" alt="Poster">
+      </td>
+
+    </tr>
   </tbody>
 </table>
 
-
-<!-- Team 04-->
-**🥈 2nd place, Team 04: Causal Estimation for Conversational Recommender Systems**
-
-📖 Abstract <BR/>
-In this project, we study popularity bias in Recommender System (RecSys), Conversational Recsys, and their interplays.<BR/>
-
-✍️ Description <BR/>
-We discover (1) conversation can significantly mitigate popularity bias for traditional RecSys; (2) Conversation RecSys suffers from popularity bias itself. We propose a method to mitigate popularity bias in Conversational RecSys. Please refer to our poster for technical details. Our experiment is still WIP, we will update on this github repo: https://github.com/YisongMiao/cs6101 <BR/>
-
-☀️ Team Member <BR/>
-- Yisong Miao, NUS Postgraduate Student  [&nbsp;<a href="https://yisong.me/">Personal Website</a>&nbsp;]
-- Chenxin Wang, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/chengxin-wang-086304113/?originalSubdomain=sg">LinkedIn</a>&nbsp;]
-
-📻 Media Links<BR/> 
-[&nbsp;<a href="https://github.com/YisongMiao/cs6101">Homepage</a>&nbsp;]
-[&nbsp;<a href="https://yisong.me/publications/CausalEst-Poster.jpeg">Poster</a>&nbsp;]
 
 <!-- Team 09-->
 **🥉 3rd place, Team 09: Beyond IGMC**
