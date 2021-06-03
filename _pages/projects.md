@@ -23,15 +23,14 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
         <h2>
           🏆 1st place, Team 07: Extending Neural Collaborative Filtering
         </h2>
-        <p>
         <h3>📖 Abstract </h3>
-        Extending the Neural Collaborative Filtering Framework to improve model understanding and robustness. Using additional Convolutional layers, Pairwise Loss Function and Auxiliary Information Embedding to explore potential model improvements.<BR />
+        <p style="font-size:18px">Extending the Neural Collaborative Filtering Framework to improve model understanding and robustness. Using additional Convolutional layers, Pairwise Loss Function and Auxiliary Information Embedding to explore potential model improvements.<BR /></p>
 
         <h3>✍️ Description </h3>
-        In our project, we explore the potential extensions to the Neural Collaborative Filtering (NCF) Framework to improve model understanding and robustness. Using additional Convolutional layers, Pairwise Loss Function and Auxiliary Information Embedding, we experiment with the MovieLens-1M dataset to attain better model performance on Hit Rate and NDCG metrics while attempting to improve model understanding through auxiliary embeddings.<BR />
+        <p style="font-size:18px">In our project, we explore the potential extensions to the Neural Collaborative Filtering (NCF) Framework to improve model understanding and robustness. Using additional Convolutional layers, Pairwise Loss Function and Auxiliary Information Embedding, we experiment with the MovieLens-1M dataset to attain better model performance on Hit Rate and NDCG metrics while attempting to improve model understanding through auxiliary embeddings.<BR /></p>
 
         <h3>☀️ Team Member </h3>
-        <ul>
+        <ul style="font-size:18px">
           <li>Gabriel Loye, NUS SoC Undergraduate</li>
           <li>Clarence Ong, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/clarenceong97/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
           <li>Nham Quoc Hung, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/quoc-hung-nham/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
@@ -39,40 +38,8 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
         </ul>
 
         <h3>📻 Media Links</h3>
-        [&nbsp;<a href="https://github.com/gabrielloye/neural_collaborative_filtering">Homepage</a>&nbsp;]<BR />
-        [&nbsp;<a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png">Poster</a>&nbsp;]
-        </p>
-      </td>
-      <td width="20%">
-        <img src="poster/Team07_Poster.jpg" alt="Poster">
-      </td>
-
-    </tr>
-
-    <tr id="row2">
-      <td width="80%">
-        <h2>
-          🥈 2nd place, Team 04: Causal Estimation for Conversational Recommender Systems
-        </h2>
-        <p>
-        <h3>📖 Abstract </h3>
-        Extending the Neural Collaborative Filtering Framework to improve model understanding and robustness. Using additional Convolutional layers, Pairwise Loss Function and Auxiliary Information Embedding to explore potential model improvements.<BR />
-
-        <h3>✍️ Description </h3>
-        In our project, we explore the potential extensions to the Neural Collaborative Filtering (NCF) Framework to improve model understanding and robustness. Using additional Convolutional layers, Pairwise Loss Function and Auxiliary Information Embedding, we experiment with the MovieLens-1M dataset to attain better model performance on Hit Rate and NDCG metrics while attempting to improve model understanding through auxiliary embeddings.<BR />
-
-        <h3>☀️ Team Member </h3>
-        <ul>
-          <li>Gabriel Loye, NUS SoC Undergraduate</li>
-          <li>Clarence Ong, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/clarenceong97/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
-          <li>Nham Quoc Hung, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/quoc-hung-nham/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
-          <li>Sashankh CK, External Guest</li>
-        </ul>
-
-        <h3>📻 Media Links</h3>
-        [&nbsp;<a href="https://github.com/gabrielloye/neural_collaborative_filtering">Homepage</a>&nbsp;]<BR />
-        [&nbsp;<a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png">Poster</a>&nbsp;]
-        </p>
+        [&nbsp;<a href="https://github.com/gabrielloye/neural_collaborative_filtering" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png" style="font-size:18px">Poster</a>&nbsp;]
       </td>
       <td width="20%">
         <img src="poster/Team07_Poster.jpg" alt="Poster">
