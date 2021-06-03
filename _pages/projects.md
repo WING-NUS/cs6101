@@ -19,7 +19,7 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
 <table>
   <tbody>
     <tr align="center">
-      <td >
+      <td>
          Projects
        </td>
       <td>
@@ -331,6 +331,5 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
         <p align="center">Click the image to enlarge</p>
       </td>
     </tr>
-    
   </tbody>
 </table>
