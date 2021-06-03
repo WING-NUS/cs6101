@@ -15,88 +15,12 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
 
 <i class='fa fa-home'></i>
 
-<style>
-.image-cover-modal {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    opacity: 0;
-    position: fixed;
-    z-index: 30;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    background-color: rgb(0,0,0);
-    background-color: rgba(0,0,0,0.9);
-    transition: opacity ease 0.3s;
-    pointer-events: none;
-}
-
-.model-shown {
-    pointer-events: all;
-    opacity: 1;
-}
-
-.image-cover-modal-content {
-    display: block;
-    max-width: 80%;
-    max-height: 80%;
-}
-
-#image-cover-caption {
-    display: block;
-    position: absolute;
-    width: 100%;
-    height: 3rem;
-    bottom: 0;
-    line-height: 3rem;
-    text-align: center;
-    color: #fff;
-    background: rgba(255, 255, 255, 0.33);
-}
-
-@media only screen and (max-width: 45rem){
-    .image-cover-modal-content {
-        max-width: 100%;
-        max-height: 100%;
-    }
-}
-</style>
-
-<script>
-// Get the DOM
-var modal = document.getElementById('image-cover-modal');
-var modalImg = document.getElementById("image-cover-image");
-var captionText = document.getElementById("image-cover-caption");
-var span = document.getElementsByClassName("image-cover-close")[0];
-
-// When the user clicks on <span> (x), close the modal
-modal.onclick = function() {
-    this.classList.remove("model-shown");
-}
-
-var i;
-for (i = 0; i < document.images.length; i++) {
-
-    // Get the image and insert it inside the modal - use its "alt" text as a caption
-    var img = document.images[i];
-
-    img.onclick = function(){
-        modal.classList.add("model-shown");
-        modalImg.src = this.src;
-        captionText.innerHTML = this.alt;
-    }
-}
-</script>
-
 <!--Table Content-->
 <table>
   <tbody>
     <!-- Team 07-->
     <tr id="row1">
-      <td width="60%">
+      <td width="70%">
         <h1>
           🏆 1st place, Team 07: Extending Neural Collaborative Filtering
         </h1>
@@ -119,14 +43,10 @@ for (i = 0; i < document.images.length; i++) {
         [&nbsp;<a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png" style="font-size:18px">Poster</a>&nbsp;]
       </td>
         
-      <td width="40%">
-          <div id="image-cover-modal" class="image-cover-modal">
-  <img class="image-cover-modal-content" src="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png"/>
-  <div id="image-cover-caption"></div>
-</div>
-
-  <img class="image-cover-modal-content" src="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png" width="400px"/>
+      <td width="30%">
+        <a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png"><img src="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png" /></a>
       </td>
+      <p>Click the image to enlarge.</p>
 
     </tr>
  <!-- Team 04-->
