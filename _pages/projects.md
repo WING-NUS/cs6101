@@ -19,7 +19,7 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
 <table>
   <tbody>
     <tr id="row1">
-      <td width="80%">
+      <td width="60%">
         <h1>
           🏆 1st place, Team 07: Extending Neural Collaborative Filtering
         </h1>
@@ -41,7 +41,7 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
         [&nbsp;<a href="https://github.com/gabrielloye/neural_collaborative_filtering" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png" style="font-size:18px">Poster</a>&nbsp;]
       </td>
-      <td width="20%">
+      <td width="40%">
         <img src="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png" alt="Poster">
       </td>
 
