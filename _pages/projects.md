@@ -45,8 +45,9 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
         
       <td width="30%">
         <a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png"><img src="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png" /></a>
+        <p>Click the image to enlarge.</p>
       </td>
-      <p>Click the image to enlarge.</p>
+      
 
     </tr>
  <!-- Team 04-->
