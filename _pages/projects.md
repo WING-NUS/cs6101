@@ -15,8 +15,18 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
 
 <i class='fa fa-home'></i>
 
-<!--Table Content-->
+<!--Table START-->
 <table>
+  <!--Table HEAD-->
+  <tr>
+        <th> 
+          Projects
+        </th>
+        <th>
+          Poster
+        </th>
+      </tr>
+  <!--Table CONTENT-->
   <tbody>
     <!-- Team 07-->
     <tr id="row1">
@@ -42,17 +52,16 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
         [&nbsp;<a href="https://github.com/gabrielloye/neural_collaborative_filtering" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png" style="font-size:18px">Poster</a>&nbsp;]
       </td>
-        
+ <!-- Team 07 Poster-->       
       <td width="30%">
         <a href="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png"><img src="https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png" /></a>
-        <p>Click the image to enlarge.</p>
+        <p align="center">Click the image to enlarge.</p>
       </td>
-      
-
     </tr>
+    
  <!-- Team 04-->
     <tr id="row2">
-      <td width="60%">
+      <td width="70%">
         <h1>
           🥈 2nd place, Team 04: Causal Estimation for Conversational Recommender Systems
         </h1>
@@ -72,33 +81,56 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
         [&nbsp;<a href="https://github.com/YisongMiao/cs6101">Homepage</a>&nbsp;]
         [&nbsp;<a href="https://yisong.me/publications/CausalEst-Poster.jpeg">Poster</a>&nbsp;]
       </td>
-      <td width="40%">
-        <img src="https://yisong.me/publications/CausalEst-Poster.jpeg" alt="Poster">
+      <!-- Team 04 Poster-->
+      <td width="30%">
+        <a href="https://yisong.me/publications/CausalEst-Poster.jpeg">
+        <img src="https://yisong.me/publications/CausalEst-Poster.jpeg" alt="Poster"/></a>
+        <p align="center">Click the image to enlarge.</p>
       </td>
-
     </tr>
+
+    <!-- Team 09-->
+    <tr id="row3">
+      <td width="70%">
+        <h1>
+         🥉 3rd place, Team 09: Beyond IGMC
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">We extend the state-of-the-art Inductive Graph Matrix Completion recommender system by introducing Graph Normalization and Layer Aggregation variants, and explore the models' potent transfer learning capabilities.<BR /></p>
+
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">In this project, we investigate how recent advances in Graph Neural Network models can impact and even improve the ability of the state-of-the-art Inductive Graph Matrix Completion (IGMC) recommender system to predict ratings in the setting of only having ratings of each user-item interaction. We show this through measuring the baseline model performance against the extensions using the RMSE scoring. 
+
+The IGMC is able to perform inductive matrix completion without any reliance on side-information. This allows the model to be highly applicable in many recommender system settings. It is also able to successfully transfer learning to other datasets with completely different recommender tasks and user bases.
+We contribute 2 main extensions to the model, in particular: Graph-Normalisation and Layer Aggregation alternatives. We also extended the model visualisation and conducted meso-analysis on training examples with the greatest contributions to RMSE values. Furthermore, we explore the transfer learning capabilities of these inductive models, and benchmark the results against external datasets.<BR /></p>
+
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>Stephen Tan, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/stephen-tan-hin-khai/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>Axel Lau Wei En, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/axel-lau/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>Joel Tan Wan Rong, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/joeltanwr/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>Wendi Ren, External Guest</li>
+          <li>Chan Guan Hao, External Guest</li>
+        </ul>
+
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="https://linktr.ee/BeyondIGMC">Homepage</a>&nbsp;]
+        [&nbsp;<a href="https://www.youtube.com/watch?v=pEQxq7r-lgY">Video</a>&nbsp;]
+        [&nbsp;<a href="https://drive.google.com/file/d/1Hso_rqGMXnJsRt1V9QmLUUGgbO6OcvZI/view">Poster</a>&nbsp;]]
+      </td>
+ <!-- Team 09 Poster-->       
+      <td width="30%">
+        <a href="https://drive.google.com/file/d/1Hso_rqGMXnJsRt1V9QmLUUGgbO6OcvZI/view"><img src="https://drive.google.com/file/d/1Hso_rqGMXnJsRt1V9QmLUUGgbO6OcvZI/view" /></a>
+        <p align="center">Click the image to enlarge.</p>
+      </td>
+    </tr>
+    
   </tbody>
 </table>
 
 
 <!-- Team 09-->
-**🥉 3rd place, Team 09: Beyond IGMC**
 
-📖 Abstract <BR/>
-We extend the state-of-the-art Inductive Graph Matrix Completion recommender system by introducing Graph Normalization and Layer Aggregation variants, and explore the models' potent transfer learning capabilities.<BR/>
-
-✍️ Description <BR/>
-In this project, we investigate how recent advances in Graph Neural Network models can impact and even improve the ability of the state-of-the-art Inductive Graph Matrix Completion (IGMC) recommender system to predict ratings in the setting of only having ratings of each user-item interaction. We show this through measuring the baseline model performance against the extensions using the RMSE scoring. 
-
-The IGMC is able to perform inductive matrix completion without any reliance on side-information. This allows the model to be highly applicable in many recommender system settings. It is also able to successfully transfer learning to other datasets with completely different recommender tasks and user bases.
-We contribute 2 main extensions to the model, in particular: Graph-Normalisation and Layer Aggregation alternatives. We also extended the model visualisation and conducted meso-analysis on training examples with the greatest contributions to RMSE values. Furthermore, we explore the transfer learning capabilities of these inductive models, and benchmark the results against external datasets.<BR/>
-
-☀️ Team Member <BR/>
-- Stephen Tan, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/stephen-tan-hin-khai/?originalSubdomain=sg">LinkedIn</a>&nbsp;]
-- Axel Lau Wei En, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/axel-lau/?originalSubdomain=sg">LinkedIn</a>&nbsp;]
-- Joel Tan Wan Rong, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/joeltanwr/?originalSubdomain=sg">LinkedIn</a>&nbsp;]
-- Wendi Ren, External Guest
-- Chan Guan Hao, External Guest 
 
 📻 Media Links<BR/> 
 [&nbsp;<a href="https://linktr.ee/BeyondIGMC">Homepage</a>&nbsp;]
