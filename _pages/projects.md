@@ -13,14 +13,14 @@ Here we archive and cross link all of the past projects done by our first year P
 
 In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommendation Systems](https://uvents.nus.edu.sg/event/18th-steps/module/CS6101)**.  There were 26 students in 10 teams whose projects focused on recent research on the topics of Conversational Systems, Recommender Systems and their intersections.
 
-<!--<i class='fa fa-home'></i>-->
+<i class='fa fa-home'></i>
 
 <!--Table START-->
 <table>
   <thead>
     <tr>
-      <th align="center">Projects</th>
-      <th align="center">Posters</th>
+      <th><p align="center">Projects</p></th>
+      <th><p align="center">Posters</p></th>
     </tr>
   </thead>
   <tbody>
