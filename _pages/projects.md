@@ -194,7 +194,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
          Team 05: Counterfactual Recommender
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">Relevance Matrix Factorization and Asymmetric Tri-training are employed to build a recommendation system. Its algorithm is evaluated by using Coat dataset to simulate a scenario that we have only “biased” observational data for model training while evaluating on “unbiased” data.<BR /></p>
+        <p style="font-size:18px">Relevance Matrix Factorization and Asymmetric Tri-training are employed to build a recommendation system. Its algorithm is evaluated by using Coat dataset to simulate a scenario that we have only biased observational data for model training while evaluating on unbiased data.<BR /></p>
         <h2>✍️ Description </h2>
         <p style="font-size:18px">Implicit feedback is easy to collect and can be useful to build a recommendation system in online service. However, the feedback suffered from popularity bias because a user gives feedback to an item only if it is exposed. To build an unbiased recommendation system, counterfactual learning and meta learning approaches are applied to deal with such observational data.<BR /></p>
         <h2>☀️ Team Member </h2>
