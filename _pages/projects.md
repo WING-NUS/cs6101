@@ -210,31 +210,5 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
         <p align="center">Click the image to enlarge</p>
       </td>
     </tr>
-      <!-- ROW 8: Team 06-->
-    <tr id="row8">
-      <td width="70%">
-        <h1>
-         Team 06: Diversifying Dialogue Generation with Non-Conversational Text
-        </h1>
-        <h2>📖 Abstract </h2>
-        <p style="font-size:18px">Implementation for the paper Diversifying Dialogue Generation with Non-Conversational Text on English.<BR /></p>
-        <h2>✍️ Description </h2>
-        <p style="font-size:18px">Traditional neural network-based sequence-to-sequence (seq2seq) models strongly suffer from the low diversity problem when it comes to open domain dialogue generation. The authors aim to diversify the dialogue generation with non-conversational text corpus in Chinese language. We attempt to extend this work to conversational and non-conversational datasets in English Analysis on how filtering the non-conversational corpus based on topic affects the result (selected topics: Politics, Attitude & Emotion, Health).<BR /></p>
-        <h2>☀️ Team Member </h2>
-        <ul style="font-size:18px">
-          <li>Yeo Qi Xun, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/yeo-qi-xun-8975a114b/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
-          <li>Yuxi Xie, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/yuxi-xie-494265181/">LinkedIn</a>&nbsp;]</li>
-          <li>Tian Zhen, NUS Postgraduate Student </li>
-        </ul>
-        <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://github.com/YuxiXie/Diversifying-Dialogue-Generation-with-Non-Conversational-Text">Homepage</a>&nbsp;]
-        [&nbsp;<a href="https://www.youtube.com/watch?v=PWOr1ay1CNM">Video</a>&nbsp;]
-        [&nbsp;<a href="https://i.imgur.com/J3tzCR5.png">Poster</a>&nbsp;]
- <!-- ROW 8: Team 06 Poster-->       
-      <td width="30%">
-        <a href="https://i.imgur.com/J3tzCR5.png"><img src="https://i.imgur.com/J3tzCR5.png" /></a>
-        <p align="center">Click the image to enlarge</p>
-      </td>
-    </tr>
   </tbody>
 </table>
