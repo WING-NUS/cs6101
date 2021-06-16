@@ -138,5 +138,54 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
         <p align="center">Click the image to enlarge</p>
       </td>
     </tr>
+    <!-- ROW 5: Team 02-->
+    <tr id="row5">
+      <td width="70%">
+        <h1>
+         Team 02: FiBiNET
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">This project is focusing on combining feature importance and bilinear feature interaction for click-through rate prediction<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">We explore potential extensions to one of the state-of-the-art recommender systems named FiBiNET which assigns importance to feature embeddings.<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>Qiao Rui, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/rui-qiao/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>Sng Weicong, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/weicong-sng-42456ba8/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>Li Zihan, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/zihan-li-nus/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="https://raw.githubusercontent.com/lizihan97/FiBiNET/main/FiBiNET.png">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 5: Team 02 Poster-->       
+      <td width="30%">
+        <a href="https://raw.githubusercontent.com/lizihan97/FiBiNET/main/FiBiNET.png"><img src="https://raw.githubusercontent.com/lizihan97/FiBiNET/main/FiBiNET.png" /></a>
+        <p align="center">Click the image to enlarge</p>
+      </td>
+    </tr>    
+      <!-- ROW 6: Team 03-->
+    <tr id="row6">
+      <td width="70%">
+        <h1>
+         Team 03: Feedback-guided Preference Adaptation Network (FPAN)
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">Multi-round conversational recommender systems (CRS), which interact with users by asking questions about attributes and recommending items multiple times in one conversation.<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">FPAN uses gating modules to adapt the user embedding and item-level feedback, according to attribute-level feedback. This project looks to improve the offline and online training of FPAN. It does this by conducting a survey into the effectiveness of GraphSAGE convolutions. And, by introducing a function to calculate user & item bias.<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>Henry Kasim, NUS Podtgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/henrykasim/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>Samuel Broughton, NUS Podtgraduate Student</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="https://drive.google.com/file/d/1SoAqjjmq48rMtvpQvCt-Wne5dXmiXOkA/view">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 6: Team 03 Poster-->       
+      <td width="30%">
+        <a href="https://drive.google.com/file/d/1SoAqjjmq48rMtvpQvCt-Wne5dXmiXOkA/view"><img src="https://i.imgur.com/m1pSi6v.png" /></a>
+        <p align="center">Click the image to enlarge</p>
+      </td>
+    </tr>
   </tbody>
 </table>
