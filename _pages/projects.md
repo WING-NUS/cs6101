@@ -17,8 +17,13 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
 
 <!--Table START-->
 <table>
+  <thead>
+    <tr align="center">
+      <th>Projects</th>
+      <th>Posters</th>
+    </tr>
+  </thead>
   <tbody>
-    <thead><tr align="center"><th>Projects</th><th>Posters</th></tr></thead>
     <!-- ROW 1: Team 07-->
     <tr id="row1">
       <td width="70%">
