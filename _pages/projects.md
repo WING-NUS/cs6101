@@ -77,5 +77,66 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
         <p align="center">Click the image to enlarge</p>
       </td>
     </tr>
+        <!-- ROW 3: Team 09-->
+    <tr id="row3">
+      <td width="70%">
+        <h1>
+         🥉 3rd place, Team 09: Beyond IGMC
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">We extend the state-of-the-art Inductive Graph Matrix Completion recommender system by introducing Graph Normalization and Layer Aggregation variants, and explore the models' potent transfer learning capabilities.<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">In this project, we investigate how recent advances in Graph Neural Network models can impact and even improve the ability of the state-of-the-art Inductive Graph Matrix Completion (IGMC) recommender system to predict ratings in the setting of only having ratings of each user-item interaction. We show this through measuring the baseline model performance against the extensions using the RMSE scoring. <BR />
+The IGMC is able to perform inductive matrix completion without any reliance on side-information. This allows the model to be highly applicable in many recommender system settings. It is also able to successfully transfer learning to other datasets with completely different recommender tasks and user bases.
+We contribute 2 main extensions to the model, in particular: Graph-Normalisation and Layer Aggregation alternatives. We also extended the model visualisation and conducted meso-analysis on training examples with the greatest contributions to RMSE values. Furthermore, we explore the transfer learning capabilities of these inductive models, and benchmark the results against external datasets.<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>Stephen Tan, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/stephen-tan-hin-khai/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>Axel Lau Wei En, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/axel-lau/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>Joel Tan Wan Rong, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/joeltanwr/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>Wendi Ren, External Guest</li>
+          <li>Chan Guan Hao, External Guest</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="https://linktr.ee/BeyondIGMC">Homepage</a>&nbsp;]
+        [&nbsp;<a href="https://www.youtube.com/watch?v=pEQxq7r-lgY">Video</a>&nbsp;]
+        [&nbsp;<a href="https://drive.google.com/file/d/1Hso_rqGMXnJsRt1V9QmLUUGgbO6OcvZI/view">Poster</a>&nbsp;]]
+      </td>
+ <!-- ROW 3: Team 09 Poster-->       
+      <td width="30%">
+        <a href="https://drive.google.com/file/d/1Hso_rqGMXnJsRt1V9QmLUUGgbO6OcvZI/view">
+        <img src="https://i.imgur.com/9k58lfq.png" /></a>
+        <p align="center">Click the image to enlarge.</p>
+      </td>
+    </tr>
+    <!-- ROW 4: Team 01-->
+    <tr id="row4">
+      <td width="70%">
+        <h1>
+          Team 01: Explore Multiple Response Modalities of DialogWAE
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">This project is focusing on assessing and interpreting the GMM prior components in DialogWAE.<BR/></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">Neural response generation is a typical task in NLP community. DialogWAE is a new approach for dialogue modeling and response generation, which achieves SOTA result on popular datasets. In this work, we focus on exploring the various modalities of the generated responses. To be specific, we propose to: 
+•	Analyze how the number K of prior components influences the overall performance.
+•	Explore what each prior component of the Gaussian mixture distribution captures when K > 3.<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>Liu Ruofan, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/ruofanliu/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>Liu Hongfu, NUS Postgraduate Student</li>
+          <li>Liu Yong, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/yong-liu-b1037513/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href=" https://github.com/lindsey98/DialogWAE">Homepage</a>&nbsp;]
+        [&nbsp;<a href="https://postimg.cc/sQN3hscm">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 4:  Team 01 Poster-->       
+      <td width="30%">
+        <a href="https://postimg.cc/sQN3hscm">
+        <img src="https://i.imgur.com/EZwptz2.jpg" /></a>
+        <p align="center">Click the image to enlarge</p>
+      </td>
+    </tr>
   </tbody>
 </table>
