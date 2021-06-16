@@ -211,5 +211,82 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
         <p align="center">Click the image to enlarge</p>
       </td>
     </tr>
+     <!-- ROW 8: Team 06-->
+    <tr id="row8">
+      <td width="70%">
+        <h1>
+         Team 06: Diversifying Dialogue Generation with Non-Conversational Text
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">Implementation for the paper Diversifying Dialogue Generation with Non-Conversational Text on English.<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">Traditional neural network-based sequence-to-sequence (seq2seq) models strongly suffer from the low diversity problem when it comes to open domain dialogue generation. The authors aim to diversify the dialogue generation with non-conversational text corpus in Chinese language. We attempt to extend this work to conversational and non-conversational datasets in English Analysis on how filtering the non-conversational corpus based on topic affects the result (selected topics: Politics, Attitude & Emotion, Health).<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>Yeo Qi Xun, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/yeo-qi-xun-8975a114b/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>Yuxi Xie, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/yuxi-xie-494265181/">LinkedIn</a>&nbsp;]</li>
+          <li>Tian Zhen, NUS Postgraduate Student </li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="https://github.com/YuxiXie/Diversifying-Dialogue-Generation-with-Non-Conversational-Text">Homepage</a>&nbsp;]
+        [&nbsp;<a href="https://www.youtube.com/watch?v=PWOr1ay1CNM">Video</a>&nbsp;]
+        [&nbsp;<a href="https://i.imgur.com/J3tzCR5.png">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 8: Team 06 Poster-->       
+      <td width="30%">
+        <a href="https://i.imgur.com/J3tzCR5.png"><img src="https://i.imgur.com/J3tzCR5.png" /></a>
+        <p align="center">Click the image to enlarge</p>
+      </td>
+    </tr>
+       <!-- ROW 9: Team 08-->
+    <tr id="row9">
+      <td width="70%">
+        <h1>
+         Team 08: NN for Ad Recommendation
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">The project extends the popular DeepFM neural network to better predict users' click-through-rate of advertisements.<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">DeepFM is a popular click-through-rate (CTR) model developed by Huawei's Noah's Ark Lab. In this project, we modifies the original neural network structure for better CTR predictions. More specifically, we introduced pooling layers to better capture the higher order feature interactions and b. added a linear layer to assign weights to the constituent deep model and factorisation machine (FM) model when combining the outputs. Our experimental results show that both extensions are able to improve the accuracy of the original DeepFM model.<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>Muhammad Assyarul Ariffin Bin Omar, NUS Undergraduate Student [&nbsp;<a href="https://www.linkedin.com/in/muhd-assyarul-ariffin-bin-omar/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>Lee Xiong An, External Guest</li>
+          <li>Xu Pengtai, External Guest</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="https://i.ibb.co/vVzJdLq/WING-Poster-STe-PS-2021-6101-08.jpg">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 9: Team 08 Poster-->       
+      <td width="30%">
+        <a href="https://i.ibb.co/vVzJdLq/WING-Poster-STe-PS-2021-6101-08.jpg"><img src="https://i.ibb.co/vVzJdLq/WING-Poster-STe-PS-2021-6101-08.jpg" /></a>
+        <p align="center">Click the image to enlarge</p>
+      </td>
+    </tr>
+       <!-- ROW 10: Team 10-->
+    <tr id="row10">
+      <td width="70%">
+        <h1>
+         Team 10: KGRecSys
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">Implementation of the paper "KGAT: Knowledge Graph Attention Network for Recommendation".<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">In this project, we implement the KGAT model as described in the paper "KGAT: Knowledge Graph Attention Network for Recommendation".<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>Evan Chong, External Guest</li>
+          <li>Rabiul Awal, External Guest</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="https://github.com/evantkchong/cs6101_kgrecsys">Homepage</a>&nbsp;]
+[&nbsp;<a href="https://raw.githubusercontent.com/evantkchong/cs6101_kgrecsys/main/docs/KGRecSys_poster_STePS_2021.png">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 10: Team 10 Poster-->       
+      <td width="30%">
+        <a href="https://raw.githubusercontent.com/evantkchong/cs6101_kgrecsys/main/docs/KGRecSys_poster_STePS_2021.png"><img src="https://i.imgur.com/PvASl0J.png" /></a>
+        <p align="center">Click the image to enlarge</p>
+      </td>
+    </tr>
   </tbody>
 </table>
