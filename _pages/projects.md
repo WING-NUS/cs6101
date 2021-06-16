@@ -284,7 +284,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
       </td>
  <!-- ROW 10: Team 10 Poster-->       
       <td width="30%">
-        <a href="https://raw.githubusercontent.com/evantkchong/cs6101_kgrecsys/main/docs/KGRecSys_poster_STePS_2021.png"><img src="https://i.imgur.com/PvASl0J.png" /></a>
+        <a href="https://postimg.cc/9RPrbz7y"><img src="https://i.imgur.com/PvASl0J.png" /></a>
         <p align="center">Click the image to enlarge</p>
       </td>
     </tr>
