@@ -19,8 +19,8 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
 <table>
   <thead>
     <tr>
-      <th><p align="center">Projects</p></th>
-      <th><p align="center">Posters</p></th>
+      <th><h1 align="center">Projects</h1></th>
+      <th><h1 align="center">Posters</h1></th>
     </tr>
   </thead>
   <tbody>
