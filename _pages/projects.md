@@ -100,7 +100,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
  <!-- ROW 3: Team 09 Poster-->       
       <td width="30%">
         <a href="https://drive.google.com/file/d/1Hso_rqGMXnJsRt1V9QmLUUGgbO6OcvZI/view">
-        <img src="https://postimg.cc/R6xWwwNM" /></a>
+        <img src="https://i.imgur.com/9k58lfq.png" /></a>
         <p align="center">Click the image to enlarge.</p>
       </td>
     </tr>
@@ -128,8 +128,8 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
       </td>
  <!-- ROW 4:  Team 01 Poster-->       
       <td width="30%">
-        <a href="https://postimg.cc/sQN3hscm"><img src="https://postimg.cc/sQN3hscm">
-        <img src="https://postimg.cc/XrXBWVR0" /></a>
+        <a href="https://postimg.cc/sQN3hscm">
+        <img src="https://i.imgur.com/EZwptz2.jpg" /></a>
         <p align="center">Click the image to enlarge</p>
       </td>
     </tr>
@@ -178,7 +178,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
       </td>
  <!-- ROW 6: Team 03 Poster-->       
       <td width="30%">
-        <a href="https://drive.google.com/file/d/1SoAqjjmq48rMtvpQvCt-Wne5dXmiXOkA/view"><img src="https://postimg.cc/fVFtTGsS" /></a>
+        <a href="https://drive.google.com/file/d/1SoAqjjmq48rMtvpQvCt-Wne5dXmiXOkA/view"><img src="https://i.imgur.com/m1pSi6v.png" /></a>
         <p align="center">Click the image to enlarge</p>
       </td>
     </tr>
@@ -201,7 +201,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
         [&nbsp;<a href="https://drive.google.com/file/d/1nZ40KXyccOxUJRD53c0m2VcWtBiVWkBb/view">Poster</a>&nbsp;]
  <!-- ROW 7: Team 05 Poster-->       
       <td width="30%">
-        <a href="https://drive.google.com/file/d/1nZ40KXyccOxUJRD53c0m2VcWtBiVWkBb/view"><img src="https://postimg.cc/mcHccmZX" /></a>
+        <a href="https://drive.google.com/file/d/1nZ40KXyccOxUJRD53c0m2VcWtBiVWkBb/view"><img src="https://i.imgur.com/Tw3ywe8.png" /></a>
         <p align="center">Click the image to enlarge</p>
       </td>
     </tr>
@@ -275,7 +275,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
 [&nbsp;<a href="https://raw.githubusercontent.com/evantkchong/cs6101_kgrecsys/main/docs/KGRecSys_poster_STePS_2021.png">Poster</a>&nbsp;]
  <!-- ROW 10: Team 10 Poster-->       
       <td width="30%">
-        <a href="https://raw.githubusercontent.com/evantkchong/cs6101_kgrecsys/main/docs/KGRecSys_poster_STePS_2021.png"><img src="https://postimg.cc/9RPrbz7y" /></a>
+        <a href="https://raw.githubusercontent.com/evantkchong/cs6101_kgrecsys/main/docs/KGRecSys_poster_STePS_2021.png"><img src="https://i.imgur.com/PvASl0J.png" /></a>
         <p align="center">Click the image to enlarge</p>
       </td>
     </tr>
