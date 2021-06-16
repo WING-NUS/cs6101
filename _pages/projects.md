@@ -204,6 +204,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
         </ul>
         <h2>📻 Media Links</h2>
         [&nbsp;<a href="https://drive.google.com/file/d/1nZ40KXyccOxUJRD53c0m2VcWtBiVWkBb/view">Poster</a>&nbsp;]
+      </td>
  <!-- ROW 7: Team 05 Poster-->       
       <td width="30%">
         <a href="https://drive.google.com/file/d/1nZ40KXyccOxUJRD53c0m2VcWtBiVWkBb/view"><img src="https://i.imgur.com/Tw3ywe8.png" /></a>
