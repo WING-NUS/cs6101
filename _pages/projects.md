@@ -187,5 +187,54 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
         <p align="center">Click the image to enlarge</p>
       </td>
     </tr>
+    <!-- ROW 7: Team 05-->
+    <tr id="row7">
+      <td width="70%">
+        <h1>
+         Team 05: Counterfactual Recommender
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">Relevance Matrix Factorization and Asymmetric Tri-training are employed to build a recommendation system. Its algorithm is evaluated by using Coat dataset to simulate a scenario that we have only “biased” observational data for model training while evaluating on “unbiased” data.<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">Implicit feedback is easy to collect and can be useful to build a recommendation system in online service. However, the feedback suffered from popularity bias because a user gives feedback to an item only if it is exposed. To build an unbiased recommendation system, counterfactual learning and meta learning approaches are applied to deal with such observational data.<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>Aadit Rahul Kamat, NUS Undergraduate Student [&nbsp;<a href="https://www.linkedin.com/in/aaditkamat/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>  Takanori Aoki, External Guest </li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="https://drive.google.com/file/d/1nZ40KXyccOxUJRD53c0m2VcWtBiVWkBb/view">Poster</a>&nbsp;]
+ <!-- ROW 7: Team 05 Poster-->       
+      <td width="30%">
+        <a href="https://drive.google.com/file/d/1nZ40KXyccOxUJRD53c0m2VcWtBiVWkBb/view"><img src="https://i.imgur.com/Tw3ywe8.png" /></a>
+        <p align="center">Click the image to enlarge</p>
+      </td>
+    </tr>
+      <!-- ROW 8: Team 06-->
+    <tr id="row8">
+      <td width="70%">
+        <h1>
+         Team 06: Diversifying Dialogue Generation with Non-Conversational Text
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">Implementation for the paper Diversifying Dialogue Generation with Non-Conversational Text on English.<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">Traditional neural network-based sequence-to-sequence (seq2seq) models strongly suffer from the low diversity problem when it comes to open domain dialogue generation. The authors aim to diversify the dialogue generation with non-conversational text corpus in Chinese language. We attempt to extend this work to conversational and non-conversational datasets in English Analysis on how filtering the non-conversational corpus based on topic affects the result (selected topics: Politics, Attitude & Emotion, Health).<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>Yeo Qi Xun, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/yeo-qi-xun-8975a114b/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
+          <li>Yuxi Xie, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/yuxi-xie-494265181/">LinkedIn</a>&nbsp;]</li>
+          <li>Tian Zhen, NUS Postgraduate Student </li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="https://github.com/YuxiXie/Diversifying-Dialogue-Generation-with-Non-Conversational-Text">Homepage</a>&nbsp;]
+        [&nbsp;<a href="https://www.youtube.com/watch?v=PWOr1ay1CNM">Video</a>&nbsp;]
+        [&nbsp;<a href="https://i.imgur.com/J3tzCR5.png">Poster</a>&nbsp;]
+ <!-- ROW 8: Team 06 Poster-->       
+      <td width="30%">
+        <a href="https://i.imgur.com/J3tzCR5.png"><img src="https://i.imgur.com/J3tzCR5.png" /></a>
+        <p align="center">Click the image to enlarge</p>
+      </td>
+    </tr>
   </tbody>
 </table>
