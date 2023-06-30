@@ -16,7 +16,7 @@ Prior to 2019/2020, WING ran a series of NLP- and IR-oriented MOOC re-plays from
 
 | Semester                         | Topic                                             |
 | -------------------------------- | ------------------------------------------------- |
-| AY 2020/2021 Semester II (2020)   | [Advanced General NLP Topics III](#my-anchor-2020) |
+| AY 2020/2021 Semester II (2020)   | [Conversational and Recommender Systems](#my-anchor-2020) |
 | AY 2020/2021 Semester 1 (2010)   | [Advanced General NLP Topics II](#my-anchor-2010) |
 | AY 2019/2020, Semester II (1920) | [Advanced General NLP Topics I](#my-anchor-1920)  |
 
@@ -27,21 +27,9 @@ Prior to 2019/2020, WING ran a series of NLP- and IR-oriented MOOC re-plays from
 To see the most current syllabus, click on the top **WING Reading Group (CS6101)** link.
 
 Our reading group will be conducted as a group seminar, with class participants nominating themselves and presenting the materials and leading the discussion. 
-In the Sem II of AY2020/2021, we will focus on the topics of 
+In Sem II of AY2020/2021, we focused on the topics of 
 
 **Conversational Systems**, **Recommender Systems** and **their intersections**.  
-
-There will be 7 reading sessions, which will be held from 1 pm to 3 pm on Friday biweekly. On alternate Thursdays 1-3 pm, we will have project consultation sessions. Please see the detailed schedule in the table.
-
-<a href="http://cs6101.slack.com/">A mandatory discussion group is on Slack</a>. Students and guests, please login when you are free. If you have a @comp.nus.edu.sg, @u.nus.edu, @nus.edu.sg, @a-star.edu.sg, @dsi.a-star.edu.sg or @i2r.a-star.edu.sg. email address you can create your Slack account for the group discussion without needing an invite.
-
-**For interested public participants**, please send Min an email at ```kanmy@comp.nus.edu.sg``` if you need an invite to the Slack group.  The Slack group is being reused from previous semesters.  Once you are in the Slack group, you can consider yourself registered for the group.
-
-## Schedule  {#schedule}
-
-The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
-
-**The schedule below is preliminary (last updated 4 Jan 2021)** We may make slight changes on the allocation for topics and provide alternative suggestions for papers.
 
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>
