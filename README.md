@@ -10,10 +10,16 @@ See the [about.md](https://github.com/WING-NUS/cs6101/blob/master/_pages/about.m
 Note: the coloring for the page is controlled in `_sass/_variables.scss`
 
 ```
+/* Min: https://color.adobe.com/search?q=%20Juan%20Jos%C3%A9%20P%C3%A9rez%20Restrepo */
+
 $background-color           : #594336; /* #fff */
 $code-background-color      : #8C5946; /* #fafafa */
 $code-background-color-dark : $light-gray;
 $text-color                 : $lighter-gray; /* $dark-gray; */
 $border-color               : $lighter-gray;
 $primary-color              : $light-gray; /* #7a8288; */
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #52adc8;
 ```
