@@ -47,6 +47,13 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
+/* Min 2310 - Color Theme Swatches in Hex */
+.Teal-turquoise-aqua-glitter-celebrate-birthday-Christmas-sparkle-black-background-1-hex { color: #36BFB1; }
+.Teal-turquoise-aqua-glitter-celebrate-birthday-Christmas-sparkle-black-background-2-hex { color: #038C73; }
+.Teal-turquoise-aqua-glitter-celebrate-birthday-Christmas-sparkle-black-background-3-hex { color: #02735E; }
+.Teal-turquoise-aqua-glitter-celebrate-birthday-Christmas-sparkle-black-background-4-hex { color: #014034; }
+.Teal-turquoise-aqua-glitter-celebrate-birthday-Christmas-sparkle-black-background-5-hex { color: #0D0D0D; }
+
 /* Min: https://color.adobe.com/search?q=%20Juan%20Jos%C3%A9%20P%C3%A9rez%20Restrepo */
 
 $gray                       : #7a8288;
@@ -56,9 +63,9 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #594336; /* #fff */
-$code-background-color      : #8C5946; /* #fafafa */
-$code-background-color-dark : $light-gray;
+$background-color           : #02735E; /* #594336; #fff */
+$code-background-color      : #038C73; /* #8C5946; #fafafa */
+$code-background-color-dark : $014034;
 $text-color                 : $lighter-gray; /* $dark-gray; */
 $border-color               : $lighter-gray;
 
