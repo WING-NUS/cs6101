@@ -7,8 +7,8 @@ main:
 #    url: /schedule/
 
 # was "grading"
-  - title: "Past Semesters"
-    url: /past-semesters/
+  - title: "Details"
+    url: /details/
 
 # was "projects"
   - title: "People"
@@ -17,6 +17,10 @@ main:
  # ADDNEW
   - title: "Projects"
     url: /projects/
+
+# was "grading"
+  - title: "Past Semesters"
+    url: /past-semesters/
 
 # Min: 200122 - keep for now but comment out.
 #  - title: "Portfolio"
