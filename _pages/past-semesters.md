@@ -10,7 +10,7 @@ author_profile: true
 <!-- Content Table for 2010****
 ******** -->
 
-Prior to 2019/2020, WING ran a series of NLP- and IR-oriented MOOC re-plays from other lecturers worldwide.  These courses' webpages are available on the [Links](/links/) page.
+Prior to 2019/2020, WING ran a series of NLP- and IR-oriented MOOC re-plays from other lecturers worldwide.  These courses' webpages are available on the **Links** page.
 
 ## **Table of Contents:**
 
