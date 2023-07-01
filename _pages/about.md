@@ -2,6 +2,7 @@
 permalink: /
 title: "Web, IR and NLP Public Reading Group"
 author_profile: true
+hero_image: /assets/217067/bb1ddcc2-74e0-4bc3-9b79-d554941e87cd
 redirect_from:
   - /about/
   - /about.html
