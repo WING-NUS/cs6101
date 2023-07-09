@@ -7,7 +7,7 @@ This repo builds the static `github.io` website for the main reading group.  Stu
 
 See the [about.md](https://github.com/WING-NUS/cs6101/blob/master/_pages/about.md) document for the details on the papers reviewed, staff assigned and links to external references, inclusive of the recorded sessions.
 
-Note: the coloring for the page is controlled in `_sass/_variables.scss`
+Note: the coloring for the page is controlled in `_sass/_variables.scss`, tables by `_sass/_tables.scss`
 
 ```
 /* Min: https://color.adobe.com/search?q=%20Juan%20Jos%C3%A9%20P%C3%A9rez%20Restrepo */
