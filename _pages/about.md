@@ -103,7 +103,8 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-      <strong>What are Large Language Models?</strong><br/>
+        <strong>What are Large Language Models?</strong><br/>
+      </p>
     </td>
   </tr>
   <tr>
@@ -112,7 +113,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-      <strong>Adaptation</strong><br/>
+        <strong>Adaptation</strong><br/>
       </p>
     </td>
   </tr>
@@ -121,7 +122,8 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-      <strong>Prompting</strong> and <strong>Zero-shot Inference</strong><br/>
+        <strong>Prompting</strong> and <strong>Zero-shot Inference</strong><br/>
+      </p>
     </td>
   </tr>
   <tr>
@@ -129,7 +131,8 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-      <strong>Representation Capacity</strong><br/>
+        <strong>Representation Capacity</strong><br/>
+      </p>
     </td>
   </tr>
   <tr>
@@ -137,7 +140,8 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-      <strong>Modeling</strong><br/>
+        <strong>Modeling</strong><br/>
+      </p>
     </td>
   </tr>
   <tr>
@@ -145,7 +149,8 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-      <strong>Scaling Up</strong>, <strong>Training</strong> and <strong>Parallelism</strong><br/>
+        <strong>Scaling Up</strong>, <strong>Training</strong> and <strong>Parallelism</strong><br/>
+      </p>
     </td>
   </tr>
   <tr>
@@ -153,7 +158,8 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-      <strong>Preliminary Project Reports</strong><br/>
+        <strong>Preliminary Project Reports</strong><br/>
+      </p>
     </td>
   </tr>
   <tr>
@@ -161,7 +167,8 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-      <strong>Data</strong> and <strong>Knowledge</strong><br/>
+        <strong>Data</strong> and <strong>Knowledge</strong><br/>
+      </p>
     </td>
   </tr>
   <tr>
@@ -169,7 +176,8 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-      <strong>Reasoning</strong><br/>
+        <strong>Reasoning</strong><br/>
+      </p>
     </td>
   </tr>
   <tr>
@@ -177,7 +185,8 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-      <strong>Transfer Learning</strong><br/>
+        <strong>Transfer Learning</strong><br/>
+      </p>
     </td>
   </tr>
   <tr>
@@ -185,7 +194,8 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-      <strong>Retrieval Based LLMs</strong><br/>
+        <strong>Retrieval Based LLMs</strong><br/>
+      </p>
     </td>
   </tr>
   <tr>
@@ -193,7 +203,8 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-      <strong>Multimodal LLMs</strong><br/>
+        <strong>Multimodal LLMs</strong><br/>
+      </p>
     </td>
   </tr>
   <tr>
@@ -201,7 +212,8 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-      <strong>Harms</strong><br/>
+        <strong>Harms</strong><br/>
+      </p>
     </td>
   </tr>
   <tr>
@@ -209,7 +221,8 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-      <strong>Privacy and Memorization</strong><br/>
+        <strong>Privacy and Memorization</strong><br/>
+      </p>
     </td>
   </tr>
 </tbody></table>
