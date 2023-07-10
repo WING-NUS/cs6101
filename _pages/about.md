@@ -47,10 +47,10 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     <a href="http://nus.edu.sg/registrar/docs/info/calendar/ay2020-2021.pdf">NUS Calendar (PDF)</a>
   </td>
   <td>
-   <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cw2hNnDcigc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  </p>
-  <strong>Topics on Conversational Systems I</strong>
+    <p>
+      <strong>Topics on Conversational Systems I</strong><br/>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Cw2hNnDcigc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </p>
   <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Reading List for Surveys and Research Papers</a>
   <p>
     Lecturers: Min-Yen Kan, Yisong Miao, Lin Xu, Yuxi Xie<br/>
@@ -72,31 +72,143 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </p>
   </td>
   -->
-    <td><b>NUS Week XX</b><br />Fri, 22 Jan<br />
+    <td><b>NUS Week 00</b><br />Fri, 11 Aug<br />
       <a href="http://nus.edu.sg/registrar/docs/info/calendar/ay2023-2024.pdf">NUS Calendar (PDF)</a>
     </td>
     <td>
-    <p>
-<!--  <iframe width="560" height="315" src="https://www.youtube.com/embed/Cw2hNnDcigc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
-    </p>
-    <strong>Topic</strong>
-    <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Reading List for Surveys and Research Papers</a>
-    <p>
-      Lecturers: Listing of Lecturers<br/>
-      Support Staff: Listing of Support Staff
-  </p>
-    <p>
-      [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
-      [&nbsp;<a href="http://example.com">Scribe Notes</a>&nbsp;]
-      <br/></p> 
-  <P>Descriptions:
-  <ul>
-    <li> Topic 1
-  </ul>
+      <p>
+      <strong>Introduction</strong> and <strong>Orientation</strong><br/>
+  <!--  <iframe width="560" height="315" src="https://www.youtube.com/embed/Cw2hNnDcigc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
       </p>
+        <!--
+          <p>
+            Lecturers: Listing of Lecturers<br/>
+            Support Staff: Listing of Support Staff
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            [&nbsp;<a href="http://example.com">Scribe Notes</a>&nbsp;]
+            <br/>
+          </p> 
+          <P>Descriptions:
+            <ul>
+              <li> Paper 1
+            </ul>
+          </p>
+        -->
     </td>
   </tr>
-
+  <tr>
+    <td><b>NUS Week 01</b><br />Fri, 18 Aug<br />
+    </td>
+    <td>
+      <p>
+      <strong>What are Large Language Models?</strong><br/>
+    </td>
+  </tr><tr>
+    <td><b>NUS Week 02</b><br />Fri, 25 Aug<br />
+    </td>
+    <td>
+      <p>
+      <strong>Adaptation</strong><br/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>NUS Week 03</b><br />Fri, 1 Sep<br />
+    </td>
+    <td>
+      <p>
+      <strong>Prompting</strong> and <strong>Zero-shot Inference</strong><br/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>NUS Week 04</b><br />Fri, 8 Sep<br />
+    </td>
+    <td>
+      <p>
+      <strong>Representation Capacity</strong><br/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>NUS Week 05</b><br />Fri, 15 Sep<br />
+    </td>
+    <td>
+      <p>
+      <strong>Modeling</strong><br/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>NUS Week 06</b><br />Fri, 22 Sep<br />
+    </td>
+    <td>
+      <p>
+      <strong>Scaling Up</strong>, <strong>Training</strong> and <strong>Parallelism</strong><br/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>NUS Recess Week </b><br />Fri, 29 Aug<br />
+    </td>
+    <td>
+      <p>
+      <strong>Preliminary Project Reports</strong><br/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>NUS Week 07</b><br />Fri, 6 Oct<br />
+    </td>
+    <td>
+      <p>
+      <strong>Data</strong> and <strong>Knowledge</strong><br/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>NUS Week 08</b><br />Fri, 13 Oct<br />
+    </td>
+    <td>
+      <p>
+      <strong>Reasoning</strong><br/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>NUS Week 09</b><br />Fri, 20 Oct<br />
+    </td>
+    <td>
+      <p>
+      <strong>Transfer Learning</strong><br/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>NUS Week 10</b><br />Fri, 27 Oct<br />
+    </td>
+    <td>
+      <p>
+      <strong>Retrieval Based LLMs</strong><br/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>NUS Week 11</b><br />Fri, 3 Nov<br />
+    </td>
+    <td>
+      <p>
+      <strong>Multimodal LLMs</strong><br/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>NUS Week 12</b><br />Fri, 10 Nov<br />
+    </td>
+    <td>
+      <p>
+      <strong>Harms</strong><br/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>NUS Week 13</b><br />Fri, 17 Nov<br />
+    </td>
+    <td>
+      <p>
+      <strong>Privacy and Memorization</strong><br/>
+    </td>
+  </tr>
 </tbody></table>
 
 ## Organizers {#org}
