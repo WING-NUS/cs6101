@@ -221,7 +221,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-        <strong>Privacy and Memorization</strong><br/>
+        <strong>Privacy</strong> and <strong>Memorization</strong><br/>
       </p>
     </td>
   </tr>

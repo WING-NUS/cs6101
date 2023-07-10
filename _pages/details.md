@@ -2,6 +2,7 @@
 layout: default
 title: "Details"
 permalink: /details/
+hero_image: /images/ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
 author_profile: true
 ---
 
