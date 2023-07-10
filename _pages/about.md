@@ -105,12 +105,15 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
       <p>
       <strong>What are Large Language Models?</strong><br/>
     </td>
-  </tr><tr>
-    <td><b>NUS Week 02</b><br />Fri, 25 Aug<br />
+  </tr>
+  <tr>
+    <td>
+      <b>NUS Week 02</b><br />Fri, 25 Aug<br />
     </td>
     <td>
       <p>
       <strong>Adaptation</strong><br/>
+      </p>
     </td>
   </tr>
   <tr>
