@@ -3,6 +3,9 @@ layout: archive
 title: "People"
 permalink: /people/
 author_profile: true
+header:
+  overlay_image: ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
+  overlay_filter: rgba(2, 115, 94, 0.5)
 ---
 
 Welcome. If you are an external visitor and would like to join us, please email Kan Min-Yen to be added to the class role. Guests from industry, schools and other far-reaching places in SG welcome, pending space and time logistic limitations. The more, the merrier.

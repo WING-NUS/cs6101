@@ -3,6 +3,9 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+header:
+  overlay_image: ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
+  overlay_filter: rgba(2, 115, 94, 0.5)
 ---
 
 {% include base_path %}
