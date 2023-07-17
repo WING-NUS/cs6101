@@ -29,7 +29,7 @@ Please see the detailed schedule in the table.
 
 The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
 
-**The schedule below is preliminary (last updated 4 Jan 2021)** We may make slight changes on the allocation for topics and provide alternative suggestions for papers.
+**The schedule below is preliminary (last updated 18 Jul 2023.)** We may make slight changes on the allocation for topics and provide alternative suggestions for papers.
 
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>
