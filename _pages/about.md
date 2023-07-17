@@ -3,8 +3,9 @@ permalink: /
 title: "WING NUS Large Language Models"
 author_profile: true
 header:
-  overlay_image: /images/ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
-hero_image: /images/ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
+  overlay_image: ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
+  overlay_filter: rgba(255, 0, 0, 0.5)
+  hero_image: ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
 redirect_from:
   - /about/
   - /about.html
