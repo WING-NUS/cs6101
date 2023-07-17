@@ -2,9 +2,6 @@
 permalink: /
 title: "WING.NUS Large Language Models"
 author_profile: true
-header:
-  overlay_image: ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
-  overlay_filter: rgba(89, 67, 5, 0.5)
 redirect_from:
   - /about/
   - /about.html

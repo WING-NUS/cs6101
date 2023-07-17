@@ -9,6 +9,10 @@
 locale                   : "en-US"
 title                    : "WING Reading Group (CS6101) "
 title_separator          : "-"
+header:
+header:
+  overlay_image: ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
+  overlay_filter: rgba(2, 115, 94, 0.5)
 name                     : &name "WING NUS Reading Group"
 description              : &description "Web IR / NLP Group (WING) @ NUS"
 url                      : https://wing-nus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
