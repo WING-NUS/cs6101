@@ -5,6 +5,9 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+header:
+  overlay_image: ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
+  overlay_filter: rgba(2, 115, 94, 0.5)
 ---
 For 2022 Semester 1 our CS6101 lab section will be conducted as a public course, with class participants nominating themselves and presenting the materials and leading the discussion.  In Semester I of AY2023/2024, we will focus on the topics of 
 
