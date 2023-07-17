@@ -11,7 +11,7 @@ Our reading group will be conducted as a public course, with class participants 
 
 **Large Language Models (LLMs)**.  
 
-There will be 12 reading sessions, which will be held from 3:30 pm to 5:30 pm on Fridays. On alternate Thursdays, 1:00-3:00 pm, we will have project consultation sessions. 
+There will be 12 reading sessions, which will be held from 16:00 pm to 18:00 pm on Fridays. On alternate Thursdays, 13:00-15:00 pm, we will have project consultation sessions. 
 
 * **Postgraduates**: This reading group also can count towards credit for NUS students.  For NUS SoC doctoral students, this is a section of **CS 6101 Exploration of Computer Science Research**. CS 6101 is a 4 unit pass/fail module for new incoming doctoral students to obtain background in an area with an instructor’s support. It is designed as a "lab rotation" to familiarize students with the methods and ways of research in a particular research area.  As CS6101, it is offered in Session I (Weeks 3-7) and Session II (Weeks 8-13), although it is clear that the course is logically a single course that builds on the first half. Nevertheless, the material should be introductory and should be understandable given some prior study.
 
