@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "Details"
 permalink: /details/
 hero_image: /images/ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
