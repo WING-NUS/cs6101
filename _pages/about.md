@@ -8,12 +8,13 @@ redirect_from:
 header:
   overlay_image: ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
   overlay_filter: rgba(2, 115, 94, 0.5)
+  caption: "Photo credit: Ricardo Gomez Angel @ [**Unsplash**](https://unsplash.com/@rgaleriacom)"
 ---
 WING.NUS's CS6101 lab section will be conducted as a public course, with class participants nominating themselves and presenting the materials and leading the discussion.  In Semester I of AY2023/2024, we will focus on the topics of 
 
 **Large Language Models (LLMs)**.  
 
-There will be 14 reading sessions, which will be held from 16:00 pm to 18:00 pm on Fridays. On alternate Thursdays, 13:00-15:00 pm, we will have project consultation sessions. 
+This course is based on materials from Percy Liang, Tatsunori Hashimoto and Christopher Ré's [CS324 Large Language Models](https://stanford-cs324.github.io/winter2022/) course at Stanford; Danqi Chen's [COS 597G Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) course at Princeton; and Ryan Cotterell's [Large Language Models](https://rycolab.io/classes/llm-s23/) course at ETH.  All three sets of instructors have given their explicit permission to allow us to re-use and build upon their fantastic resources.  There will be 14 reading sessions, which will be held from 16:00 pm to 18:00 pm on Fridays. On alternate Thursdays, 13:00-15:00 pm, we will have project consultation sessions. 
 
 Click on **Details** to see how to participate in the course.
 
