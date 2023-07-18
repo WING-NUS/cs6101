@@ -229,12 +229,12 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
 
 ## Organizers {#org}
 
-This version of CS6101 is jointly run by [WING@NUS](http://wing.comp.nus.edu.sg/).
+This version of CS6101 is jointly run by [WING@NUS](http://wing.comp.nus.edu.sg/) and incoming faculty [Michael Qizhe Xie](https://www.michaelxie.com/)
 
 The current organisation team includes following members (alphabetical order):
 
-[Hengchang Hu@NUS](http://holdenhu.cn/), 
-[Min-Yen Kan@NUS](https://www.comp.nus.edu.sg/~kanmy/), 
-[Xinyuan Lu@NUS](https://www.linkedin.com/in/xinyuan-lu-34762585/?originalSubdomain=sg), 
-[Yisong Miao@NUS](https://yisong.me/)
-
+[Hengchang Hu](http://holdenhu.cn/), 
+[Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/), 
+[Xinyuan Lu](https://www.linkedin.com/in/xinyuan-lu-34762585/?originalSubdomain=sg), 
+[Yisong Miao](https://yisong.me/)
+[Michael Qizhe Xie](https://www.michaelxie.com/)
