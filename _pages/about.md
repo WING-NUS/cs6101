@@ -1,25 +1,22 @@
 ---
 permalink: /
-title: "Web, IR and NLP Public Reading Group"
+title: "WING.NUS Large Language Models"
 author_profile: true
-hero_image: /images/ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
 redirect_from:
   - /about/
   - /about.html
+header:
+  overlay_image: ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
+  overlay_filter: rgba(2, 115, 94, 0.5)
+  caption: "Photo credit: Ricardo Gomez Angel @ [**Unsplash**](https://unsplash.com/@rgaleriacom)"
 ---
-Our reading group will be conducted as a public course, with class participants nominating themselves and presenting the materials and leading the discussion.  In Semester I of AY2023/2024, we will focus on the topics of 
+WING.NUS's CS6101 lab section will be conducted as a public course, with class participants nominating themselves and presenting the materials and leading the discussion.  In Semester I of AY2023/2024, we will focus on the topics of 
 
 **Large Language Models (LLMs)**.  
 
-There will be 12 reading sessions, which will be held from 3:30 pm to 5:30 pm on Fridays. On alternate Thursdays, 1:00-3:00 pm, we will have project consultation sessions. 
+This course is based on materials from Percy Liang, Tatsunori Hashimoto and Christopher Ré's [CS324 Large Language Models](https://stanford-cs324.github.io/winter2022/) course at Stanford; Danqi Chen's [COS 597G Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) course at Princeton; and Ryan Cotterell's [Large Language Models](https://rycolab.io/classes/llm-s23/) course at ETH.  All three sets of instructors have given their explicit permission to allow us to re-use and build upon their fantastic resources.  There will be 14 reading sessions, which will be held from 16:00 pm to 18:00 pm on Fridays. On alternate Thursdays, 13:00-15:00 pm, we will have project consultation sessions. 
 
-* **Postgraduates**: This reading group also can count towards credit for NUS students.  For NUS SoC doctoral students, this is a section of **CS 6101 Exploration of Computer Science Research**. CS 6101 is a 4 unit pass/fail module for new incoming doctoral students to obtain background in an area with an instructor’s support. It is designed as a "lab rotation" to familiarize students with the methods and ways of research in a particular research area.  As CS6101, it is offered in Session I (Weeks 3-7) and Session II (Weeks 8-13), although it is clear that the course is logically a single course that builds on the first half. Nevertheless, the material should be introductory and should be understandable given some prior study.
-
-* **Undergraduates**: With AI advancing rapidly and having (fairly) new foundations featuring mostly linear algebra, much of current cutting edge research as also achievable and understandable for advanced undergraduates.  For this reason, we also invite self-selected undergraduate students to formally enrol in this course for 2 or 4 units (differences to be discussed in the first intro lecture) as [Design Your Own Course](https://www.nus.edu.sg/registrar/academic-information-policies/undergraduate-students/design-your-own-course) (DYOC), Option B, hosted by the [School of Computing](http://www.comp.nus.edu.sg), [Web, IR / NLP Group (WING)](http://wing.comp.nus.edu.sg). Min does not organise the group leader for the group  application, so students taking this option will need to self-organise.
-
-* **For interested public participants**: Please send Min an email at ```kanmy@comp.nus.edu.sg``` to join the course and to secure a Slack invite. We do not offer credit or certification for completion of this course, as we view this as an unpaid service to the NLP/AI/LLM community.  External parties opting to participate are greatly encouraged to NUS physically to participate in the lecture concurrently with all of our local participants. You are also welcome to participate online through Zoom. We typically have a synchronous broadcast to Zoom that is streamed and archived to YouTube.  During the session where you’re responsible for co-lecturing, you will be expected to come to the class in person.
-
-As an external participant, you **are** obligated to complete the course to best your ability, for **all 13 weeks**. We disencourage students who are not committed to completing the course to enrol; for casual learners, we encourage you to use the source materials that will be available afterwards.
+Click on **Details** to see how to participate in the course.
 
 **Discussion Group**. <a href="http://cs6101.slack.com/">A mandatory discussion group is on Slack</a>. Students and guests, please login when you are free. If you have a @comp.nus.edu.sg, @u.nus.edu, @nus.edu.sg, @a-star.edu.sg, @dsi.a-star.edu.sg or @i2r.a-star.edu.sg. email address you can create your Slack account for the group discussion without needing an invite.
 
@@ -33,7 +30,7 @@ Please see the detailed schedule in the table.
 
 The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
 
-**The schedule below is preliminary (last updated 4 Jan 2021)** We may make slight changes on the allocation for topics and provide alternative suggestions for papers.
+**The schedule below is preliminary (last updated 18 Jul 2023.)** We may make slight changes on the allocation for topics and provide alternative suggestions for papers.
 
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>

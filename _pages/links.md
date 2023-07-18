@@ -12,6 +12,8 @@ General Texts:
 
 Previous CS6101 versions run by Min
 
+Note: other semester after 2018 are archived in this website under past semesters.  Only the older coursework prior to 2018 is listed below here.
+
 1. **Deep Reinforcement Learning** - <a href="http://www.comp.nus.edu.sg/~kanmy/courses/6101_1820/">http://www.comp.nus.edu.sg/~kanmy/courses/6101_1820</a>
 1. **Deep Learning for NLP** (reprise) - <a href="http://www.comp.nus.edu.sg/~kanmy/courses/6101_1810/">http://www.comp.nus.edu.sg/~kanmy/courses/6101_1810</a>
 1. **Deep Learning via Fast.AI** - <a href="http://www.comp.nus.edu.sg/~kanmy/courses/6101_2017_2/">http://www.comp.nus.edu.sg/~kanmy/courses/6101_2017_2/</a>
