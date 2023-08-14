@@ -21,7 +21,6 @@ Facilitator: [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy)
 
 WING and NUS Postgraduate Students:
 * [Abhinav Kashyap](https://abhinavkashyap.io/) (T2020, T2010, T1920)
-* Agarwal Vatsalya (T2310)
 * Alex Foo Da Weng (T2010)
 * Amit Prusty (T1910)
 * Anab Maulana Barik (T2010)
@@ -78,9 +77,9 @@ WING and NUS Postgraduate Students:
 * Zhu Tongyao (T2310)
 
 **WING Undergraduates and SoC Undergraduates**:
-* Agarwal Vatsalya (T2310)
 * [Winston Ho Di Wei](https://github.com/winstxnhdw) (T2310; DYOC)
 * [Aadit Rahul Kamat](https://www.linkedin.com/in/aaditkamat/?originalSubdomain=sg) (T2020; DYOM)
+* Agarwal Vatsalya (T2310)
 * [Alson Jiang](www.linkedin.com/in/alson-jiang) (T2310; DYOC)
 * Ang Ming Liang (T2010, T1910)
 * [Ang Yi Zhe](https://sg.linkedin.com/in/ang-yizhe) (T1910; DYOM)
