@@ -127,6 +127,7 @@ WING and NUS Postgraduate Students:
 * Laiba Mehnaz (T2010)
 * Lee Xin Jie (T1910)
 * Lee Xiong An (T2020)
+* Liew Wei Pyn (T2310)
 * Liling Tan (T1910)
 * Ling Ran, Kevin (T1910)
 * Low Sio Meng (T1920)
