@@ -86,6 +86,7 @@ WING and NUS Postgraduate Students:
 * Calvin Tantio (T1920)
 * [Cara Leong](https://craa.co/) (T1920)
 * [Clarence Ong](https://www.linkedin.com/in/clarenceong97/?originalSubdomain=sg) (T2020; DYOM)
+* [Conrad Soon](https://conradsoon.me) (T2310; DYOC)
 * Daniel Pyone Maung (T1910)
 * [Devamanyu Hazarika](https://devamanyu.com/) (T2010)
 * Eloise Lim (T1910; DYOM)
