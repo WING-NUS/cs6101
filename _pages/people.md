@@ -92,6 +92,7 @@ WING and NUS Postgraduate Students:
 * [Li Xueqi](https://www.linkedin.com/in/xueqi-li/?originalSubdomain=sg) (T1910; DYOM)
 * Liu Zhaoyu (T2010)
 * Loye Hean Yong, Gabriel (T2020; DYOM)
+* [Low Keng Hoong, Warren](https://github.com/DESU-CLUB/cs6101.git) (T2310;DYOM)
 * Luong Quoc Trung (T2010)
 * [Muhammad Assyarul Ariffin Bin Omar](https://www.linkedin.com/in/muhd-assyarul-ariffin-bin-omar/?originalSubdomain=sg) (T2020; DYOM)
 * [New Jun Jie](https://www.jetnew.io/) (T1910; DYOM)
