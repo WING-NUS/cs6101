@@ -76,6 +76,7 @@ WING and NUS Postgraduate Students:
 * Zheng Jiaqi (T2010)
 
 **WING Undergraduates and SoC Undergraduates**:
+* Agarwal Vatsalya (T2310)
 * [Winston Ho Di Wei](https://github.com/winstxnhdw) (T2310; DYOC)
 * [Aadit Rahul Kamat](https://www.linkedin.com/in/aaditkamat/?originalSubdomain=sg) (T2020; DYOM)
 * Ang Ming Liang (T2010, T1910)
