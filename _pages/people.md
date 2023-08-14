@@ -108,6 +108,7 @@ WING and NUS Postgraduate Students:
 * Shao Yang (T1910; DYOM)
 * [Shi Tian](https://www.linkedin.com/in/shi-tian/?originalSubdomain=sg) (T1920)
 * Shreyas Kutanoor Prakash (T2020, T2010)
+* [Suveen Ellawela](https://www.linkedin.com/in/suveen-ellawela/) (T2310; DYOC)
 * [Tan Hin Khai, Stephen](https://www.linkedin.com/in/stephen-tan-hin-khai/?originalSubdomain=sg) (T2020; DYOM)
 * [Terence Neo](https://www.linkedin.com/in/terencenyy/?originalSubdomain=sg) (T1910; DYOM)
 * [Tongyao Zhu](https://sg.linkedin.com/in/tongyao-zhu) (T2020, T2010)
