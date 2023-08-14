@@ -151,6 +151,7 @@ WING and NUS Postgraduate Students:
 * Sashankh Chengavalli Kumar (T2020)
 * Shambhavi (T2010)
 * Shen Ting Ang (T1920)
+* [Sherman Chann Zhi Shen](https://github.com/152334H) (T2310)
 * Shuang Gao (T2010)
 * Si Chenglei (T1910,T2010)
 * Sunil Kumar Yadav (T2010, T1910)
