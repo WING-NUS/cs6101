@@ -78,6 +78,7 @@ WING and NUS Postgraduate Students:
 * Zhu Tongyao (T2310)
 
 **WING Undergraduates and SoC Undergraduates**:
+* Agarwal Vatsalya (T2310)
 * [Winston Ho Di Wei](https://github.com/winstxnhdw) (T2310; DYOC)
 * [Aadit Rahul Kamat](https://www.linkedin.com/in/aaditkamat/?originalSubdomain=sg) (T2020; DYOM)
 * [Alson Jiang](www.linkedin.com/in/alson-jiang) (T2310; DYOC)
