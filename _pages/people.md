@@ -79,6 +79,7 @@ WING and NUS Postgraduate Students:
 **WING Undergraduates and SoC Undergraduates**:
 * [Winston Ho Di Wei](https://github.com/winstxnhdw) (T2310; DYOC)
 * [Aadit Rahul Kamat](https://www.linkedin.com/in/aaditkamat/?originalSubdomain=sg) (T2020; DYOM)
+* [Alson Jiang](www.linkedin.com/in/alson-jiang) (T2310; DYOC)
 * Ang Ming Liang (T2010, T1910)
 * [Ang Yi Zhe](https://sg.linkedin.com/in/ang-yizhe) (T1910; DYOM)
 * [Axel Lau Wei En](https://www.linkedin.com/in/axel-lau/?originalSubdomain=sg) (T2020; DYOM)
