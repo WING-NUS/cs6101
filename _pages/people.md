@@ -112,6 +112,7 @@ WING and NUS Postgraduate Students:
 * [Terence Neo](https://www.linkedin.com/in/terencenyy/?originalSubdomain=sg) (T1910; DYOM)
 * [Tongyao Zhu](https://sg.linkedin.com/in/tongyao-zhu) (T2020, T2010)
 * Yap Jia Qing (T2010)
+* [Yu Jiaxiang](https://litone01.github.io) (T2310)
 * [Zijin Kong](https://www.linkedin.com/in/zijin-kong-108b48160/?originalSubdomain=sg) (T2020, T2010)
 * [Zhang Tianyang](https://www.linkedin.com/in/zhang-tianyang/?originalSubdomain=sg) (T2020, T2010)
 
