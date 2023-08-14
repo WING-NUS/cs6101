@@ -74,6 +74,7 @@ WING and NUS Postgraduate Students:
 * Zhang Yifan (T2010)
 * Zhao Zirui (T2010)
 * Zheng Jiaqi (T2010)
+* Zhu Tongyao (T2310)
 
 **WING Undergraduates and SoC Undergraduates**:
 * [Winston Ho Di Wei](https://github.com/winstxnhdw) (T2310; DYOC)
