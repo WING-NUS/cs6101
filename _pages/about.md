@@ -41,23 +41,22 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 <tr>
 <!--
   <td><b>NUS Week XX</b><br />Fri, 22 Jan<br />
-    <a href="http://nus.edu.sg/registrar/docs/info/calendar/ay2020-2021.pdf">NUS Calendar (PDF)</a>
   </td>
   <td>
     <p>
-      <strong>Topics on Conversational Systems I</strong><br/>
+      <strong>Topic</strong><br/>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/Cw2hNnDcigc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </p>
   <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Reading List for Surveys and Research Papers</a>
   <p>
-    Lecturers: Min-Yen Kan, Yisong Miao, Lin Xu, Yuxi Xie<br/>
-    Support Staff: whole class
+    Lecturers: Lecturers<br/>
+    Support Staff: Support
 </p>
   <p>
-    [&nbsp;<a href="https://docs.google.com/presentation/d/1e1JLxKbK6aGY0G5CirkLtqMhShApl-Pz4shw4YAT_TU/edit">Lecture Slides</a>&nbsp;]
-    [&nbsp;<a href="https://docs.google.com/document/d/1hGuSyHxZEXO4SK64_TIeIZPPlFoGUe-2_0lh9WUPo34/edit">Scribe Notes</a>&nbsp;]
+    [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00">Lecture Slides</a>&nbsp;]
+    [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]
     <br/></p> 
-<P>Descriptions:
+<P>Description:
 <ul>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=0s">00:00</a>&nbsp;] Start - CS6101 / DYC1401 administration, presented by Min-Yen Kan </li>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=2160s">36:00</a>&nbsp;] Overview of Dialogue Systems, presented by Yisong Miao </li>
@@ -75,24 +74,16 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
       <strong>Introduction</strong> and <strong>Orientation</strong><br/>
-  <!--  <iframe width="560" height="315" src="https://www.youtube.com/embed/Cw2hNnDcigc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/seEv0xrt56c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
       </p>
-        <!--
           <p>
-            Lecturers: Listing of Lecturers<br/>
-            Support Staff: Listing of Support Staff
+            Lecturers: Kan Min Yen, Michael Xie Qizhe<br/>
           </p>
           <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
-            [&nbsp;<a href="http://example.com">Scribe Notes</a>&nbsp;]
+            [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  --> 
             <br/>
           </p> 
-          <P>Descriptions:
-            <ul>
-              <li> Paper 1
-            </ul>
-          </p>
-        -->
     </td>
   </tr>
   <tr>
