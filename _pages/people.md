@@ -47,6 +47,7 @@ WING and NUS Postgraduate Students:
 * [Liu Ruofan](https://www.linkedin.com/in/ruofanliu/?originalSubdomain=sg)(T2020)
 * [Liu Yong](https://www.linkedin.com/in/yong-liu-b1037513/?originalSubdomain=sg) (T2020)
 * [Lu Xinyuan](https://github.com/XinyuanLu00) (T2020, T2010)
+* [Nicholas Wong](https://nic-wong.carrd.co/) (T2310)
 * [Qiao Rui](https://www.linkedin.com/in/rui-qiao/?originalSubdomain=sg) (T2020)
 * Ren Hansheng (T2010)
 * [Samson Tan](https://samsontmr.github.io/) (T2020, T2010, T1920)
