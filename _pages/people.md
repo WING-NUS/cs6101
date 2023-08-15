@@ -139,6 +139,7 @@ WING and NUS Postgraduate Students:
 * Ling Ran, Kevin (T1910)
 * Low Sio Meng (T1920)
 * Martin Kodyš (T1910)
+* [Markus Zhang](https://twitter.com/photon_mz) (T2310)
 * Mun Kar Kin (T1920)
 * Ng Wen Xian (T1910)
 * Pardha Viswanadha (T1910) 
