@@ -153,7 +153,7 @@ WING and NUS Postgraduate Students:
 * Saravanan Rajamanickam (T1920)
 * Sashankh Chengavalli Kumar (T2020)
 * Shambhavi (T2010)
-* Shen Ting Ang (T1920)
+* [Shen Ting Ang](https://linktr.ee/shenting) (T2310, T1920, T1910)
 * [Sherman Chann Zhi Shen](https://github.com/152334H) (T2310)
 * Shuang Gao (T2010)
 * Si Chenglei (T1910,T2010)
