@@ -164,6 +164,7 @@ WING and NUS Postgraduate Students:
 * Tram Anh Nguyen (T1910)
 * Vu Duc Nam (T1920)
 * Wendi Ren (T2020)
+* [William WJ Teo](https://www.william-teo.com) (T2310)
 * Wong Cheng Heng (T1910)
 * Xu Pengtai (T2020)
 * Yap Jia Qing (T1920)

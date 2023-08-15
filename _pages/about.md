@@ -142,7 +142,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
   </tr>
   <tr>
-    <td><b>NUS Recess Week </b><br />Fri, 29 Aug<br />
+    <td><b>NUS Recess Week </b><br />Fri, 29 Sep<br />
     </td>
     <td>
       <p>
