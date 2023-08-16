@@ -107,6 +107,7 @@ WING and NUS Postgraduate Students:
 * [Nguyen Van Hoang](https://ngnvnhng.github.io/) (T1920)
 * [Nham Quoc Hung](https://www.linkedin.com/in/quoc-hung-nham/?originalSubdomain=sg) (T2020; DYOM)
 * [Ran Yiding](https://sg.linkedin.com/in/ran-yiding) (T2020, T2010)
+* [Reuben Thomas](https://github.com/reuben-thomas) (T2310; DYOC)
 * [Richmond Sin Jing Xuan](https://www.linkedin.com/in/richmondsin) (T2310, DYOM)
 * [Sashankh Kumar](https://www.linkedin.com/in/sashankh-kumar/?originalSubdomain=sg) (T1920)
 * Shao Yang (T1910; DYOM)
