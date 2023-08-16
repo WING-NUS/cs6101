@@ -210,6 +210,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
         <strong>Privacy</strong> and <strong>Memorization</strong><br/>
+        <strong>N.B. 23rd STePS is on Wed, 15 Nov</strong>
       </p>
     </td>
   </tr>
