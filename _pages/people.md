@@ -158,6 +158,7 @@ WING and NUS Postgraduate Students:
 * Shambhavi (T2010)
 * [Shen Ting Ang](https://linktr.ee/shenting) (T2310, T1920, T1910)
 * [Sherman Chann Zhi Shen](https://github.com/152334H) (T2310)
+* [Shivshankar Umashankar](https://www.linkedin.com/in/shivshankarumashankar) (T2310, T1710)
 * Shuang Gao (T2010)
 * Si Chenglei (T1910,T2010)
 * Sunil Kumar Yadav (T2010, T1910)
