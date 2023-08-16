@@ -97,6 +97,7 @@ WING and NUS Postgraduate Students:
 * [Joel Tan Wan Rong](https://www.linkedin.com/in/joeltanwr/?originalSubdomain=sg) (T2020; DYOM)
 * [Li Xinze](https://github.com/lixinze777) (T2020, T2010)
 * [Li Xueqi](https://www.linkedin.com/in/xueqi-li/?originalSubdomain=sg) (T1910; DYOM)
+* [Liew Zhao Wei](https://github.com/zwliew/) (T2310; DYOC)
 * Liu Zhaoyu (T2010)
 * Loye Hean Yong, Gabriel (T2020; DYOM)
 * [Low Keng Hoong, Warren](https://github.com/DESU-CLUB/cs6101.git) (T2310;DYOM)
