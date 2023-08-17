@@ -129,6 +129,7 @@ WING and NUS Postgraduate Students:
 * Ang Shen Ting (T1910)
 * Bhavitvya Malik (T2010)
 * Chan Guan Hao (T2020)
+* [Cheong Wei Soon](https://www.linkedin.com/in/weisooncheong/?originalSubdomain=sg) (T2310)
 * Christopher Hendra (T1920)
 * David Yam (T1910)
 * Evan Chong (T2020)
