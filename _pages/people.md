@@ -76,6 +76,7 @@ WING and NUS Postgraduate Students:
 * Zhao Zirui (T2010)
 * Zheng Jiaqi (T2010)
 * Zhu Tongyao (T2310)
+* [Zhang Ze Yu](https://www.linkedin.com/in/ze-yu-z-b9033918a/) (T2310)
 
 **WING Undergraduates and SoC Undergraduates**:
 * [Tan Khay Liang](https://github.com/khayliang) (T2310; DYOC)
