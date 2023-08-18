@@ -33,6 +33,7 @@ WING and NUS Postgraduate Students:
 * Feng Yue (T2010)
 * Fengbin Zhu (T1910)
 * Fiona Tan (T2010)
+* [Hannah Brown](https://hannah-aught.github.io/) (T2310)
 * [Henry Kasim](https://www.linkedin.com/in/henrykasim/?originalSubdomain=sg)(T2020)
 * Hiray Shruti Shivram (T2010)
 * [Hu Hengchang](http://holdenhu.cn) (T2020, T2010, T1920, T1910)
