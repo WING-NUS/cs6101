@@ -150,6 +150,7 @@ WING and NUS Postgraduate Students:
 * [Markus Zhang](https://twitter.com/photon_mz) (T2310)
 * Mun Kar Kin (T1920)
 * Ng Wen Xian (T1910)
+* Nicholas Chen (T2310)
 * Pardha Viswanadha (T1910) 
 * Qingpeng Cai (T1910)
 * Rabiul Awal (T2020, T2010)
