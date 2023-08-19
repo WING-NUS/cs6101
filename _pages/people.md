@@ -80,13 +80,13 @@ WING and NUS Postgraduate Students:
 * [Zhang Ze Yu](https://www.linkedin.com/in/ze-yu-z-b9033918a/) (T2310)
 
 **WING Undergraduates and SoC Undergraduates**:
-* [Tan Khay Liang](https://github.com/khayliang) (T2310; DYOC)
-* [Winston Ho Di Wei](https://github.com/winstxnhdw) (T2310; DYOC)
+
 * [Aadit Rahul Kamat](https://www.linkedin.com/in/aaditkamat/?originalSubdomain=sg) (T2020; DYOM)
 * Agarwal Vatsalya (T2310)
 * [Alson Jiang](www.linkedin.com/in/alson-jiang) (T2310; DYOC)
 * Ang Ming Liang (T2010, T1910)
 * [Ang Yi Zhe](https://sg.linkedin.com/in/ang-yizhe) (T1910; DYOM)
+* [Arnav Aggarwal](https://www.linkedin.com/in/arnav-ag/) (T2310; DYOC)
 * [Axel Lau Wei En](https://www.linkedin.com/in/axel-lau/?originalSubdomain=sg) (T2020; DYOM)
 * Calvin Tantio (T1920)
 * [Cara Leong](https://craa.co/) (T1920)
@@ -118,8 +118,10 @@ WING and NUS Postgraduate Students:
 * Shreyas Kutanoor Prakash (T2020, T2010)
 * [Suveen Ellawela](https://www.linkedin.com/in/suveen-ellawela/) (T2310; DYOC)
 * [Tan Hin Khai, Stephen](https://www.linkedin.com/in/stephen-tan-hin-khai/?originalSubdomain=sg) (T2020; DYOM)
+* [Tan Khay Liang](https://github.com/khayliang) (T2310; DYOC)
 * [Terence Neo](https://www.linkedin.com/in/terencenyy/?originalSubdomain=sg) (T1910; DYOM)
 * [Tongyao Zhu](https://sg.linkedin.com/in/tongyao-zhu) (T2020, T2010)
+* [Winston Ho Di Wei](https://github.com/winstxnhdw) (T2310; DYOC)
 * Yap Jia Qing (T2010)
 * [Yu Jiaxiang](https://litone01.github.io) (T2310)
 * [Zijin Kong](https://www.linkedin.com/in/zijin-kong-108b48160/?originalSubdomain=sg) (T2020, T2010)
