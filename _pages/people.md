@@ -80,7 +80,6 @@ WING and NUS Postgraduate Students:
 * [Zhang Ze Yu](https://www.linkedin.com/in/ze-yu-z-b9033918a/) (T2310)
 
 **WING Undergraduates and SoC Undergraduates**:
-
 * [Aadit Rahul Kamat](https://www.linkedin.com/in/aaditkamat/?originalSubdomain=sg) (T2020; DYOM)
 * Agarwal Vatsalya (T2310)
 * [Alson Jiang](www.linkedin.com/in/alson-jiang) (T2310; DYOC)
