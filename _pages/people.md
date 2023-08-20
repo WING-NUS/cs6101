@@ -64,6 +64,7 @@ WING and NUS Postgraduate Students:
 * Wu Jiaying (T2010)
 * Wu Zhaomin (T1910)
 * [Xiachong Feng](http://xcfeng.net/) (T2010)
+* [Xiao Xu](https://looperxx.github.io/) (T2310)
 * [Xu Ding](https://sean-dingxu.github.io/) (T2010)
 * Xu Lin (T2020, T2010)
 * Xu Yiqing (T2010)
