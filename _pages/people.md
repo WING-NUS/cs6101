@@ -169,7 +169,7 @@ WING and NUS Postgraduate Students:
 * [Shivshankar Umashankar](https://www.linkedin.com/in/shivshankarumashankar) (T2310, T1710)
 * Shuang Gao (T2010)
 * Si Chenglei (T1910,T2010)
-* Sunil Kumar Yadav (T2010, T1910)
+* [Sunil Kumar Yadav](https://sukuya.github.io/) (T2010, T1910, T2310)
 * Takanori Aoki (T2020, T1920, T1910)
 * Taru Jain (T2010)
 * Tram Anh Nguyen (T1910)
