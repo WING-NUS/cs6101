@@ -97,6 +97,7 @@ WING and NUS Postgraduate Students:
 * [Devamanyu Hazarika](https://devamanyu.com/) (T2010)
 * Eloise Lim (T1910; DYOM)
 * Eugene Lim (T1910; DYOM)
+* [Filbert Phang Kong San](https://filbertphang.github.io) (T2310; DYOC)
 * [Joel Tan Wan Rong](https://www.linkedin.com/in/joeltanwr/?originalSubdomain=sg) (T2020; DYOM)
 * [Li Xinze](https://github.com/lixinze777) (T2020, T2010)
 * [Li Xueqi](https://www.linkedin.com/in/xueqi-li/?originalSubdomain=sg) (T1910; DYOM)
