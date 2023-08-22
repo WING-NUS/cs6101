@@ -154,6 +154,7 @@ WING and NUS Postgraduate Students:
 * Martin Kodyš (T1910)
 * [Markus Zhang](https://twitter.com/photon_mz) (T2310)
 * Mun Kar Kin (T1920)
+* [Ng Hui Ling](https://nghuiling.github.io) (T2310)
 * Ng Wen Xian (T1910)
 * Nicholas Chen (T2310)
 * Pardha Viswanadha (T1910) 
