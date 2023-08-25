@@ -77,7 +77,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <iframe width="560" height="315" src="https://www.youtube.com/embed/seEv0xrt56c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
       </p>
           <p>
-            Lecturers: Kan Min Yen, Michael Xie Qizhe<br/>
+            Lecturers: Kan Min Yen, Michael Qizhe Xie<br/>
           </p>
           <p>
             [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00">Lecture Slides</a>&nbsp;]
@@ -92,7 +92,17 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
         <strong>What are Large Language Models?</strong><br/>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Rln-YeMVfXs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+      Video intentionally truncated as lecturer's request.
       </p>
+          <p>
+            Lecturers: Michael Qizhe Xie<br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://bit.ly/cs6101-t2310-w01">Lecture Slides</a>&nbsp;]
+            [&nbsp;<a href="http://bit.ly/cs6101-t2310-w01-scribe">Scribe Notes</a>&nbsp;] 
+            <br/>
+          </p> 
     </td>
   </tr>
   <tr>
@@ -106,7 +116,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
   </tr>
   <tr>
-    <td><b>NUS Week 03</b><br />Fri, 1 Sep<br />
+    <td><b>NUS Week 03</b><br /><>Tue, 5 Sep (special timing due to Polling Day)<br />
     </td>
     <td>
       <p>
