@@ -116,7 +116,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
   </tr>
   <tr>
-    <td><b>NUS Week 03</b><br /><>Tue, 5 Sep (special timing due to Polling Day)<br />
+    <td><b>NUS Week 03</b><br />Tue, 5 Sep (special timing due to Polling Day)<br />
     </td>
     <td>
       <p>
