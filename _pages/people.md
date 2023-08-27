@@ -17,7 +17,9 @@ Participants: You need to edit this page with a pull request.  You can do this w
 
 **Web IR / NLP Group**:
 
-Facilitator: [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy)
+Facilitators: 
+* [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy)
+* [Michael Qizhe Xie](http://www.michaelxie.com/) (T2310)
 
 WING and NUS Postgraduate Students:
 * [Abhinav Kashyap](https://abhinavkashyap.io/) (T2020, T2010, T1920)
