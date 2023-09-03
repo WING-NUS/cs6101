@@ -112,6 +112,21 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
         <strong>Adaptation</strong><br/>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/SD1zRmmK_QY?si=uRMetGmZ4pxD4cgS" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </p>
+      <p>
+        <p>
+        Lecturers: Hengchang Hu, Shen Ting Ang, Xiao Xu, Yanxia Qin, Yajing Yang<br/>
+        </p>
+      <p>
+        Supporters: Arnav Aggarwal, Warren Low Keng Hoong, Lawrence Wong, Nicholas Wong<br/>
+        </p>
+        <p>
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w02">Lecture Slides</a>&nbsp;]
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w02-scribe">Scribe Notes</a>&nbsp;]
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w02-summary">Summary</a>&nbsp;]
+        <br/>
+        </p>
       </p>
     </td>
   </tr>
@@ -225,6 +240,9 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
   </tr>
 </tbody></table>
+
+
+
 
 ## Organizers {#org}
 
