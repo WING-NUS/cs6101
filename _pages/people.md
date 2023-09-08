@@ -160,7 +160,7 @@ WING and NUS Postgraduate Students:
 * Ng Wen Xian (T1910)
 * Nicholas Chen (T2310)
 * Pardha Viswanadha (T1910)
-* [Ponganti Disha] (https://www.linkedin.com/in/dishaponganti) (T2310)
+* [Ponganti Disha](https://www.linkedin.com/in/dishaponganti)(T2310)
 * Qingpeng Cai (T1910)
 * Rabiul Awal (T2020, T2010)
 * Rishav Chourasia (T1910)
