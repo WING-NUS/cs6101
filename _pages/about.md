@@ -136,7 +136,20 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
         <strong>Prompting</strong> and <strong>Zero-shot Inference</strong><br/>
+        <iframe width="560" height="315" src="https://www.youtube.com/live/MHERkAFzjvE?si=r_G_6zgrJ8jAlr4E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
+      <p>
+        <p>
+        Lecturers: Esther, Victor Li, Richmond Sin, Suveen Ellawela, Lawrence Wong, Warren Low Keng Hoong<br/>
+        </p>
+      <p>
+        Supporters: Alson Jiang, Tongyao Zhu, Qijiong Liu, Yajing Yang, Yixi Ding<br/>
+        </p>
+        <p>
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w03">Lecture Slides</a>&nbsp;]
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w03-scribe">Scribe Notes</a>&nbsp;]
+        <br/>
+        </p>
     </td>
   </tr>
   <tr>
