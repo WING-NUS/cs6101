@@ -71,6 +71,7 @@ WING and NUS Postgraduate Students:
 * Xu Lin (T2020, T2010)
 * Xu Yiqing (T2010)
 * [Yang Yajing](https://www.linkedin.com/in/yajing-yang-737629140/?originalSubdomain=sg) (T2010)
+* [Yanxia Qin](https://www.linkedin.com/in/yanxia-qin-3766016a/?originalSubdomain=sg) (T2310)
 * [Yap Kim Thow](https://www.linkedin.com/in/kimthowyap/?originalSubdomain=sg) (T2310)
 * Ye Hai (T2020)
 * [Yeo Qi Xun](https://www.linkedin.com/in/yeo-qi-xun-8975a114b/?originalSubdomain=sg) (T2020)
