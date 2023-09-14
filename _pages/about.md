@@ -157,6 +157,18 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
         <strong>Representation Capacity</strong><br/>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dji6xQdvVuQ?si=4EIJsPqw8D4jjXjD&amp;start=20" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </p>
+      <p>
+        Lecturers: Wee Yen Zhe, Wong Jin Jye, Yisong Miao, Liew Wei Pyn, Yap Kim Thow<br/>
+      </p>
+      <p>
+        Supporters: Bhavitvya Malik, Disha Ponganti, Gan Kah Ee, Naomi Leow, Tan Khay Liang, Yanxia Qin<br/>
+      </p>
+      <p>
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w04">Lecture Slides</a>&nbsp;]
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w04-scribe">Scribe Notes</a>&nbsp;]
+        <br/>
       </p>
     </td>
   </tr>
