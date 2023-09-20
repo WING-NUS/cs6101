@@ -178,6 +178,18 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
         <strong>Modeling</strong><br/>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/UjkOjGBuXsY?si=L2id1Pq-AHFCt0Dy;start=20" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </p>
+      <p>
+        Lecturers: Bhavitvya Malik, Yisong Miao, Yan Zehong, Markus Zhang, Agarwal Vatsalya<br/>
+      </p>
+      <p>
+        Supporters: Yanxia Qin, Cecilia Soh, Shen Ting Ang, Winston Ho<br/>
+      </p>
+      <p>
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w05">Lecture Slides</a>&nbsp;]
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w05-scribe">Scribe Notes</a>&nbsp;]
+        <br/>
       </p>
     </td>
   </tr>
