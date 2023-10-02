@@ -10,11 +10,11 @@ header:
   overlay_filter: rgba(2, 115, 94, 0.5)
   caption: "Photo credit: Ricardo Gomez Angel @ [**Unsplash**](https://unsplash.com/@rgaleriacom)"
 ---
-WING.NUS's CS6101 lab section will be conducted as a public course, with class participants nominating themselves and presenting the materials and leading the discussion.  In Semester I of AY2023/2024, we will focus on the topics of 
+WING.NUS's CS6101 lab section will be conducted as a public course, with class participants nominating themselves and presenting the materials and leading the discussion.  In Semester I of AY2023/2024, we will focus on the topics of
 
-**Large Language Models (LLMs)**.  
+**Large Language Models (LLMs)**.
 
-This course is based on materials from Percy Liang, Tatsunori Hashimoto and Christopher Ré's [CS324 Large Language Models](https://stanford-cs324.github.io/winter2022/) course at Stanford; Danqi Chen's [COS 597G Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) course at Princeton; and Ryan Cotterell's [Large Language Models](https://rycolab.io/classes/llm-s23/) course at ETH.  All three sets of instructors have given their explicit permission to allow us to re-use and build upon their fantastic resources.  There will be 14 reading sessions, which will be held from 16:00 pm to 18:00 pm on Fridays. On alternate Thursdays, 13:00-15:00 pm, we will have project consultation sessions. 
+This course is based on materials from Percy Liang, Tatsunori Hashimoto and Christopher Ré's [CS324 Large Language Models](https://stanford-cs324.github.io/winter2022/) course at Stanford; Danqi Chen's [COS 597G Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) course at Princeton; and Ryan Cotterell's [Large Language Models](https://rycolab.io/classes/llm-s23/) course at ETH.  All three sets of instructors have given their explicit permission to allow us to re-use and build upon their fantastic resources.  There will be 14 reading sessions, which will be held from 16:00 pm to 18:00 pm on Fridays. On alternate Thursdays, 13:00-15:00 pm, we will have project consultation sessions.
 
 Click on **Details** to see how to participate in the course.
 
@@ -35,7 +35,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>
 <tbody>
-<!-- Support Staff ********************************** 
+<!-- Support Staff **********************************
   Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
  ************************************************** -->
 <tr>
@@ -55,7 +55,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <p>
     [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00">Lecture Slides</a>&nbsp;]
     [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]
-    <br/></p> 
+    <br/></p>
 <P>Description:
 <ul>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=0s">00:00</a>&nbsp;] Start - CS6101 / DYC1401 administration, presented by Min-Yen Kan </li>
@@ -63,7 +63,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=2711s">45:11</a>&nbsp;] Qin et al. (2020) "DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act
 Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.cn/~car/papers/AAAI2020-Qin-dcrnet.pdf">PDF</a>&nbsp;] In AAAI'2020, presented by Min-Yen Kan </li>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=5205s">1:26:45</a>&nbsp;] Rishabh Joshi, Vidhisha Balachandran, Shikhar Vashishth, Alan Black, Yulia Tsvetkov. "DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues" [&nbsp;<a href = "https://openreview.net/pdf?id=kDnal_bbb-E">PDF@OpenReview</a>&nbsp;], Accepted@ICLR '21, presented by Lin Xu </li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=7680s">2:08:00</a>&nbsp;] Li et al. (2020) "Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training". [&nbsp;<a href = " https://www.aclweb.org/anthology/2020.acl-main.428/">PDF</a>&nbsp;] In ACL'2020, presented by Yuxi Xie </li> 
+  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=7680s">2:08:00</a>&nbsp;] Li et al. (2020) "Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training". [&nbsp;<a href = " https://www.aclweb.org/anthology/2020.acl-main.428/">PDF</a>&nbsp;] In ACL'2020, presented by Yuxi Xie </li>
  </ul>
     </p>
   </td>
@@ -74,16 +74,16 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
       <strong>Introduction</strong> and <strong>Orientation</strong><br/>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/seEv0xrt56c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/seEv0xrt56c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
             Lecturers: Kan Min Yen, Michael Qizhe Xie<br/>
           </p>
           <p>
             [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00">Lecture Slides</a>&nbsp;]
-            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  --> 
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
             <br/>
-          </p> 
+          </p>
     </td>
   </tr>
   <tr>
@@ -92,7 +92,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
         <strong>What are Large Language Models?</strong><br/>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Rln-YeMVfXs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Rln-YeMVfXs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       Video intentionally truncated as lecturer's request.
       </p>
           <p>
@@ -100,9 +100,9 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
           </p>
           <p>
             [&nbsp;<a href="http://bit.ly/cs6101-t2310-w01">Lecture Slides</a>&nbsp;]
-            [&nbsp;<a href="http://bit.ly/cs6101-t2310-w01-scribe">Scribe Notes</a>&nbsp;] 
+            [&nbsp;<a href="http://bit.ly/cs6101-t2310-w01-scribe">Scribe Notes</a>&nbsp;]
             <br/>
-          </p> 
+          </p>
     </td>
   </tr>
   <tr>
@@ -199,6 +199,18 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
         <strong>Scaling Up</strong>, <strong>Training</strong> and <strong>Parallelism</strong><br/>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/aYVP59cr7kw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </p>
+      <p>
+        Lecturers: Arnav Aggarwal, Conrad Soon, Disha Ponganti, William Teo, Filbert Phang<br/>
+      </p>
+      <p>
+        Supporters: Yisong Miao, Hannah Brown, Jiaxiang Yu, Xiao Xu<br/>
+      </p>
+      <p>
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w06">Lecture Slides</a>&nbsp;]
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w06-scribe">Scribe Notes</a>&nbsp;]
+        <br/>
       </p>
     </td>
   </tr>
@@ -286,8 +298,8 @@ This version of CS6101 is jointly run by [WING@NUS](http://wing.comp.nus.edu.sg/
 
 The current organisation team includes following members (alphabetical order):
 
-[Hengchang Hu](https://holdenhu.github.io), 
-[Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/), 
-[Xinyuan Lu](https://www.linkedin.com/in/xinyuan-lu-34762585/?originalSubdomain=sg), 
+[Hengchang Hu](https://holdenhu.github.io),
+[Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/),
+[Xinyuan Lu](https://www.linkedin.com/in/xinyuan-lu-34762585/?originalSubdomain=sg),
 [Yisong Miao](https://yisong.me/)
 [Michael Qizhe Xie](https://www.michaelxie.com/)
