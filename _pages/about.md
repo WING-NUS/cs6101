@@ -229,7 +229,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
     <td>
       <p>
-        <strong>Data & Knowledge</strong><br/>
+        <strong>Data</strong> and <strong>Knowledge</strong><br/>
         <iframe width="560" height="315" src="https://www.youtube.com/watch?v=YgAkbbxNY1o&list=PLzIZxnJJT7ORSBnYrXJMYBVnYeLryJtl7&index=8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
       <p>
