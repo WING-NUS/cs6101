@@ -224,13 +224,28 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     </td>
   </tr>
   <tr>
-    <td><b>NUS Week 07</b><br />Fri, 6 Oct<br />
+    <td>
+      <b>NUS Week 07</b><br />Fri, 6 Oct<br />
     </td>
     <td>
       <p>
         <strong>Data</strong> and <strong>Knowledge</strong><br/>
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=YgAkbbxNY1o&list=PLzIZxnJJT7ORSBnYrXJMYBVnYeLryJtl7&index=8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </p>
+      <p>
+        Lecturers: Hannah Brown, Nic Wong, Yixi Ding, Yuxi Xie, Liangtao Lin, Khay Liang<br/>
+      </p>
+      <p>
+        Supporters: Victor Li, Liew Wei Pyn, Nicholas Chen, Guanzhen Li, Keyou Li, Zehong Yan<br/>
+      </p>
+      <p>
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w07">Lecture Slides</a>&nbsp;]
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w07-scribe">Scribe Notes</a>&nbsp;]
+        <br/>
+      </p>
       </p>
     </td>
+    
   </tr>
   <tr>
     <td><b>NUS Week 08</b><br />Fri, 13 Oct<br />
