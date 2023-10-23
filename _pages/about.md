@@ -261,6 +261,18 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
         <strong>Transfer Learning</strong><br/>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/LxkGrMRs_nA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </p>
+      <p>
+        Lecturers: Lawrence Wong, Yanxia Qin, Victor Li, Wei Soon Cheong<br/>
+      </p>
+      <p>
+        Supporters: Warren Low Keng Hoong, William Teo, Tan Yan Liong, Filbert Phang<br/>
+      </p>
+      <p>
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w09">Lecture Slides</a>&nbsp;]
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w09-scribe">Scribe Notes</a>&nbsp;]
+        <br/>
       </p>
     </td>
   </tr>
