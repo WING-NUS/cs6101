@@ -282,7 +282,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
         <strong>Retrieval Based LLMs</strong><br/>
-        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Wt3Sey_HFLU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Wt3Sey_HFLU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
       <p>
         Lecturers: Alson Jiang, Qijiong, Tongyao Zhu, Hu Hengchang, Winston Ho, and Jiaxiang Yu<br/>
