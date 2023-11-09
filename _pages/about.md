@@ -291,6 +291,18 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
         <strong>Multimodal LLMs</strong><br/>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/b_ybjjy8AUQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </p>
+     <p>
+        Lecturers: Do Xuan Long, Tan Yan Liong, Guanzhen Li, Deng Yuhong, Low Keng Hoong Warren, Tongyao Zhu, Zenghao Chai<br/>
+      </p>
+      <p>
+        Supporters: Yuxi Xie, Victor Li, Yixi Ding, Hengchang Hu, Ellawela Suveen Thinusha Bandara, Sherman Chann, Li Minzhi<br/>
+      </p>
+      <p>
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w11">Lecture Slides</a>&nbsp;]
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w11-scribe">Scribe Notes</a>&nbsp;]
+        <br/>
       </p>
     </td>
   </tr>
