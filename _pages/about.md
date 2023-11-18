@@ -324,6 +324,18 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
         <strong>Harms</strong><br/>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/JYY45-0te_U?si=oqgT-22M91ui0CGa" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </p>
+      <p>
+        Lecturers: Minzhi Li, Xinyuan Lu, Ibrahim Taha Aksu, Richmond Sin, Shivshankar Umashankar, Yuxi Xie, Cecilia Soh, Li Keyou, Tan Yi Ting<br/>
+      </p>
+      <p>
+        Supporters: Ng Hui Ling, Tiviatis Sim, Reuben Thomas, Guanzhen Li, Hannah Brown<br/>
+      </p>
+      <p>
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w12">Lecture Slides</a>&nbsp;]
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w12-scribe">Scribe Notes</a>&nbsp;]
+        <br/>
       </p>
     </td>
   </tr>
