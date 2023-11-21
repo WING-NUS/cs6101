@@ -345,6 +345,19 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
     <td>
       <p>
         <strong>Privacy</strong> and <strong>Memorization</strong><br/>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/pu2XQZ5j-Gg?si=kYxmbY7IeBKhwNFG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </p>
+      <p>
+        Lecturers: Li Minzhi, Zhang Ze Yu, Hannah Brown, Yixi Ding, Ng Hui Ling<br/>
+      </p>
+      <p>
+        Supporters: Xinyuan Lu, Shivshankar Umashankar, Tan Yi Ting, Taha Aksu<br/>
+      </p>
+      <p>
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w13">Lecture Slides</a>&nbsp;]
+        [&nbsp;<a href="http://bit.ly/cs6101-t2310-w13-scribe">Scribe Notes</a>&nbsp;]
+        <br/>
+      </p>
         <strong>N.B. 23rd STePS is on Wed, 15 Nov</strong>
       </p>
     </td>
