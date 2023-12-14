@@ -357,7 +357,6 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
         [&nbsp;<a href="http://bit.ly/cs6101-t2310-w13">Lecture Slides</a>&nbsp;]
         [&nbsp;<a href="http://bit.ly/cs6101-t2310-w13-scribe">Scribe Notes</a>&nbsp;]
         <br/>
-      </p>
         <strong>N.B. 23rd STePS is on Wed, 15 Nov</strong>
       </p>
     </td>
@@ -369,7 +368,7 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
 
 ## Organizers {#org}
 
-This version of CS6101 is jointly run by [WING@NUS](http://wing.comp.nus.edu.sg/) and incoming faculty [Michael Qizhe Xie](https://www.michaelxie.com/)
+This version of CS6101 is jointly run by [WING@NUS](http://wing.comp.nus.edu.sg/) and incoming faculty [Michael Shieh](https://www.michaelxie.com/)
 
 The current organisation team includes following members (alphabetical order):
 
@@ -377,4 +376,4 @@ The current organisation team includes following members (alphabetical order):
 [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/),
 [Xinyuan Lu](https://www.linkedin.com/in/xinyuan-lu-34762585/?originalSubdomain=sg),
 [Yisong Miao](https://yisong.me/)
-[Michael Qizhe Xie](https://www.michaelxie.com/)
+[Michael Shieh](https://www.michaelxie.com/)
