@@ -375,5 +375,5 @@ The current organisation team includes following members (alphabetical order):
 [Hengchang Hu](https://holdenhu.github.io),
 [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/),
 [Xinyuan Lu](https://www.linkedin.com/in/xinyuan-lu-34762585/?originalSubdomain=sg),
-[Yisong Miao](https://yisong.me/)
+[Yisong Miao](https://yisong.me/),
 [Michael Shieh](https://www.michaelxie.com/)
