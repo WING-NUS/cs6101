@@ -57,6 +57,26 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
           </p>
     </td>
   </tr>
+
+<tr>
+    <td><b>NUS Week 01</b><br />Thur, 14th Aug<br />
+    </td>
+    <td>
+      <p>
+      <strong>Week 1's topic</strong><br/>
+      Video link. 
+      </p>
+          <p>
+            Lecturers: <br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            <br/>
+          </p>
+    </td>
+  </tr>
+
 </tbody></table>
 
 
