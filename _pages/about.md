@@ -39,35 +39,6 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
  ************************************************** -->
 <tr>
-<!--
-  <td><b>NUS Week XX</b><br />Fri, 22 Jan<br />
-  </td>
-  <td>
-    <p>
-      <strong>Topic</strong><br/>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/Cw2hNnDcigc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </p>
-  <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Reading List for Surveys and Research Papers</a>
-  <p>
-    Lecturers: Lecturers<br/>
-    Support Staff: Support
-</p>
-  <p>
-    [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00">Lecture Slides</a>&nbsp;]
-    [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]
-    <br/></p>
-<P>Description:
-<ul>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=0s">00:00</a>&nbsp;] Start - CS6101 / DYC1401 administration, presented by Min-Yen Kan </li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=2160s">36:00</a>&nbsp;] Overview of Dialogue Systems, presented by Yisong Miao </li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=2711s">45:11</a>&nbsp;] Qin et al. (2020) "DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act
-Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.cn/~car/papers/AAAI2020-Qin-dcrnet.pdf">PDF</a>&nbsp;] In AAAI'2020, presented by Min-Yen Kan </li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=5205s">1:26:45</a>&nbsp;] Rishabh Joshi, Vidhisha Balachandran, Shikhar Vashishth, Alan Black, Yulia Tsvetkov. "DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues" [&nbsp;<a href = "https://openreview.net/pdf?id=kDnal_bbb-E">PDF@OpenReview</a>&nbsp;], Accepted@ICLR '21, presented by Lin Xu </li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=7680s">2:08:00</a>&nbsp;] Li et al. (2020) "Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training". [&nbsp;<a href = " https://www.aclweb.org/anthology/2020.acl-main.428/">PDF</a>&nbsp;] In ACL'2020, presented by Yuxi Xie </li>
- </ul>
-    </p>
-  </td>
-  -->
     <td><b>NUS Week 00</b><br />Fri, 11 Aug<br />
       <a href="http://nus.edu.sg/registrar/docs/info/calendar/ay2023-2024.pdf">NUS Calendar (PDF)</a>
     </td>
