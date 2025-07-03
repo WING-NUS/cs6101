@@ -30,7 +30,7 @@ Please see the detailed schedule in the table.
 
 The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
 
-**The schedule below is preliminary (last updated 3rd July 2023.)** We may make slight changes on the allocation for topics and provide alternative suggestions for papers.
+**The schedule below is preliminary (last updated 3rd July 2025.)** We may make slight changes on the allocation for topics and provide alternative suggestions for papers.
 
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>
@@ -64,6 +64,234 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     <td>
       <p>
       <strong>Week 1's topic</strong><br/>
+      Video link. 
+      </p>
+          <p>
+            Lecturers: <br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            <br/>
+          </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>NUS Week 02</b><br />Thur, 21st Aug<br />
+    </td>
+    <td>
+      <p>
+      <strong>Week 2's topic</strong><br/>
+      Video link. 
+      </p>
+          <p>
+            Lecturers: <br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            <br/>
+          </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>NUS Week 03</b><br />Thur, 28th Aug<br />
+    </td>
+    <td>
+      <p>
+      <strong>Week 3's topic</strong><br/>
+      Video link. 
+      </p>
+          <p>
+            Lecturers: <br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            <br/>
+          </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>NUS Week 04</b><br />Thur, 4th Sept<br />
+    </td>
+    <td>
+      <p>
+      <strong>Week 4's topic</strong><br/>
+      Video link. 
+      </p>
+          <p>
+            Lecturers: <br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            <br/>
+          </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>NUS Week 05</b><br />Thur, 11th Sept<br />
+    </td>
+    <td>
+      <p>
+      <strong>Week 5's topic</strong><br/>
+      Video link. 
+      </p>
+          <p>
+            Lecturers: <br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            <br/>
+          </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>NUS Week 06</b><br />Thur, 18th Sept<br />
+    </td>
+    <td>
+      <p>
+      <strong>Week 6's topic</strong><br/>
+      Video link. 
+      </p>
+          <p>
+            Lecturers: <br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            <br/>
+          </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>NUS Week 07</b><br />Thur, 2nd Oct<br />
+    </td>
+    <td>
+      <p>
+      <strong>Week 7's topic</strong><br/>
+      Video link. 
+      </p>
+          <p>
+            Lecturers: <br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            <br/>
+          </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>NUS Week 08</b><br />Thur, 9th Oct<br />
+    </td>
+    <td>
+      <p>
+      <strong>Week 8's topic</strong><br/>
+      Video link. 
+      </p>
+          <p>
+            Lecturers: <br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            <br/>
+          </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>NUS Week 09</b><br />Thur, 16th Oct<br />
+    </td>
+    <td>
+      <p>
+      <strong>Week 9's topic</strong><br/>
+      Video link. 
+      </p>
+          <p>
+            Lecturers: <br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            <br/>
+          </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>NUS Week 10</b><br />Thur, 23rd Oct<br />
+    </td>
+    <td>
+      <p>
+      <strong>Week 10's topic</strong><br/>
+      Video link. 
+      </p>
+          <p>
+            Lecturers: <br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            <br/>
+          </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>NUS Week 11</b><br />Thur, 30rd Oct<br />
+    </td>
+    <td>
+      <p>
+      <strong>Week 11's topic</strong><br/>
+      Video link. 
+      </p>
+          <p>
+            Lecturers: <br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            <br/>
+          </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>NUS Week 12</b><br />Thur, 6th Nov<br />
+    </td>
+    <td>
+      <p>
+      <strong>Week 12's topic</strong><br/>
+      Video link. 
+      </p>
+          <p>
+            Lecturers: <br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            <br/>
+          </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>NUS Week 13</b><br />Thur, 13th Nov<br />
+    </td>
+    <td>
+      <p>
+      <strong>Week 13's topic</strong><br/>
       Video link. 
       </p>
           <p>
