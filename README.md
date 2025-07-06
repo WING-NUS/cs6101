@@ -10,18 +10,24 @@ See the [about.md](https://github.com/WING-NUS/cs6101/blob/master/_pages/about.m
 Note: the coloring for the page is controlled in `_sass/_variables.scss`, tables by `_sass/_tables.scss`
 
 ```
-/* Min: https://color.adobe.com/search?q=%20Juan%20Jos%C3%A9%20P%C3%A9rez%20Restrepo */
+/* Min: https://color.adobe.com/search?q=Vaporwave&t=term , although this does not anchor the theme*/
 
-$background-color           : #594336; 
+#F27405
+#F2B077
+#F25C05
+#F24405
+#261813
+
+$background-color           : #261813; 
 $code-background-color      : #8C5946; 
 $code-background-color-dark : $light-gray;
 $text-color                 : $lighter-gray; 
 $border-color               : $lighter-gray;
 $primary-color              : $light-gray; 
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$success-color              : #F27405;
+$warning-color              : #F2B077;
+$danger-color               : #F24405;
+$info-color                 : #F25C05;
 ```
 
 ### For AY 2023/2024 Semester I (T2310) - Large Language Models
