@@ -8,8 +8,8 @@ redirect_from:
 header:
   overlay_image: 
   overlay_image: paul-buffington-Lwe2hbm5XKk-unsplash.jpg
-  overlay_filter: rgba(2, 115, 94, 0.5)
   caption: "Photo credit: Paul Buffington @ [**Unsplash**](https://unsplash.com/@photobuffs)"
+#  overlay_filter: rgba(2, 115, 94, 0.5)
 ---
 WING.NUS's CS6101 lab section will be conducted as a public course, with class participants nominating themselves and presenting the materials and leading the discussion.  In Semester I of AY2025/2026, we will focus on the topics of
 
@@ -29,7 +29,7 @@ Please see the detailed schedule in the table.
 
 ## Schedule  {#schedule}
 
-The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
+The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
 
 **The schedule below is preliminary (last updated 3rd July 2025.)** We may make slight changes on the allocation for topics and provide alternative suggestions for papers.
 
@@ -40,7 +40,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
  ************************************************** -->
 <tr>
-    <td><b>NUS Week 00</b><br />Thur, 7th Aug<br />
+    <td><b>NUS Week 00</b><br />Thu, 7 Aug<br />
       <a href="http://nus.edu.sg/registrar/docs/info/calendar/ay2025-2026.pdf">NUS Calendar (PDF)</a>
     </td>
     <td>
@@ -60,7 +60,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
 <tr>
-    <td><b>NUS Week 01</b><br />Thur, 14th Aug<br />
+    <td><b>NUS Week 01</b><br />Thu, 14 Aug<br />
     </td>
     <td>
       <p>
@@ -79,7 +79,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-    <td><b>NUS Week 02</b><br />Thur, 21st Aug<br />
+    <td><b>NUS Week 02</b><br />Thu, 21 Aug<br />
     </td>
     <td>
       <p>
@@ -98,7 +98,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-    <td><b>NUS Week 03</b><br />Thur, 28th Aug<br />
+    <td><b>NUS Week 03</b><br />Thu, 28 Aug<br />
     </td>
     <td>
       <p>
@@ -117,7 +117,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-    <td><b>NUS Week 04</b><br />Thur, 4th Sept<br />
+    <td><b>NUS Week 04</b><br />Thu, 4 Sep<br />
     </td>
     <td>
       <p>
@@ -136,7 +136,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-    <td><b>NUS Week 05</b><br />Thur, 11th Sept<br />
+    <td><b>NUS Week 05</b><br />Thu, 11 Sep<br />
     </td>
     <td>
       <p>
@@ -155,7 +155,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-    <td><b>NUS Week 06</b><br />Thur, 18th Sept<br />
+    <td><b>NUS Week 06</b><br />Thu, 18 Sep<br />
     </td>
     <td>
       <p>
@@ -174,7 +174,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-    <td><b>NUS Week 07</b><br />Thur, 2nd Oct<br />
+    <td><b>NUS Week 07</b><br />Thu, 2 Oct<br />
     </td>
     <td>
       <p>
@@ -193,7 +193,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-    <td><b>NUS Week 08</b><br />Thur, 9th Oct<br />
+    <td><b>NUS Week 08</b><br />Thu, 9 Oct<br />
     </td>
     <td>
       <p>
@@ -212,7 +212,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-    <td><b>NUS Week 09</b><br />Thur, 16th Oct<br />
+    <td><b>NUS Week 09</b><br />Thu, 16 Oct<br />
     </td>
     <td>
       <p>
@@ -231,7 +231,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-    <td><b>NUS Week 10</b><br />Thur, 23rd Oct<br />
+    <td><b>NUS Week 10</b><br />Thu, 23 Oct<br />
     </td>
     <td>
       <p>
@@ -250,7 +250,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-    <td><b>NUS Week 11</b><br />Thur, 30rd Oct<br />
+    <td><b>NUS Week 11</b><br />Thu, 30 Oct<br />
     </td>
     <td>
       <p>
@@ -269,7 +269,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-    <td><b>NUS Week 12</b><br />Thur, 6th Nov<br />
+    <td><b>NUS Week 12</b><br />Thu, 6 Nov<br />
     </td>
     <td>
       <p>
@@ -288,7 +288,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-    <td><b>NUS Week 13</b><br />Thur, 13th Nov<br />
+    <td><b>NUS Week 13</b><br />Thu, 13 Nov<br />
     </td>
     <td>
       <p>
