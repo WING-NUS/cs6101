@@ -11,9 +11,9 @@ header:
   caption: "Photo credit: Paul Buffington @ [**Unsplash**](https://unsplash.com/@photobuffs)"
 #  overlay_filter: rgba(2, 115, 94, 0.5)
 ---
-WING.NUS's CS6101 lab section will be conducted as a public course, with class participants nominating themselves and presenting the materials and leading the discussion.  In Semester I of AY2025/2026, we will focus on the topics of
+WING.NUS's CS6101 lab section will be conducted as a public course, with class participants nominating themselves and presenting the materials and leading the discussion.  In Semester I of AY2025/2026, we will examine
 
-**Retrieval Augmented Generation (RAG)**.
+## Retrieval Augmented Generation (RAG)
 
 <!-- This course is based on materials from Percy Liang, Tatsunori Hashimoto and Christopher Ré's [CS324 Large Language Models](https://stanford-cs324.github.io/winter2022/) course at Stanford; Danqi Chen's [COS 597G Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) course at Princeton; and Ryan Cotterell's [Large Language Models](https://rycolab.io/classes/llm-s23/) course at ETH.  All three sets of instructors have given their explicit permission to allow us to re-use and build upon their fantastic resources.  There will be 14 reading sessions, which will be held from 16:00 pm to 18:00 pm on Fridays. On alternate Thursdays, 13:00-15:00 pm, we will have project consultation sessions. -->
 
@@ -31,7 +31,7 @@ Please see the detailed schedule in the table.
 
 The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
 
-**The schedule below is preliminary (last updated 3rd July 2025.)** We may make slight changes on the allocation for topics and provide alternative suggestions for papers.
+**The schedule below is preliminary (last updated 3 Jul 2025.)** We may make slight changes on the allocation for topics and provide alternative suggestions for papers.
 
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>
@@ -39,6 +39,9 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 <!-- Support Staff **********************************
   Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
  ************************************************** -->
+<tr>
+  <th colspan=2><b>Introduction</b></th>
+</tr>
 <tr>
     <td><b>NUS Week 00</b><br />Thu, 7 Aug<br />
       <a href="http://nus.edu.sg/registrar/docs/info/calendar/ay2025-2026.pdf">NUS Calendar (PDF)</a>
@@ -97,6 +100,9 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
   </tr>
 
+<tr>
+  <th colspan=2><b>Core RAG</b></th>
+</tr>
   <tr>
     <td><b>NUS Week 03</b><br />Thu, 28 Aug<br />
     </td>
@@ -191,6 +197,10 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
           </p>
     </td>
   </tr>
+
+<tr>
+  <th colspan=2><b>Advanced RAG</b></th>
+</tr>
 
   <tr>
     <td><b>NUS Week 08</b><br />Thu, 9 Oct<br />
