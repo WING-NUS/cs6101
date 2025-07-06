@@ -14,7 +14,7 @@ description              : &description "Web IR / NLP Group (WING) @ NUS"
 url                      : https://wing-nus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/cs6101" # the subpath of your site, e.g. "/blog"
 repository               : "wing-nus/cs6101.github.io"
-teaser                   : "images/ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "images/paul-buffington-Lwe2hbm5XKk-unsplash.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false

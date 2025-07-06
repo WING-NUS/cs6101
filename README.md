@@ -30,6 +30,15 @@ $danger-color               : #F24405;
 $info-color                 : #F25C05;
 ```
 
+Using new hero image in `_config.yml` 
+```
+teaser                   : "images/paul-buffington-Lwe2hbm5XKk-unsplash.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+```
+
+Photo by <a href="https://unsplash.com/@photobuffs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Paul Buffington</a> on <a href="https://unsplash.com/photos/brown-dog-walk-on-seashore-Lwe2hbm5XKk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+
+
 ### For AY 2023/2024 Semester I (T2310) - Large Language Models
 
 This repo builds the static `github.io` website for the main reading group.  Students assigned to the _support_ role are expected to edit the `about.md` file in the `_pages` subdirectory to update both this github.com page and the corresponding github.io pages site.
