@@ -268,11 +268,11 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-    <td><b>Graph RAG</b><br />Thu, 30 Oct<br />
+    <td><b>NUS Week 11</b><br />Thu, 30 Oct<br />
     </td>
     <td>
       <p>
-      <strong>Week 11's topic</strong><br/>
+      <strong>Graph RAG</strong><br/>
       Video link. 
       </p>
           <p>
