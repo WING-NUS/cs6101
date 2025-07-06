@@ -48,7 +48,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
     <td>
       <p>
-      <strong>Introduction</strong> and <strong>Orientation</strong><br/>
+      <strong>Logistics and Course Format</strong><br/>
       Video link. 
       </p>
           <p>
@@ -67,26 +67,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
     <td>
       <p>
-      <strong>Week 1's topic</strong><br/>
-      Video link. 
-      </p>
-          <p>
-            Lecturers: <br/>
-          </p>
-          <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
-            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
-            <br/>
-          </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>NUS Week 02</b><br />Thu, 21 Aug<br />
-    </td>
-    <td>
-      <p>
-      <strong>Week 2's topic</strong><br/>
+      <strong>RAG Overview</strong><br/>
       Video link. 
       </p>
           <p>
@@ -101,14 +82,33 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
 <tr>
-  <th colspan=2><b>Core RAG</b></th>
+  <th colspan=2><b>LLM Generation</b></th>
 </tr>
+  <tr>
+    <td><b>NUS Week 02</b><br />Thu, 21 Aug<br />
+    </td>
+    <td>
+      <p>
+      <strong>Foundations of Large Language Models</strong><br/>
+      Video link. 
+      </p>
+          <p>
+            Lecturers: <br/>
+          </p>
+          <p>
+            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            <br/>
+          </p>
+    </td>
+  </tr>
+
   <tr>
     <td><b>NUS Week 03</b><br />Thu, 28 Aug<br />
     </td>
     <td>
       <p>
-      <strong>Week 3's topic</strong><br/>
+      <strong>LLM Prompting</strong><br/>
       Video link. 
       </p>
           <p>
@@ -127,7 +127,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
     <td>
       <p>
-      <strong>Week 4's topic</strong><br/>
+      <strong>Vector Stores</strong><br/>
       Video link. 
       </p>
           <p>
@@ -146,7 +146,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
     <td>
       <p>
-      <strong>Week 5's topic</strong><br/>
+      <strong>Training: Fine Tuning, In Context Learning and Model Scaling</strong><br/>
       Video link. 
       </p>
           <p>
@@ -160,12 +160,15 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
   </tr>
 
+<tr>
+  <th colspan=2><b>Retrieval and Augmentation</b></th>
+</tr>
   <tr>
     <td><b>NUS Week 06</b><br />Thu, 18 Sep<br />
     </td>
     <td>
       <p>
-      <strong>Week 6's topic</strong><br/>
+      <strong>Retrieval and Re-ranking Models</strong><br/>
       Video link. 
       </p>
           <p>
@@ -184,7 +187,9 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
     <td>
       <p>
-      <strong>Week 7's topic</strong><br/>
+      <strong>RAG Models</strong><br/>
+      i.e., REALM, FID.  
+
       Video link. 
       </p>
           <p>
@@ -207,7 +212,9 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
     <td>
       <p>
-      <strong>Week 8's topic</strong><br/>
+      <strong>Document Representation</strong><br/>
+      What to Retrieve.  Chunking.
+
       Video link. 
       </p>
           <p>
@@ -226,7 +233,9 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
     <td>
       <p>
-      <strong>Week 9's topic</strong><br/>
+      <strong>Bootstrapping and Iterative Retrieval</strong><br/>
+      Relevance Feedback / Rocchio.
+
       Video link. 
       </p>
           <p>
@@ -245,7 +254,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
     <td>
       <p>
-      <strong>Week 10's topic</strong><br/>
+      <strong>Multimodal RAG</strong><br/>
       Video link. 
       </p>
           <p>
@@ -260,7 +269,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   </tr>
 
   <tr>
-    <td><b>NUS Week 11</b><br />Thu, 30 Oct<br />
+    <td><b>Graph RAG</b><br />Thu, 30 Oct<br />
     </td>
     <td>
       <p>
@@ -283,7 +292,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
     <td>
       <p>
-      <strong>Week 12's topic</strong><br/>
+      <strong>Source Credability Assessment</strong><br/>
       Video link. 
       </p>
           <p>
@@ -302,7 +311,9 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
     <td>
       <p>
-      <strong>Week 13's topic</strong><br/>
+      <strong>RAG Efficiency</strong><br/>
+      Speculative RAG.  Long Context Problems (Lost in the Middle).
+
       Video link. 
       </p>
           <p>
@@ -323,12 +334,10 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
 
 ## Organizers {#org}
 
-This version of CS6101 is jointly run by [WING@NUS](http://wing.comp.nus.edu.sg/) and incoming faculty [Michael Shieh](https://www.michaelxie.com/)
+This version of CS6101 is jointly run by [WING@NUS](http://wing.comp.nus.edu.sg/) and sabbatical visitor [Haitao Yu](https://ii-research-yu.github.io/) (University of Tsukuba)
 
 The current organisation team includes following members (alphabetical order):
 
-[Hengchang Hu](https://holdenhu.github.io),
 [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/),
-[Xinyuan Lu](https://www.linkedin.com/in/xinyuan-lu-34762585/?originalSubdomain=sg),
-[Yisong Miao](https://yisong.me/),
-[Michael Shieh](https://www.michaelxie.com/)
+[Yisong Miao](https://yisong.me/), and 
+[Haitao Yu](https://ii-research-yu.github.io/)
