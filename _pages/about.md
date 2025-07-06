@@ -203,10 +203,6 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
   </tr>
 
-<tr>
-  <th colspan=2><b>Advanced RAG</b></th>
-</tr>
-
   <tr>
     <td><b>NUS Week 08</b><br />Thu, 9 Oct<br />
     </td>
@@ -249,6 +245,9 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
   </tr>
 
+<tr>
+  <th colspan=2><b>Advanced RAG</b></th>
+</tr>
   <tr>
     <td><b>NUS Week 10</b><br />Thu, 23 Oct<br />
     </td>
