@@ -6,9 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
+  overlay_image: 
+  overlay_image: paul-buffington-Lwe2hbm5XKk-unsplash.jpg
   overlay_filter: rgba(2, 115, 94, 0.5)
-  caption: "Photo credit: Ricardo Gomez Angel @ [**Unsplash**](https://unsplash.com/@rgaleriacom)"
+  caption: "Photo credit: Paul Buffington @ [**Unsplash**](https://unsplash.com/@photobuffs)"
 ---
 WING.NUS's CS6101 lab section will be conducted as a public course, with class participants nominating themselves and presenting the materials and leading the discussion.  In Semester I of AY2025/2026, we will focus on the topics of
 
