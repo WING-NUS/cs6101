@@ -23,7 +23,8 @@ thead {
 th {
   padding: 0.5em;
   font-weight: bold;
-  text-align: left;
+  text-align: center;
+  background-color: $success-color; 
   border-right: 1px solid $light-gray;
 }
 
