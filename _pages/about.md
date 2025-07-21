@@ -25,7 +25,7 @@ If you need an invite to the Slack group.  The Slack group is being reused from 
 
 It is not a lecture-oriented course and not as in-depth as the original sources we are drawing from.  Hence, our course is not a replacement, but rather a class to spur local interest in the topics of information retrieval and retrieval augmented generation.
 
-<span style="color: red">[NEW] As of 21 Jul 2025, the physical class will take place at Seminar Room 31 (COM4 #03-01), at the School of Computing.</span>
+<span style="color: red">[NEW] As of 21  Jul 2025, the physical class will take place at Seminar Room 31 (COM4 #03-01), at the School of Computing.</span>
 
 Please see the detailed schedule in the table.
 
