@@ -293,7 +293,7 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
     <td>
       <p>
-      <strong>Source Credability Assessment</strong><br/>
+      <strong>Source Credibility Assessment</strong><br/>
       Video link. 
       </p>
           <p>
