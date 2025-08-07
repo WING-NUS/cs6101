@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WING Reading Group (CS6101) "
+title                    : "WING Reading Group (CS6101): Retrieval Augmented Generation (RAG)"
 title_separator          : "-"
 name                     : &name "WING NUS Reading Group"
 description              : &description "Web IR / NLP Group (WING) @ NUS"
