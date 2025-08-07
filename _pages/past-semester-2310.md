@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Large Language Models (AY 2023/2024, Semester I (2023))"
+permalink: /past-semester-2310/
+author_profile: true
+---
+
 ## AY 2023/2024, Semester I (2023) {#my-anchor-2023}
 Our reading group was conducted as a group seminar, with class participants nominating themselves and presenting the materials and leading the discussion. 
 In Sem II of AY2023/2024, we focused on the topics of **Large Language Models**.

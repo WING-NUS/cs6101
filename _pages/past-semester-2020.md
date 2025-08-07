@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Conversational and Recommender Systems (AY 2020/2021, Semester II (2020))"
+permalink: /past-semester-2020/
+author_profile: true
+---
+
 ## AY 2020/2021, Semester II (2020) {#my-anchor-2020}
 
 To see the most current syllabus, click on the top **WING Reading Group (CS6101)** link.

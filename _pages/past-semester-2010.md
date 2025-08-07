@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Advanced General NLP Topics II (AY 2020/2021, Semester I (2010))"
+permalink: /past-semester-2010/
+author_profile: true
+---
+
 ## AY 2020/2021, Semester I (2010) {#my-anchor-2010}
 
 Our reading group was conducted as a group seminar, with class participants nominating themselves and presenting the materials and leading the discussion. 
