@@ -16,7 +16,7 @@ Prior to 2019/2020, WING ran a series of NLP- and IR-oriented MOOC re-plays from
 
 | Semester                         | Topic                                             |
 | -------------------------------- | ------------------------------------------------- |
-| AY 2023/2024 Semester I (2023)   | [Large Language Models](/cs6101/past-semester-2310) |
-| AY 2020/2021 Semester II (2020)   | [Conversational and Recommender Systems](/cs6101/past-semester-2020) |
-| AY 2020/2021 Semester 1 (2010)   | [Advanced General NLP Topics II](/cs6101/past-semester-2010) |
-| AY 2019/2020, Semester II (1920) | [Advanced General NLP Topics I](/cs6101/past-semester-1920)  |
+| AY 2023/2024 Semester I (2023)   | [Large Language Models](past-semester-2310) |
+| AY 2020/2021 Semester II (2020)   | [Conversational and Recommender Systems](past-semester-2020) |
+| AY 2020/2021 Semester 1 (2010)   | [Advanced General NLP Topics II](past-semester-2010) |
+| AY 2019/2020, Semester II (1920) | [Advanced General NLP Topics I](past-semester-1920)  |
