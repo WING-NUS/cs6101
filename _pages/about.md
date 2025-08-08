@@ -50,14 +50,14 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     </td>
     <td>
       <p>
-      <strong>Logistics and Course Format</strong><br/>
-      Video link. 
+      <strong>Introduction and Orientation</strong><br/>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/sshRKwol1B0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
-            Lecturers: <br/>
+            Lecturers: Min [ <a href="http://www.comp.nus.edu.sg/~kanmy/">Website</a> ] <br/>
           </p>
           <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w00">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
             <br/>
           </p>
