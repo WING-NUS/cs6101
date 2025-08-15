@@ -55,6 +55,9 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
       </p>
           <p>
             Lecturers: Min [ <a href="http://www.comp.nus.edu.sg/~kanmy/">Website</a> ] <br/>
+
+            Note: the RAG introduction part starts at 1h07m; the first part is on course logistics.
+
           </p>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w00">Lecture Slides</a>&nbsp;]
@@ -70,13 +73,15 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
     <td>
       <p>
       <strong>RAG Overview</strong><br/>
-      Video link. 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/eRm1HQnG_tc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
-            Lecturers: <br/>
+            Lecturers: Min [ <a href="http://www.comp.nus.edu.sg/~kanmy/">Website</a> ] Haitao [<a href="https://ii-research-yu.github.io/">Website</a> ]<br/>
+
+            Note: the RAG introduction part starts at 1h07m; the first part is on course logistics.
           </p>
           <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w01">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
             <br/>
           </p>
