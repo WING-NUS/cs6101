@@ -79,6 +79,13 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
             Lecturers: Min [ <a href="http://www.comp.nus.edu.sg/~kanmy/">Website</a> ] Haitao [<a href="https://ii-research-yu.github.io/">Website</a> ]<br/>
 
             Note: Lecture starts at 24m19s.
+
+            <ul>
+              <li>Section 1: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=24m19s">Definition & Preliminaries (Min)</a></li>
+              <li>Section 2: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=38m59s">Retrieval Orchestration (Haitao)</a></li>
+              <li>Section 3: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=1h55m00s">Optimization (Min)</a></li>
+            </ul>
+
           </p>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w01">Lecture Slides</a>&nbsp;]
