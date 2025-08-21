@@ -81,9 +81,10 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
             Note: Lecture starts at 24m19s.
 
             <ul>
-              <li>Section 1: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?t=1459s">Definition & Preliminaries (Min)</a></li>
-              <li>Section 2: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?t=2339s">Retrieval Orchestration (Haitao)</a></li>
-              <li>Section 3: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?t=6900s">Optimization (Min)</a></li>
+              <li>Section 1: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=1459">Definition & Preliminaries (Min)</a></li>
+              <li>Section 2: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=2339">Retrieval Orchestration (Haitao)</a></li>
+              <li>Section 3: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=6900">Optimization (Min)</a></li>
+
             </ul>
 
           </p>
