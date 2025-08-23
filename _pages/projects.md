@@ -4,9 +4,11 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 header:
-  overlay_image: ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
-  overlay_filter: rgba(2, 115, 94, 0.5)
-  caption: "Photo credit: Ricardo Gomez Angel @ [**Unsplash**](https://unsplash.com/@rgaleriacom)"
+  overlay_image: unsplash-t2510.jpg
+#  overlay_image: ricardo-gomez-angel-9AdeEdYB2yk-unsplash.jpg
+#  overlay_filter: rgba(115, 74, 2, 0.5)
+  overlay_filter: rgba(115, 74, 2, 0.5)
+#  caption: "Photo credit: Un @ [**Unsplash**](https://unsplash.com/@rgaleriacom)"
 ---
 
 {% include base_path %}

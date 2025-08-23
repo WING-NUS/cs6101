@@ -15,6 +15,8 @@ WING.NUS's CS6101 lab section will be conducted as a public course, with class p
 
 ## Retrieval Augmented Generation (RAG)
 
+The physical class will take place at Seminar Room 31 (COM4 #03-01), at the School of Computing.
+
 <!-- This course is based on materials from Percy Liang, Tatsunori Hashimoto and Christopher Ré's [CS324 Large Language Models](https://stanford-cs324.github.io/winter2022/) course at Stanford; Danqi Chen's [COS 597G Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) course at Princeton; and Ryan Cotterell's [Large Language Models](https://rycolab.io/classes/llm-s23/) course at ETH.  All three sets of instructors have given their explicit permission to allow us to re-use and build upon their fantastic resources.  There will be 14 reading sessions, which will be held from 16:00 pm to 18:00 pm on Fridays. On alternate Thursdays, 13:00-15:00 pm, we will have project consultation sessions. -->
 
 Click on **Details** to see how to participate in the course.
@@ -25,15 +27,13 @@ If you need an invite to the Slack group.  The Slack group is being reused from 
 
 It is not a lecture-oriented course and not as in-depth as the original sources we are drawing from.  Hence, our course is not a replacement, but rather a class to spur local interest in the topics of information retrieval and retrieval augmented generation.
 
-<span style="color: red">[NEW] As of 21  Jul 2025, the physical class will take place at Seminar Room 31 (COM4 #03-01), at the School of Computing.</span>
-
 Please see the detailed schedule in the table.
 
 ## Schedule  {#schedule}
 
 The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
 
-**The schedule below is preliminary (last updated 3 Jul 2025.)** We may make slight changes on the allocation for topics and provide alternative suggestions for papers.
+We may make slight changes on the allocation for topics and provide alternative suggestions for papers as we progress throughout the semester.
 
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>
@@ -84,7 +84,6 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
               <li>Section 1: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=1459">Definition & Preliminaries (Min)</a></li>
               <li>Section 2: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=2339">Retrieval Orchestration (Haitao)</a></li>
               <li>Section 3: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=6900">Optimization (Min)</a></li>
-
             </ul>
 
           </p>
