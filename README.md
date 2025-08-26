@@ -1,7 +1,7 @@
 (A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md)
 
 # Web IR / NLP Group (WING) @ NUS Reading Group / Public Course
-### For AY 2023/2024 Semester I (T2510) - Retrieval Augmented Generation
+### For AY 2025/2026 Semester I (T2510) - Retrieval Augmented Generation
 
 This repo builds the static `github.io` website for the main reading group.  Students assigned to the _support_ role are expected to edit the `about.md` file in the `_pages` subdirectory to update both this github.com page and the corresponding github.io pages site.
 
