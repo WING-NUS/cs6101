@@ -9,7 +9,7 @@ header:
   overlay_filter: rgba(115, 74, 2, 0.5)
 #  overlay_filter: rgba(2, 115, 94, 0.5)
 #  caption: "Photo credit: Ricardo Gomez Angel @ [**Unsplash**](https://unsplash.com/@rgaleriacom)"
- ---
+---
 
 {% include base_path %}
 
