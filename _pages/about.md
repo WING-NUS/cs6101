@@ -113,16 +113,15 @@ We may make slight changes on the allocation for topics and provide alternative 
           Note: Lecture starts at 12m46s.
           
            <ul>
-              <li><a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=0">Kahoot from W01 (Min)</a></li>
-              <li><a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=766">Lecture Starts - Section 1: Overview of LLMs (Beh Chuen Yang)</a></li>
-              <li><a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=2610">Section 2: Bottlenecks of LLMs - Bottleneck 1: prevalence of factual errors (Ervin Teo)</a></li>
-              <li><a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=3500">Bottleneck 2: difficulty of verification (Yajing Yang)</a></li>
-              <li><a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4112">Bottleneck 4: computationally expensive adaptation costs (Sahej Agarwal)</a></li>
-              <li><a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4829">Bottleneck 3: difficulty of data opt-out (Jiaying Wu)</a></li>
-              <li><a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=5455">Bottleneck 5: prohibitively large model size (Benjamin Chek)</a></li>
-              <li><a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=5796">Section 3: Key Takeaways (Jiaying Wu)</a></li>
-              <li><a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=6168">Lecture End - Discussion and Logistics</a></li>
-              <li><a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=766">Section 1: Overview of LLMs (Beh Chuen Yang)</a></li>
+              <li> <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=0">Kahoot from W01 (Min)</a></li>
+              <li> Lecture Starts - Section 1:<a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=766">Overview of LLMs (Beh Chuen Yang)</a></li>
+              <li> Section 2: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=2610">Bottlenecks of LLMs - Bottleneck 1: prevalence of factual errors (Ervin Teo)</a></li>
+              <li> Bottleneck 2: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=3500">difficulty of verification (Yajing Yang)</a></li>
+              <li> Bottleneck 4: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4112">computationally expensive adaptation costs (Sahej Agarwal)</a></li>
+              <li> Bottleneck 3: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4829">difficulty of data opt-out (Jiaying Wu)</a></li>
+              <li> Bottleneck 5: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=5455">prohibitively large model size (Benjamin Chek)</a></li>
+              <li> Section 3: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=5796">Key Takeaways (Jiaying Wu)</a></li>
+              <li> Lecture End - <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=6168">Discussion and Logistics</a></li>
               </ul>
           </p>
           <p>
