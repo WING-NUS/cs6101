@@ -76,7 +76,7 @@ We may make slight changes on the allocation for topics and provide alternative 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/eRm1HQnG_tc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
-            Lecturers: Min [ <a href="http://www.comp.nus.edu.sg/~kanmy/">Website</a> ] Haitao [<a href="https://ii-research-yu.github.io/">Website</a> ]<br/>
+            Lecturers: Min [ <a href="http://www.comp.nus.edu.sg/~kanmy/">Website</a> ] Haitao [ <a href="https://ii-research-yu.github.io/">Website</a> ]<br/>
 
             Note: Lecture starts at 24m19s.
 
@@ -115,11 +115,11 @@ We may make slight changes on the allocation for topics and provide alternative 
            <ul>
               <li> <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=0">Kahoot from W01 (Min)</a></li>
               <li> Lecture Starts - Section 1:<a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=766">Overview of LLMs (Beh Chuen Yang)</a></li>
-              <li> Section 2: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=2610">Bottlenecks of LLMs - Bottleneck 1: prevalence of factual errors (Ervin Teo)</a></li>
-              <li> Bottleneck 2: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=3500">difficulty of verification (Yajing Yang)</a></li>
-              <li> Bottleneck 4: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4112">computationally expensive adaptation costs (Sahej Agarwal)</a></li>
-              <li> Bottleneck 3: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4829">difficulty of data opt-out (Jiaying Wu)</a></li>
-              <li> Bottleneck 5: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=5455">prohibitively large model size (Benjamin Chek)</a></li>
+              <li> Section 2: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=2610">Bottlenecks of LLMs - Bottleneck 1: Prevalence of factual errors (Ervin Teo)</a></li>
+              <li> Bottleneck 2: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=3500">Difficulty of verification (Yajing Yang)</a></li>
+              <li> Bottleneck 4: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4112">Computationally expensive adaptation costs (Sahej Agarwal)</a></li>
+              <li> Bottleneck 3: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4829">Difficulty of data opt-out (Jiaying Wu)</a></li>
+              <li> Bottleneck 5: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=5455">Prohibitively large model size (Benjamin Chek)</a></li>
               <li> Section 3: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=5796">Key Takeaways (Jiaying Wu)</a></li>
               <li> Lecture End - <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=6168">Discussion and Logistics</a></li>
               </ul>
