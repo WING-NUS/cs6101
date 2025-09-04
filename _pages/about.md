@@ -138,13 +138,24 @@ We may make slight changes on the allocation for topics and provide alternative 
     <td>
       <p>
       <strong>LLM Prompting</strong><br/>
-      Video link. 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/NO4Q3ghfYKU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
-            Lecturers: <br/>
+            Lecturers: Sahajpreet Singh [ <a href="https://www.linkedin.com/in/sahajpreet-singh">LinkedIn</a> | <a href="https://x.com/Phy_Shro">Twitter</a> ] Ng Xuan Hern [ <a href="http://www.linkedin.com/in/ngxuanhern">LinkedIn</a> ] Aaron Toh [ <a href="https://www.linkedin.com/in/aaron-toh">LinkedIn</a> ] Yong Ee [ <a href="https://www.linkedin.com/in/yongee">LinkedIn</a> ] Shweta Patel [ <a href="https://wing-nus.github.io/cs6101">LinkedIn</a> ]<br/>
+
+            Note: Lecture starts at 14m40s.
+
+            <ul>
+              <li>Section 1: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=880">Basics of Prompting (Sahajpreet Singh)</a></li>
+              <li>Section 2: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=1990">Prompt Sensitivity (Ng Xuan Hern)</a></li>
+              <li>Section 3: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=2980">Hallucinations & Factual Errors (Aaron Toh)</a></li>
+              <li>Section 4: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=4050">Jailbreaking & Privacy Concerns (Yong Ee)</a></li>
+              <li>Section 5: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=5540">LLM Blender (Shweta Patel)</a></li>
+            </ul>
+
           </p>
           <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w03">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
             <br/>
           </p>
