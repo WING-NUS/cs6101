@@ -72,7 +72,7 @@ We may make slight changes on the allocation for topics and provide alternative 
     </td>
     <td>
       <p>
-      <strong>RAG Overview</strong><br/>
+      <strong>RAG Overview</strong><br/>referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/eRm1HQnG_tc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
@@ -168,13 +168,26 @@ We may make slight changes on the allocation for topics and provide alternative 
     <td>
       <p>
       <strong>Vector Stores</strong><br/>
-      Video link. 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/GFQd2of7ZNY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
-            Lecturers: <br/>
+            Lecturers: Barid Xi Ai [ <a href="https://baridxiai.github.io">Website</a> ] Frederick Amal Emerson [ <a href="about:blank">Website</a>] Lin Hong Yi [ <a href="https://www.hongyiii.dev/">Website</a> | <a href=" https://www.linkedin.com/in/hong-yiii/">LinkedIn</a>] Benn Tan [ <a href="https://findbenn.com">Website</a> | <a href="https://linkedin.com/in/benntan">LinkedIn</a>] Choong Kai Zhe [<a href="https://linkedin.com/in/choongkaizhe">LinkedIn</a>] Miao Yisong [ <a href="https://yisong.me/">Website</a> | <a href="https://x.com/YisongMiao">X</a> ] Lee Kwan Tze [<a href="https://www.linkedin.com/in/leekwantze/">LinkedIn</a>] <br/>
+            
+          Note: Lecture starts at 14m20s.
+          
+           <ul>
+              <li> <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=0">Kahoot from W03 (Erwin)</a></li>
+              <li> Lecture Starts - Section 1: <a href="https://youtu.be/GFQd2of7ZNY?t=860">Introduction to Vector Stores for RAG (Barid Xi Ai)</a></li>
+              <li> Section 2: <a href="https://youtu.be/GFQd2of7ZNY?t=1518">Popular Vector Storage Techniques (Frederick Amal Emerson)</a></li>
+              <li> Section 3a: <a href="https://youtu.be/GFQd2of7ZNY?t=2543">Vector Retrieval: Quantization-Based (Lin Hong Yi)</a></li>
+              <li> Section 3b: <a href="https://youtu.be/GFQd2of7ZNY?t=3795">Vector Retrieval: Graph-Based (Benn Tan)</a></li>
+              <li> Section 4a: <a href="https://youtu.be/GFQd2of7ZNY?t=5404">RAG-related Challenges and Optimisations for Vector Storage: Speed \& Latency (Choong Kai Zhe)</a></li>
+              <li> Section 4b: <a href="https://youtu.be/GFQd2of7ZNY?t=6394">RAG-related challenges and optimisation for Vector Storage (Miao Yisong)</a></li>
+              <li> Lecture End - Section 5: <a href="https://youtu.be/GFQd2of7ZNY?t=7277">Commercial / Open-source frameworks for RAG for Vector Stores (Lee Kwan Tze)</a></li>
+            </ul>
           </p>
           <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w04">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
             <br/>
           </p>
