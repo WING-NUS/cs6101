@@ -203,13 +203,22 @@ We may make slight changes on the allocation for topics and provide alternative 
     <td>
       <p>
       <strong>Training: Fine Tuning, In Context Learning and Model Scaling</strong><br/>
-      Video link. 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Xd3LZvhzofs?si=_BGCp7wYW608Q5dn"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
-            Lecturers: <br/>
+            Lecturers: Takanori Aoki [ <a href="https://www.linkedin.com/in/takanori-aoki-7900a438">LinkedIn</a> ] Vangmay Sachan [ <a href="https://vangmay.github.io/">Website</a> ] Zihang Fu [ <a href="https://wing.comp.nus.edu.sg/author/zihang-fu/">Website</a> ] Hongxu Liu, Benjamin Goh [ <a href="https://www.linkedin.com/in/benjamin-goh-45a0a7307">LinkedIn</a> ]<br/>
+
+          <ul>
+            <li>Section 1: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=U-fGAEdf4FYzIKod&amp;start=40">Intro to SFT, ICL, Scaling and Scaling Laws (Vangmay)</a></li>
+            <li>Section 2: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=Sh6A1oPCnYv5kiZX&amp;start=406">Supervised fine-tuning (SFT) (Vangmay)</a></li>
+            <li>Section 3A: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=nghRCZPuKESC0-Ly&amp;start=1662">In-context learning (ICL) (Zihang)</a></li>
+            <li>Section 3B: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=BsTydcWIiKBiu0ev&amp;start=2990">Mechanistic Interpretability (Hongxu)</a></li>
+            <li>Section 4: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=jCEZ36PShvunxGw7&amp;start=6083">Model Scaling (Takanori)</a></li>
+          </ul>
+
           </p>
           <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w05">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
             <br/>
           </p>
