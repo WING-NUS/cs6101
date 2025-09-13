@@ -56,7 +56,7 @@ We may make slight changes on the allocation for topics and provide alternative 
           <p>
             Lecturers: Min [ <a href="http://www.comp.nus.edu.sg/~kanmy/">Website</a> ] <br/>
 
-            Note: lecture starts at 1h07m.
+            Note: the RAG introduction part starts at 1h07m; the first part is on course logistics.
 
           </p>
           <p>
@@ -78,7 +78,7 @@ We may make slight changes on the allocation for topics and provide alternative 
           <p>
             Lecturers: Min [ <a href="http://www.comp.nus.edu.sg/~kanmy/">Website</a> ] Haitao [ <a href="https://ii-research-yu.github.io/">Website</a> ]<br/>
 
-            <p>Note: Lecture starts at 24m19s.</p>
+            Note: Lecture starts at 24m19s.
 
             <ul>
               <li>Section 1: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=1459">Definition & Preliminaries (Min)</a></li>
@@ -108,21 +108,18 @@ We may make slight changes on the allocation for topics and provide alternative 
       </p>
           <p>
             Lecturers: Sahej [ <a href="https://www.linkedin.com/in/sahej-agarwal/">LinkedIn</a> | <a href="https://www.github.com/SahejAgarwal05">Github</a> ] Chuen Yang [ <a href="https://www.linkedin.com/in/chuen-yang-beh-27545b201/">LinkedIn</a> ] Benjamin [ <a href="https://www.linkedin.com/in/benjamin-chek">LinkedIn</a> ]<br/>
-            Ervin [ <a href="https://www.linkedin.com/in/ervinteo/">LinkedIn</a> ] Jiaying [<a href="https://www.linkedin.com/in/jiayingwu19/">LinkedIn</a> ] Yajing [<a href="https://www.linkedin.com/in/yajing-yang-737629140/">LinkedIn</a> ]
+            Ervin [ <a href="https://www.linkedin.com/in/ervinteo/">LinkedIn</a> ] Jiaying [<a href="https://www.linkedin.com/in/jiayingwu19/">LinkedIn</a> ] Yajing [<a href="https://www.linkedin.com/in/yajing-yang-737629140/">LinkedIn</a> ]<br/>
           
-          <p>Note: Lecture starts at 12m46s.</p>
+          Note: Lecture starts at 12m46s.
           
            <ul>
               <li> <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=0">Kahoot from W01 (Min)</a></li>
               <li> Lecture Starts - Section 1:<a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=766">Overview of LLMs (Beh Chuen Yang)</a></li>
-              <li> Section 2: Bottlenecks of LLMs
-              <ul>
-                <li> Bottleneck 1: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=2610">Prevalence of factual errors (Ervin Teo)</a></li>
-                <li> Bottleneck 2: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=3500">Difficulty of verification (Yajing Yang)</a></li>
-                <li> Bottleneck 4: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4112">Computationally expensive adaptation costs (Sahej Agarwal)</a></li>
-                <li> Bottleneck 3: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4829">Difficulty of data opt-out (Jiaying Wu)</a></li>
-                <li> Bottleneck 5: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=5455">Prohibitively large model size (Benjamin Chek)</a></li>
-              </ul>
+              <li> Section 2: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=2610">Bottlenecks of LLMs - Bottleneck 1: Prevalence of factual errors (Ervin Teo)</a></li>
+              <li> Bottleneck 2: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=3500">Difficulty of verification (Yajing Yang)</a></li>
+              <li> Bottleneck 4: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4112">Computationally expensive adaptation costs (Sahej Agarwal)</a></li>
+              <li> Bottleneck 3: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4829">Difficulty of data opt-out (Jiaying Wu)</a></li>
+              <li> Bottleneck 5: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=5455">Prohibitively large model size (Benjamin Chek)</a></li>
               <li> Section 3: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=5796">Key Takeaways (Jiaying Wu)</a></li>
               <li> Lecture End - <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=6168">Discussion and Logistics</a></li>
               </ul>
@@ -146,7 +143,7 @@ We may make slight changes on the allocation for topics and provide alternative 
           <p>
             Lecturers: Sahajpreet Singh [ <a href="https://www.linkedin.com/in/sahajpreet-singh">LinkedIn</a> | <a href="https://x.com/Phy_Shro">Twitter</a> ] Ng Xuan Hern [ <a href="http://www.linkedin.com/in/ngxuanhern">LinkedIn</a> ] Aaron Toh [ <a href="https://www.linkedin.com/in/aaron-toh">LinkedIn</a> ] Yong Ee [ <a href="https://www.linkedin.com/in/yongee">LinkedIn</a> ] Shweta Patel [ <a href="https://wing-nus.github.io/cs6101">LinkedIn</a> ]<br/>
 
-            <p>Note: Lecture starts at 14m40s.</p>
+            Note: Lecture starts at 14m40s.
 
             <ul>
               <li>Section 1: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=880">Basics of Prompting (Sahajpreet Singh)</a></li>
@@ -176,7 +173,7 @@ We may make slight changes on the allocation for topics and provide alternative 
           <p>
             Lecturers: Barid Xi Ai [ <a href="https://baridxiai.github.io">Website</a> ] Frederick Amal Emerson [ <a href="about:blank">Website</a>] Lin Hong Yi [ <a href="https://www.hongyiii.dev/">Website</a> | <a href=" https://www.linkedin.com/in/hong-yiii/">LinkedIn</a>] Benn Tan [ <a href="https://findbenn.com">Website</a> | <a href="https://linkedin.com/in/benntan">LinkedIn</a>] Choong Kai Zhe [<a href="https://linkedin.com/in/choongkaizhe">LinkedIn</a>] Miao Yisong [ <a href="https://yisong.me/">Website</a> | <a href="https://x.com/YisongMiao">X</a> ] Lee Kwan Tze [<a href="https://www.linkedin.com/in/leekwantze/">LinkedIn</a>] <br/>
             
-          <p>Note: Lecture starts at 14m20s.</p>
+          Note: Lecture starts at 14m20s.
           
            <ul>
               <li> <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=0">Kahoot from W03 (Erwin)</a></li>
@@ -203,13 +200,22 @@ We may make slight changes on the allocation for topics and provide alternative 
     <td>
       <p>
       <strong>Training: Fine Tuning, In Context Learning and Model Scaling</strong><br/>
-      Video link. 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Xd3LZvhzofs?si=_BGCp7wYW608Q5dn"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
-            Lecturers: <br/>
+            Lecturers: Takanori Aoki [ <a href="https://www.linkedin.com/in/takanori-aoki-7900a438">LinkedIn</a> ] Vangmay Sachan [ <a href="https://vangmay.github.io/">Website</a> ] Zihang Fu [ <a href="https://wing.comp.nus.edu.sg/author/zihang-fu/">Website</a> ] Hongxu Liu, Benjamin Goh [ <a href="https://www.linkedin.com/in/benjamin-goh-45a0a7307">LinkedIn</a> ]<br/>
+
+          <ul>
+            <li>Section 1: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=U-fGAEdf4FYzIKod&amp;start=40">Intro to SFT, ICL, Scaling and Scaling Laws (Vangmay)</a></li>
+            <li>Section 2: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=Sh6A1oPCnYv5kiZX&amp;start=406">Supervised fine-tuning (SFT) (Vangmay)</a></li>
+            <li>Section 3A: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=nghRCZPuKESC0-Ly&amp;start=1662">In-context learning (ICL) (Zihang)</a></li>
+            <li>Section 3B: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=BsTydcWIiKBiu0ev&amp;start=2990">Mechanistic Interpretability (Hongxu)</a></li>
+            <li>Section 4: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=jCEZ36PShvunxGw7&amp;start=6083">Model Scaling (Takanori)</a></li>
+          </ul>
+
           </p>
           <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w05">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
             <br/>
           </p>
