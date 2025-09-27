@@ -234,13 +234,25 @@ We may make slight changes on the allocation for topics and provide alternative 
     <td>
       <p>
       <strong>Retrieval and Re-ranking Models</strong><br/>
-      Video link. 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
-            Lecturers: <br/>
+            Lecturers: Huang Chao Ming [<a href="https://www.linkedin.com/in/chao-ming-huang/">LinkedIn</a>] Ada Ho [ <a href="https://www.linkedin.com/in/scallion3008/">LinkedIn</a> | <a href="https://github.com/Scallion3008">Github</a>] Estelle Sim [<a href="http://www.linkedin.com/in/estelle-sim-862763385">LinkedIn</a>] Swislar [<a href="https://www.linkedin.com/in/swislar/">LinkedIn</a>] Li Zizhen [<a href="http://www.linkedin.com/in/zizhen-li-3b26492b8">LinkedIn</a>] Xu Jundong []<br/>
+
+            <p>Note: Lecture starts at 19m43s.</p>
+
+            <ul>
+              <li>Section 1: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=1184">Introduction & traditional IR (Chao Ming)</a></li>
+              <li>Section 2: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=1885">Learning-to-rank (Ada)</a></li>
+              <li>Section 3: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=3323">Unsupervised Retrieval - Contriever (Swislar)</a></li>
+              <li>Section 4: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=4346">Bi-Encoder & Cross-Encoder (Estelle)</a></li>
+              <li>Section 5: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=5680">LLM as retriever (Jundong)</a></li>
+              <li>Section 6: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=6141">LLM as reranker (Zizhen)</a></li>
+            </ul>
+
           </p>
           <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w06">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
             <br/>
           </p>
