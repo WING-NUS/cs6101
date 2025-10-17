@@ -265,16 +265,25 @@ We may make slight changes on the allocation for topics and provide alternative 
     <td>
       <p>
       <strong>RAG Models</strong><br/>
-      i.e., REALM, FID.  
-
-      Video link. 
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/hQ7cUa32-gI?si=FUhWTeEvJohvbe_S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </p>
           <p>
-            Lecturers: <br/>
+            Lecturers: Mingyu Lee [ <a href="http://linkedin.com/in/mingyu-lee-329338197">LinkedIn</a> ] Nura Tamton [ <a href="https://www.linkedin.com/in/nura-tamton-b34a4a229/">LinkedIn</a> ] Zak Tng [ <a href="https://www.linkedin.com/in/zaktng/">LinkedIn</a> ] Ruiwen Zhou [ <a href="https://skyriver-2000.github.io/">GitHub</a> ] Barid Xi Ai [ <a href="https://baridxiai.github.io/">GitHub</a> ] Sahej Agarwal []<br/>
+
+            <p>Note: Lecture starts at 11m07s.</p>
+
+            <ul>
+              <li>Section 1: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=663">RAG Paradigms (Mingyu Lee)</a></li>
+              <li>Section 2: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=25m10s">Retrieval (Nura Tamton)</a></li>
+              <li>Section 3: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=44m44s">Generation (Zak Tng)</a></li>
+              <li>Section 4: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=1h12m30s">Augmentation Process in RAG (Ruiwen Zhou)</a></li>
+              <li>Section 5: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=1h25m34s">Task and Evaluation (Barid Xi Ai)</a></li>
+              <li>Section 6: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=1h47m24s">Discussions and Future Prospects (Sahej Agarwal)</a></li>
+            </ul>
+
           </p>
           <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
-            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+            [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w07">Lecture Slides</a>&nbsp;]
             <br/>
           </p>
     </td>
