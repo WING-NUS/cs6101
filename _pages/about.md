@@ -286,15 +286,24 @@ We may make slight changes on the allocation for topics and provide alternative 
     <td>
       <p>
       <strong>Document Representation</strong><br/>
-      What to Retrieve.  Chunking.
-
-      Video link. 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/z5D1p5FHyhk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
-            Lecturers: <br/>
+            Lecturers: Jonathan Chen [] Nicholas Cheng [<a href="https://www.linkedin.com/in/nicholas-cheng-">LinkedIn</a>] Qianbo Dong [<a href="https://www.linkedin.com/in/qianbo-d-3ab68a196/">LinkedIn</a>] Zaidan Sani [<a href="http://www.linkedin.com/in/mzaidanbs">LinkedIn</a> | <a href="https://zaidansani.github.io/">Website</a>]<br/>
+
+            <p>Note: Lecture starts at 15m30s.</p> 
+
+            <ul>
+              <li> <a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=500">Kahoot from W07</a></li>
+              <li> Lecture Starts - Section 1: <a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=930">Introduction (Jonathan)</a></li>
+              <li> Section 2: <a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=1855">Document representation for images/visual (Nicholas)</a></li>
+              <li> Section 3: <a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=3175">Layout-aware document understanding (Qianbo)</a></li>
+              <li> Section 4: <a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=4765">Chunking (Zaidan)</a></li>
+            </ul>
+            
           </p>
           <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w08">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
             <br/>
           </p>
