@@ -326,14 +326,13 @@ We may make slight changes on the allocation for topics and provide alternative 
       <p>
       <strong>Bootstrapping and Iterative Retrieval</strong><br/>
       Relevance Feedback / Rocchio.
-
-      Video link. 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/5RpvdmEDEbQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
-            Lecturers: <br/>
+            Lecturers: Vangmay, Kseniia [<a href="https://www.linkedin.com/in/kseniia-petukhova/">LinkedIn</a>], Yiqi Wang, Ada Ho [<a href="https://www.linkedin.com/in/scallion3008/">LinkedIn</a> | <a href="https://github.com/Scallion3008">GitHub</a>], Xinpeng Liu, Tan Chien Hao <br/>
           </p>
           <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w09">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
             <br/>
           </p>
