@@ -326,14 +326,26 @@ We may make slight changes on the allocation for topics and provide alternative 
       <p>
       <strong>Bootstrapping and Iterative Retrieval</strong><br/>
       Relevance Feedback / Rocchio.
-
-      Video link. 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/5RpvdmEDEbQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
-            Lecturers: <br/>
+            Lecturers: Vangmay, Kseniia [<a href="https://www.linkedin.com/in/kseniia-petukhova/">LinkedIn</a>], Yiqi Wang, Ada Ho [<a href="https://www.linkedin.com/in/scallion3008/">LinkedIn</a> | <a href="https://github.com/Scallion3008">GitHub</a>], Xinpeng Liu, Tan Chien Hao <br/>
+
+            <ul>
+              <li> <a href="https://www.youtube.com/embed/5RpvdmEDEbQ">Kahoot from W08</a></li>
+              <li>Lecture Starts - Section 1: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=590">From Static Search to Smarter Agents: Iterative and Bootstrap Retrieval (Vangmay)</a></li> 
+              <li>Section 2: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=1200">Synthetic Data Augmentation (Kseniia)</a></li> 
+              <li>Section 3: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=2870">Corrective RAG & Self-RAG (Yiqi)</a></li> 
+              <li><a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=3770">Break</a></li> 
+              <li>Section 4: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=4050">Query Reformulation (Ada)</a></li> 
+              <li>Section 5: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=5195">Complex Multi-hop Queries (Xinpeng)</a></li> 
+              <li>Section 6: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=6455">Adaptive RAG (Chien Hao)</a></li> 
+              <li><a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=6820">Extended Discussion</a></li>
+            </ul>
+            
           </p>
           <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w09">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
             <br/>
           </p>
