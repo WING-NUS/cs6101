@@ -380,17 +380,32 @@ We may make slight changes on the allocation for topics and provide alternative 
     <td>
       <p>
       <strong>Graph RAG</strong><br/>
-      Video link. 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/EVGq5Xzor4E?si=LKD7HosDqz1PIVb5" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
-            Lecturers: <br/>
+            Lecturers: Indraneel Paranjape [<a href="http://linkedin.com/in/indraneel-p">LinkedIn</a>] Luis Frentzen Salim [<a href="https://www.linkedin.com/in/luisfrentzen/">LinkedIn</a>] Li Zizhen [] Van-Hoang Nguyen [<a href="https://www.linkedin.com/in/nguyenvanhoang7398/">LinkedIn</a>] Lin Hong Yi [<a href="https://www.linkedin.com/in/hong-yiii/">LinkedIn</a>]<br/>
+
+            <p>Note: Lecture starts at 17m20s.</p>
+
+            <ul>
+              <li><a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=LKD7HosDqz1PIVb5">Kahoot from W10</a></li>
+              <li><a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=DSbI6CbV8jYbDdoR&amp;start=451">Course Logistics</a></li>
+              <li>Section 1: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=QYDrOsi1YV_Nakkk&amp;start=1040">Introduction to GraphRAG (Indraneel)</a></li>
+              <li>Section 2: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=_nnMJam_O1WDFKIT&amp;start=2552">Graph Data Source (Li Zizhen)</a></li>
+              <li>Section 3: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=l3P3kOcuw00wP4SE&amp;start=3435">Query Processor (Lin Hong Yi)</a></li>
+              <li><a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=4dMgYqZYd4Fnoxb9&amp;start=4760">Break</a></li>
+              <li>Section 4: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=TtAogh4TB9v0ofMl&amp;start=5045">GraphRAG Retriever (Van-Hoang Nguyen)</a></li>
+              <li>Section 5: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=LwRn4cOTTMpl2XJm&amp;start=6325">Organizer and Generator (Luis Frentzen Salim)</a></li>
+            </ul>
+
           </p>
           <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w11">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
             <br/>
           </p>
     </td>
+
   </tr>
 
   <tr>
