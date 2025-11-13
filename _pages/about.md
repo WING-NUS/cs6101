@@ -72,8 +72,8 @@ We may make slight changes on the allocation for topics and provide alternative 
     </td>
     <td>
       <p>
-      <strong>RAG Overview</strong><br/>referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/eRm1HQnG_tc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <strong>RAG Overview</strong><br/>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/eRm1HQnG_tc" frameborder="0" allow="autoplay; encrypted-media" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </p>
           <p>
             Lecturers: Min [ <a href="http://www.comp.nus.edu.sg/~kanmy/">Website</a> ] Haitao [ <a href="https://ii-research-yu.github.io/">Website</a> ]<br/>
