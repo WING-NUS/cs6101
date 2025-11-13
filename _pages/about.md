@@ -75,18 +75,15 @@ We may make slight changes on the allocation for topics and provide alternative 
       <strong>RAG Overview</strong><br/>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/eRm1HQnG_tc" frameborder="0" allow="autoplay; encrypted-media" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </p>
-          <p>
+      <p>
             Lecturers: Min [ <a href="http://www.comp.nus.edu.sg/~kanmy/">Website</a> ] Haitao [ <a href="https://ii-research-yu.github.io/">Website</a> ]<br/>
-
-            <p>Note: Lecture starts at 24m19s.</p>
-
-            <ul>
-              <li>Section 1: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=1459">Definition & Preliminaries (Min)</a></li>
-              <li>Section 2: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=2339">Retrieval Orchestration (Haitao)</a></li>
-              <li>Section 3: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=6900">Optimization (Min)</a></li>
-            </ul>
-
           </p>
+          <p>Note: Lecture starts at 24m19s.</p>
+          <ul>
+            <li>Section 1: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=1459">Definition & Preliminaries (Min)</a></li>
+            <li>Section 2: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=2339">Retrieval Orchestration (Haitao)</a></li>
+            <li>Section 3: <a href="https://www.youtube.com/embed/eRm1HQnG_tc?start=6900">Optimization (Min)</a></li>
+          </ul>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w01">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
@@ -106,27 +103,26 @@ We may make slight changes on the allocation for topics and provide alternative 
       <strong>Foundations of Large Language Models</strong><br/>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/6BA8C2AcaBY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
-          <p>
+      <p>
             Lecturers: Sahej [ <a href="https://www.linkedin.com/in/sahej-agarwal/">LinkedIn</a> | <a href="https://www.github.com/SahejAgarwal05">Github</a> ] Chuen Yang [ <a href="https://www.linkedin.com/in/chuen-yang-beh-27545b201/">LinkedIn</a> ] Benjamin [ <a href="https://www.linkedin.com/in/benjamin-chek">LinkedIn</a> ]<br/>
             Ervin [ <a href="https://www.linkedin.com/in/ervinteo/">LinkedIn</a> ] Jiaying [<a href="https://www.linkedin.com/in/jiayingwu19/">LinkedIn</a> ] Yajing [<a href="https://www.linkedin.com/in/yajing-yang-737629140/">LinkedIn</a> ]
-          
-          <p>Note: Lecture starts at 12m46s.</p>
-          
-           <ul>
-              <li> <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=0">Kahoot from W01 (Min)</a></li>
-              <li> Lecture Starts - Section 1:<a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=766">Overview of LLMs (Beh Chuen Yang)</a></li>
-              <li> Section 2: Bottlenecks of LLMs
-              <ul>
-                <li> Bottleneck 1: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=2610">Prevalence of factual errors (Ervin Teo)</a></li>
-                <li> Bottleneck 2: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=3500">Difficulty of verification (Yajing Yang)</a></li>
-                <li> Bottleneck 4: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4112">Computationally expensive adaptation costs (Sahej Agarwal)</a></li>
-                <li> Bottleneck 3: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4829">Difficulty of data opt-out (Jiaying Wu)</a></li>
-                <li> Bottleneck 5: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=5455">Prohibitively large model size (Benjamin Chek)</a></li>
-              </ul>
-              <li> Section 3: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=5796">Key Takeaways (Jiaying Wu)</a></li>
-              <li> Lecture End - <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=6168">Discussion and Logistics</a></li>
-              </ul>
           </p>
+          <p>Note: Lecture starts at 12m46s.</p>
+          <ul>
+            <li><a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=0">Kahoot from W01 (Min)</a></li>
+            <li>Lecture Starts - Section 1: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=766">Overview of LLMs (Beh Chuen Yang)</a></li>
+            <li>Section 2: Bottlenecks of LLMs
+              <ul>
+                <li>Bottleneck 1: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=2610">Prevalence of factual errors (Ervin Teo)</a></li>
+                <li>Bottleneck 2: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=3500">Difficulty of verification (Yajing Yang)</a></li>
+                <li>Bottleneck 4: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4112">Computationally expensive adaptation costs (Sahej Agarwal)</a></li>
+                <li>Bottleneck 3: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=4829">Difficulty of data opt-out (Jiaying Wu)</a></li>
+                <li>Bottleneck 5: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=5455">Prohibitively large model size (Benjamin Chek)</a></li>
+              </ul>
+            </li>
+            <li>Section 3: <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=5796">Key Takeaways (Jiaying Wu)</a></li>
+            <li>Lecture End - <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=6168">Discussion and Logistics</a></li>
+          </ul>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w02">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
@@ -143,20 +139,17 @@ We may make slight changes on the allocation for topics and provide alternative 
       <strong>LLM Prompting</strong><br/>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/NO4Q3ghfYKU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
-          <p>
+      <p>
             Lecturers: Sahajpreet Singh [ <a href="https://www.linkedin.com/in/sahajpreet-singh">LinkedIn</a> | <a href="https://x.com/Phy_Shro">Twitter</a> ] Ng Xuan Hern [ <a href="http://www.linkedin.com/in/ngxuanhern">LinkedIn</a> ] Aaron Toh [ <a href="https://www.linkedin.com/in/aaron-toh">LinkedIn</a> ] Yong Ee [ <a href="https://www.linkedin.com/in/yongee">LinkedIn</a> ] Shweta Patel [ <a href="https://wing-nus.github.io/cs6101">LinkedIn</a> ]<br/>
-
-            <p>Note: Lecture starts at 14m40s.</p>
-
-            <ul>
-              <li>Section 1: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=880">Basics of Prompting (Sahajpreet Singh)</a></li>
-              <li>Section 2: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=1990">Prompt Sensitivity (Ng Xuan Hern)</a></li>
-              <li>Section 3: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=2980">Hallucinations & Factual Errors (Aaron Toh)</a></li>
-              <li>Section 4: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=4050">Jailbreaking & Privacy Concerns (Yong Ee)</a></li>
-              <li>Section 5: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=5540">LLM Blender (Shweta Patel)</a></li>
-            </ul>
-
           </p>
+          <p>Note: Lecture starts at 14m40s.</p>
+          <ul>
+            <li>Section 1: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=880">Basics of Prompting (Sahajpreet Singh)</a></li>
+            <li>Section 2: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=1990">Prompt Sensitivity (Ng Xuan Hern)</a></li>
+            <li>Section 3: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=2980">Hallucinations & Factual Errors (Aaron Toh)</a></li>
+            <li>Section 4: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=4050">Jailbreaking & Privacy Concerns (Yong Ee)</a></li>
+            <li>Section 5: <a href="https://www.youtube.com/embed/NO4Q3ghfYKU?start=5540">LLM Blender (Shweta Patel)</a></li>
+          </ul>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w03">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
@@ -173,22 +166,20 @@ We may make slight changes on the allocation for topics and provide alternative 
       <strong>Vector Stores</strong><br/>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/GFQd2of7ZNY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
-          <p>
+      <p>
             Lecturers: Barid Xi Ai [ <a href="https://baridxiai.github.io">Website</a> ] Frederick Amal Emerson [ <a href="about:blank">Website</a>] Lin Hong Yi [ <a href="https://www.hongyiii.dev/">Website</a> | <a href=" https://www.linkedin.com/in/hong-yiii/">LinkedIn</a>] Benn Tan [ <a href="https://findbenn.com">Website</a> | <a href="https://linkedin.com/in/benntan">LinkedIn</a>] Choong Kai Zhe [<a href="https://linkedin.com/in/choongkaizhe">LinkedIn</a>] Miao Yisong [ <a href="https://yisong.me/">Website</a> | <a href="https://x.com/YisongMiao">X</a> ] Lee Kwan Tze [<a href="https://www.linkedin.com/in/leekwantze/">LinkedIn</a>] <br/>
-            
-          <p>Note: Lecture starts at 14m20s.</p>
-          
-           <ul>
-              <li> <a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=0">Kahoot from W03 (Erwin)</a></li>
-              <li> Lecture Starts - Section 1: <a href="https://youtu.be/GFQd2of7ZNY?t=860">Introduction to Vector Stores for RAG (Barid Xi Ai)</a></li>
-              <li> Section 2: <a href="https://youtu.be/GFQd2of7ZNY?t=1518">Popular Vector Storage Techniques (Frederick Amal Emerson)</a></li>
-              <li> Section 3a: <a href="https://youtu.be/GFQd2of7ZNY?t=2543">Vector Retrieval: Quantization-Based (Lin Hong Yi)</a></li>
-              <li> Section 3b: <a href="https://youtu.be/GFQd2of7ZNY?t=3795">Vector Retrieval: Graph-Based (Benn Tan)</a></li>
-              <li> Section 4a: <a href="https://youtu.be/GFQd2of7ZNY?t=5404">RAG-related Challenges and Optimisations for Vector Storage: Speed \& Latency (Choong Kai Zhe)</a></li>
-              <li> Section 4b: <a href="https://youtu.be/GFQd2of7ZNY?t=6394">RAG-related challenges and optimisation for Vector Storage (Miao Yisong)</a></li>
-              <li> Lecture End - Section 5: <a href="https://youtu.be/GFQd2of7ZNY?t=7277">Commercial / Open-source frameworks for RAG for Vector Stores (Lee Kwan Tze)</a></li>
-            </ul>
           </p>
+          <p>Note: Lecture starts at 14m20s.</p>
+          <ul>
+            <li><a href="https://www.youtube.com/embed/6BA8C2AcaBY?start=0">Kahoot from W03 (Erwin)</a></li>
+            <li>Lecture Starts - Section 1: <a href="https://youtu.be/GFQd2of7ZNY?t=860">Introduction to Vector Stores for RAG (Barid Xi Ai)</a></li>
+            <li>Section 2: <a href="https://youtu.be/GFQd2of7ZNY?t=1518">Popular Vector Storage Techniques (Frederick Amal Emerson)</a></li>
+            <li>Section 3a: <a href="https://youtu.be/GFQd2of7ZNY?t=2543">Vector Retrieval: Quantization-Based (Lin Hong Yi)</a></li>
+            <li>Section 3b: <a href="https://youtu.be/GFQd2of7ZNY?t=3795">Vector Retrieval: Graph-Based (Benn Tan)</a></li>
+            <li>Section 4a: <a href="https://youtu.be/GFQd2of7ZNY?t=5404">RAG-related Challenges and Optimisations for Vector Storage: Speed &amp; Latency (Choong Kai Zhe)</a></li>
+            <li>Section 4b: <a href="https://youtu.be/GFQd2of7ZNY?t=6394">RAG-related challenges and optimisation for Vector Storage (Miao Yisong)</a></li>
+            <li>Lecture End - Section 5: <a href="https://youtu.be/GFQd2of7ZNY?t=7277">Commercial / Open-source frameworks for RAG for Vector Stores (Lee Kwan Tze)</a></li>
+          </ul>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w04">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
@@ -205,9 +196,9 @@ We may make slight changes on the allocation for topics and provide alternative 
       <strong>Training: Fine Tuning, In Context Learning and Model Scaling</strong><br/>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/Xd3LZvhzofs?si=_BGCp7wYW608Q5dn"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
-          <p>
+      <p>
             Lecturers: Takanori Aoki [ <a href="https://www.linkedin.com/in/takanori-aoki-7900a438">LinkedIn</a> ] Vangmay Sachan [ <a href="https://vangmay.github.io/">Website</a> ] Zihang Fu [ <a href="https://wing.comp.nus.edu.sg/author/zihang-fu/">Website</a> ] Hongxu Liu, Benjamin Goh [ <a href="https://www.linkedin.com/in/benjamin-goh-45a0a7307">LinkedIn</a> ]<br/>
-
+          </p>
           <ul>
             <li>Section 1: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=U-fGAEdf4FYzIKod&amp;start=40">Intro to SFT, ICL, Scaling and Scaling Laws (Vangmay)</a></li>
             <li>Section 2: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=Sh6A1oPCnYv5kiZX&amp;start=406">Supervised fine-tuning (SFT) (Vangmay)</a></li>
@@ -215,8 +206,6 @@ We may make slight changes on the allocation for topics and provide alternative 
             <li>Section 3B: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=BsTydcWIiKBiu0ev&amp;start=2990">Mechanistic Interpretability (Hongxu)</a></li>
             <li>Section 4: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=jCEZ36PShvunxGw7&amp;start=6083">Model Scaling (Takanori)</a></li>
           </ul>
-
-          </p>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w05">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
@@ -236,21 +225,18 @@ We may make slight changes on the allocation for topics and provide alternative 
       <strong>Retrieval and Re-ranking Models</strong><br/>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
-          <p>
+      <p>
             Lecturers: Huang Chao Ming [<a href="https://www.linkedin.com/in/chao-ming-huang/">LinkedIn</a>] Ada Ho [ <a href="https://www.linkedin.com/in/scallion3008/">LinkedIn</a> | <a href="https://github.com/Scallion3008">Github</a>] Estelle Sim [<a href="http://www.linkedin.com/in/estelle-sim-862763385">LinkedIn</a>] Swislar [<a href="https://www.linkedin.com/in/swislar/">LinkedIn</a>] Li Zizhen [<a href="http://www.linkedin.com/in/zizhen-li-3b26492b8">LinkedIn</a>] Xu Jundong []<br/>
-
-            <p>Note: Lecture starts at 19m43s.</p>
-
-            <ul>
-              <li>Section 1: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=1184">Introduction & traditional IR (Chao Ming)</a></li>
-              <li>Section 2: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=1885">Learning-to-rank (Ada)</a></li>
-              <li>Section 3: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=3323">Unsupervised Retrieval - Contriever (Swislar)</a></li>
-              <li>Section 4: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=4346">Bi-Encoder & Cross-Encoder (Estelle)</a></li>
-              <li>Section 5: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=5680">LLM as retriever (Jundong)</a></li>
-              <li>Section 6: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=6141">LLM as reranker (Zizhen)</a></li>
-            </ul>
-
           </p>
+          <p>Note: Lecture starts at 19m43s.</p>
+          <ul>
+            <li>Section 1: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=1184">Introduction &amp; traditional IR (Chao Ming)</a></li>
+            <li>Section 2: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=1885">Learning-to-rank (Ada)</a></li>
+            <li>Section 3: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=3323">Unsupervised Retrieval - Contriever (Swislar)</a></li>
+            <li>Section 4: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=4346">Bi-Encoder &amp; Cross-Encoder (Estelle)</a></li>
+            <li>Section 5: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=5680">LLM as retriever (Jundong)</a></li>
+            <li>Section 6: <a href="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1&start=6141">LLM as reranker (Zizhen)</a></li>
+          </ul>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w06">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
@@ -267,21 +253,18 @@ We may make slight changes on the allocation for topics and provide alternative 
       <strong>RAG Models</strong><br/>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/hQ7cUa32-gI?si=FUhWTeEvJohvbe_S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </p>
-          <p>
+      <p>
             Lecturers: Mingyu Lee [ <a href="http://linkedin.com/in/mingyu-lee-329338197">LinkedIn</a> ] Nura Tamton [ <a href="https://www.linkedin.com/in/nura-tamton-b34a4a229/">LinkedIn</a> ] Zak Tng [ <a href="https://www.linkedin.com/in/zaktng/">LinkedIn</a> ] Ruiwen Zhou [ <a href="https://skyriver-2000.github.io/">GitHub</a> ] Barid Xi Ai [ <a href="https://baridxiai.github.io/">GitHub</a> ] Sahej Agarwal []<br/>
-
-            <p>Note: Lecture starts at 11m07s.</p>
-
-            <ul>
-              <li>Section 1: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=663">RAG Paradigms (Mingyu Lee)</a></li>
-              <li>Section 2: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=25m10s">Retrieval (Nura Tamton)</a></li>
-              <li>Section 3: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=44m44s">Generation (Zak Tng)</a></li>
-              <li>Section 4: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=1h12m30s">Augmentation Process in RAG (Ruiwen Zhou)</a></li>
-              <li>Section 5: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=1h25m34s">Task and Evaluation (Barid Xi Ai)</a></li>
-              <li>Section 6: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=1h47m24s">Discussions and Future Prospects (Sahej Agarwal)</a></li>
-            </ul>
-
           </p>
+          <p>Note: Lecture starts at 11m07s.</p>
+          <ul>
+            <li>Section 1: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=663">RAG Paradigms (Mingyu Lee)</a></li>
+            <li>Section 2: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=25m10s">Retrieval (Nura Tamton)</a></li>
+            <li>Section 3: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=44m44s">Generation (Zak Tng)</a></li>
+            <li>Section 4: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=1h12m30s">Augmentation Process in RAG (Ruiwen Zhou)</a></li>
+            <li>Section 5: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=1h25m34s">Task and Evaluation (Barid Xi Ai)</a></li>
+            <li>Section 6: <a href="https://www.youtube.com/live/hQ7cUa32-gI?t=1h47m24s">Discussions and Future Prospects (Sahej Agarwal)</a></li>
+          </ul>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w07">Lecture Slides</a>&nbsp;]
             <br/>
@@ -297,20 +280,17 @@ We may make slight changes on the allocation for topics and provide alternative 
       <strong>Document Representation</strong><br/>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/z5D1p5FHyhk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
-          <p>
+      <p>
             Lecturers: Jonathan Chen [] Nicholas Cheng [<a href="https://www.linkedin.com/in/nicholas-cheng-">LinkedIn</a>] Qianbo Dong [<a href="https://www.linkedin.com/in/qianbo-d-3ab68a196/">LinkedIn</a>] Zaidan Sani [<a href="http://www.linkedin.com/in/mzaidanbs">LinkedIn</a> | <a href="https://zaidansani.github.io/">Website</a>]<br/>
-
-            <p>Note: Lecture starts at 15m30s.</p> 
-
-            <ul>
-              <li> <a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=500">Kahoot from W07</a></li>
-              <li> Lecture Starts - Section 1: <a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=930">Introduction (Jonathan)</a></li>
-              <li> Section 2: <a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=1855">Document representation for images/visual (Nicholas)</a></li>
-              <li> Section 3: <a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=3175">Layout-aware document understanding (Qianbo)</a></li>
-              <li> Section 4: <a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=4765">Chunking (Zaidan)</a></li>
-            </ul>
-            
           </p>
+          <p>Note: Lecture starts at 15m30s.</p> 
+          <ul>
+            <li><a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=500">Kahoot from W07</a></li>
+            <li>Lecture Starts - Section 1: <a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=930">Introduction (Jonathan)</a></li>
+            <li>Section 2: <a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=1855">Document representation for images/visual (Nicholas)</a></li>
+            <li>Section 3: <a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=3175">Layout-aware document understanding (Qianbo)</a></li>
+            <li>Section 4: <a href="https://www.youtube.com/embed/z5D1p5FHyhk?start=4765">Chunking (Zaidan)</a></li>
+          </ul>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w08">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
@@ -328,22 +308,20 @@ We may make slight changes on the allocation for topics and provide alternative 
       Relevance Feedback / Rocchio.
       <iframe width="560" height="315" src="https://www.youtube.com/embed/5RpvdmEDEbQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
-          <p>
+      <p>
             Lecturers: Vangmay, Kseniia [<a href="https://www.linkedin.com/in/kseniia-petukhova/">LinkedIn</a>], Yiqi Wang, Ada Ho [<a href="https://www.linkedin.com/in/scallion3008/">LinkedIn</a> | <a href="https://github.com/Scallion3008">GitHub</a>], Xinpeng Liu, Tan Chien Hao <br/>
-
-            <ul>
-              <li> <a href="https://www.youtube.com/embed/5RpvdmEDEbQ">Kahoot from W08</a></li>
-              <li>Lecture Starts - Section 1: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=590">From Static Search to Smarter Agents: Iterative and Bootstrap Retrieval (Vangmay)</a></li> 
-              <li>Section 2: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=1200">Synthetic Data Augmentation (Kseniia)</a></li> 
-              <li>Section 3: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=2870">Corrective RAG & Self-RAG (Yiqi)</a></li> 
-              <li><a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=3770">Break</a></li> 
-              <li>Section 4: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=4050">Query Reformulation (Ada)</a></li> 
-              <li>Section 5: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=5195">Complex Multi-hop Queries (Xinpeng)</a></li> 
-              <li>Section 6: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=6455">Adaptive RAG (Chien Hao)</a></li> 
-              <li><a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=6820">Extended Discussion</a></li>
-            </ul>
-            
           </p>
+          <ul>
+            <li><a href="https://www.youtube.com/embed/5RpvdmEDEbQ">Kahoot from W08</a></li>
+            <li>Lecture Starts - Section 1: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=590">From Static Search to Smarter Agents: Iterative and Bootstrap Retrieval (Vangmay)</a></li> 
+            <li>Section 2: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=1200">Synthetic Data Augmentation (Kseniia)</a></li> 
+            <li>Section 3: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=2870">Corrective RAG &amp; Self-RAG (Yiqi)</a></li> 
+            <li><a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=3770">Break</a></li> 
+            <li>Section 4: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=4050">Query Reformulation (Ada)</a></li> 
+            <li>Section 5: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=5195">Complex Multi-hop Queries (Xinpeng)</a></li> 
+            <li>Section 6: <a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=6455">Adaptive RAG (Chien Hao)</a></li> 
+            <li><a href="https://www.youtube.com/embed/5RpvdmEDEbQ?start=6820">Extended Discussion</a></li>
+          </ul>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w09">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
@@ -394,23 +372,20 @@ We may make slight changes on the allocation for topics and provide alternative 
       <strong>Graph RAG</strong><br/>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/EVGq5Xzor4E?si=LKD7HosDqz1PIVb5" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
-          <p>
+      <p>
             Lecturers: Indraneel Paranjape [<a href="http://linkedin.com/in/indraneel-p">LinkedIn</a>] Luis Frentzen Salim [<a href="https://www.linkedin.com/in/luisfrentzen/">LinkedIn</a>] Li Zizhen [] Van-Hoang Nguyen [<a href="https://www.linkedin.com/in/nguyenvanhoang7398/">LinkedIn</a>] Lin Hong Yi [<a href="https://www.linkedin.com/in/hong-yiii/">LinkedIn</a>]<br/>
-
-            <p>Note: Lecture starts at 17m20s.</p>
-
-            <ul>
-              <li><a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=LKD7HosDqz1PIVb5">Kahoot from W10</a></li>
-              <li><a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=DSbI6CbV8jYbDdoR&amp;start=451">Course Logistics</a></li>
-              <li>Section 1: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=QYDrOsi1YV_Nakkk&amp;start=1040">Introduction to GraphRAG (Indraneel)</a></li>
-              <li>Section 2: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=_nnMJam_O1WDFKIT&amp;start=2552">Graph Data Source (Li Zizhen)</a></li>
-              <li>Section 3: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=l3P3kOcuw00wP4SE&amp;start=3435">Query Processor (Lin Hong Yi)</a></li>
-              <li><a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=4dMgYqZYd4Fnoxb9&amp;start=4760">Break</a></li>
-              <li>Section 4: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=TtAogh4TB9v0ofMl&amp;start=5045">GraphRAG Retriever (Van-Hoang Nguyen)</a></li>
-              <li>Section 5: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=LwRn4cOTTMpl2XJm&amp;start=6325">Organizer and Generator (Luis Frentzen Salim)</a></li>
-            </ul>
-
           </p>
+          <p>Note: Lecture starts at 17m20s.</p>
+          <ul>
+            <li><a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=LKD7HosDqz1PIVb5">Kahoot from W10</a></li>
+            <li><a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=DSbI6CbV8jYbDdoR&amp;start=451">Course Logistics</a></li>
+            <li>Section 1: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=QYDrOsi1YV_Nakkk&amp;start=1040">Introduction to GraphRAG (Indraneel)</a></li>
+            <li>Section 2: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=_nnMJam_O1WDFKIT&amp;start=2552">Graph Data Source (Li Zizhen)</a></li>
+            <li>Section 3: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=l3P3kOcuw00wP4SE&amp;start=3435">Query Processor (Lin Hong Yi)</a></li>
+            <li><a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=4dMgYqZYd4Fnoxb9&amp;start=4760">Break</a></li>
+            <li>Section 4: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=TtAogh4TB9v0ofMl&amp;start=5045">GraphRAG Retriever (Van-Hoang Nguyen)</a></li>
+            <li>Section 5: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?si=LwRn4cOTTMpl2XJm&amp;start=6325">Organizer and Generator (Luis Frentzen Salim)</a></li>
+          </ul>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w11">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
