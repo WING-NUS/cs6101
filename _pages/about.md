@@ -447,10 +447,8 @@ We may make slight changes on the allocation for topics and provide alternative 
           </p>
     </td>
   </tr>
-
-</tbody></table>
-
-
+</tbody>
+</table>
 
 
 ## Organizers {#org}
