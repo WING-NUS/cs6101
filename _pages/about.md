@@ -448,12 +448,21 @@ We may make slight changes on the allocation for topics and provide alternative 
 
 
 
-## Organizers {#org}
 
-This version of CS6101 is jointly run by [WING@NUS](http://wing.comp.nus.edu.sg/) and sabbatical visitor [Haitao Yu](https://ii-research-yu.github.io/) (University of Tsukuba)
+<h2 id="org">Organizers</h2>
 
-The current organisation team includes following members (alphabetical order):
-
-[Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/),
-[Yisong Miao](https://yisong.me/), and 
-[Haitao Yu](https://ii-research-yu.github.io/)
+<p>
+  This version of CS6101 is jointly run by
+  <a href="http://wing.comp.nus.edu.sg/">WING@NUS</a>
+  and sabbatical visitor
+  <a href="https://ii-research-yu.github.io/">Haitao Yu</a>
+  (University of Tsukuba)
+</p>
+<p>
+  The current organisation team includes following members (alphabetical order):
+</p>
+<p>
+  <a href="https://www.comp.nus.edu.sg/~kanmy/">Min-Yen Kan</a>,
+  <a href="https://yisong.me/">Yisong Miao</a>, and
+  <a href="https://ii-research-yu.github.io/">Haitao Yu</a>
+</p>
