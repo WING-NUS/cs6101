@@ -361,16 +361,28 @@ We may make slight changes on the allocation for topics and provide alternative 
     <td>
       <p>
       <strong>Multimodal RAG</strong><br/>
-      Video link. 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/gE7XzDhIrm0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
-          <p>
-            Lecturers: <br/>
-          </p>
-          <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
-            <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
-            <br/>
-          </p>
+      <p>
+        Lecturers: Oshan Jayawardena, Yajing Yang, Shen Ting Ang [<a href="https://www.linkedin.com/in/angshenting/" rel="noopener noreferrer">LinkedIn</a>]
+      </p>
+
+      <p>Note: Lecture starts at 21m 45s.</p>
+
+      <ul>
+        <li><a href="https://youtu.be/gE7XzDhIrm0">Kahoot from W09</a></li>
+        <li><a href="https://www.youtube.com/live/gE7XzDhIrm0?t=300">Course Logistics</a></li>
+        <li>Section 1: <a href="https://www.youtube.com/live/gE7XzDhIrm0?t=1305">Overview of Multi-modal RAG</a> (Oshan)</li>
+        <li>Section 2: <a href="https://www.youtube.com/live/gE7XzDhIrm0?t=3120">Architecture and Methodologies</a> (Yajing)</li>
+        <li><a href="https://www.youtube.com/live/gE7XzDhIrm0?t=5100">Break</a></li>
+        <li>Section 3: <a href="https://www.youtube.com/live/gE7XzDhIrm0?t=5325">Evaluation and Applications</a> (Shen Ting)</li>
+      </ul>
+
+      <p>
+        [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w10">Lecture Slides</a>&nbsp;]
+        <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
+        <br/>
+      </p>
     </td>
   </tr>
 
