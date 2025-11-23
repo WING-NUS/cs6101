@@ -15,6 +15,45 @@ header:
 
 Here we archive and cross link all of the past projects done by our first year Ph.D. students, undergraduate and external guests that take part in our reading group.  Generally, when students and participants outside of WING join the reading group they must also complete a related project touching on some part of the lecture topics.  These projects often get presented publicly in the forum of our School of Computing's Term Project Showcase (STePS).
 
+## Projects from Semester 2510 (AY 25/26, Sem I) featured at <a href="https://uvents.nus.edu.sg/event/27th-steps">27th STePs</A>, held on 28 Nov 2025.
+
+<!--Table START-->
+<table>
+  <thead>
+    <tr>
+      <th><h1 align="center">Projects</h1></th>
+      <th><h1 align="center">Posters</h1></th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- ROW 1: Team 01-->
+    <tr id="row1">
+      <td width="70%">
+        <h1>
+          Team 01: TODO: Project Name
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">TODO: Description<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>TODO: Team Member</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 1: Team 07 Poster-->       
+      <td width="30%">
+        <a href="/STePS-2025/CS6101-01-Poster.pdf"><img src="/STePS-2025/CS6101-01-Poster.pdf" /></a>
+        <p align="center">Click the image to enlarge</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Projects from Semester 2310 (AY 23/24, Sem I) featured at <a href="https://uvents.nus.edu.sg/event/23rd-steps">23th STePs</A>, held on 15 Nov 2023.
 
 In AY23/24 Sem I, CS6101 was topically oriented on **[Large Language Models](https://uvents.nus.edu.sg/event/18th-steps/module/CS6101)**.  There were 41 students in 19 teams whose projects focused on recent research on topics related to LLMs.
