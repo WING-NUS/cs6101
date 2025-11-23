@@ -52,7 +52,346 @@ Here we archive and cross link all of the past projects done by our first year P
         <p align="center">Click the image to open PDF in a new window</p>
       </td>
     </tr>
+    <!-- ROW 2: Team 02-->
+    <tr id="row2">
+      <td width="70%">
+        <h1>
+          Team 02: TODO: Project Name
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">TODO: Description<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>TODO: Team Member</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 2: Team 02 Poster-->       
+      <td width="30%">
+        <a href="/cs6101/files/STePS-2025/CS6101-02.pdf" target="_blank">
+          <img src="/cs6101/files/STePS-2025/CS6101-02.jpg" alt="Team 02 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
+        </a>
+        <p align="center">Click the image to open PDF in a new window</p>
+      </td>
+    </tr>
+    <!-- ROW 3: Team 03-->
+    <tr id="row3">
+      <td width="70%">
+        <h1>
+          Team 03: TODO: Project Name
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">TODO: Description<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>TODO: Team Member</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 3: Team 03 Poster-->       
+      <td width="30%">
+        <a href="/cs6101/files/STePS-2025/CS6101-03.pdf" target="_blank">
+          <img src="/cs6101/files/STePS-2025/CS6101-03.jpg" alt="Team 03 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
+        </a>
+        <p align="center">Click the image to open PDF in a new window</p>
+      </td>
+    </tr>
+    <!-- ROW 4: Team 04-->
+    <tr id="row4">
+      <td width="70%">
+        <h1>
+          Team 04: TODO: Project Name
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">TODO: Description<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>TODO: Team Member</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 4: Team 04 Poster-->       
+      <td width="30%">
+        <a href="/cs6101/files/STePS-2025/CS6101-04.pdf" target="_blank">
+          <img src="/cs6101/files/STePS-2025/CS6101-04.jpg" alt="Team 04 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
+        </a>
+        <p align="center">Click the image to open PDF in a new window</p>
+      </td>
+    </tr>
+    <!-- ROW 5: Team 05-->
+    <tr id="row5">
+      <td width="70%">
+        <h1>
+          Team 05: TODO: Project Name
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">TODO: Description<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>TODO: Team Member</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 5: Team 05 Poster-->       
+      <td width="30%">
+        <a href="/cs6101/files/STePS-2025/CS6101-05.pdf" target="_blank">
+          <img src="/cs6101/files/STePS-2025/CS6101-05.jpg" alt="Team 05 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
+        </a>
+        <p align="center">Click the image to open PDF in a new window</p>
+      </td>
+    </tr>
+    <!-- ROW 6: Team 06-->
+    <tr id="row6">
+      <td width="70%">
+        <h1>
+          Team 06: TODO: Project Name
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">TODO: Description<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>TODO: Team Member</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 6: Team 06 Poster-->       
+      <td width="30%">
+        <a href="/cs6101/files/STePS-2025/CS6101-06.pdf" target="_blank">
+          <img src="/cs6101/files/STePS-2025/CS6101-06.jpg" alt="Team 06 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
+        </a>
+        <p align="center">Click the image to open PDF in a new window</p>
+      </td>
+    </tr>
+    <!-- ROW 7: Team 07-->
+    <tr id="row7">
+      <td width="70%">
+        <h1>
+          Team 07: TODO: Project Name
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">TODO: Description<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>TODO: Team Member</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 7: Team 07 Poster-->       
+      <td width="30%">
+        <a href="/cs6101/files/STePS-2025/CS6101-07.pdf" target="_blank">
+          <img src="/cs6101/files/STePS-2025/CS6101-07.jpg" alt="Team 07 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
+        </a>
+        <p align="center">Click the image to open PDF in a new window</p>
+      </td>
+    </tr>
+    <!-- ROW 8: Team 09-->
+    <tr id="row8">
+      <td width="70%">
+        <h1>
+          Team 09: TODO: Project Name
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">TODO: Description<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>TODO: Team Member</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 8: Team 09 Poster-->       
+      <td width="30%">
+        <a href="/cs6101/files/STePS-2025/CS6101-09.pdf" target="_blank">
+          <img src="/cs6101/files/STePS-2025/CS6101-09.jpg" alt="Team 09 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
+        </a>
+        <p align="center">Click the image to open PDF in a new window</p>
+      </td>
+    </tr>
+    <!-- ROW 9: Team 10-->
+    <tr id="row9">
+      <td width="70%">
+        <h1>
+          Team 10: TODO: Project Name
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">TODO: Description<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>TODO: Team Member</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 9: Team 10 Poster-->       
+      <td width="30%">
+        <a href="/cs6101/files/STePS-2025/CS6101-10.pdf" target="_blank">
+          <img src="/cs6101/files/STePS-2025/CS6101-10.jpg" alt="Team 10 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
+        </a>
+        <p align="center">Click the image to open PDF in a new window</p>
+      </td>
+    </tr>
+    <!-- ROW 10: Team 11-->
+    <tr id="row10">
+      <td width="70%">
+        <h1>
+          Team 11: TODO: Project Name
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">TODO: Description<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>TODO: Team Member</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 10: Team 11 Poster-->       
+      <td width="30%">
+        <a href="/cs6101/files/STePS-2025/CS6101-11.pdf" target="_blank">
+          <img src="/cs6101/files/STePS-2025/CS6101-11.jpg" alt="Team 11 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
+        </a>
+        <p align="center">Click the image to open PDF in a new window</p>
+      </td>
+    </tr>
+    <!-- ROW 11: Team 12-->
+    <tr id="row11">
+      <td width="70%">
+        <h1>
+          Team 12: TODO: Project Name
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">TODO: Description<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>TODO: Team Member</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 11: Team 12 Poster-->       
+      <td width="30%">
+        <a href="/cs6101/files/STePS-2025/CS6101-12.pdf" target="_blank">
+          <img src="/cs6101/files/STePS-2025/CS6101-12.jpg" alt="Team 12 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
+        </a>
+        <p align="center">Click the image to open PDF in a new window</p>
+      </td>
+    </tr>
+    <!-- ROW 12: Team 13-->
+    <tr id="row12">
+      <td width="70%">
+        <h1>
+          Team 13: TODO: Project Name
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">TODO: Description<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>TODO: Team Member</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 12: Team 13 Poster-->       
+      <td width="30%">
+        <a href="/cs6101/files/STePS-2025/CS6101-13.pdf" target="_blank">
+          <img src="/cs6101/files/STePS-2025/CS6101-13.jpg" alt="Team 13 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
+        </a>
+        <p align="center">Click the image to open PDF in a new window</p>
+      </td>
+    </tr>
+    <!-- ROW 13: Team 14-->
+    <tr id="row13">
+      <td width="70%">
+        <h1>
+          Team 14: TODO: Project Name
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">TODO: Description<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>TODO: Team Member</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 13: Team 14 Poster-->       
+      <td width="30%">
+        <a href="/cs6101/files/STePS-2025/CS6101-14.pdf" target="_blank">
+          <img src="/cs6101/files/STePS-2025/CS6101-14.jpg" alt="Team 14 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
+        </a>
+        <p align="center">Click the image to open PDF in a new window</p>
+      </td>
+    </tr>
+    <!-- ROW 14: Team 16-->
+    <tr id="row14">
+      <td width="70%">
+        <h1>
+          Team 16: TODO: Project Name
+        </h1>
+        <h2>📖 Abstract </h2>
+        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <h2>✍️ Description </h2>
+        <p style="font-size:18px">TODO: Description<BR /></p>
+        <h2>☀️ Team Member </h2>
+        <ul style="font-size:18px">
+          <li>TODO: Team Member</li>
+        </ul>
+        <h2>📻 Media Links</h2>
+        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+      </td>
+ <!-- ROW 14: Team 16 Poster-->       
+      <td width="30%">
+        <a href="/cs6101/files/STePS-2025/CS6101-16.pdf" target="_blank">
+          <img src="/cs6101/files/STePS-2025/CS6101-16.jpg" alt="Team 16 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
+        </a>
+        <p align="center">Click the image to open PDF in a new window</p>
+      </td>
+    </tr>
   </tbody>
+  
 </table>
 
 
