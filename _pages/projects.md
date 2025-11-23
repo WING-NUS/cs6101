@@ -46,11 +46,13 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
  <!-- ROW 1: Team 07 Poster-->       
       <td width="30%">
-        <object data="/cs6101/files/STePS-2025/CS6101-01.pdf#view=FitH" type="application/pdf" width="100%" height="400px" style="border: 1px solid #ccc;">
-          <iframe src="/cs6101/files/STePS-2025/CS6101-01.pdf#view=FitH" width="100%" height="400px" style="border: none;">
-            <p>Your browser does not support PDFs. <a href="/cs6101/files/STePS-2025/CS6101-01.pdf" target="_blank">Click here to download the PDF</a>.</p>
-          </iframe>
-        </object>
+        <div style="width: 100%; aspect-ratio: 3 / 4; border: 1px solid #ccc; overflow: hidden;">
+          <object data="/cs6101/files/STePS-2025/CS6101-01.pdf#view=FitH" type="application/pdf" width="100%" height="100%" style="border: none;">
+            <iframe src="/cs6101/files/STePS-2025/CS6101-01.pdf#view=FitH" width="100%" height="100%" style="border: none;">
+              <p>Your browser does not support PDFs. <a href="/cs6101/files/STePS-2025/CS6101-01.pdf" target="_blank">Click here to download the PDF</a>.</p>
+            </iframe>
+          </object>
+        </div>
         <p align="center"><a href="/cs6101/files/STePS-2025/CS6101-01.pdf" target="_blank">Click to open PDF in a new window</a></p>
       </td>
     </tr>
