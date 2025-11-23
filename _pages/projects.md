@@ -30,19 +30,22 @@ Here we archive and cross link all of the past projects done by our first year P
     <tr id="row1">
       <td width="70%">
         <h1>
-          Team 01: TODO: Project Name
+          Team 01: CompRAG: Retrieval for Multiple Hops
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <p style="font-size:18px">TODO<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">TODO: Description<BR /></p>
+        <p style="font-size:18px">CompRAG (COMPrehension and COMPosition RAG) explores how relations in a text can be expressed as composite to enhance multi-hop answering outcomes in RAG. We extract entity-relation-entity triplets from text, but innovate by leveraging Holographic Reduced Representations (HRR) [1] to compose individual triplet vectors together, preserving the direction of relations in vector embeddings. At query time, processed query vectors are matched to the most similar triplets in the index. The associated chunks form the context for the LM. By focusing retrieval on the relations present in the text rather than raw similarity or pure entity-linked graphs, CompRAG aims to bridge semantic and graph methods to improve multi-hop retrieval outcomes.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>TODO: Team Member</li>
+          <li>Indraneel Paranjape</li>
+          <li>Nayanthara Prathap</li>
+          <li>Nura Tamton</li>
+          <li>Vangmay Sachan</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
-        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-01.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 1: Team 07 Poster-->       
       <td width="30%">
@@ -56,19 +59,21 @@ Here we archive and cross link all of the past projects done by our first year P
     <tr id="row2">
       <td width="70%">
         <h1>
-          Team 02: TODO: Project Name
+          Team 02: Mixture-of-LoRA-Experts for Continual Learning in Generative Retrieval
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <p style="font-size:18px">TODO<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">TODO: Description<BR /></p>
+        <p style="font-size:18px">This project reproduces the Mixture-of-LoRA-Experts for Generative Retrieval (MixLoRA-DSI) framework to empirically study how parameter-efficient fine-tuning enables continual learning in generative retrieval systems. We implemented the full pipeline—from T5 pretraining under RQ-based DocIDs to constrained decoding—and replicated key results on MSMARCO and NQ320k datasets. Through this process, we analyzed the interactions between LoRA modules, mixture routing, and residual quantization, identifying challenges in stability, convergence, and data handling. Our findings provide practical insights into implementing rehearsal-free generative retrievers and clarify how modular fine-tuning mechanisms can balance efficiency and plasticity in large-scale language-retrieval architectures.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>TODO: Team Member</li>
+          <li>Benjamin Chek</li>
+          <li>Choong Kai Zhe</li>
+          <li>Zak Tng</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
-        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-02.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 2: Team 02 Poster-->       
       <td width="30%">
@@ -82,19 +87,21 @@ Here we archive and cross link all of the past projects done by our first year P
     <tr id="row3">
       <td width="70%">
         <h1>
-          Team 03: TODO: Project Name
+          Team 03: SLM + RAG
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <p style="font-size:18px">TODO<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">TODO: Description<BR /></p>
+        <p style="font-size:18px">With the rise of Generative AI, Small Language Models (SLMs) offer a more practical and affordable solution for industrial deployment compared to Large Language Models (LLMs). For integrating domain-specific knowledge, Retrieval-Augmented Generation (RAG) is often a more effective strategy than model fine-tuning. This project investigates the efficacy of RAG systems built upon SLMs. We will evaluate their performance and challenges across various question categories using product technical documents. The 2nd objective is to analyse whether the underlying language model size (SLM vs. LLM) significantly impacts the overall performance and reliability of the RAG system.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>TODO: Team Member</li>
+          <li>Jonathan Chen</li>
+          <li>Shyamal Narang</li>
+          <li>JF Koh</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
-        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-03.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 3: Team 03 Poster-->       
       <td width="30%">
@@ -108,19 +115,21 @@ Here we archive and cross link all of the past projects done by our first year P
     <tr id="row4">
       <td width="70%">
         <h1>
-          Team 04: TODO: Project Name
+          Team 04: Cutting Redundant Knowledge for Effective RAG
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <p style="font-size:18px">TODO<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">TODO: Description<BR /></p>
+        <p style="font-size:18px">Retrieval systems often return multiple near-duplicate documents reducing retrieval diversity and efficiency. This project addresses that challenge by clustering near-duplicates and selecting representative documents to keep Retrieval-Augmented Generation (RAG) both efficient and relevant. We evaluate two deduplication methods on their impact on RAG performance. Overall, moderate deduplication effectively reduces redundancy without harming performance, suggesting that RAG systems can safely benefit from cleaner, more diverse corpora.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>TODO: Team Member</li>
+          <li>Mingyu Lee</li>
+          <li>Swislar Tan</li>
+          <li>Ervin Teo</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
-        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-04.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 4: Team 04 Poster-->       
       <td width="30%">
@@ -134,19 +143,22 @@ Here we archive and cross link all of the past projects done by our first year P
     <tr id="row5">
       <td width="70%">
         <h1>
-          Team 05: TODO: Project Name
+          Team 05: ScholarAI:Simplifying Interdisciplinary AI Research Using GraphRAG
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <p style="font-size:18px">Enabling easier research by automated ontology extraction to generate knowledge graphs for smarter retrieval.<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">TODO: Description<BR /></p>
+        <p style="font-size:18px">This project builds a graph- and ontology-augmented QA system over AI papers from arXiv by combining GraphRAG for entity/relation-aware retrieval with OntoRAG for schema- and rule-driven reasoning. We construct a heterogeneous knowledge graph of papers, authors, methods, datasets, align it with AI ontologies (subfields, method and dataset taxonomies), and use ontological constraints to normalize terms, resolve synonyms, and support multi-hop inference.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>TODO: Team Member</li>
+          <li>Rishav Ghosh</li>
+          <li>Zaidan Sani</li>
+          <li>Nicholas Cheng</li>
+          <li>Qianbo Dong</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
-        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-05.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 5: Team 05 Poster-->       
       <td width="30%">
@@ -160,19 +172,20 @@ Here we archive and cross link all of the past projects done by our first year P
     <tr id="row6">
       <td width="70%">
         <h1>
-          Team 06: TODO: Project Name
+          Team 06: MathRAG: Retrieval-Augmented Generation for Verifying Math Solutions.
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <p style="font-size:18px">TODO<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">TODO: Description<BR /></p>
+        <p style="font-size:18px">Current evaluation of Large Language Models (LLMs) in mathematical tasks focus solely on the final results while overlook the quality of intermediate steps. Existing research on using LLM-based evaluator solely relying on its parametric reasoning ability. In this work, we explore the application of Retrieval-Augmented Generation to improve the capability of LLM-based evaluator by considering external sources of mathematical knowledge.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>TODO: Team Member</li>
+          <li>Kseniia Petukhova</li>
+          <li>Van-Hoang Nguyen</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
-        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-06.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 6: Team 06 Poster-->       
       <td width="30%">
@@ -186,19 +199,23 @@ Here we archive and cross link all of the past projects done by our first year P
     <tr id="row7">
       <td width="70%">
         <h1>
-          Team 07: TODO: Project Name
+          Team 07: Fine-Grained Multimodal RAG: Enhancing Retrieval with Object-Level Representations
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <p style="font-size:18px">TODO<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">TODO: Description<BR /></p>
+        <p style="font-size:18px">Large Vision-Language Models (LVLMs) struggle to effectively utilize retrieved visual knowledge for complex reasoning tasks, particularly those involving changes in perspective, scope, or occlusion, as demonstrated by the MRAG-Bench. Our llava-onevision-7b baseline model achieved a strong initial accuracy of 58.2%. We introduce an Object Detection Enhancement to the MRAG-Bench evaluation pipeline to push performance beyond the existing baseline by providing explicit visual grounding. This utilizes the DETR (DEtection TRansformer) model to analyze images and convert visual content (objects, counts, and spatial layout) into structured text descriptions. This structured analysis is used to create an Enhanced Prompt that guides the LLaVA model's reasoning.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>TODO: Team Member</li>
+          <li>Manaswini Talagadadivi</li>
+          <li>Shen Ting Ang</li>
+          <li>Huang Chao Ming</li>
+          <li>Benjamin Goh</li>
+          <li>Estelle Sim</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
-        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-07.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 7: Team 07 Poster-->       
       <td width="30%">
@@ -212,19 +229,19 @@ Here we archive and cross link all of the past projects done by our first year P
     <tr id="row8">
       <td width="70%">
         <h1>
-          Team 09: TODO: Project Name
+          Team 09: Automatic Accelerator Code Generation via LLM Agentic Workflow
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <p style="font-size:18px">This project explores the use of Large Language Models (LLMs) for automatic accelerator code generation and optimization. The goal is to improve performance for specific accelerators by generating CUDA C++ code targeting algorithms for Deep Learning. The method combines algorithm specification, optimization strategies, and LLM-based code synthesis.<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">TODO: Description<BR /></p>
+        <p style="font-size:18px">The project utilizes VibeCodeHPC, an agentic LLM-based auto code generation system for High Performance Computing (HPC). It automates code generation and optimization through iterative prompt refinement and multi-agent collaboration.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>TODO: Team Member</li>
+          <li>Takanori Aoki</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
-        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-09.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 8: Team 09 Poster-->       
       <td width="30%">
@@ -238,19 +255,22 @@ Here we archive and cross link all of the past projects done by our first year P
     <tr id="row9">
       <td width="70%">
         <h1>
-          Team 10: TODO: Project Name
+          Team 10: When Retrieval Misleads: Exploring Vulnerabilities in RAG
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <p style="font-size:18px">TODO<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">TODO: Description<BR /></p>
+        <p style="font-size:18px">Retrieval-Augmented Generation (RAG) has succeeded in knowledge-intensive tasks as it provides LLMs with external knowledge. However, existing works show that RAG can cause increased hallucination especially when the retrieved data involves counter-intuitive information. Therefore, we aim to study how different prompting and training techniques like chain-of-thought, retrieval-augmented fine-tuning, etc. can help mitigate these issues in small size language models.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>TODO: Team Member</li>
+          <li>Sahej Agarwal</li>
+          <li>Jundong Xu</li>
+          <li>Ruiwen Zhou</li>
+          <li>Sahajpreet Singh</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
-        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-10.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 9: Team 10 Poster-->       
       <td width="30%">
@@ -264,19 +284,19 @@ Here we archive and cross link all of the past projects done by our first year P
     <tr id="row10">
       <td width="70%">
         <h1>
-          Team 11: TODO: Project Name
+          Team 11: Contexts Ground Discourse
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <p style="font-size:18px">We study the impacts of contexts for discourse understanding.<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">TODO: Description<BR /></p>
+        <p style="font-size:18px">Contextual grounding is known to be useful for understanding discourse. However, there is a lack of precise evaluation of its specific benefits. In this project, we systematically study how context can improve the understanding of discourse relations between two arguments in the Wall Street Journal (WSJ) corpus, following the PDTB-style setting. We explore two types of context selection methods: (1) rule-based and (2) similarity-based. Our evaluation metric is our own DiSQ Score. Welcome to our poster session for more details!<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>TODO: Team Member</li>
+          <li>Yisong Miao</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
-        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-11.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 10: Team 11 Poster-->       
       <td width="30%">
@@ -290,19 +310,21 @@ Here we archive and cross link all of the past projects done by our first year P
     <tr id="row11">
       <td width="70%">
         <h1>
-          Team 12: TODO: Project Name
+          Team 12: Context-Aware RAG: Enhancing Retrieval with Contextual Information
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <p style="font-size:18px">TODO<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">TODO: Description<BR /></p>
+        <p style="font-size:18px">Retrieval-augmented generation (RAG) systems augmented with chain-of-thought (CoT) reasoning have achieved strong performance on multi-hop question answering, but they incur increased inference latency and produce lengthy contexts that hinder scalability. This project introduces two stopping criteria — a Repetition-aware criterion that detects redundant reasoning tokens and halts generation when steps begin to repeat, and a Confidence-based criterion that terminates reasoning once model's confidence surpasses a threshold. We integrate these criteria into a CoT-enabled RAG pipeline and evaluate their feasibility on HotpotQA and 2WikiMultiHopQA, measuring inference latency, generated-context length, and answer quality. Rather than presupposing benefits, we report our experimental measurements and provide a detailed analysis of the observed advantages and limitations for each method. Our results offer grounded, practical insights into when lightweight stopping mechanisms may help make CoT-RAG systems more efficient and where further refinement is required.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>TODO: Team Member</li>
+          <li>Xinpeng Liu</li>
+          <li>Ng Xuan Hern</li>
+          <li>Oshan Jayawardena</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
-        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-12.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 11: Team 12 Poster-->       
       <td width="30%">
@@ -316,19 +338,22 @@ Here we archive and cross link all of the past projects done by our first year P
     <tr id="row12">
       <td width="70%">
         <h1>
-          Team 13: TODO: Project Name
+          Team 13: Improving Retrieval with Graph Pruning
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <p style="font-size:18px">GraphRAG systems enhance retrieval-augmented generation through knowledge graphs, but scale poorly due to retrieving too much, potentially clouding context due to the lost in the middle problem. We applied a systematic framework as outlined in PathRAG; to efficiently identify and select the most reliable relational path; to the communities relation based approach introduced by Microsoft in their implementation of GraphRAG as introduced in their paper GraphRAG Approach to Query-Focused Summarization. The objective is to retrieve with higher accuracy, reducing computational cost as well as compute time by allowing us to reduce the top K documents that should be retrieved.<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">TODO: Description<BR /></p>
+        <p style="font-size:18px">GraphRAG systems construct knowledge graphs from document collections to enhance retrieval-augmented generation, but these graphs can become computationally expensive and noisy at scale. Every additional node, edge, and community increases token usage, query latency, and risks introducing irrelevant context that may degrade answer quality.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>TODO: Team Member</li>
+          <li>Aaron Toh</li>
+          <li>Frederick Amal Emerson</li>
+          <li>Hong Yi</li>
+          <li>Yong Ee</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
-        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-13.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 12: Team 13 Poster-->       
       <td width="30%">
@@ -342,19 +367,22 @@ Here we archive and cross link all of the past projects done by our first year P
     <tr id="row13">
       <td width="70%">
         <h1>
-          Team 14: TODO: Project Name
+          Team 14: A Unified Benchmark Suite for Retrieval-Augmented Speculative Decoding
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <p style="font-size:18px">TODO<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">TODO: Description<BR /></p>
+        <p style="font-size:18px">Speculative decoding (SD) accelerates LLM inference by using a smaller model (drafter) to predict the next few tokens, then using a larger model (verifier) to verify all guesses in parallel. Recent work has explored allowing the drafter to retrieve from vector database as prior, giving rise to retrieval-augmented speculative decoding (RASD). While RASD has yielded promising results, lack of flexible configurability and the existence of multiple diverging techniques make it difficult to apply in practice. We propose a plug-and-play software framework for RASD that (a) allows convenient configuration of all parts of the RASD pipeline including drafter, verifier and vector database, and (b) reports useful metrics for evaluating throughput and generation quality.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>TODO: Team Member</li>
+          <li>Ada Ho</li>
+          <li>Tan Chien Hao</li>
+          <li>Lee Kwan Tze</li>
+          <li>Benn Tan</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
-        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-14.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 13: Team 14 Poster-->       
       <td width="30%">
@@ -368,19 +396,23 @@ Here we archive and cross link all of the past projects done by our first year P
     <tr id="row14">
       <td width="70%">
         <h1>
-          Team 16: TODO: Project Name
+          Team 16: Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO: Abstract<BR /></p>
+        <p style="font-size:18px">We uncover major latency in health-related Community Notes and propose CrowdNotes+, an LLM-augmented governance framework combining evidence-grounded note augmentation, utility-guided automation, and hierarchical evaluation. The result: more timely, factual, and effective crowd-sourced health misinformation responses.<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">TODO: Description<BR /></p>
+        <p style="font-size:18px">Community Notes, the crowd-sourced misinformation governance system on X (formerly Twitter), enables users to flag misleading posts, attach contextual notes, and vote on their helpfulness. However, our analysis of 30.8K health-related notes reveals significant latency, with a median delay of 17.6 hours before the first note receives a helpfulness status. To improve responsiveness during real-world misinformation surges, we propose CrowdNotes+, a unified framework that leverages large language models (LLMs) to augment Community Notes for faster and more reliable health misinformation governance. CrowdNotes+ integrates two complementary modes: (1) evidence-grounded note augmentation and (2) utility-guided note automation, along with a hierarchical three-step evaluation that progressively assesses relevance, correctness, and helpfulness. We instantiate the framework through HealthNotes, a benchmark of 1.2K helpfulness-annotated health notes paired with a fine-tuned helpfulness judge. Experiments on fifteen LLMs reveal an overlooked loophole in current helpfulness evaluation, where stylistic fluency is mistaken for factual accuracy, and demonstrate that our hierarchical evaluation and LLM-augmented generation jointly enhance factual precision and evidence utility. These results point toward a hybrid human-AI governance model that improves both the rigor and timeliness of crowd-sourced fact-checking.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>TODO: Team Member</li>
+          <li>Jiaying Wu</li>
+          <li>Zihang Fu</li>
+          <li>Haonan Wang</li>
+          <li>Fanxiao Li</li>
+          <li>Min-Yen Kan</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="TODO: Homepage" style="font-size:18px">Homepage</a>&nbsp;]
-        [&nbsp;<a href="TODO: Poster" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-16.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 14: Team 16 Poster-->       
       <td width="30%">
