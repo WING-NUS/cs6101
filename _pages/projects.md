@@ -46,8 +46,11 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
  <!-- ROW 1: Team 07 Poster-->       
       <td width="30%">
-        <a href="/STePS-2025/CS6101-01-Poster.pdf"><img src="/STePS-2025/CS6101-01-Poster.pdf" /></a>
-        <p align="center">Click the image to enlarge</p>
+        <a href="/cs6101/files/STePS-2025/CS6101-01.pdf" style="display: block; text-align: center; padding: 20px; border: 2px solid #ccc; text-decoration: none;">
+          <span style="font-size: 48px;">📄</span><br/>
+          <span style="font-size: 16px;">View PDF Poster</span>
+        </a>
+        <p align="center">Click to view PDF</p>
       </td>
     </tr>
   </tbody>
