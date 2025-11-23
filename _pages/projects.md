@@ -46,11 +46,12 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
  <!-- ROW 1: Team 07 Poster-->       
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-01.pdf" style="display: block; text-align: center; padding: 20px; border: 2px solid #ccc; text-decoration: none;">
-          <span style="font-size: 48px;">📄</span><br/>
-          <span style="font-size: 16px;">View PDF Poster</span>
-        </a>
-        <p align="center">Click to view PDF</p>
+        <object data="/cs6101/files/STePS-2025/CS6101-01.pdf#view=FitH" type="application/pdf" width="100%" height="400px" style="border: 1px solid #ccc;">
+          <iframe src="/cs6101/files/STePS-2025/CS6101-01.pdf#view=FitH" width="100%" height="400px" style="border: none;">
+            <p>Your browser does not support PDFs. <a href="/cs6101/files/STePS-2025/CS6101-01.pdf" target="_blank">Click here to download the PDF</a>.</p>
+          </iframe>
+        </object>
+        <p align="center"><a href="/cs6101/files/STePS-2025/CS6101-01.pdf" target="_blank">Click to open PDF in a new window</a></p>
       </td>
     </tr>
   </tbody>
