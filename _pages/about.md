@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: 
   overlay_image: paul-buffington-Lwe2hbm5XKk-unsplash.jpg
   caption: "Photo credit: Paul Buffington @ [**Unsplash**](https://unsplash.com/@photobuffs)"
 #  overlay_filter: rgba(2, 115, 94, 0.5)
@@ -42,7 +41,7 @@ We may make slight changes on the allocation for topics and provide alternative 
   Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
  ************************************************** -->
 <tr>
-  <th colspan=2><b>Introduction</b></th>
+  <th colspan="2"><b>Introduction</b></th>
 </tr>
 <tr>
     <td><b>NUS Week 00</b><br />Thu, 7 Aug<br />
@@ -93,7 +92,7 @@ We may make slight changes on the allocation for topics and provide alternative 
   </tr>
 
 <tr>
-  <th colspan=2><b>LLM Generation</b></th>
+  <th colspan="2"><b>LLM Generation</b></th>
 </tr>
   <tr>
     <td><b>NUS Week 02</b><br />Thu, 21 Aug<br />
@@ -167,7 +166,7 @@ We may make slight changes on the allocation for topics and provide alternative 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/GFQd2of7ZNY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
       <p>
-            Lecturers: Barid Xi Ai [ <a href="https://baridxiai.github.io">Website</a> ] Frederick Amal Emerson [ <a href="about:blank">Website</a>] Lin Hong Yi [ <a href="https://www.hongyiii.dev/">Website</a> | <a href=" https://www.linkedin.com/in/hong-yiii/">LinkedIn</a>] Benn Tan [ <a href="https://findbenn.com">Website</a> | <a href="https://linkedin.com/in/benntan">LinkedIn</a>] Choong Kai Zhe [<a href="https://linkedin.com/in/choongkaizhe">LinkedIn</a>] Miao Yisong [ <a href="https://yisong.me/">Website</a> | <a href="https://x.com/YisongMiao">X</a> ] Lee Kwan Tze [<a href="https://www.linkedin.com/in/leekwantze/">LinkedIn</a>] <br/>
+            Lecturers: Barid Xi Ai [ <a href="https://baridxiai.github.io">Website</a> ] Frederick Amal Emerson [ <a href="about:blank">Website</a>] Lin Hong Yi [ <a href="https://www.hongyiii.dev/">Website</a> | <a href="https://www.linkedin.com/in/hong-yiii/">LinkedIn</a>] Benn Tan [ <a href="https://findbenn.com">Website</a> | <a href="https://linkedin.com/in/benntan">LinkedIn</a>] Choong Kai Zhe [<a href="https://linkedin.com/in/choongkaizhe">LinkedIn</a>] Miao Yisong [ <a href="https://yisong.me/">Website</a> | <a href="https://x.com/YisongMiao">X</a> ] Lee Kwan Tze [<a href="https://www.linkedin.com/in/leekwantze/">LinkedIn</a>] <br/>
           </p>
           <p>Note: Lecture starts at 14m20s.</p>
           <ul>
@@ -215,7 +214,7 @@ We may make slight changes on the allocation for topics and provide alternative 
   </tr>
 
 <tr>
-  <th colspan=2><b>Retrieval and Augmentation</b></th>
+  <th colspan="2"><b>Retrieval and Augmentation</b></th>
 </tr>
   <tr>
     <td><b>NUS Week 06</b><br />Thu, 18 Sep<br />
@@ -331,7 +330,7 @@ We may make slight changes on the allocation for topics and provide alternative 
   </tr>
 
 <tr>
-  <th colspan=2><b>Advanced RAG</b></th>
+  <th colspan="2"><b>Advanced RAG</b></th>
 </tr>
   <tr>
     <td><b>NUS Week 10</b><br />Thu, 23 Oct<br />
@@ -378,13 +377,13 @@ We may make slight changes on the allocation for topics and provide alternative 
           <p>Note: Lecture starts at 17m20s.</p>
           <ul>
             <li><a href="https://www.youtube.com/embed/EVGq5Xzor4E">Kahoot from W10</a></li>
-            <li><a href="https://www.youtube.com/embed/EVGq5Xzor4E&start=451">Course Logistics</a></li>
-            <li>Section 1: <a href="https://www.youtube.com/embed/EVGq5Xzor4E&start=1040">Introduction to GraphRAG (Indraneel)</a></li>
-            <li>Section 2: <a href="https://www.youtube.com/embed/EVGq5Xzor4E&start=2552">Graph Data Source (Li Zizhen)</a></li>
-            <li>Section 3: <a href="https://www.youtube.com/embed/EVGq5Xzor4E&start=3435">Query Processor (Lin Hong Yi)</a></li>
-            <li><a href="https://www.youtube.com/embed/EVGq5Xzor4E&start=4760">Break</a></li>
-            <li>Section 4: <a href="https://www.youtube.com/embed/EVGq5Xzor4E&start=5045">GraphRAG Retriever (Van-Hoang Nguyen)</a></li>
-            <li>Section 5: <a href="https://www.youtube.com/embed/EVGq5Xzor4E&start=6325">Organizer and Generator (Luis Frentzen Salim)</a></li>
+            <li><a href="https://www.youtube.com/embed/EVGq5Xzor4E?start=451">Course Logistics</a></li>
+            <li>Section 1: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?start=1040">Introduction to GraphRAG (Indraneel)</a></li>
+            <li>Section 2: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?start=2552">Graph Data Source (Li Zizhen)</a></li>
+            <li>Section 3: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?start=3435">Query Processor (Lin Hong Yi)</a></li>
+            <li><a href="https://www.youtube.com/embed/EVGq5Xzor4E?start=4760">Break</a></li>
+            <li>Section 4: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?start=5045">GraphRAG Retriever (Van-Hoang Nguyen)</a></li>
+            <li>Section 5: <a href="https://www.youtube.com/embed/EVGq5Xzor4E?start=6325">Organizer and Generator (Luis Frentzen Salim)</a></li>
           </ul>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w11">Lecture Slides</a>&nbsp;]
@@ -411,13 +410,13 @@ We may make slight changes on the allocation for topics and provide alternative 
           <p>Note: Lecture starts at 9m20s.</p>
           <ul>
             <li><a href="https://www.youtube.com/embed/UsDImE8bC6I">Kahoot from W10</a></li>
-            <li>Section 1: <a href="https://www.youtube.com/embed/UsDImE8bC6I?start=1040">Introduction (Yisong)</a></li>
-            <li>Section 2: <a href="https://www.youtube.com/embed/UsDImE8bC6I?start=1362">Provenance &amp; Authenticity: Beyond Text (Nayanthara Prathap)</a></li>
-            <li>Section 3: <a href="https://www.youtube.com/embed/UsDImE8bC6I?start=2278">Credibility-Aware RAG Methods (Nikhil Kapoor)</a></li>
-            <li>Section 4: <a href="https://www.youtube.com/embed/UsDImE8bC6I?start=3400">Pluralism &amp; Bias-Aware Source Selection (Zihang Fu)</a></li>
-            <li>Section 5: <a href="https://www.youtube.com/embed/UsDImE8bC6I?start=4481">Factuality &amp; Attribution Measurement (Jiecheng Jiang)</a></li>
-            <li>Section 6: <a href="https://www.youtube.com/embed/UsDImE8bC6I?start=4947">Uncertainty, Calibration &amp; Abstention (Aaron Toh)</a></li>
-            <li>Section 7: <a href="https://www.youtube.com/embed/UsDImE8bC6I?start=5664">System Design &amp; Reporting Standards (Jiaying Wu)</a></li>
+            <li>Section 1: <a href="https://www.youtube.com/embed/UsDImE8bC6I?start=560">Introduction (Yisong)</a></li>
+            <li>Section 2: <a href="https://www.youtube.com/embed/UsDImE8bC6I?start=1125">Provenance &amp; Authenticity: Beyond Text (Nayanthara Prathap)</a></li>
+            <li>Section 3: <a href="https://www.youtube.com/embed/UsDImE8bC6I?start=2555">Credibility-Aware RAG Methods (Nikhil Kapoor)</a></li>
+            <li>Section 4: <a href="https://www.youtube.com/embed/UsDImE8bC6I?start=3600">Pluralism &amp; Bias-Aware Source Selection (Zihang Fu)</a></li>
+            <li>Section 5: <a href="https://www.youtube.com/embed/UsDImE8bC6I?start=4490">Factuality &amp; Attribution Measurement (Jiecheng Jiang)</a></li>
+            <li>Section 6: <a href="https://www.youtube.com/embed/UsDImE8bC6I?start=5580">Uncertainty, Calibration &amp; Abstention (Aaron Toh)</a></li>
+            <li>Section 7: <a href="https://www.youtube.com/embed/UsDImE8bC6I?start=6260">System Design &amp; Reporting Standards (Jiaying Wu)</a></li>
           </ul>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w12">Lecture Slides</a>&nbsp;]
