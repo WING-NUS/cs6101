@@ -56,7 +56,6 @@ We may make slight changes on the allocation for topics and provide alternative 
             Lecturers: Min [ <a href="http://www.comp.nus.edu.sg/~kanmy/">Website</a> ] <br/>
 
             Note: lecture starts at 1h07m.
-
           </p>
           <p>
             [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w00">Lecture Slides</a>&nbsp;]
@@ -75,7 +74,7 @@ We may make slight changes on the allocation for topics and provide alternative 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/eRm1HQnG_tc" frameborder="0" allow="autoplay; encrypted-media" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </p>
       <p>
-            Lecturers: Min [ <a href="http://www.comp.nus.edu.sg/~kanmy/">Website</a> ] Haitao [ <a href="https://ii-research-yu.github.io/">Website</a> ]<br/>
+            Lecturers: Min [ <a href="http://www.comp.nus.edu.sg/~kanmy/">Website</a> ], Haitao [ <a href="https://ii-research-yu.github.io/">Website</a> ]<br/>
           </p>
           <p>Note: Lecture starts at 24m19s.</p>
           <ul>
@@ -103,8 +102,8 @@ We may make slight changes on the allocation for topics and provide alternative 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/6BA8C2AcaBY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
       <p>
-            Lecturers: Sahej [ <a href="https://www.linkedin.com/in/sahej-agarwal/">LinkedIn</a> | <a href="https://www.github.com/SahejAgarwal05">Github</a> ] Chuen Yang [ <a href="https://www.linkedin.com/in/chuen-yang-beh-27545b201/">LinkedIn</a> ] Benjamin [ <a href="https://www.linkedin.com/in/benjamin-chek">LinkedIn</a> ]<br/>
-            Ervin [ <a href="https://www.linkedin.com/in/ervinteo/">LinkedIn</a> ] Jiaying [<a href="https://www.linkedin.com/in/jiayingwu19/">LinkedIn</a> ] Yajing [<a href="https://www.linkedin.com/in/yajing-yang-737629140/">LinkedIn</a> ]
+            Lecturers: Sahej [ <a href="https://www.linkedin.com/in/sahej-agarwal/">LinkedIn</a> | <a href="https://www.github.com/SahejAgarwal05">Github</a> ], Chuen Yang [ <a href="https://www.linkedin.com/in/chuen-yang-beh-27545b201/">LinkedIn</a> ], Benjamin [ <a href="https://www.linkedin.com/in/benjamin-chek">LinkedIn</a> ],
+            Ervin [ <a href="https://www.linkedin.com/in/ervinteo/">LinkedIn</a> ], Jiaying [<a href="https://www.linkedin.com/in/jiayingwu19/">LinkedIn</a> ], Yajing [<a href="https://www.linkedin.com/in/yajing-yang-737629140/">LinkedIn</a> ]
           </p>
           <p>Note: Lecture starts at 12m46s.</p>
           <ul>
@@ -139,7 +138,7 @@ We may make slight changes on the allocation for topics and provide alternative 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/NO4Q3ghfYKU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
       <p>
-            Lecturers: Sahajpreet Singh [ <a href="https://www.linkedin.com/in/sahajpreet-singh">LinkedIn</a> | <a href="https://x.com/Phy_Shro">Twitter</a> ] Ng Xuan Hern [ <a href="http://www.linkedin.com/in/ngxuanhern">LinkedIn</a> ] Aaron Toh [ <a href="https://www.linkedin.com/in/aaron-toh">LinkedIn</a> ] Yong Ee [ <a href="https://www.linkedin.com/in/yongee">LinkedIn</a> ] Shweta Patel [ <a href="https://wing-nus.github.io/cs6101">LinkedIn</a> ]<br/>
+            Lecturers: Sahajpreet Singh [ <a href="https://www.linkedin.com/in/sahajpreet-singh">LinkedIn</a> | <a href="https://x.com/Phy_Shro">Twitter</a> ], Ng Xuan Hern [ <a href="http://www.linkedin.com/in/ngxuanhern">LinkedIn</a> ], Aaron Toh [ <a href="https://www.linkedin.com/in/aaron-toh">LinkedIn</a> ], Yong Ee [ <a href="https://www.linkedin.com/in/yongee">LinkedIn</a> ], Shweta Patel [ <a href="https://wing-nus.github.io/cs6101">LinkedIn</a> ]<br/>
           </p>
           <p>Note: Lecture starts at 14m40s.</p>
           <ul>
@@ -166,7 +165,7 @@ We may make slight changes on the allocation for topics and provide alternative 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/GFQd2of7ZNY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
       <p>
-            Lecturers: Barid Xi Ai [ <a href="https://baridxiai.github.io">Website</a> ] Frederick Amal Emerson [ <a href="about:blank">Website</a>] Lin Hong Yi [ <a href="https://www.hongyiii.dev/">Website</a> | <a href="https://www.linkedin.com/in/hong-yiii/">LinkedIn</a>] Benn Tan [ <a href="https://findbenn.com">Website</a> | <a href="https://linkedin.com/in/benntan">LinkedIn</a>] Choong Kai Zhe [<a href="https://linkedin.com/in/choongkaizhe">LinkedIn</a>] Miao Yisong [ <a href="https://yisong.me/">Website</a> | <a href="https://x.com/YisongMiao">X</a> ] Lee Kwan Tze [<a href="https://www.linkedin.com/in/leekwantze/">LinkedIn</a>] <br/>
+            Lecturers: Barid Xi Ai [ <a href="https://baridxiai.github.io">Website</a> ], Frederick Amal Emerson [ <a href="about:blank">Website</a>], Lin Hong Yi [ <a href="https://www.hongyiii.dev/">Website</a> | <a href="https://www.linkedin.com/in/hong-yiii/">LinkedIn</a>], Benn Tan [ <a href="https://findbenn.com">Website</a> | <a href="https://linkedin.com/in/benntan">LinkedIn</a>], Choong Kai Zhe, [<a href="https://linkedin.com/in/choongkaizhe">LinkedIn</a>] Miao Yisong [ <a href="https://yisong.me/">Website</a> | <a href="https://x.com/YisongMiao">X</a> ], Lee Kwan Tze [<a href="https://www.linkedin.com/in/leekwantze/">LinkedIn</a>] <br/>
           </p>
           <p>Note: Lecture starts at 14m20s.</p>
           <ul>
@@ -196,7 +195,7 @@ We may make slight changes on the allocation for topics and provide alternative 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/Xd3LZvhzofs?si=_BGCp7wYW608Q5dn"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
       <p>
-            Lecturers: Takanori Aoki [ <a href="https://www.linkedin.com/in/takanori-aoki-7900a438">LinkedIn</a> ] Vangmay Sachan [ <a href="https://vangmay.github.io/">Website</a> ] Zihang Fu [ <a href="https://wing.comp.nus.edu.sg/author/zihang-fu/">Website</a> ] Hongxu Liu, Benjamin Goh [ <a href="https://www.linkedin.com/in/benjamin-goh-45a0a7307">LinkedIn</a> ]<br/>
+            Lecturers: Takanori Aoki [ <a href="https://www.linkedin.com/in/takanori-aoki-7900a438">LinkedIn</a> ], Vangmay Sachan [ <a href="https://vangmay.github.io/">Website</a> ], Zihang Fu [ <a href="https://wing.comp.nus.edu.sg/author/zihang-fu/">Website</a> ], Hongxu Liu, Benjamin Goh [ <a href="https://www.linkedin.com/in/benjamin-goh-45a0a7307">LinkedIn</a> ]<br/>
           </p>
           <ul>
             <li>Section 1: <a href="https://www.youtube.com/embed/Xd3LZvhzofs?si=U-fGAEdf4FYzIKod&amp;start=40">Intro to SFT, ICL, Scaling and Scaling Laws (Vangmay)</a></li>
@@ -225,7 +224,7 @@ We may make slight changes on the allocation for topics and provide alternative 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/4-fv-J2Jirw?si=KV2R5PczXDe77MV1"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
       <p>
-            Lecturers: Huang Chao Ming [<a href="https://www.linkedin.com/in/chao-ming-huang/">LinkedIn</a>] Ada Ho [ <a href="https://www.linkedin.com/in/scallion3008/">LinkedIn</a> | <a href="https://github.com/Scallion3008">Github</a>] Estelle Sim [<a href="http://www.linkedin.com/in/estelle-sim-862763385">LinkedIn</a>] Swislar [<a href="https://www.linkedin.com/in/swislar/">LinkedIn</a>] Li Zizhen [<a href="http://www.linkedin.com/in/zizhen-li-3b26492b8">LinkedIn</a>] Xu Jundong []<br/>
+            Lecturers: Huang Chao Ming [<a href="https://www.linkedin.com/in/chao-ming-huang/">LinkedIn</a>], Ada Ho [ <a href="https://www.linkedin.com/in/scallion3008/">LinkedIn</a> | <a href="https://github.com/Scallion3008">Github</a>], Estelle Sim [<a href="http://www.linkedin.com/in/estelle-sim-862763385">LinkedIn</a>], Swislar [<a href="https://www.linkedin.com/in/swislar/">LinkedIn</a>], Li Zizhen [<a href="http://www.linkedin.com/in/zizhen-li-3b26492b8">LinkedIn</a>], Xu Jundong<br/>
           </p>
           <p>Note: Lecture starts at 19m43s.</p>
           <ul>
@@ -253,7 +252,7 @@ We may make slight changes on the allocation for topics and provide alternative 
             <iframe width="560" height="315" src="https://www.youtube.com/embed/hQ7cUa32-gI?si=FUhWTeEvJohvbe_S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </p>
       <p>
-            Lecturers: Mingyu Lee [ <a href="http://linkedin.com/in/mingyu-lee-329338197">LinkedIn</a> ] Nura Tamton [ <a href="https://www.linkedin.com/in/nura-tamton-b34a4a229/">LinkedIn</a> ] Zak Tng [ <a href="https://www.linkedin.com/in/zaktng/">LinkedIn</a> ] Ruiwen Zhou [ <a href="https://skyriver-2000.github.io/">GitHub</a> ] Barid Xi Ai [ <a href="https://baridxiai.github.io/">GitHub</a> ] Sahej Agarwal []<br/>
+            Lecturers: Mingyu Lee [ <a href="http://linkedin.com/in/mingyu-lee-329338197">LinkedIn</a> ], Nura Tamton [ <a href="https://www.linkedin.com/in/nura-tamton-b34a4a229/">LinkedIn</a> ], Zak Tng [ <a href="https://www.linkedin.com/in/zaktng/">LinkedIn</a> ], Ruiwen Zhou [ <a href="https://skyriver-2000.github.io/">GitHub</a> ], Barid Xi Ai [ <a href="https://baridxiai.github.io/">GitHub</a> ], Sahej Agarwal<br/>
           </p>
           <p>Note: Lecture starts at 11m07s.</p>
           <ul>
@@ -280,7 +279,7 @@ We may make slight changes on the allocation for topics and provide alternative 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/z5D1p5FHyhk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
       <p>
-            Lecturers: Jonathan Chen [] Nicholas Cheng [<a href="https://www.linkedin.com/in/nicholas-cheng-">LinkedIn</a>] Qianbo Dong [<a href="https://www.linkedin.com/in/qianbo-d-3ab68a196/">LinkedIn</a>] Zaidan Sani [<a href="http://www.linkedin.com/in/mzaidanbs">LinkedIn</a> | <a href="https://zaidansani.github.io/">Website</a>]<br/>
+            Lecturers: Jonathan Chen [] Nicholas Cheng [<a href="https://www.linkedin.com/in/nicholas-cheng-">LinkedIn</a>], Qianbo Dong [<a href="https://www.linkedin.com/in/qianbo-d-3ab68a196/">LinkedIn</a>], Zaidan Sani [<a href="http://www.linkedin.com/in/mzaidanbs">LinkedIn</a> | <a href="https://zaidansani.github.io/">Website</a>]<br/>
           </p>
           <p>Note: Lecture starts at 15m30s.</p> 
           <ul>
@@ -304,7 +303,6 @@ We may make slight changes on the allocation for topics and provide alternative 
     <td>
       <p>
       <strong>Bootstrapping and Iterative Retrieval</strong><br/>
-      Relevance Feedback / Rocchio.
       <iframe width="560" height="315" src="https://www.youtube.com/embed/5RpvdmEDEbQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
       <p>
@@ -372,7 +370,7 @@ We may make slight changes on the allocation for topics and provide alternative 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/EVGq5Xzor4E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
       <p>
-            Lecturers: Indraneel Paranjape [<a href="http://linkedin.com/in/indraneel-p">LinkedIn</a>] Luis Frentzen Salim [<a href="https://www.linkedin.com/in/luisfrentzen/">LinkedIn</a>] Li Zizhen [] Van-Hoang Nguyen [<a href="https://www.linkedin.com/in/nguyenvanhoang7398/">LinkedIn</a>] Lin Hong Yi [<a href="https://www.linkedin.com/in/hong-yiii/">LinkedIn</a>]<br/>
+            Lecturers: Indraneel Paranjape [<a href="http://linkedin.com/in/indraneel-p">LinkedIn</a>], Luis Frentzen Salim [<a href="https://www.linkedin.com/in/luisfrentzen/">LinkedIn</a>], Li Zizhen, Van-Hoang Nguyen [<a href="https://www.linkedin.com/in/nguyenvanhoang7398/">LinkedIn</a>], Lin Hong Yi [<a href="https://www.linkedin.com/in/hong-yiii/">LinkedIn</a>]<br/>
           </p>
           <p>Note: Lecture starts at 17m20s.</p>
           <ul>
@@ -404,7 +402,7 @@ We may make slight changes on the allocation for topics and provide alternative 
       </p>
           <p>
             Lecturers: 
-            Yisong Miao [ <a href="https://yisong.me/">Website</a> ] Nayanthara Prathap  Nikhil Kapoor Zihang Fu [ <a href="https://wing.comp.nus.edu.sg/author/zihang-fu/">Website</a> ] Jiecheng Jiang Aaron Toh [ <a href="https://www.linkedin.com/in/aaron-toh">LinkedIn</a> ] Jiaying Wu [<a href="https://www.linkedin.com/in/jiayingwu19/">LinkedIn</a> ]
+            Yisong Miao [ <a href="https://yisong.me/">Website</a> ], Nayanthara Prathap, Nikhil Kapoor, Zihang Fu [ <a href="https://wing.comp.nus.edu.sg/author/zihang-fu/">Website</a> ], Jiecheng Jiang Aaron Toh [ <a href="https://www.linkedin.com/in/aaron-toh">LinkedIn</a> ], Jiaying Wu [<a href="https://www.linkedin.com/in/jiayingwu19/">LinkedIn</a> ]
           <br/>
           </p>
           <p>Note: Lecture starts at 9m20s.</p>
@@ -432,15 +430,23 @@ We may make slight changes on the allocation for topics and provide alternative 
     <td>
       <p>
       <strong>RAG Efficiency</strong><br/>
-      Speculative RAG.  Long Context Problems (Lost in the Middle).
-
-      Video link. 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/EeOomNMpsqo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </p>
           <p>
-            Lecturers: <br/>
+            Lecturers: JF Koh, Rishav, Chien Hao, Manaswini, Yong Ee [ <a href="https://www.linkedin.com/in/yongee">LinkedIn</a> ]
+<br/>
           </p>
+          <p>Note: Lecture starts at 9m20s.</p>
+          <ul>
+            <li><a href="https://www.youtube.com/embed/EeOomNMpsqo">Kahoot! from W12</a></li>
+            <li>Section 1: <a href="https://www.youtube.com/embed/EeOomNMpsqo?start=551">Lost-in-the-Middle and mitigations (JF Koh)</a></li>
+            <li>Section 2: <a href="https://www.youtube.com/embed/EeOomNMpsqo?start=2435">Advanced Retrieval (Rishav Ghosh)</a></li>
+            <li>Section 3: <a href="https://www.youtube.com/embed/EeOomNMpsqo?start=4400">Efficient Reranking (Chien Hao)</a></li>
+            <li>Section 4: <a href="https://www.youtube.com/embed/EeOomNMpsqo?start=5930">Federated Search (Manaswini)</a></li>
+            <li>Section 5: <a href="https://www.youtube.com/embed/EeOomNMpsqo?start=6745">Meta-data and Filtering (Yong)</a></li>
+          </ul>
           <p>
-            [&nbsp;<a href="http://example.com">Lecture Slides</a>&nbsp;]
+            [&nbsp;<a href="http://soc-n.us/cs6101-t2510-w13">Lecture Slides</a>&nbsp;]
             <!-- [&nbsp;<a href="http://bit.ly/cs6101-t2310-w00-scribe">Scribe Notes</a>&nbsp;]  -->
             <br/>
           </p>
@@ -448,8 +454,6 @@ We may make slight changes on the allocation for topics and provide alternative 
   </tr>
 </tbody>
 </table>
-
-
 
 <h2 id="org">Organizers</h2>
 
@@ -461,7 +465,7 @@ We may make slight changes on the allocation for topics and provide alternative 
   (University of Tsukuba)
 </p>
 <p>
-  The current organisation team includes following members (alphabetical order):
+  The organisation team for the T2510 iteration includes the following members (alphabetical order):
 </p>
 <p>
   <a href="https://www.comp.nus.edu.sg/~kanmy/">Min-Yen Kan</a>,
