@@ -544,7 +544,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
           <li>Liu Yong, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/yong-liu-b1037513/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href=" https://github.com/lindsey98/DialogWAE">Homepage</a>&nbsp;]
+        [&nbsp;<a href="https://github.com/lindsey98/DialogWAE">Homepage</a>&nbsp;]
         [&nbsp;<a href="https://postimg.cc/sQN3hscm">Poster</a>&nbsp;]
       </td>
  <!-- ROW 4:  Team 01 Poster-->       
@@ -824,7 +824,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
           <li>Liu Yong, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/yong-liu-b1037513/?originalSubdomain=sg">LinkedIn</a>&nbsp;]</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href=" https://github.com/lindsey98/DialogWAE">Homepage</a>&nbsp;]
+        [&nbsp;<a href="https://github.com/lindsey98/DialogWAE">Homepage</a>&nbsp;]
         [&nbsp;<a href="https://postimg.cc/sQN3hscm">Poster</a>&nbsp;]
       </td>
  <!-- ROW 4:  Team 01 Poster-->       
