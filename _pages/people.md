@@ -21,7 +21,7 @@ Participants: You need to edit this page with a pull request.  You can do this w
 
 Facilitators: 
 * [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy)
-* [Hai-Tao Yu](https://ii-research-yu.github.io/)
+* [Hai-Tao Yu](https://ii-research-yu.github.io/) (T2510)
 * [Michael Qizhe Xie](http://www.michaelxie.com/) (T2310)
 
 WING and NUS Postgraduate Students:
