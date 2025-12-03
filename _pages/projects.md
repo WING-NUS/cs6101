@@ -165,7 +165,11 @@ Here we archive and cross link all of the past projects done by our first year P
           </li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a
+            href="https://github.com/rollingpencil/scholar-ai-rag"
+            style="font-size: 18px"
+            >GitHub Repository</a
+        >&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-05.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 5: Team 05 Poster-->       
