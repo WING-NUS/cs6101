@@ -90,7 +90,7 @@ Here we archive and cross link all of the past projects done by our first year P
           Team 03: SLM + RAG
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO<BR /></p>
+        <p style="font-size:18px">The project focuses on study of efficacy of RAG solution built on SLMs for domain specific knowledge task.<BR /></p>
         <h2>✍️ Description </h2>
         <p style="font-size:18px">With the rise of Generative AI, Small Language Models (SLMs) offer a more practical and affordable solution for industrial deployment compared to Large Language Models (LLMs). For integrating domain-specific knowledge, Retrieval-Augmented Generation (RAG) is often a more effective strategy than model fine-tuning. This project investigates the efficacy of RAG systems built upon SLMs. We will evaluate their performance and challenges across various question categories using product technical documents. The 2nd objective is to analyse whether the underlying language model size (SLM vs. LLM) significantly impacts the overall performance and reliability of the RAG system.<BR /></p>
         <h2>☀️ Team Member </h2>
@@ -235,9 +235,10 @@ Here we archive and cross link all of the past projects done by our first year P
           Team 09: Automatic Accelerator Code Generation via LLM Agentic Workflow
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">This project explores the use of Large Language Models (LLMs) for automatic accelerator code generation and optimization. The goal is to improve performance for specific accelerators by generating CUDA C++ code targeting algorithms for Deep Learning. The method combines algorithm specification, optimization strategies, and LLM-based code synthesis.<BR /></p>
+        <p style="font-size:18px">This project explores the use of Large Language Models (LLMs) for automatic accelerator code generation and optimization.<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">The project utilizes VibeCodeHPC, an agentic LLM-based auto code generation system for High Performance Computing (HPC). It automates code generation and optimization through iterative prompt refinement and multi-agent collaboration.<BR /></p>
+        <p style="font-size:18px">The project aims to improve performance for GPU by generating CUDA C++ code, targeting algorithms commonly used for Deep Learning. <br>
+        The project utilizes VibeCodeHPC, an agentic LLM-based auto code generation system for High Performance Computing (HPC). It automates code generation and optimization through iterative prompt refinement and multi-agent collaboration.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
           <li>Takanori Aoki</li>
