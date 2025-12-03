@@ -369,22 +369,22 @@ Here we archive and cross link all of the past projects done by our first year P
         <h1>
           Team 14: A Unified Benchmark Suite for Retrieval-Augmented Speculative Decoding
         </h1>
-        <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO<BR /></p>
-        <h2>✍️ Description </h2>
+        <h2>:book: Abstract </h2>
+        <p style="font-size:18px">Retrieval-augmented speculative decoding has delivered promising gains in prior work, but thus far there has been no effort to make it production-ready. To our knowledge, we are the first to try.</p>
+        <h2>:writing_hand: Description </h2>
         <p style="font-size:18px">Speculative decoding (SD) accelerates LLM inference by using a smaller model (drafter) to predict the next few tokens, then using a larger model (verifier) to verify all guesses in parallel. Recent work has explored allowing the drafter to retrieve from vector database as prior, giving rise to retrieval-augmented speculative decoding (RASD). While RASD has yielded promising results, lack of flexible configurability and the existence of multiple diverging techniques make it difficult to apply in practice. We propose a plug-and-play software framework for RASD that (a) allows convenient configuration of all parts of the RASD pipeline including drafter, verifier and vector database, and (b) reports useful metrics for evaluating throughput and generation quality.<BR /></p>
-        <h2>☀️ Team Member </h2>
+        <h2>:sunny: Team Member </h2>
         <ul style="font-size:18px">
-          <li>Ada Ho</li>
+          <li>Ada Ho, NUS SoC Undergraduate [ <a href="https://scallion3008.github.io/">Blog</a>, <a href="https://www.linkedin.com/in/scallion3008/">LinkedIn</a> ]</li>
           <li>Tan Chien Hao</li>
-          <li>Lee Kwan Tze</li>
+          <li>Lee Kwan Tze, NUS Undergraduate Student</li>
           <li>Benn Tan</li>
         </ul>
-        <h2>📻 Media Links</h2>
+        <h2>:radio: Media Links</h2>
         [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-14.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
- <!-- ROW 13: Team 14 Poster-->       
+ <!-- ROW 13: Team 14 Poster-->
       <td width="30%">
         <a href="/cs6101/files/STePS-2025/CS6101-14.pdf" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-14.jpg" alt="Team 14 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
