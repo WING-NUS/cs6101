@@ -118,14 +118,14 @@ Here we archive and cross link all of the past projects done by our first year P
           Team 04: Cutting Redundant Knowledge for Effective RAG
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO<BR /></p>
+        <p style="font-size:18px">Evaluating the impact of corpus deduplication (SimHash, MinHash) on RAG retrieval efficiency and downstream model accuracy.<BR /></p>
         <h2>✍️ Description </h2>
         <p style="font-size:18px">Retrieval systems often return multiple near-duplicate documents reducing retrieval diversity and efficiency. This project addresses that challenge by clustering near-duplicates and selecting representative documents to keep Retrieval-Augmented Generation (RAG) both efficient and relevant. We evaluate two deduplication methods on their impact on RAG performance. Overall, moderate deduplication effectively reduces redundancy without harming performance, suggesting that RAG systems can safely benefit from cleaner, more diverse corpora.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>Mingyu Lee</li>
-          <li>Swislar Tan</li>
-          <li>Ervin Teo</li>
+          <li>Mingyu Lee [&nbsp;<a href="http://linkedin.com/in/mingyu-lee-329338197">LinkedIn</a>&nbsp;]</li>
+          <li>Swislar Tan [&nbsp;<a href="https://www.linkedin.com/in/swislar/">LinkedIn</a>&nbsp;]</li>
+          <li>Ervin Teo [&nbsp;<a href="https://www.linkedin.com/in/ervinteo/">LinkedIn</a>&nbsp;]</li>
         </ul>
         <h2>📻 Media Links</h2>
         [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
@@ -148,13 +148,21 @@ Here we archive and cross link all of the past projects done by our first year P
         <h2>📖 Abstract </h2>
         <p style="font-size:18px">Enabling easier research by automated ontology extraction to generate knowledge graphs for smarter retrieval.<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">This project builds a graph- and ontology-augmented QA system over AI papers from arXiv by combining GraphRAG for entity/relation-aware retrieval with OntoRAG for schema- and rule-driven reasoning. We construct a heterogeneous knowledge graph of papers, authors, methods, datasets, align it with AI ontologies (subfields, method and dataset taxonomies), and use ontological constraints to normalize terms, resolve synonyms, and support multi-hop inference.<BR /></p>
+        <p style="font-size:18px">This project builds a graph- and ontology-augmented QA system over AI papers from arXiv by combining GraphRAG for entity/relation-aware retrieval with OntoRAG for schema- and rule-driven reasoning. We construct a heterogeneous knowledge graph of papers, authors, methods, datasets, align it with AI ontologies (subfields, method and dataset taxonomies), and use ontological constraints to normalize terms, resolve synonyms, and support multi-hop inference<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>Rishav Ghosh</li>
-          <li>Zaidan Sani</li>
-          <li>Nicholas Cheng</li>
-          <li>Qianbo Dong</li>
+          <li>
+            Rishav Ghosh, External Guest [&nbsp;<a href="https://www.linkedin.com/in/rishavghosh605/">LinkedIn</a>&nbsp;]
+          </li>
+          <li>
+            Zaidan Sani, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/mzaidanbsani/">LinkedIn</a>&nbsp;]
+          </li>
+          <li>
+            Nicholas Cheng, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/nicholas-cheng-/">LinkedIn</a>&nbsp;]
+          </li>
+          <li>
+            Qianbo Dong, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/qianbodong/">LinkedIn</a>&nbsp;]
+          </li>
         </ul>
         <h2>📻 Media Links</h2>
         [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
@@ -241,7 +249,7 @@ Here we archive and cross link all of the past projects done by our first year P
         The project utilizes VibeCodeHPC, an agentic LLM-based auto code generation system for High Performance Computing (HPC). It automates code generation and optimization through iterative prompt refinement and multi-agent collaboration.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>Takanori Aoki</li>
+          <li>Takanori Aoki [&nbsp;<a href="https://www.linkedin.com/in/takanori-aoki-7900a438/">LinkedIn</a>&nbsp;]</li>
         </ul>
         <h2>📻 Media Links</h2>
         [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
