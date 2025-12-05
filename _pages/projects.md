@@ -62,17 +62,17 @@ Here we archive and cross link all of the past projects done by our first year P
           Team 02: Mixture-of-LoRA-Experts for Continual Learning in Generative Retrieval
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO<BR /></p>
+        <p style="font-size:18px">This project implements the MixLoRA-DSI pipeline to explore continual learning in generative retrieval systems via the usage of LoRA experts. <BR /></p>
         <h2>✍️ Description </h2>
         <p style="font-size:18px">This project reproduces the Mixture-of-LoRA-Experts for Generative Retrieval (MixLoRA-DSI) framework to empirically study how parameter-efficient fine-tuning enables continual learning in generative retrieval systems. We implemented the full pipeline—from T5 pretraining under RQ-based DocIDs to constrained decoding—and replicated key results on MSMARCO and NQ320k datasets. Through this process, we analyzed the interactions between LoRA modules, mixture routing, and residual quantization, identifying challenges in stability, convergence, and data handling. Our findings provide practical insights into implementing rehearsal-free generative retrievers and clarify how modular fine-tuning mechanisms can balance efficiency and plasticity in large-scale language-retrieval architectures.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>Benjamin Chek</li>
-          <li>Choong Kai Zhe</li>
+          <li>Benjamin Chek [&nbsp;<a href="https://www.linkedin.com/in/benjamin-chek" style="font-size:18px">LinkedIn</a>&nbsp;]</li>
+          <li>Choong Kai Zhe [&nbsp;<a href="https://www.linkedin.com/in/choong-kai-zhe" style="font-size:18px">LinkedIn</a>&nbsp;]</li>
           <li>Zak Tng</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="https://github.com/exxakt/MoLE-for-GR/tree/main" style="font-size:18px">GitHub Repository</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-02.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 2: Team 02 Poster-->       
@@ -199,7 +199,6 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Van-Hoang Nguyen [&nbsp;<a href="https://www.linkedin.com/in/nguyenvanhoang7398/">LinkedIn</a>&nbsp;]</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-06.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 6: Team 06 Poster-->       
@@ -256,7 +255,6 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Takanori Aoki [&nbsp;<a href="https://www.linkedin.com/in/takanori-aoki-7900a438/">LinkedIn</a>&nbsp;]</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-09.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 8: Team 09 Poster-->       
