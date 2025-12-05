@@ -100,7 +100,7 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>JF Koh</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="https://github.com/jfkoh/nus_wing_rag_team3" style="font-size:18px">GitHub Repository</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-03.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 3: Team 03 Poster-->       
@@ -128,7 +128,6 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Ervin Teo [&nbsp;<a href="https://www.linkedin.com/in/ervinteo/">LinkedIn</a>&nbsp;]</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-04.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 4: Team 04 Poster-->       
