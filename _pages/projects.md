@@ -33,18 +33,18 @@ Here we archive and cross link all of the past projects done by our first year P
           Team 01: CompRAG: Retrieval for Multiple Hops
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO<BR /></p>
+        <p style="font-size:18px">CompRAG enhances multi-hop RAG by composing entity–relation-entity triplets with HRR embeddings, enabling relation-focused retrieval that bridges semantic and graph-based methods.<BR /></p>
         <h2>✍️ Description </h2>
         <p style="font-size:18px">CompRAG (COMPrehension and COMPosition RAG) explores how relations in a text can be expressed as composite to enhance multi-hop answering outcomes in RAG. We extract entity-relation-entity triplets from text, but innovate by leveraging Holographic Reduced Representations (HRR) [1] to compose individual triplet vectors together, preserving the direction of relations in vector embeddings. At query time, processed query vectors are matched to the most similar triplets in the index. The associated chunks form the context for the LM. By focusing retrieval on the relations present in the text rather than raw similarity or pure entity-linked graphs, CompRAG aims to bridge semantic and graph methods to improve multi-hop retrieval outcomes.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>Indraneel Paranjape</li>
-          <li>Nayanthara Prathap</li>
-          <li>Nura Tamton</li>
-          <li>Vangmay Sachan</li>
+          <li>Indraneel Paranjape, External Guest [&nbsp;<a href="https://www.linkedin.com/in/indraneel-p/">LinkedIn</a>&nbsp;]</li>
+          <li>Nayanthara Prathap, External Guest [&nbsp;<a href="https://www.linkedin.com/in/nayanthara-prathap/">LinkedIn</a>&nbsp;]</li>
+          <li>Nura Tamton, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/nura-tamton/">LinkedIn</a>&nbsp;]</li>
+          <li>Vangmay Sachan, NUS Undergraduate Student [&nbsp;<a href="https://www.linkedin.com/in/vangmay-sachan-3582b5213/">LinkedIn</a>&nbsp;]</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
+        [&nbsp;<a href="https://github.com/indraneelrp/CompRAG" style="font-size:18px">GitHub Repository</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-01.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 1: Team 07 Poster-->       
