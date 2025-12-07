@@ -227,7 +227,6 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Estelle Sim</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-07.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 7: Team 07 Poster-->       
@@ -282,7 +281,6 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Sahajpreet Singh</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-10.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 9: Team 10 Poster-->       
@@ -308,7 +306,6 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Yisong Miao</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-11.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 10: Team 11 Poster-->       
@@ -336,7 +333,6 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Oshan Jayawardena</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-12.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 11: Team 12 Poster-->       
@@ -365,7 +361,6 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Yong Ee</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-13.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 12: Team 13 Poster-->       
@@ -394,7 +389,6 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Benn Tan</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-14.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 13: Team 14 Poster-->
@@ -424,7 +418,6 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Min-Yen Kan</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://example.com" style="font-size:18px">Homepage</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-16.pdf" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 14: Team 16 Poster-->       
