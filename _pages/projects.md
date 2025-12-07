@@ -462,7 +462,6 @@ In AY23/24 Sem I, CS6101 was topically oriented on **[Large Language Models](htt
           <li>Yisong Miao</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://uvents.nus.edu.sg/event/23rd-steps/module/CS6101/project/2" style="font-size:18px">Project Page</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2023/CS6101-02.png" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 1: Team 02 Poster-->       
@@ -492,7 +491,7 @@ In AY23/24 Sem I, CS6101 was topically oriented on **[Large Language Models](htt
           <li>Gan Kah Ee</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://uvents.nus.edu.sg/event/23rd-steps/module/CS6101/project/5" style="font-size:18px">Project Page</a>&nbsp;]
+        [&nbsp;<a href="https://sites.google.com/view/chain-of-action/home" style="font-size:18px">Project Page</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2023/CS6101-05.jpeg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 2: Team 05 Poster-->       
@@ -522,7 +521,7 @@ In AY23/24 Sem I, CS6101 was topically oriented on **[Large Language Models](htt
           <li>Alson Jiang</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://uvents.nus.edu.sg/event/23rd-steps/module/CS6101/project/6" style="font-size:18px">Project Page</a>&nbsp;]
+        [&nbsp;<a href="https://github.com/cs6101-t2310-rc5/gptScraper" style="font-size:18px">GitHub Repository</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2023/CS6101-06.png" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 3: Team 06 Poster-->       
@@ -549,7 +548,7 @@ In AY23/24 Sem I, CS6101 was topically oriented on **[Large Language Models](htt
           <li>Xinyuan LU</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="https://uvents.nus.edu.sg/event/23rd-steps/module/CS6101/project/9" style="font-size:18px">Project Page</a>&nbsp;]
+        [&nbsp;<a href="https://github.com/XinyuanLu00/CS6101-TableFV" style="font-size:18px">GitHub Repository</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2023/CS6101-09.png" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 4: Team 09 Poster-->       
@@ -567,9 +566,9 @@ In AY23/24 Sem I, CS6101 was topically oriented on **[Large Language Models](htt
           Team 14: Textualization of Visual Information
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">A simple attempt to textualize images via vision experts and evaluate on MMBench.<BR /></p>
+        <p style="font-size:18px">A simple attempt to textualize images via vision experts and evaluate on <a href="https://arxiv.org/abs/2307.06281">MMBench</a>.<BR /></p>
         <h2>✍️ Description </h2>
-        <p style="font-size:18px">Visual information (image labels, image captions, object labels, etc.) contains the humans' (or visual model's) understanding and analysis of key features in the image. We investigate the performance of LLMs in directly accomplishing visual perception/reasoning tasks by transforming visual information in images into text via vision experts. We follow LENS framework and evaluate on MMBench and provide some insights.<BR /></p>
+        <p style="font-size:18px">Visual information (image labels, image captions, object labels, etc.) contains the humans' (or visual model's) understanding and analysis of key features in the image. We investigate the performance of LLMs in directly accomplishing visual perception/reasoning tasks by transforming visual information in images into text via vision experts. We follow <a href="https://arxiv.org/abs/2306.16410">LENS</a> framework and evaluate on <a href="https://arxiv.org/abs/2307.06281">MMBench</a> and provide some insights.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
           <li>Xiao Xu</li>
