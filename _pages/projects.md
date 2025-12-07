@@ -15,95 +15,95 @@ header:
 
 ### Volume 2025 (Semester 2510 (AY 25/26, Sem I) featured at 27th STePS, held on 12 Nov 2025)
 
-**Project 01:** CompRAG: Retrieval for Multiple Hops  
+**[Project 01:](#project-2025-01)** CompRAG: Retrieval for Multiple Hops  
 *Indraneel Paranjape, Nayanthara Prathap, Nura Tamton, Vangmay Sachan*
 
-**Project 02:** Mixture-of-LoRA-Experts for Continual Learning in Generative Retrieval  
+**[Project 02:](#project-2025-02})** Mixture-of-LoRA-Experts for Continual Learning in Generative Retrieval  
 *Benjamin Chek, Choong Kai Zhe, Zak Tng*
 
-**Project 03:** SLM + RAG  
+**[Project 03:](#project-2025-03})** SLM + RAG  
 *Jonathan Chen, Shyamal Narang, JF Koh*
 
-**Project 04:** Cutting Redundant Knowledge for Effective RAG  
+**[Project 04:](#project-2025-04})** Cutting Redundant Knowledge for Effective RAG  
 *Mingyu Lee, Swislar Tan, Ervin Teo*
 
-**Project 05:** ScholarAI:Simplifying Interdisciplinary AI Research Using GraphRAG  
+**[Project 05:](#project-2025-05})** ScholarAI:Simplifying Interdisciplinary AI Research Using GraphRAG  
 *Rishav Ghosh, Zaidan Sani, Nicholas Cheng, Qianbo Dong*
 
-**Project 06:** MathRAG: Retrieval-Augmented Generation for Verifying Math Solutions.  
+**[Project 06:](#project-2025-06})** MathRAG: Retrieval-Augmented Generation for Verifying Math Solutions.  
 *Kseniia Petukhova, Van-Hoang Nguyen*
 
-**Project 07:** Fine-Grained Multimodal RAG: Enhancing Retrieval with Object-Level Representations  
+**[Project 07:](#project-2025-07})** Fine-Grained Multimodal RAG: Enhancing Retrieval with Object-Level Representations  
 *Manaswini Talagadadivi, Shen Ting Ang, Huang Chao Ming, Benjamin Goh, Estelle Sim*
 
-**Project 09:** Automatic Accelerator Code Generation via LLM Agentic Workflow  
+**[Project 09:](#project-2025-09})** Automatic Accelerator Code Generation via LLM Agentic Workflow  
 *Takanori Aoki*
 
-**Project 10:** When Retrieval Misleads: Exploring Vulnerabilities in RAG  
+**[Project 10:](#project-2025-10})** When Retrieval Misleads: Exploring Vulnerabilities in RAG  
 *Sahej Agarwal, Jundong Xu, Ruiwen Zhou, Sahajpreet Singh*
 
-**Project 11:** Contexts Ground Discourse  
+**[Project 11:](#project-2025-11})** Contexts Ground Discourse  
 *Yisong Miao*
 
-**Project 12:** Context-Aware RAG: Enhancing Retrieval with Contextual Information  
+**[Project 12:](#project-2025-12})** Context-Aware RAG: Enhancing Retrieval with Contextual Information  
 *Xinpeng Liu, Ng Xuan Hern, Oshan Jayawardena*
 
-**Project 13:** Improving Retrieval with Graph Pruning  
+**[Project 13:](#project-2025-13})** Improving Retrieval with Graph Pruning  
 *Aaron Toh, Frederick Amal Emerson, Hong Yi, Yong Ee*
 
-**Project 14:** A Unified Benchmark Suite for Retrieval-Augmented Speculative Decoding  
+**[Project 14:](#project-2025-14})** A Unified Benchmark Suite for Retrieval-Augmented Speculative Decoding  
 *Ada Ho, Tan Chien Hao, Lee Kwan Tze, Benn Tan*
 
-**Project 16:** Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation  
+**[Project 16:](#project-2025-16})** Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation  
 *Jiaying Wu, Zihang Fu, Haonan Wang, Fanxiao Li, Min-Yen Kan*
 
 ### Volume 2023 (Semester 2310 (AY 23/24, Sem I) featured at 23th STePS, held on 15 Nov 2023)
 
-**Project 02:** AugICL  
+**[Project 02:](#project-2023-02})** AugICL  
 *Xiachong Feng, Yisong Miao*
 
-**Project 05:** Chain of Action  
+**[Project 05:](#project-2023-05})** Chain of Action  
 *Nicholas Wong, Richmond Sin, Ellawela Suveen Thinusha Bandara, Low Keng Hoong (Warren), Gan Kah Ee*
 
-**Project 06:** Exploring self-supervised webscraper code generation with LLMs  
+**[Project 06:](#project-2023-06})** Exploring self-supervised webscraper code generation with LLMs  
 *Arnav Aggarwal, Filbert Phang Kong San, Soon Kang Le (Conrad), Wee Yen Zhe, Alson Jiang*
 
-**Project 09:** LLM for Table Fact-Checking & Reasoning  
+**[Project 09:](#project-2023-09})** LLM for Table Fact-Checking & Reasoning  
 *Naomi Leow, Xinyuan LU*
 
-**Project 14:** Textualization of Visual Information  
+**[Project 14:](#project-2023-14})** Textualization of Visual Information  
 *Xiao Xu*
 
 ### Volume 2021 (Semester 2020 (AY 20/21, Sem II) featured at 18th STePS, held on 14 Apr 2021)
 
-**Project 01:** Explore Multiple Response Modalities of DialogWAE  
+**[Project 01:](#project-2021-01})** Explore Multiple Response Modalities of DialogWAE  
 *Liu Ruofan, Liu Hongfu, Liu Yong*
 
-**Project 02:** FiBiNET  
+**[Project 02:](#project-2021-02})** FiBiNET  
 *Qiao Rui, Sng Weicong, Li Zihan*
 
-**Project 03:** Feedback-guided Preference Adaptation Network (FPAN)  
+**[Project 03:](#project-2021-03})** Feedback-guided Preference Adaptation Network (FPAN)  
 *Henry Kasim, Samuel Broughton*
 
-**Project 04:** Causal Estimation for Conversational Recommender Systems  
+**[Project 04:](#project-2021-04})** Causal Estimation for Conversational Recommender Systems  
 *Yisong Miao, Chenxin Wang*
 
-**Project 05:** Counterfactual Recommender  
+**[Project 05:](#project-2021-05})** Counterfactual Recommender  
 *Aadit Rahul Kamat, Takanori Aoki*
 
-**Project 06:** Diversifying Dialogue Generation with Non-Conversational Text  
+**[Project 06:](#project-2021-06})** Diversifying Dialogue Generation with Non-Conversational Text  
 *Yeo Qi Xun, Yuxi Xie, Tian Zhen*
 
-**Project 07:** Extending Neural Collaborative Filtering  
+**[Project 07:](#project-2021-07})** Extending Neural Collaborative Filtering  
 *Gabriel Loye, Clarence Ong, Nham Quoc Hung, Sashankh CK*
 
-**Project 08:** NN for Ad Recommendation  
+**[Project 08:](#project-2021-08})** NN for Ad Recommendation  
 *Muhammad Assyarul Ariffin Bin Omar, Lee Xiong An, Xu Pengtai*
 
-**Project 09:** Beyond IGMC  
+**[Project 09:](#project-2021-09})** Beyond IGMC  
 *Stephen Tan, Axel Lau Wei En, Joel Tan Wan Rong, Wendi Ren, Chan Guan Hao*
 
-**Project 10:** KGRecSys  
+**[Project 10:](#project-2021-10})** KGRecSys  
 *Evan Chong, Rabiul Awal*
 
 ---
@@ -124,7 +124,7 @@ Here we archive and cross link all of the past projects done by our first year P
   </thead>
   <tbody>
     <!-- ROW 1: Team 01-->
-    <tr id="row1">
+    <tr id="project-2025-01">
       <td width="70%">
         <h1>
           Team 01: CompRAG: Retrieval for Multiple Hops
@@ -153,7 +153,7 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
     </tr>
     <!-- ROW 2: Team 02-->
-    <tr id="row2">
+    <tr id="project-2025-02">
       <td width="70%">
         <h1>
           Team 02: Mixture-of-LoRA-Experts for Continual Learning in Generative Retrieval
@@ -181,7 +181,7 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
     </tr>
     <!-- ROW 3: Team 03-->
-    <tr id="row3">
+    <tr id="project-2025-03">
       <td width="70%">
         <h1>
           Team 03: SLM + RAG
@@ -209,7 +209,7 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
     </tr>
     <!-- ROW 4: Team 04-->
-    <tr id="row4">
+    <tr id="project-2025-04">
       <td width="70%">
         <h1>
           Team 04: Cutting Redundant Knowledge for Effective RAG
@@ -236,7 +236,7 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
     </tr>
     <!-- ROW 5: Team 05-->
-    <tr id="row5">
+    <tr id="project-2025-05">
       <td width="70%">
         <h1>
           Team 05: ScholarAI:Simplifying Interdisciplinary AI Research Using GraphRAG
@@ -277,7 +277,7 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
     </tr>
     <!-- ROW 6: Team 06-->
-    <tr id="row6">
+    <tr id="project-2025-06">
       <td width="70%">
         <h1>
           Team 06: MathRAG: Retrieval-Augmented Generation for Verifying Math Solutions.
@@ -306,7 +306,7 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
     </tr>
     <!-- ROW 7: Team 07-->
-    <tr id="row7">
+    <tr id="project-2025-07">
       <td width="70%">
         <h1>
           Team 07: Fine-Grained Multimodal RAG: Enhancing Retrieval with Object-Level Representations
@@ -335,7 +335,7 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
     </tr>
     <!-- ROW 8: Team 09-->
-    <tr id="row8">
+    <tr id="project-2025-09">
       <td width="70%">
         <h1>
           Team 09: Automatic Accelerator Code Generation via LLM Agentic Workflow
@@ -361,7 +361,7 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
     </tr>
     <!-- ROW 9: Team 10-->
-    <tr id="row9">
+    <tr id="project-2025-10">
       <td width="70%">
         <h1>
           Team 10: When Retrieval Misleads: Exploring Vulnerabilities in RAG
@@ -389,7 +389,7 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
     </tr>
     <!-- ROW 10: Team 11-->
-    <tr id="row10">
+    <tr id="project-2025-11">
       <td width="70%">
         <h1>
           Team 11: Contexts Ground Discourse
@@ -414,7 +414,7 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
     </tr>
     <!-- ROW 11: Team 12-->
-    <tr id="row11">
+    <tr id="project-2025-12">
       <td width="70%">
         <h1>
           Team 12: Context-Aware RAG: Enhancing Retrieval with Contextual Information
@@ -441,7 +441,7 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
     </tr>
     <!-- ROW 12: Team 13-->
-    <tr id="row12">
+    <tr id="project-2025-13">
       <td width="70%">
         <h1>
           Team 13: Improving Retrieval with Graph Pruning
@@ -469,7 +469,7 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
     </tr>
     <!-- ROW 13: Team 14-->
-    <tr id="row13">
+    <tr id="project-2025-14">
       <td width="70%">
         <h1>
           Team 14: A Unified Benchmark Suite for Retrieval-Augmented Speculative Decoding
@@ -497,7 +497,7 @@ Here we archive and cross link all of the past projects done by our first year P
       </td>
     </tr>
     <!-- ROW 14: Team 16-->
-    <tr id="row14">
+    <tr id="project-2025-16">
       <td width="70%">
         <h1>
           Team 16: Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation
@@ -544,7 +544,7 @@ In AY23/24 Sem I, CS6101 was topically oriented on **[Large Language Models](htt
   </thead>
   <tbody>
     <!-- ROW 1: Team 02-->
-    <tr id="row1">
+    <tr id="project-2023-02">
       <td width="70%">
         <h1>
           Team 02: AugICL
@@ -570,7 +570,7 @@ In AY23/24 Sem I, CS6101 was topically oriented on **[Large Language Models](htt
       </td>
     </tr>
     <!-- ROW 2: Team 05-->
-    <tr id="row2">
+    <tr id="project-2023-05">
       <td width="70%">
         <h1>
           Team 05: Chain of Action
@@ -600,7 +600,7 @@ In AY23/24 Sem I, CS6101 was topically oriented on **[Large Language Models](htt
       </td>
     </tr>
     <!-- ROW 3: Team 06-->
-    <tr id="row3">
+    <tr id="project-2023-06">
       <td width="70%">
         <h1>
           Team 06: Exploring self-supervised webscraper code generation with LLMs
@@ -630,7 +630,7 @@ In AY23/24 Sem I, CS6101 was topically oriented on **[Large Language Models](htt
       </td>
     </tr>
     <!-- ROW 4: Team 09-->
-    <tr id="row4">
+    <tr id="project-2023-09">
       <td width="70%">
         <h1>
           Team 09: LLM for Table Fact-Checking & Reasoning
@@ -657,7 +657,7 @@ In AY23/24 Sem I, CS6101 was topically oriented on **[Large Language Models](htt
       </td>
     </tr>
     <!-- ROW 5: Team 14-->
-    <tr id="row5">
+    <tr id="project-2023-14">
       <td width="70%">
         <h1>
           Team 14: Textualization of Visual Information
@@ -701,7 +701,7 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
   </thead>
   <tbody>
     <!-- ROW 1: Team 07-->
-    <tr id="row1">
+    <tr id="project-2021-07">
       <td width="70%">
         <h1>
           🏆 1st place, Team 07: Extending Neural Collaborative Filtering
@@ -728,7 +728,7 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
       </td>
     </tr>
  <!-- ROW 2: Team 04-->
-    <tr id="row2">
+    <tr id="project-2021-04">
       <td width="70%">
         <h1>
           🥈 2nd place, Team 04: Causal Estimation for Conversational Recommender Systems
@@ -754,7 +754,7 @@ In AY20/21 Sem II, CS6101 was topically oriented on **[Conversational Recommenda
       </td>
     </tr>
         <!-- ROW 3: Team 09-->
-    <tr id="row3">
+    <tr id="project-2021-09">
       <td width="70%">
         <h1>
          🥉 3rd place, Team 09: Beyond IGMC
@@ -786,7 +786,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
       </td>
     </tr>
     <!-- ROW 4: Team 01-->
-    <tr id="row4">
+    <tr id="project-2021-01">
       <td width="70%">
         <h1>
           Team 01: Explore Multiple Response Modalities of DialogWAE
@@ -815,7 +815,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
       </td>
     </tr>
     <!-- ROW 5: Team 02-->
-    <tr id="row5">
+    <tr id="project-2021-02">
       <td width="70%">
         <h1>
          Team 02: FiBiNET
@@ -840,7 +840,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
       </td>
     </tr>    
       <!-- ROW 6: Team 03-->
-    <tr id="row6">
+    <tr id="project-2021-03">
       <td width="70%">
         <h1>
          Team 03: Feedback-guided Preference Adaptation Network (FPAN)
@@ -864,7 +864,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
       </td>
     </tr>
     <!-- ROW 7: Team 05-->
-    <tr id="row7">
+    <tr id="project-2021-05">
       <td width="70%">
         <h1>
          Team 05: Counterfactual Recommender
@@ -888,7 +888,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
       </td>
     </tr>
      <!-- ROW 8: Team 06-->
-    <tr id="row8">
+    <tr id="project-2021-06">
       <td width="70%">
         <h1>
          Team 06: Diversifying Dialogue Generation with Non-Conversational Text
@@ -915,7 +915,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
       </td>
     </tr>
        <!-- ROW 9: Team 08-->
-    <tr id="row9">
+    <tr id="project-2021-08">
       <td width="70%">
         <h1>
          Team 08: NN for Ad Recommendation
@@ -940,7 +940,7 @@ We contribute 2 main extensions to the model, in particular: Graph-Normalisation
       </td>
     </tr>
        <!-- ROW 10: Team 10-->
-    <tr id="row10">
+    <tr id="project-2021-10">
       <td width="70%">
         <h1>
          Team 10: KGRecSys
