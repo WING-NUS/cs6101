@@ -11,6 +11,103 @@ header:
 #  caption: "Photo credit: Un @ [**Unsplash**](https://unsplash.com/@rgaleriacom)"
 ---
 
+## Table of Contents
+
+### Volume 2025 (Semester 2510 (AY 25/26, Sem I) featured at 27th STePS, held on 12 Nov 2025)
+
+**Project 01:** CompRAG: Retrieval for Multiple Hops  
+*Indraneel Paranjape, Nayanthara Prathap, Nura Tamton, Vangmay Sachan*
+
+**Project 02:** Mixture-of-LoRA-Experts for Continual Learning in Generative Retrieval  
+*Benjamin Chek, Choong Kai Zhe, Zak Tng*
+
+**Project 03:** SLM + RAG  
+*Jonathan Chen, Shyamal Narang, JF Koh*
+
+**Project 04:** Cutting Redundant Knowledge for Effective RAG  
+*Mingyu Lee, Swislar Tan, Ervin Teo*
+
+**Project 05:** ScholarAI:Simplifying Interdisciplinary AI Research Using GraphRAG  
+*Rishav Ghosh, Zaidan Sani, Nicholas Cheng, Qianbo Dong*
+
+**Project 06:** MathRAG: Retrieval-Augmented Generation for Verifying Math Solutions.  
+*Kseniia Petukhova, Van-Hoang Nguyen*
+
+**Project 07:** Fine-Grained Multimodal RAG: Enhancing Retrieval with Object-Level Representations  
+*Manaswini Talagadadivi, Shen Ting Ang, Huang Chao Ming, Benjamin Goh, Estelle Sim*
+
+**Project 09:** Automatic Accelerator Code Generation via LLM Agentic Workflow  
+*Takanori Aoki*
+
+**Project 10:** When Retrieval Misleads: Exploring Vulnerabilities in RAG  
+*Sahej Agarwal, Jundong Xu, Ruiwen Zhou, Sahajpreet Singh*
+
+**Project 11:** Contexts Ground Discourse  
+*Yisong Miao*
+
+**Project 12:** Context-Aware RAG: Enhancing Retrieval with Contextual Information  
+*Xinpeng Liu, Ng Xuan Hern, Oshan Jayawardena*
+
+**Project 13:** Improving Retrieval with Graph Pruning  
+*Aaron Toh, Frederick Amal Emerson, Hong Yi, Yong Ee*
+
+**Project 14:** A Unified Benchmark Suite for Retrieval-Augmented Speculative Decoding  
+*Ada Ho, Tan Chien Hao, Lee Kwan Tze, Benn Tan*
+
+**Project 16:** Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation  
+*Jiaying Wu, Zihang Fu, Haonan Wang, Fanxiao Li, Min-Yen Kan*
+
+### Volume 2023 (Semester 2310 (AY 23/24, Sem I) featured at 23th STePS, held on 15 Nov 2023)
+
+**Project 02:** AugICL  
+*Xiachong Feng, Yisong Miao*
+
+**Project 05:** Chain of Action  
+*Nicholas Wong, Richmond Sin, Ellawela Suveen Thinusha Bandara, Low Keng Hoong (Warren), Gan Kah Ee*
+
+**Project 06:** Exploring self-supervised webscraper code generation with LLMs  
+*Arnav Aggarwal, Filbert Phang Kong San, Soon Kang Le (Conrad), Wee Yen Zhe, Alson Jiang*
+
+**Project 09:** LLM for Table Fact-Checking & Reasoning  
+*Naomi Leow, Xinyuan LU*
+
+**Project 14:** Textualization of Visual Information  
+*Xiao Xu*
+
+### Volume 2021 (Semester 2020 (AY 20/21, Sem II) featured at 18th STePS, held on 14 Apr 2021)
+
+**Project 01:** Explore Multiple Response Modalities of DialogWAE  
+*Liu Ruofan, Liu Hongfu, Liu Yong*
+
+**Project 02:** FiBiNET  
+*Qiao Rui, Sng Weicong, Li Zihan*
+
+**Project 03:** Feedback-guided Preference Adaptation Network (FPAN)  
+*Henry Kasim, Samuel Broughton*
+
+**Project 04:** Causal Estimation for Conversational Recommender Systems  
+*Yisong Miao, Chenxin Wang*
+
+**Project 05:** Counterfactual Recommender  
+*Aadit Rahul Kamat, Takanori Aoki*
+
+**Project 06:** Diversifying Dialogue Generation with Non-Conversational Text  
+*Yeo Qi Xun, Yuxi Xie, Tian Zhen*
+
+**Project 07:** Extending Neural Collaborative Filtering  
+*Gabriel Loye, Clarence Ong, Nham Quoc Hung, Sashankh CK*
+
+**Project 08:** NN for Ad Recommendation  
+*Muhammad Assyarul Ariffin Bin Omar, Lee Xiong An, Xu Pengtai*
+
+**Project 09:** Beyond IGMC  
+*Stephen Tan, Axel Lau Wei En, Joel Tan Wan Rong, Wendi Ren, Chan Guan Hao*
+
+**Project 10:** KGRecSys  
+*Evan Chong, Rabiul Awal*
+
+---
+
 {% include base_path %}
 
 Here we archive and cross link all of the past projects done by our first year Ph.D. students, undergraduate and external guests that take part in our reading group.  Generally, when students and participants outside of WING join the reading group they must also complete a related project touching on some part of the lecture topics.  These projects often get presented publicly in the forum of our School of Computing's Term Project Showcase (STePS).
