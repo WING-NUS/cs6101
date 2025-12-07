@@ -19,95 +19,95 @@ Here we archive and cross link all of the past projects done by our first year P
 
 ### Volume 2025 (Semester 2510 (AY 25/26, Sem I) featured at 27th STePS, held on 12 Nov 2025)
 
-**Project 01:** CompRAG: Retrieval for Multiple Hops [Gallery](#project-2025-01) [Poster](/cs6101/files/STePS-2025/CS6101-01.pdf)  
+**Project 01:** CompRAG: Retrieval for Multiple Hops [ [Gallery](#project-2025-01) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-01.pdf) ]  
 *Indraneel Paranjape, Nayanthara Prathap, Nura Tamton, Vangmay Sachan*
 
-**Project 02:** Mixture-of-LoRA-Experts for Continual Learning in Generative Retrieval [Gallery](#project-2025-02) [Poster](/cs6101/files/STePS-2025/CS6101-02.pdf)  
+**Project 02:** Mixture-of-LoRA-Experts for Continual Learning in Generative Retrieval [ [Gallery](#project-2025-02) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-02.pdf) ]  
 *Benjamin Chek, Choong Kai Zhe, Zak Tng*
 
-**Project 03:** SLM + RAG [Gallery](#project-2025-03) [Poster](/cs6101/files/STePS-2025/CS6101-03.pdf)  
+**Project 03:** SLM + RAG [ [Gallery](#project-2025-03) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-03.pdf) ]  
 *Jonathan Chen, Shyamal Narang, JF Koh*
 
-**Project 04:** Cutting Redundant Knowledge for Effective RAG [Gallery](#project-2025-04) [Poster](/cs6101/files/STePS-2025/CS6101-04.pdf)  
+**Project 04:** Cutting Redundant Knowledge for Effective RAG [ [Gallery](#project-2025-04) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-04.pdf) ]  
 *Mingyu Lee, Swislar Tan, Ervin Teo*
 
-**Project 05:** ScholarAI:Simplifying Interdisciplinary AI Research Using GraphRAG [Gallery](#project-2025-05) [Poster](/cs6101/files/STePS-2025/CS6101-05.pdf)  
+**Project 05:** ScholarAI:Simplifying Interdisciplinary AI Research Using GraphRAG [ [Gallery](#project-2025-05) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-05.pdf) ]  
 *Rishav Ghosh, Zaidan Sani, Nicholas Cheng, Qianbo Dong*
 
-**Project 06:** MathRAG: Retrieval-Augmented Generation for Verifying Math Solutions. [Gallery](#project-2025-06) [Poster](/cs6101/files/STePS-2025/CS6101-06.pdf)  
+**Project 06:** MathRAG: Retrieval-Augmented Generation for Verifying Math Solutions. [ [Gallery](#project-2025-06) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-06.pdf) ]  
 *Kseniia Petukhova, Van-Hoang Nguyen*
 
-**Project 07:** Fine-Grained Multimodal RAG: Enhancing Retrieval with Object-Level Representations [Gallery](#project-2025-07) [Poster](/cs6101/files/STePS-2025/CS6101-07.pdf)  
+**Project 07:** Fine-Grained Multimodal RAG: Enhancing Retrieval with Object-Level Representations [ [Gallery](#project-2025-07) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-07.pdf) ]  
 *Manaswini Talagadadivi, Shen Ting Ang, Huang Chao Ming, Benjamin Goh, Estelle Sim*
 
-**Project 09:** Automatic Accelerator Code Generation via LLM Agentic Workflow [Gallery](#project-2025-09) [Poster](/cs6101/files/STePS-2025/CS6101-09.pdf)  
+**Project 09:** Automatic Accelerator Code Generation via LLM Agentic Workflow [ [Gallery](#project-2025-09) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-09.pdf) ]  
 *Takanori Aoki*
 
-**Project 10:** When Retrieval Misleads: Exploring Vulnerabilities in RAG [Gallery](#project-2025-10) [Poster](/cs6101/files/STePS-2025/CS6101-10.pdf)  
+**Project 10:** When Retrieval Misleads: Exploring Vulnerabilities in RAG [ [Gallery](#project-2025-10) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-10.pdf) ]  
 *Sahej Agarwal, Jundong Xu, Ruiwen Zhou, Sahajpreet Singh*
 
-**Project 11:** Contexts Ground Discourse [Gallery](#project-2025-11) [Poster](/cs6101/files/STePS-2025/CS6101-11.pdf)  
+**Project 11:** Contexts Ground Discourse [ [Gallery](#project-2025-11) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-11.pdf) ]  
 *Yisong Miao*
 
-**Project 12:** Context-Aware RAG: Enhancing Retrieval with Contextual Information [Gallery](#project-2025-12) [Poster](/cs6101/files/STePS-2025/CS6101-12.pdf)  
+**Project 12:** Context-Aware RAG: Enhancing Retrieval with Contextual Information [ [Gallery](#project-2025-12) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-12.pdf) ]  
 *Xinpeng Liu, Ng Xuan Hern, Oshan Jayawardena*
 
-**Project 13:** Improving Retrieval with Graph Pruning [Gallery](#project-2025-13) [Poster](/cs6101/files/STePS-2025/CS6101-13.pdf)  
+**Project 13:** Improving Retrieval with Graph Pruning [ [Gallery](#project-2025-13) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-13.pdf) ]  
 *Aaron Toh, Frederick Amal Emerson, Hong Yi, Yong Ee*
 
-**Project 14:** A Unified Benchmark Suite for Retrieval-Augmented Speculative Decoding [Gallery](#project-2025-14) [Poster](/cs6101/files/STePS-2025/CS6101-14.pdf)  
+**Project 14:** A Unified Benchmark Suite for Retrieval-Augmented Speculative Decoding [ [Gallery](#project-2025-14) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-14.pdf) ]  
 *Ada Ho, Tan Chien Hao, Lee Kwan Tze, Benn Tan*
 
-**Project 16:** Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation [Gallery](#project-2025-16) [Poster](/cs6101/files/STePS-2025/CS6101-16.pdf)  
+**Project 16:** Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation [ [Gallery](#project-2025-16) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-16.pdf) ]  
 *Jiaying Wu, Zihang Fu, Haonan Wang, Fanxiao Li, Min-Yen Kan*
 
 ### Volume 2023 (Semester 2310 (AY 23/24, Sem I) featured at 23th STePS, held on 15 Nov 2023)
 
-**Project 02:** AugICL [Gallery](#project-2023-02) [Poster](/cs6101/files/STePS-2023/CS6101-02.png)  
+**Project 02:** AugICL [ [Gallery](#project-2023-02) ] [ [Poster](/cs6101/files/STePS-2023/CS6101-02.png) ]  
 *Xiachong Feng, Yisong Miao*
 
-**Project 05:** Chain of Action [Gallery](#project-2023-05) [Poster](/cs6101/files/STePS-2023/CS6101-05.jpeg)  
+**Project 05:** Chain of Action [ [Gallery](#project-2023-05) ] [ [Poster](/cs6101/files/STePS-2023/CS6101-05.jpeg) ]  
 *Nicholas Wong, Richmond Sin, Ellawela Suveen Thinusha Bandara, Low Keng Hoong (Warren), Gan Kah Ee*
 
-**Project 06:** Exploring self-supervised webscraper code generation with LLMs [Gallery](#project-2023-06) [Poster](/cs6101/files/STePS-2023/CS6101-06.png)  
+**Project 06:** Exploring self-supervised webscraper code generation with LLMs [ [Gallery](#project-2023-06) ] [ [Poster](/cs6101/files/STePS-2023/CS6101-06.png) ]  
 *Arnav Aggarwal, Filbert Phang Kong San, Soon Kang Le (Conrad), Wee Yen Zhe, Alson Jiang*
 
-**Project 09:** LLM for Table Fact-Checking & Reasoning [Gallery](#project-2023-09) [Poster](/cs6101/files/STePS-2023/CS6101-09.png)  
+**Project 09:** LLM for Table Fact-Checking & Reasoning [ [Gallery](#project-2023-09) ] [ [Poster](/cs6101/files/STePS-2023/CS6101-09.png) ]  
 *Naomi Leow, Xinyuan LU*
 
-**Project 14:** Textualization of Visual Information [Gallery](#project-2023-14) [Poster](/cs6101/files/STePS-2023/CS6101-14.png)  
+**Project 14:** Textualization of Visual Information [ [Gallery](#project-2023-14) ] [ [Poster](/cs6101/files/STePS-2023/CS6101-14.png) ]  
 *Xiao Xu*
 
 ### Volume 2021 (Semester 2020 (AY 20/21, Sem II) featured at 18th STePS, held on 14 Apr 2021)
 
-**Project 01:** Explore Multiple Response Modalities of DialogWAE [Gallery](#project-2021-01) [Poster](https://postimg.cc/sQN3hscm)  
+**Project 01:** Explore Multiple Response Modalities of DialogWAE [ [Gallery](#project-2021-01) ] [ [Poster](https://postimg.cc/sQN3hscm) ]  
 *Liu Ruofan, Liu Hongfu, Liu Yong*
 
-**Project 02:** FiBiNET [Gallery](#project-2021-02) [Poster](https://raw.githubusercontent.com/lizihan97/FiBiNET/main/FiBiNET.png)  
+**Project 02:** FiBiNET [ [Gallery](#project-2021-02) ] [ [Poster](https://raw.githubusercontent.com/lizihan97/FiBiNET/main/FiBiNET.png) ]  
 *Qiao Rui, Sng Weicong, Li Zihan*
 
-**Project 03:** Feedback-guided Preference Adaptation Network (FPAN) [Gallery](#project-2021-03) [Poster](https://drive.google.com/file/d/1SoAqjjmq48rMtvpQvCt-Wne5dXmiXOkA/view)  
+**Project 03:** Feedback-guided Preference Adaptation Network (FPAN) [ [Gallery](#project-2021-03) ] [ [Poster](https://drive.google.com/file/d/1SoAqjjmq48rMtvpQvCt-Wne5dXmiXOkA/view) ]  
 *Henry Kasim, Samuel Broughton*
 
-**Project 04:** Causal Estimation for Conversational Recommender Systems [Gallery](#project-2021-04) [Poster](https://yisong.me/publications/CausalEst-Poster.jpeg)  
+**Project 04:** Causal Estimation for Conversational Recommender Systems [ [Gallery](#project-2021-04) ] [ [Poster](https://yisong.me/publications/CausalEst-Poster.jpeg) ]  
 *Yisong Miao, Chenxin Wang*
 
-**Project 05:** Counterfactual Recommender [Gallery](#project-2021-05) [Poster](https://drive.google.com/file/d/1nZ40KXyccOxUJRD53c0m2VcWtBiVWkBb/view)  
+**Project 05:** Counterfactual Recommender [ [Gallery](#project-2021-05) ] [ [Poster](https://drive.google.com/file/d/1nZ40KXyccOxUJRD53c0m2VcWtBiVWkBb/view) ]  
 *Aadit Rahul Kamat, Takanori Aoki*
 
-**Project 06:** Diversifying Dialogue Generation with Non-Conversational Text [Gallery](#project-2021-06) [Poster](https://i.imgur.com/J3tzCR5.png)  
+**Project 06:** Diversifying Dialogue Generation with Non-Conversational Text [ [Gallery](#project-2021-06) ] [ [Poster](https://i.imgur.com/J3tzCR5.png) ]  
 *Yeo Qi Xun, Yuxi Xie, Tian Zhen*
 
-**Project 07:** Extending Neural Collaborative Filtering [Gallery](#project-2021-07) [Poster](https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png)  
+**Project 07:** Extending Neural Collaborative Filtering [ [Gallery](#project-2021-07) ] [ [Poster](https://raw.githubusercontent.com/gabrielloye/neural_collaborative_filtering/master/assets/CS6101_Neural_Collaborative_Filtering_Poster.png) ]  
 *Gabriel Loye, Clarence Ong, Nham Quoc Hung, Sashankh CK*
 
-**Project 08:** NN for Ad Recommendation [Gallery](#project-2021-08) [Poster](https://i.ibb.co/vVzJdLq/WING-Poster-STe-PS-2021-6101-08.jpg)  
+**Project 08:** NN for Ad Recommendation [ [Gallery](#project-2021-08) ] [ [Poster](https://i.ibb.co/vVzJdLq/WING-Poster-STe-PS-2021-6101-08.jpg) ]  
 *Muhammad Assyarul Ariffin Bin Omar, Lee Xiong An, Xu Pengtai*
 
-**Project 09:** Beyond IGMC [Gallery](#project-2021-09) [Poster](https://drive.google.com/file/d/1Hso_rqGMXnJsRt1V9QmLUUGgbO6OcvZI/view)  
+**Project 09:** Beyond IGMC [ [Gallery](#project-2021-09) ] [ [Poster](https://drive.google.com/file/d/1Hso_rqGMXnJsRt1V9QmLUUGgbO6OcvZI/view) ]  
 *Stephen Tan, Axel Lau Wei En, Joel Tan Wan Rong, Wendi Ren, Chan Guan Hao*
 
-**Project 10:** KGRecSys [Gallery](#project-2021-10) [Poster](https://raw.githubusercontent.com/evantkchong/cs6101_kgrecsys/main/docs/KGRecSys_poster_STePS_2021.png)  
+**Project 10:** KGRecSys [ [Gallery](#project-2021-10) ] [ [Poster](https://raw.githubusercontent.com/evantkchong/cs6101_kgrecsys/main/docs/KGRecSys_poster_STePS_2021.png) ]  
 *Evan Chong, Rabiul Awal*
 
 
