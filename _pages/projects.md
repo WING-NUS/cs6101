@@ -19,46 +19,46 @@ Here we archive and cross link all of the past projects done by our first year P
 
 ### Volume 2025 (Semester 2510 (AY 25/26, Sem I) featured at 27th STePS, held on 12 Nov 2025)
 
-**Project 01:** CompRAG: Retrieval for Multiple Hops [ [Gallery](#project-2025-01) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-01.pdf) ]  
+**Project 01:** CompRAG: Retrieval for Multiple Hops [ [Gallery](#project-2025-01) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-01.jpg) ]  
 *Indraneel Paranjape, Nayanthara Prathap, Nura Tamton, Vangmay Sachan*
 
-**Project 02:** Mixture-of-LoRA-Experts for Continual Learning in Generative Retrieval [ [Gallery](#project-2025-02) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-02.pdf) ]  
+**Project 02:** Mixture-of-LoRA-Experts for Continual Learning in Generative Retrieval [ [Gallery](#project-2025-02) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-02.jpg) ]  
 *Benjamin Chek, Choong Kai Zhe, Zak Tng*
 
-**Project 03:** SLM + RAG [ [Gallery](#project-2025-03) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-03.pdf) ]  
+**Project 03:** SLM + RAG [ [Gallery](#project-2025-03) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-03.jpg) ]  
 *Jonathan Chen, Shyamal Narang, JF Koh*
 
-**Project 04:** Cutting Redundant Knowledge for Effective RAG [ [Gallery](#project-2025-04) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-04.pdf) ]  
+**Project 04:** Cutting Redundant Knowledge for Effective RAG [ [Gallery](#project-2025-04) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-04.jpg) ]  
 *Mingyu Lee, Swislar Tan, Ervin Teo*
 
-**Project 05:** ScholarAI:Simplifying Interdisciplinary AI Research Using GraphRAG [ [Gallery](#project-2025-05) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-05.pdf) ]  
+**Project 05:** ScholarAI:Simplifying Interdisciplinary AI Research Using GraphRAG [ [Gallery](#project-2025-05) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-05.jpg) ]  
 *Rishav Ghosh, Zaidan Sani, Nicholas Cheng, Qianbo Dong*
 
-**Project 06:** MathRAG: Retrieval-Augmented Generation for Verifying Math Solutions. [ [Gallery](#project-2025-06) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-06.pdf) ]  
+**Project 06:** MathRAG: Retrieval-Augmented Generation for Verifying Math Solutions. [ [Gallery](#project-2025-06) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-06.jpg) ]  
 *Kseniia Petukhova, Van-Hoang Nguyen*
 
-**Project 07:** Fine-Grained Multimodal RAG: Enhancing Retrieval with Object-Level Representations [ [Gallery](#project-2025-07) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-07.pdf) ]  
+**Project 07:** Fine-Grained Multimodal RAG: Enhancing Retrieval with Object-Level Representations [ [Gallery](#project-2025-07) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-07.jpg) ]  
 *Manaswini Talagadadivi, Shen Ting Ang, Huang Chao Ming, Benjamin Goh, Estelle Sim*
 
-**Project 09:** Automatic Accelerator Code Generation via LLM Agentic Workflow [ [Gallery](#project-2025-09) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-09.pdf) ]  
+**Project 09:** Automatic Accelerator Code Generation via LLM Agentic Workflow [ [Gallery](#project-2025-09) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-09.jpg) ]  
 *Takanori Aoki*
 
-**Project 10:** When Retrieval Misleads: Exploring Vulnerabilities in RAG [ [Gallery](#project-2025-10) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-10.pdf) ]  
+**Project 10:** When Retrieval Misleads: Exploring Vulnerabilities in RAG [ [Gallery](#project-2025-10) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-10.jpg) ]  
 *Sahej Agarwal, Jundong Xu, Ruiwen Zhou, Sahajpreet Singh*
 
-**Project 11:** Contexts Ground Discourse [ [Gallery](#project-2025-11) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-11.pdf) ]  
+**Project 11:** Contexts Ground Discourse [ [Gallery](#project-2025-11) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-11.jpg) ]  
 *Yisong Miao*
 
-**Project 12:** Context-Aware RAG: Enhancing Retrieval with Contextual Information [ [Gallery](#project-2025-12) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-12.pdf) ]  
+**Project 12:** Context-Aware RAG: Enhancing Retrieval with Contextual Information [ [Gallery](#project-2025-12) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-12.jpg) ]  
 *Xinpeng Liu, Ng Xuan Hern, Oshan Jayawardena*
 
-**Project 13:** Improving Retrieval with Graph Pruning [ [Gallery](#project-2025-13) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-13.pdf) ]  
+**Project 13:** Improving Retrieval with Graph Pruning [ [Gallery](#project-2025-13) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-13.jpg) ]  
 *Aaron Toh, Frederick Amal Emerson, Hong Yi, Yong Ee*
 
-**Project 14:** A Unified Benchmark Suite for Retrieval-Augmented Speculative Decoding [ [Gallery](#project-2025-14) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-14.pdf) ]  
+**Project 14:** A Unified Benchmark Suite for Retrieval-Augmented Speculative Decoding [ [Gallery](#project-2025-14) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-14.jpg) ]  
 *Ada Ho, Tan Chien Hao, Lee Kwan Tze, Benn Tan*
 
-**Project 16:** Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation [ [Gallery](#project-2025-16) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-16.pdf) ]  
+**Project 16:** Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation [ [Gallery](#project-2025-16) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-16.jpg) ]  
 *Jiaying Wu, Zihang Fu, Haonan Wang, Fanxiao Li, Min-Yen Kan*
 
 ### Volume 2023 (Semester 2310 (AY 23/24, Sem I) featured at 23th STePS, held on 15 Nov 2023)
@@ -142,11 +142,11 @@ Here we archive and cross link all of the past projects done by our first year P
         </ul>
         <h2>📻 Media Links</h2>
         [&nbsp;<a href="https://github.com/indraneelrp/CompRAG" style="font-size:18px">GitHub Repository</a>&nbsp;]
-        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-01.pdf" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-01.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 1: Team 07 Poster-->       
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-01.pdf" target="_blank">
+        <a href="/cs6101/files/STePS-2025/CS6101-01.jpg" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-01.jpg" alt="Team 01 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
         </a>
         <p align="center">Click the image to open PDF in a new window</p>
@@ -170,11 +170,11 @@ Here we archive and cross link all of the past projects done by our first year P
         </ul>
         <h2>📻 Media Links</h2>
         [&nbsp;<a href="https://github.com/exxakt/MoLE-for-GR/tree/main" style="font-size:18px">GitHub Repository</a>&nbsp;]
-        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-02.pdf" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-02.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 2: Team 02 Poster-->       
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-02.pdf" target="_blank">
+        <a href="/cs6101/files/STePS-2025/CS6101-02.jpg" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-02.jpg" alt="Team 02 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
         </a>
         <p align="center">Click the image to open PDF in a new window</p>
@@ -198,11 +198,11 @@ Here we archive and cross link all of the past projects done by our first year P
         </ul>
         <h2>📻 Media Links</h2>
         [&nbsp;<a href="https://github.com/jfkoh/nus_wing_rag_team3" style="font-size:18px">GitHub Repository</a>&nbsp;]
-        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-03.pdf" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-03.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 3: Team 03 Poster-->       
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-03.pdf" target="_blank">
+        <a href="/cs6101/files/STePS-2025/CS6101-03.jpg" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-03.jpg" alt="Team 03 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
         </a>
         <p align="center">Click the image to open PDF in a new window</p>
@@ -225,11 +225,11 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Ervin Teo [&nbsp;<a href="https://www.linkedin.com/in/ervinteo/">LinkedIn</a>&nbsp;]</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-04.pdf" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-04.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 4: Team 04 Poster-->       
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-04.pdf" target="_blank">
+        <a href="/cs6101/files/STePS-2025/CS6101-04.jpg" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-04.jpg" alt="Team 04 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
         </a>
         <p align="center">Click the image to open PDF in a new window</p>
@@ -266,11 +266,11 @@ Here we archive and cross link all of the past projects done by our first year P
             style="font-size: 18px"
             >GitHub Repository</a
         >&nbsp;]
-        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-05.pdf" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-05.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 5: Team 05 Poster-->       
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-05.pdf" target="_blank">
+        <a href="/cs6101/files/STePS-2025/CS6101-05.jpg" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-05.jpg" alt="Team 05 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
         </a>
         <p align="center">Click the image to open PDF in a new window</p>
@@ -295,11 +295,11 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Van-Hoang Nguyen [&nbsp;<a href="https://www.linkedin.com/in/nguyenvanhoang7398/">LinkedIn</a>&nbsp;]</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-06.pdf" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-06.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 6: Team 06 Poster-->       
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-06.pdf" target="_blank">
+        <a href="/cs6101/files/STePS-2025/CS6101-06.jpg" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-06.jpg" alt="Team 06 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
         </a>
         <p align="center">Click the image to open PDF in a new window</p>
@@ -324,11 +324,11 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Estelle Sim</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-07.pdf" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-07.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 7: Team 07 Poster-->       
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-07.pdf" target="_blank">
+        <a href="/cs6101/files/STePS-2025/CS6101-07.jpg" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-07.jpg" alt="Team 07 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
         </a>
         <p align="center">Click the image to open PDF in a new window</p>
@@ -350,11 +350,11 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Takanori Aoki [&nbsp;<a href="https://www.linkedin.com/in/takanori-aoki-7900a438/">LinkedIn</a>&nbsp;]</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-09.pdf" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-09.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 8: Team 09 Poster-->       
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-09.pdf" target="_blank">
+        <a href="/cs6101/files/STePS-2025/CS6101-09.jpg" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-09.jpg" alt="Team 09 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
         </a>
         <p align="center">Click the image to open PDF in a new window</p>
@@ -378,11 +378,11 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Sahajpreet Singh</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-10.pdf" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-10.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 9: Team 10 Poster-->       
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-10.pdf" target="_blank">
+        <a href="/cs6101/files/STePS-2025/CS6101-10.jpg" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-10.jpg" alt="Team 10 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
         </a>
         <p align="center">Click the image to open PDF in a new window</p>
@@ -403,11 +403,11 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Yisong Miao</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-11.pdf" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-11.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 10: Team 11 Poster-->       
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-11.pdf" target="_blank">
+        <a href="/cs6101/files/STePS-2025/CS6101-11.jpg" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-11.jpg" alt="Team 11 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
         </a>
         <p align="center">Click the image to open PDF in a new window</p>
@@ -430,11 +430,11 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Oshan Jayawardena</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-12.pdf" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-12.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 11: Team 12 Poster-->       
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-12.pdf" target="_blank">
+        <a href="/cs6101/files/STePS-2025/CS6101-12.jpg" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-12.jpg" alt="Team 12 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
         </a>
         <p align="center">Click the image to open PDF in a new window</p>
@@ -458,11 +458,11 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Yong Ee</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-13.pdf" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-13.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 12: Team 13 Poster-->       
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-13.pdf" target="_blank">
+        <a href="/cs6101/files/STePS-2025/CS6101-13.jpg" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-13.jpg" alt="Team 13 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
         </a>
         <p align="center">Click the image to open PDF in a new window</p>
@@ -486,11 +486,11 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Benn Tan</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-14.pdf" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-14.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 13: Team 14 Poster-->
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-14.pdf" target="_blank">
+        <a href="/cs6101/files/STePS-2025/CS6101-14.jpg" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-14.jpg" alt="Team 14 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
         </a>
         <p align="center">Click the image to open PDF in a new window</p>
@@ -515,11 +515,11 @@ Here we archive and cross link all of the past projects done by our first year P
           <li>Min-Yen Kan</li>
         </ul>
         <h2>📻 Media Links</h2>
-        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-16.pdf" style="font-size:18px">Poster</a>&nbsp;]
+        [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-16.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 14: Team 16 Poster-->       
       <td width="30%">
-        <a href="/cs6101/files/STePS-2025/CS6101-16.pdf" target="_blank">
+        <a href="/cs6101/files/STePS-2025/CS6101-16.jpg" target="_blank">
           <img src="/cs6101/files/STePS-2025/CS6101-16.jpg" alt="Team 16 Poster" style="width: 100%; height: auto; border: 1px solid #ccc;" />
         </a>
         <p align="center">Click the image to open PDF in a new window</p>
