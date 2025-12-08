@@ -61,6 +61,8 @@ Here we archive and cross link all of the past projects done by our first year P
 **Project 16:** Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation [ [Gallery](#project-2025-16) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-16.jpg) ]  
 *Jiaying Wu, Zihang Fu, Haonan Wang, Fanxiao Li, Min-Yen Kan*
 
+---
+
 ### Volume 2023 (Semester 2310 (AY 23/24, Sem I) featured at 23th STePS, held on 15 Nov 2023)
 
 **Project 02:** AugICL [ [Gallery](#project-2023-02) ] [ [Poster](/cs6101/files/STePS-2023/CS6101-02.png) ]  
@@ -77,6 +79,9 @@ Here we archive and cross link all of the past projects done by our first year P
 
 **Project 14:** Textualization of Visual Information [ [Gallery](#project-2023-14) ] [ [Poster](/cs6101/files/STePS-2023/CS6101-14.png) ]  
 *Xiao Xu*
+
+---
+
 
 ### Volume 2021 (Semester 2020 (AY 20/21, Sem II) featured at 18th STePS, held on 14 Apr 2021)
 
@@ -312,18 +317,19 @@ Here we archive and cross link all of the past projects done by our first year P
           Team 07: Fine-Grained Multimodal RAG: Enhancing Retrieval with Object-Level Representations
         </h1>
         <h2>📖 Abstract </h2>
-        <p style="font-size:18px">TODO<BR /></p>
+        <p style="font-size:18px">This project developed a Fine-Grained Multimodal RAG pipeline that integrates DETR object detection to enhance visual reasoning on the MRAG-Bench through structured text prompts and bounding-box overlays.<BR /></p>
         <h2>✍️ Description </h2>
         <p style="font-size:18px">Large Vision-Language Models (LVLMs) struggle to effectively utilize retrieved visual knowledge for complex reasoning tasks, particularly those involving changes in perspective, scope, or occlusion, as demonstrated by the MRAG-Bench. Our llava-onevision-7b baseline model achieved a strong initial accuracy of 58.2%. We introduce an Object Detection Enhancement to the MRAG-Bench evaluation pipeline to push performance beyond the existing baseline by providing explicit visual grounding. This utilizes the DETR (DEtection TRansformer) model to analyze images and convert visual content (objects, counts, and spatial layout) into structured text descriptions. This structured analysis is used to create an Enhanced Prompt that guides the LLaVA model's reasoning.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
           <li>Manaswini Talagadadivi</li>
-          <li>Shen Ting Ang</li>
-          <li>Huang Chao Ming</li>
-          <li>Benjamin Goh</li>
-          <li>Estelle Sim</li>
+          <li>Shen Ting Ang [&nbsp;<a href="https://linktr.ee/shenting">Linktree</a>&nbsp;]</li>
+          <li>Huang Chao Ming, NUS Postgraduate Student [&nbsp;<a href="https://www.linkedin.com/in/chao-ming-huang/">LinkedIn</a>&nbsp;]</li>
+          <li>Benjamin Goh, NUS SoC Undergraduate [&nbsp;<a href="https://www.linkedin.com/in/benjamin-goh-45a0a7307">LinkedIn</a>&nbsp;]</li>
+          <li>Estelle Sim, NUS SoC Undergraduate [&nbsp;<a href="http://www.linkedin.com/in/estelle-sim-862763385">LinkedIn</a>&nbsp;]</li>
         </ul>
         <h2>📻 Media Links</h2>
+        [&nbsp;<a href="https://github.com/mmrag-cs6101/mmrag-cs6101" style="font-size:18px">GitHub Repository</a>&nbsp;]
         [&nbsp;<a href="/cs6101/files/STePS-2025/CS6101-07.jpg" style="font-size:18px">Poster</a>&nbsp;]
       </td>
  <!-- ROW 7: Team 07 Poster-->       
