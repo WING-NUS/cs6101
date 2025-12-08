@@ -17,7 +17,9 @@ Here we archive and cross link all of the past projects done by our first year P
 
 ## Table of Contents
 
-### Volume 2025 (Semester 2510 (AY 25/26, Sem I) featured at 27th STePS, held on 12 Nov 2025)
+---
+
+### Volume 2025 (Semester 2510 (AY 25/26, Sem I) featured at [27th STePS](https://uvents.nus.edu.sg/event/27th-steps), held on 12 Nov 2025)
 
 **Project 01:** CompRAG: Retrieval for Multiple Hops [ [Gallery](#project-2025-01) ] [ [Poster](/cs6101/files/STePS-2025/CS6101-01.jpg) ]  
 *Indraneel Paranjape, Nayanthara Prathap, Nura Tamton, Vangmay Sachan*
@@ -63,7 +65,7 @@ Here we archive and cross link all of the past projects done by our first year P
 
 ---
 
-### Volume 2023 (Semester 2310 (AY 23/24, Sem I) featured at 23th STePS, held on 15 Nov 2023)
+### Volume 2023 (Semester 2310 (AY 23/24, Sem I) featured at [23th STePS](https://uvents.nus.edu.sg/event/23rd-steps), held on 15 Nov 2023)
 
 **Project 02:** AugICL [ [Gallery](#project-2023-02) ] [ [Poster](/cs6101/files/STePS-2023/CS6101-02.png) ]  
 *Xiachong Feng, Yisong Miao*
@@ -83,7 +85,7 @@ Here we archive and cross link all of the past projects done by our first year P
 ---
 
 
-### Volume 2021 (Semester 2020 (AY 20/21, Sem II) featured at 18th STePS, held on 14 Apr 2021)
+### Volume 2021 (Semester 2020 (AY 20/21, Sem II) featured at [18th STePS](https://uvents.nus.edu.sg/event/18th-steps), held on 14 Apr 2021)
 
 **Project 01:** Explore Multiple Response Modalities of DialogWAE [ [Gallery](#project-2021-01) ] [ [Poster](https://postimg.cc/sQN3hscm) ]  
 *Liu Ruofan, Liu Hongfu, Liu Yong*
